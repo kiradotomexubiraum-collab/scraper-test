@@ -1,61 +1,43 @@
-let data = []
+let products = [];
 
-fetch("./products.json")
-.then(response => response.json())
-.then(json => {
-    data = json
-})
-.catch(err => console.error("Error loading products:", err))
+fetch("products.json")
+  .then(res => res.json())
+  .then(data => {
+    products = data;
 
+    // convert price to number just in case
+    products.forEach(p => {
+      p.price = parseFloat(p.price);
+    });
 
-function parsePrice(price){
-
-    if(typeof price === "number") return price
-
-    return Number(
-        price
-        .replace("R$", "")
-        .replace(",", ".")
-        .trim()
-    )
-}
+    console.log("Products loaded:", products);
+  });
 
 
-function searchProduct(){
+function searchProduct() {
 
-    const query = document
-        .getElementById("search")
-        .value
-        .toLowerCase()
+  const query = document.getElementById("search").value.toLowerCase();
 
-    const table = document.getElementById("results")
+  const results = document.getElementById("results");
 
-    table.innerHTML = ""
+  results.innerHTML = "";
 
-    if(!query) return
+  const filtered = products.filter(p =>
+    p.name.toLowerCase().includes(query)
+  );
 
-
-    const results = data
-        .filter(p => p.name.toLowerCase().includes(query))
-        .sort((a,b) => parsePrice(a.price) - parsePrice(b.price))
+  filtered.sort((a,b)=>a.price-b.price);
 
 
-    results.forEach((p,index) => {
+  filtered.forEach(p => {
 
-        const row = document.createElement("tr")
+    const li = document.createElement("li");
 
-        if(index === 0){
-            row.style.background = "#d4ffd4"
-        }
+    li.textContent =
+      `${p.name} — R$ ${p.price.toFixed(2)} (${p.store})`;
 
-        row.innerHTML = `
-        <td>${p.name}</td>
-        <td>R$ ${p.price.toFixed(2)}</td>
-        <td>${p.store}</td>
-        `
+    results.appendChild(li);
 
-        table.appendChild(row)
-
-    })
+  });
 
 }
