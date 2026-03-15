@@ -151,7 +151,7 @@
   },
   {
     "store": "Muffatao",
-    "name": "Ver todos",
+    "name": "Frutas, Legumes e Verduras",
     "price": 4.99
   },
   {
@@ -208,5 +208,125 @@
     "store": "Muffatao",
     "name": "Beterraba",
     "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cuidados com o Lar",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Lava-Louças Líquido Neutro Ypê Squeeze 500ml",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Lava-Louças Líquido Clear Ypê Squeeze 500ml",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Desinfetante Uau 2 Litros Antibac Flores e Frescor",
+    "price": 2.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Detergente Líquido Neutro Limpol Squeeze 500ml",
+    "price": 2.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Detergente Líquido Coco Limpol Squeeze 500ml",
+    "price": 4.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Esponja Multiuso Brilhus Leve 4 Pague 3 Unidades",
+    "price": 2.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Detergente Líquido Cristal Limpol Squeeze 500ml",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Naftalina Galitos Cardigos 20G",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Limpador Multiuso Tradicional Qboa Squeeze 500ml",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Esponja Limpeza Pesada Scotch-Brite Leve 4 Pague 3 Unidades",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Aromatizante Coala Chá Branco 120Ml",
+    "price": 2.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bazar e Utilidades",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Toalha de Papel Folha Dupla Snob Clássica Pacote 2 Unidades com 60 Folhas Cada",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Papel Toalha Maxim Decor 1 Rolo 200Und",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Saco Lixo Bio Econ 30l 30un",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Guardanapo de Papel Folha Simples Sorella 30cm x 30,5cm Pacote 50 Unidades",
+    "price": 5.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Guardanapo de Papel Folha Simples Snob 33cm x 30cm Pacote 50 Unidades",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Fósforo de Segurança Fiat Lux Pinheiro Caixa Papel 10 Unidades",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Embalagem Super Freezer 20X29Cm 100X1 2L",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Lâmpada OUROLUX Superled 15W Bivolt",
+    "price": 5.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Copo Bar Vidro Nadir 340ml",
+    "price": 6.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Papel Alumínio SUPER ALUMÍNIO Pequeno 30CMX7,5CM",
+    "price": 2.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Prendedores Cristal Madeira C 12",
+    "price": 9.9
   }
 ]
