@@ -1,28 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Scraped Data</title>
+<title>Price Tracker</title>
 </head>
 
 <body>
 
-<h1>Latest Titles</h1>
-<ul id="list"></ul>
+<h1>Supermarket Price Tracker</h1>
+
+<ul id="products"></ul>
 
 <script>
-fetch("data.json")
+
+fetch("products.json")
 .then(res => res.json())
 .then(data => {
 
-    const list = document.getElementById("list");
+    const list = document.getElementById("products")
 
-    data.titles.forEach(title => {
-        const li = document.createElement("li");
-        li.textContent = title;
-        list.appendChild(li);
-    });
+    data.forEach(product => {
 
-});
+        const li = document.createElement("li")
+
+        li.textContent = product.name + " — " + product.price
+
+        list.appendChild(li)
+
+    })
+
+})
+
 </script>
 
 </body>
