@@ -11,37 +11,37 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Hot Cracker Parati 100g Requeijão",
     "price": 14.9
   },
   {
     "store": "Irani",
-    "name": "100gr",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "100gr",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "100gr",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Hot Cracker Parati 100g Pizza",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.9
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 41.98
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 19.99
   },
   {
@@ -97,57 +97,57 @@
   {
     "store": "Irani",
     "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
     "price": 6.79
   },
   {
     "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 15.99
+    "name": "750ml",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 8.98
+    "name": "750ml",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "Lasanha Bolonhesa Copacol 600g",
-    "price": 15.99
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Mortadela Copacol 380g Sem Toucinho",
+    "price": 51.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 51.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Glycolic Gloss",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
+    "price": 29.9
   },
   {
     "store": "Muffatao",
