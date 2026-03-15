@@ -25,7 +25,8 @@ with sync_playwright() as p:
                 products.append({
                     "store": "Irani",
                     "name": current_name,
-                    "price": float(line.replace("R$", "").replace(",", ".").strip())
+                    import re
+                    "price": float(re.sub(r"[^0-9.,]", "", line).replace(",", "."))
                 })
 
         else:
