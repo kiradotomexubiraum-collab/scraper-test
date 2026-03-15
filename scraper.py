@@ -1,22 +1,35 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+from playwright.sync_api import sync_playwright
 
-url = "https://www.irani.delivery/pacaembu/ofertas-clube"
+base_url = "https://irani.delivery/pacaembu/ofertas-clube?page={}"
 
-response = requests.get(url)
-soup = BeautifulSoup(response.text, "html.parser")
+with sync_playwright() as p:
 
-titles = []
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page()
 
-for title in soup.find_all("h2"):
-    titles.append(title.text.strip())
+    max_pages = 21
 
-data = {
-    "titles": titles
-}
+    for page_number in range(1, max_pages + 1):
 
-with open("data.json", "w") as f:
-    json.dump(data, f, indent=4)
+        print(f"\n--- PAGE {page_number} ---\n")
 
-print("Scraping finished.")
+        page.goto(base_url.format(page_number))
+
+        page.wait_for_timeout(5000)
+
+        text = page.inner_text("body")
+        lines = text.split("\n")
+
+        current_name = None
+
+        for line in lines:
+
+            if "R$" in line:
+                if current_name:
+                    print(f"{current_name} — {line}")
+
+            else:
+                if len(line) > 3 and "OFF" not in line and "Add" not in line:
+                    current_name = line
+
+    browser.close()
