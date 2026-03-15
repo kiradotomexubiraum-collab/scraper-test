@@ -41,10 +41,6 @@ window.searchProduct = function(){
 
         const row = document.createElement("tr");
 
-        if(i === 0){
-            row.style.backgroundColor = "#d4ffd4";
-        }
-
         row.innerHTML = `
         <td>${p.name}</td>
         <td>R$ ${p.price.toFixed(2)}</td>
