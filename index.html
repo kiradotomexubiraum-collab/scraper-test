@@ -3,6 +3,7 @@
 
 <head>
 <title>Price Tracker</title>
+<link rel="icon" href="data:,">
 </head>
 
 <body>
@@ -14,7 +15,7 @@
 <script>
 
 fetch("./products.json")
-.then(response => response.json())
+.then(res => res.json())
 .then(data => {
 
     const list = document.getElementById("products")
@@ -30,7 +31,7 @@ fetch("./products.json")
     })
 
 })
-.catch(err => console.log(err))
+.catch(err => console.log("JSON error:", err))
 
 </script>
 
