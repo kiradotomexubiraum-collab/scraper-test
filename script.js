@@ -50,7 +50,7 @@ function searchProduct(){
 
         row.innerHTML = `
         <td>${p.name}</td>
-        <td>${p.price}</td>
+        <td>R$ ${p.price.toFixed(2)}</td>
         <td>${p.store}</td>
         `
 
