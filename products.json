@@ -1,1 +1,242 @@
-
+[
+  {
+    "name": "Filtros",
+    "price": "R$ 23,98/un"
+  },
+  {
+    "name": "Filtros",
+    "price": "R$ 43,98"
+  },
+  {
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": "R$ 14,90/un"
+  },
+  {
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": "R$ 14,90/un"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 2,99/un"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 4,99"
+  },
+  {
+    "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
+    "price": "R$ 14,90"
+  },
+  {
+    "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 2,99/un"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 4,99"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 2,99/un"
+  },
+  {
+    "name": "100gr",
+    "price": "R$ 4,99"
+  },
+  {
+    "name": "Biscoito Hot Cracker Parati 100g Pizza",
+    "price": "R$ 14,90"
+  },
+  {
+    "name": "Biscoito Hot Cracker Parati 100g Pizza",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": "R$ 14,90"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": "R$ 14,90/un"
+  },
+  {
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": "R$ 24,90"
+  },
+  {
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": "R$ 2,99"
+  },
+  {
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": "R$ 4,79"
+  },
+  {
+    "name": "Biscoito Piraquê 132g Leite Maltado",
+    "price": "R$ 1,99"
+  },
+  {
+    "name": "Biscoito Piraquê 132g Leite Maltado",
+    "price": "R$ 2,99"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Churrasco",
+    "price": "R$ 1,99"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Churrasco",
+    "price": "R$ 2,99"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
+    "price": "R$ 1,99"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
+    "price": "R$ 2,99"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Queijo",
+    "price": "R$ 41,98"
+  },
+  {
+    "name": "Salgadinho Parati Flay 40g Queijo",
+    "price": "R$ 61,98"
+  },
+  {
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": "R$ 41,98"
+  },
+  {
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": "R$ 61,98"
+  },
+  {
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": "R$ 41,98"
+  },
+  {
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": "R$ 61,98"
+  },
+  {
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": "R$ 19,99"
+  },
+  {
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": "R$ 28,99"
+  },
+  {
+    "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
+    "price": "R$ 19,99"
+  },
+  {
+    "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
+    "price": "R$ 28,99"
+  },
+  {
+    "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": "R$ 6,79/un"
+  },
+  {
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": "R$ 9,79"
+  },
+  {
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": "R$ 22,99"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": "R$ 8,98/un"
+  },
+  {
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": "R$ 12,98"
+  },
+  {
+    "name": "Lasanha Bolonhesa Copacol 600g",
+    "price": "R$ 15,99"
+  },
+  {
+    "name": "Lasanha Bolonhesa Copacol 600g",
+    "price": "R$ 22,99"
+  }
+]
