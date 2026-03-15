@@ -14,8 +14,8 @@ function parsePrice(price){
 
     return Number(
         price
-        .replace("R$","")
-        .replace(",",".")
+        .replace("R$", "")
+        .replace(",", ".")
         .trim()
     )
 }
@@ -28,9 +28,9 @@ function searchProduct(){
         .value
         .toLowerCase()
 
-    const list = document.getElementById("results")
+    const table = document.getElementById("results")
 
-    list.innerHTML = ""
+    table.innerHTML = ""
 
     if(!query) return
 
@@ -40,14 +40,21 @@ function searchProduct(){
         .sort((a,b) => parsePrice(a.price) - parsePrice(b.price))
 
 
-    results.forEach(p => {
+    results.forEach((p,index) => {
 
-        const li = document.createElement("li")
+        const row = document.createElement("tr")
 
-        li.textContent =
-            `${p.name} — ${p.price} (${p.store})`
+        if(index === 0){
+            row.style.background = "#d4ffd4"
+        }
 
-        list.appendChild(li)
+        row.innerHTML = `
+        <td>${p.name}</td>
+        <td>${p.price}</td>
+        <td>${p.store}</td>
+        `
+
+        table.appendChild(row)
 
     })
 
