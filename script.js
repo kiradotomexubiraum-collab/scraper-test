@@ -45,7 +45,7 @@ function searchProduct(){
         const li = document.createElement("li")
 
         li.textContent =
-        `${p.name} — ${p.price} (${p.store})`
+            `${p.name} — ${p.price} (${p.store})`
 
         list.appendChild(li)
 
