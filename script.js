@@ -4,6 +4,15 @@ fetch("./products.json")
 .then(res => res.json())
 .then(json => data = json)
 
+function parsePrice(price) {
+    return Number(
+        price
+        .replace("R$", "")
+        .replace(",", ".")
+        .trim()
+    )
+}
+
 function searchProduct() {
 
     const query = document
@@ -13,7 +22,7 @@ function searchProduct() {
 
     const results = data
         .filter(p => p.name.toLowerCase().includes(query))
-        .sort((a,b) => a.price - b.price)
+        .sort((a,b) => parsePrice(a.price) - parsePrice(b.price))
 
     const list = document.getElementById("results")
 
@@ -24,10 +33,9 @@ function searchProduct() {
         const li = document.createElement("li")
 
         li.textContent =
-            `${p.name} — R$ ${p.price.toFixed(2)} (${p.store})`
+            `${p.name} — ${p.price} (${p.store})`
 
         list.appendChild(li)
 
     })
-
 }
