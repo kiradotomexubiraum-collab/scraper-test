@@ -1,62 +1,54 @@
+// GLOBAL variable
 let products = [];
 
-// load JSON
-fetch("products.json")
-  .then(response => response.json())
-  .then(data => {
-    products = data;
+// load products.json
+async function loadProducts() {
+    try {
+        const response = await fetch("products.json");
+        products = await response.json();
 
-    // convert price to number just in case
-    products.forEach(p => {
-      p.price = Number(p.price);
-    });
+        // ensure price is numeric
+        products.forEach(p => {
+            p.price = Number(p.price);
+        });
 
-    console.log("Products loaded:", products);
-  })
-  .catch(err => console.error("JSON load error:", err));
+        console.log("Products loaded:", products);
 
+    } catch (error) {
+        console.error("Failed to load JSON:", error);
+    }
+}
 
+// search function
 function searchProduct() {
 
-  const query = document.getElementById("search").value.toLowerCase();
-  const results = document.getElementById("results");
+    const query = document.getElementById("search").value.toLowerCase();
+    const results = document.getElementById("results");
 
-  results.innerHTML = "";
+    results.innerHTML = "";
 
-  if (!products.length) {
-    results.innerHTML = "<li>Products not loaded yet...</li>";
-    return;
-  }
+    if (!products.length) {
+        results.innerHTML = "<li>Products not loaded yet</li>";
+        return;
+    }
 
-  const filtered = products.filter(p =>
-    p.name.toLowerCase().includes(query)
-  );
+    const filtered = products.filter(p =>
+        p.name.toLowerCase().includes(query)
+    );
 
-  filtered.sort((a,b)=>a.price-b.price);
+    filtered.sort((a,b)=>a.price-b.price);
 
-  filtered.forEach(p => {
+    filtered.forEach(p => {
 
-    const li = document.createElement("li");
-    li.className = "product";
+        const li = document.createElement("li");
 
-    const name = document.createElement("span");
-    name.className = "name";
-    name.textContent = p.name;
+        li.textContent =
+            `${p.name} — R$ ${p.price.toFixed(2)} (${p.store})`;
 
-    const price = document.createElement("span");
-    price.className = "price";
-    price.textContent = `R$ ${p.price.toFixed(2)}`;
+        results.appendChild(li);
 
-    const store = document.createElement("span");
-    store.className = "store";
-    store.textContent = p.store;
-
-    li.appendChild(name);
-    li.appendChild(price);
-    li.appendChild(store);
-
-    results.appendChild(li);
-
-  });
-
+    });
 }
+
+// load data when page opens
+loadProducts();
