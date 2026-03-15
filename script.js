@@ -37,21 +37,22 @@ window.searchProduct = function(){
 
     filtered.sort((a,b)=>a.price-b.price);
 
-    filtered.forEach(p => {
+    filtered.forEach((p, i) => {
 
         const row = document.createElement("tr");
+
+        if(i === 0){
+            row.style.backgroundColor = "#d4ffd4"; // cheapest price highlight
+        }
 
         row.innerHTML = `
         <td>${p.name}</td>
         <td>R$ ${p.price.toFixed(2)}</td>
         <td>${p.store}</td>
         `;
-        if(i === 0){
-            row.style.backgroundColor = "#d4ffd4";
-        }
 
         results.appendChild(row);
 
-    });
+});
 
 };
