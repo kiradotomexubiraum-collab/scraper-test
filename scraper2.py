@@ -2,14 +2,18 @@ from playwright.sync_api import sync_playwright
 import json
 import re
 
-url = "https://muffataosupermercado.instabuy.com.br"
+categories = [
+    "https://muffataosupermercado.instabuy.com.br/cat/Frutas-Legumes-e-Verduras",
+    "https://muffataosupermercado.instabuy.com.br/cat/Acougue-Aves-e-Peixaria",
+    "https://muffataosupermercado.instabuy.com.br/cat/Bebidas",
+    "https://muffataosupermercado.instabuy.com.br/cat/Mercearia"
+]
 
 products = []
 
-# words we should ignore as product names
 ignore_words = [
-    "ver todos", "ofertas", "categorias", "adicionar",
-    "carrinho", "buscar", "menu"
+    "ver todos", "ofertas", "categorias",
+    "buscar", "menu", "carrinho"
 ]
 
 with sync_playwright() as p:
@@ -17,61 +21,65 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
-    page.goto(url)
-    page.wait_for_timeout(8000)
+    for url in categories:
 
-    # scroll to load more products
-    page.mouse.wheel(0, 50000)
-    page.wait_for_timeout(3000)
+        print("Scraping:", url)
 
-    text = page.inner_text("body")
-    lines = text.split("\n")
+        page.goto(url)
+        page.wait_for_timeout(6000)
 
-    current_name = None
+        # scroll to load products
+        for i in range(6):
+            page.mouse.wheel(0, 10000)
+            page.wait_for_timeout(1500)
 
-    for line in lines:
+        text = page.inner_text("body")
+        lines = text.split("\n")
 
-        line = line.strip()
+        current_name = None
 
-        if not line:
-            continue
+        for line in lines:
 
-        lower = line.lower()
+            line = line.strip()
 
-        # ignore UI text
-        if any(word in lower for word in ignore_words):
-            continue
+            if not line:
+                continue
 
-        # if price line
-        if "R$" in line and current_name:
+            lower = line.lower()
 
-            price_text = re.sub(r"[^0-9,]", "", line)
+            if any(word in lower for word in ignore_words):
+                continue
 
-            if price_text:
-                price = float(price_text.replace(",", "."))
+            if "R$" in line and current_name:
 
-                products.append({
-                    "store": "Muffatao",
-                    "name": current_name,
-                    "price": price
-                })
+                price_text = re.sub(r"[^0-9,]", "", line)
 
-                current_name = None
+                if price_text:
 
-        else:
-            # possible product name
-            if (
-                len(line) > 6
-                and "R$" not in line
-                and not line.isupper()
-            ):
-                current_name = line
+                    price = float(price_text.replace(",", "."))
+
+                    products.append({
+                        "store": "Muffatao",
+                        "name": current_name,
+                        "price": price
+                    })
+
+                    current_name = None
+
+            else:
+
+                if (
+                    len(line) > 6
+                    and "R$" not in line
+                    and not line.isupper()
+                ):
+                    current_name = line
 
 
     browser.close()
 
 
-# merge with existing JSON
+# merge with existing products
 try:
     with open("products.json", "r", encoding="utf-8") as f:
         existing = json.load(f)
@@ -83,4 +91,4 @@ existing.extend(products)
 with open("products.json", "w", encoding="utf-8") as f:
     json.dump(existing, f, ensure_ascii=False, indent=2)
 
-print("Muffatão products added")
+print("Muffatao categories scraped")
