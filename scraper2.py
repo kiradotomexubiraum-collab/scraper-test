@@ -6,25 +6,44 @@ url = "https://muffataosupermercado.instabuy.com.br"
 
 products = []
 
+# words we should ignore as product names
+ignore_words = [
+    "ver todos", "ofertas", "categorias", "adicionar",
+    "carrinho", "buscar", "menu"
+]
+
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
     page.goto(url)
-    page.wait_for_timeout(7000)
+    page.wait_for_timeout(8000)
+
+    # scroll to load more products
+    page.mouse.wheel(0, 50000)
+    page.wait_for_timeout(3000)
 
     text = page.inner_text("body")
     lines = text.split("\n")
 
     current_name = None
-    price_found = False
 
     for line in lines:
 
         line = line.strip()
 
-        if "R$" in line and current_name and not price_found:
+        if not line:
+            continue
+
+        lower = line.lower()
+
+        # ignore UI text
+        if any(word in lower for word in ignore_words):
+            continue
+
+        # if price line
+        if "R$" in line and current_name:
 
             price_text = re.sub(r"[^0-9,]", "", line)
 
@@ -37,22 +56,22 @@ with sync_playwright() as p:
                     "price": price
                 })
 
-                price_found = True
+                current_name = None
 
-        elif (
-            len(line) > 3
-            and "R$" not in line
-            and "Add" not in line
-            and "OFF" not in line
-        ):
-            current_name = line
-            price_found = False
+        else:
+            # possible product name
+            if (
+                len(line) > 6
+                and "R$" not in line
+                and not line.isupper()
+            ):
+                current_name = line
 
 
     browser.close()
 
 
-# append to existing JSON
+# merge with existing JSON
 try:
     with open("products.json", "r", encoding="utf-8") as f:
         existing = json.load(f)
@@ -64,5 +83,4 @@ existing.extend(products)
 with open("products.json", "w", encoding="utf-8") as f:
     json.dump(existing, f, ensure_ascii=False, indent=2)
 
-
-print("Muffatao products added")
+print("Muffatão products added")
