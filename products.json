@@ -148,5 +148,65 @@
     "store": "Irani",
     "name": "Lasanha Bolonhesa Copacol 600g",
     "price": 15.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Ver todos",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Batata Branca",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Batata Doce",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Laranja Pera",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tomate Longa Vida",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
+    "price": 4.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cebola Nacional",
+    "price": 7.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cenoura Extra",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manga Tommy",
+    "price": 14.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mamão Formosa",
+    "price": 6.45
+  },
+  {
+    "store": "Muffatao",
+    "name": "Melão Espanhol",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Beterraba",
+    "price": 5.99
   }
 ]
