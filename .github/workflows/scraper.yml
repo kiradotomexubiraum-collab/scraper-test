@@ -2,7 +2,7 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # runs every hour
   workflow_dispatch:
 
 permissions:
@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -29,14 +31,14 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
 
           git add products.json
+          git commit -m "Update scraped data" || echo "No changes"
 
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git commit -m "update prices"
-            git push
-          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
