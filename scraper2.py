@@ -7,56 +7,60 @@ def scrape_festval():
     products = []
 
     with sync_playwright() as p:
-        # We use a real User-Agent so the site doesn't block us as a bot
+        # Using a real-looking browser context
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-        )
+        context = browser.new_context(viewport={'width': 1280, 'height': 800})
         page = context.new_page()
         
-        print("Opening Festval... (this may take a few seconds)")
+        print("Opening Festval... waiting for content...")
         try:
-            # wait_until="networkidle" is key for Festval
-            page.goto(url, wait_until="networkidle", timeout=60000)
+            # Increase timeout and wait for the body to at least exist
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
-            # Festval uses 'div.product-card' or 'article' for its items
-            # We wait for the price tag specifically, as it's the last thing to load
-            page.wait_for_selector(".product-price", timeout=20000)
-            
-            print("Page loaded! Scrolling to capture all offers...")
-            for _ in range(4):
-                page.mouse.wheel(0, 1500)
-                page.wait_for_timeout(1500)
+            # Hard wait for 10 seconds to let their slow JS run
+            page.wait_for_timeout(10000)
 
-            # Target the product containers
-            # Festval often uses 'div.product-card'
-            items = page.query_selector_all(".product-card, .product-item")
+            # Take a screenshot to see what's happening (check this if it fails!)
+            page.screenshot(path="debug.png")
+
+            # NEW STRATEGY: Find all elements that look like a price
+            # We look for "R$" followed by numbers
+            price_elements = page.locator("text=/R\$.*\d/").all()
             
-            for item in items:
+            print(f"Found {len(price_elements)} potential price tags...")
+
+            for price_el in price_elements:
                 try:
-                    name = item.query_selector(".product-name").inner_text().strip()
-                    price_raw = item.query_selector(".product-price").inner_text()
+                    price_raw = price_el.inner_text()
+                    # Find the parent container to get the name
+                    # Usually the name is in the same 'div' or 'article'
+                    container = price_el.locator("xpath=..")
                     
-                    # Cleans "R$ 10,90" into 10.9
+                    # Search for text nearby that isn't the price
+                    name = container.inner_text().split('\n')[0] 
+                    
                     price_clean = re.sub(r"[^0-9,]", "", price_raw).replace(",", ".")
                     
-                    products.append({
-                        "store": "Festval",
-                        "name": name,
-                        "price": float(price_clean)
-                    })
+                    if float(price_clean) > 0:
+                        products.append({
+                            "store": "Festval",
+                            "name": name.strip(),
+                            "price": float(price_clean)
+                        })
                 except:
                     continue
 
         except Exception as e:
-            print(f"Error during scrape: {e}")
+            print(f"Error: {e}")
         finally:
             browser.close()
 
     if products:
-        save_to_json(products)
+        # Deduplicate results
+        unique_products = {p['name']: p for p in products}.values()
+        save_to_json(list(unique_products))
     else:
-        print("Scraper finished but found 0 products. The site might be blocking the connection or the selectors changed.")
+        print("Still 0 products. Open 'debug.png' to see if the site is blocked.")
 
 def save_to_json(new_products):
     try:
@@ -64,13 +68,10 @@ def save_to_json(new_products):
             data = json.load(f)
     except:
         data = []
-
-    # Filter out old Festval data before adding new ones
     data = [p for p in data if p.get("store") != "Festval"]
     data.extend(new_products)
-
     with open("products.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"Success! {len(new_products)} items saved to products.json")
+    print(f"Success! {len(new_products)} items saved.")
 
 scrape_festval()
