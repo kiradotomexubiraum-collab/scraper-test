@@ -18,28 +18,7 @@
 
 <ul id="products"></ul>
 
-<script>
-
-fetch("./products.json")
-.then(res => res.json())
-.then(data => {
-
-    const list = document.getElementById("products")
-
-    data.forEach(product => {
-
-        const li = document.createElement("li")
-
-        li.textContent = product.name + " — " + product.price
-
-        list.appendChild(li)
-
-    })
-
-})
-.catch(err => console.log("JSON error:", err))
-
-</script>
+<script src="script.js"></script>
 
 </body>
 </html>
