@@ -1,242 +1,302 @@
 [
   {
+    "store": "Irani",
     "name": "Filtros",
-    "price": "R$ 23,98/un"
+    "price": 23.98
   },
   {
+    "store": "Irani",
     "name": "Filtros",
-    "price": "R$ 43,98"
+    "price": 43.98
   },
   {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": "R$ 14,90/un"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": "R$ 14,90/un"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 2,99/un"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 4,99"
+    "price": 4.99
   },
   {
+    "store": "Irani",
     "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
-    "price": "R$ 14,90"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 2,99/un"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 4,99"
+    "price": 4.99
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 2,99/un"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "100gr",
-    "price": "R$ 4,99"
+    "price": 4.99
   },
   {
+    "store": "Irani",
     "name": "Biscoito Hot Cracker Parati 100g Pizza",
-    "price": "R$ 14,90"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Biscoito Hot Cracker Parati 100g Pizza",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": "R$ 14,90"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": "R$ 14,90/un"
+    "price": 14.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": "R$ 24,90"
+    "price": 24.9
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": "R$ 2,99"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": "R$ 4,79"
+    "price": 4.79
   },
   {
+    "store": "Irani",
     "name": "Biscoito Piraquê 132g Leite Maltado",
-    "price": "R$ 1,99"
+    "price": 1.99
   },
   {
+    "store": "Irani",
     "name": "Biscoito Piraquê 132g Leite Maltado",
-    "price": "R$ 2,99"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Churrasco",
-    "price": "R$ 1,99"
+    "price": 1.99
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Churrasco",
-    "price": "R$ 2,99"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
-    "price": "R$ 1,99"
+    "price": 1.99
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
-    "price": "R$ 2,99"
+    "price": 2.99
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Queijo",
-    "price": "R$ 41,98"
+    "price": 41.98
   },
   {
+    "store": "Irani",
     "name": "Salgadinho Parati Flay 40g Queijo",
-    "price": "R$ 61,98"
+    "price": 61.98
   },
   {
+    "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": "R$ 41,98"
+    "price": 41.98
   },
   {
+    "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": "R$ 61,98"
+    "price": 61.98
   },
   {
+    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": "R$ 41,98"
+    "price": 41.98
   },
   {
+    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": "R$ 61,98"
+    "price": 61.98
   },
   {
+    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": "R$ 19,99"
+    "price": 19.99
   },
   {
+    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": "R$ 28,99"
+    "price": 28.99
   },
   {
+    "store": "Irani",
     "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
-    "price": "R$ 19,99"
+    "price": 19.99
   },
   {
+    "store": "Irani",
     "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
-    "price": "R$ 28,99"
+    "price": 28.99
   },
   {
+    "store": "Irani",
     "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": "R$ 6,79/un"
+    "price": 6.79
   },
   {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": "R$ 9,79"
+    "price": 9.79
   },
   {
+    "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": "R$ 22,99"
+    "price": 22.99
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": "R$ 8,98/un"
+    "price": 8.98
   },
   {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": "R$ 12,98"
+    "price": 12.98
   },
   {
+    "store": "Irani",
     "name": "Lasanha Bolonhesa Copacol 600g",
-    "price": "R$ 15,99"
+    "price": 15.99
   },
   {
+    "store": "Irani",
     "name": "Lasanha Bolonhesa Copacol 600g",
-    "price": "R$ 22,99"
+    "price": 22.99
   }
 ]
