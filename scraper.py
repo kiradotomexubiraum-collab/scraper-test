@@ -1,5 +1,6 @@
 from playwright.sync_api import sync_playwright
 import json
+import re
 
 url = "https://irani.delivery/pacaembu/ofertas-clube"
 
@@ -22,11 +23,12 @@ with sync_playwright() as p:
 
         if "R$" in line:
             if current_name:
+                price = float(re.sub(r"[^0-9.,]", "", line).replace(",", "."))
+
                 products.append({
                     "store": "Irani",
                     "name": current_name,
-                    import re
-                    "price": float(re.sub(r"[^0-9.,]", "", line).replace(",", "."))
+                    "price": price
                 })
 
         else:
@@ -35,7 +37,8 @@ with sync_playwright() as p:
 
     browser.close()
 
-with open("products.json","w",encoding="utf-8") as f:
-    json.dump(products,f,ensure_ascii=False,indent=2)
+
+with open("products.json", "w", encoding="utf-8") as f:
+    json.dump(products, f, ensure_ascii=False, indent=2)
 
 print("Saved products.json")
