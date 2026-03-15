@@ -1,39 +1,36 @@
-// GLOBAL products variable
-let products = [];
+// put products in global scope
+window.products = [];
 
-// load JSON when page loads
+// load JSON
 fetch("products.json")
-.then(response => response.json())
+.then(res => res.json())
 .then(data => {
 
-    products = data;
+    window.products = data;
 
-    // make sure prices are numbers
-    products.forEach(p => {
+    window.products.forEach(p=>{
         p.price = Number(p.price);
     });
 
-    console.log("Products loaded:", products);
+    console.log("Products loaded:", window.products);
 
 })
-.catch(error => {
-    console.error("Failed to load products.json", error);
-});
+.catch(err => console.error("JSON load error:", err));
 
 
-function searchProduct() {
+function searchProduct(){
 
     const query = document.getElementById("search").value.toLowerCase();
     const results = document.getElementById("results");
 
     results.innerHTML = "";
 
-    if (products.length === 0) {
+    if(!window.products || window.products.length === 0){
         results.innerHTML = "<tr><td colspan='3'>Products not loaded yet</td></tr>";
         return;
     }
 
-    const filtered = products.filter(p =>
+    const filtered = window.products.filter(p =>
         p.name.toLowerCase().includes(query)
     );
 
