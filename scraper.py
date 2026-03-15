@@ -23,8 +23,9 @@ with sync_playwright() as p:
         if "R$" in line:
             if current_name:
                 products.append({
+                    "store": "Irani",
                     "name": current_name,
-                    "price": line
+                    "price": float(line.replace("R$", "").replace(",", ".").strip())
                 })
 
         else:
