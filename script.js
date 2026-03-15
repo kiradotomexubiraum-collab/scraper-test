@@ -1,7 +1,7 @@
-// put products in global scope
+// make products global
 window.products = [];
 
-// load JSON
+// load the JSON
 fetch("products.json")
 .then(res => res.json())
 .then(data => {
@@ -18,7 +18,8 @@ fetch("products.json")
 .catch(err => console.error("JSON load error:", err));
 
 
-function searchProduct(){
+// make search function global
+window.searchProduct = function(){
 
     const query = document.getElementById("search").value.toLowerCase();
     const results = document.getElementById("results");
@@ -50,4 +51,4 @@ function searchProduct(){
 
     });
 
-}
+};
