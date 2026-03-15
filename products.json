@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "store": "Irani",
+    "name": "Filtros",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Filtros",
+    "price": 43.98
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Hot Cracker Parati 100g Peito de Peru",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "100gr",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Hot Cracker Parati 100g Pizza",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Hot Cracker Parati 100g Pizza",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 4.79
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Piraquê 132g Leite Maltado",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Piraquê 132g Leite Maltado",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Churrasco",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Churrasco",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Cebola & Salsa",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Queijo",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Parati Flay 40g Queijo",
+    "price": 61.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 61.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 61.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 28.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Intimo Nivea 250ml Suave",
+    "price": 28.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Intimo Nivea 250ml Natural",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 9.79
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lasanha Bolonhesa Copacol 600g",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Lasanha Bolonhesa Copacol 600g",
+    "price": 22.99
+  }
+]
