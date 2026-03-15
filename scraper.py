@@ -1,35 +1,39 @@
 from playwright.sync_api import sync_playwright
+import json
 
-base_url = "https://irani.delivery/pacaembu/ofertas-clube?page={}"
+url = "https://irani.delivery/pacaembu/ofertas-clube"
+
+products = []
 
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
-    max_pages = 21
+    page.goto(url)
+    page.wait_for_timeout(5000)
 
-    for page_number in range(1, max_pages + 1):
+    text = page.inner_text("body")
+    lines = text.split("\n")
 
-        print(f"\n--- PAGE {page_number} ---\n")
+    current_name = None
 
-        page.goto(base_url.format(page_number))
+    for line in lines:
 
-        page.wait_for_timeout(5000)
+        if "R$" in line:
+            if current_name:
+                products.append({
+                    "name": current_name,
+                    "price": line
+                })
 
-        text = page.inner_text("body")
-        lines = text.split("\n")
-
-        current_name = None
-
-        for line in lines:
-
-            if "R$" in line:
-                if current_name:
-                    print(f"{current_name} — {line}")
-
-            else:
-                if len(line) > 3 and "OFF" not in line and "Add" not in line:
-                    current_name = line
+        else:
+            if len(line) > 3 and "OFF" not in line and "Add" not in line:
+                current_name = line
 
     browser.close()
+
+with open("products.json", "w", encoding="utf-8") as f:
+    json.dump(products, f, indent=2, ensure_ascii=False)
+
+print("Saved products.json")
