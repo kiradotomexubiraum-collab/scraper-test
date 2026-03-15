@@ -18,27 +18,44 @@ with sync_playwright() as p:
     lines = text.split("\n")
 
     current_name = None
+    price_found = False
 
     for line in lines:
 
-        if "R$" in line:
-            if current_name:
-                price = float(re.sub(r"[^0-9.,]", "", line).replace(",", "."))
+        line = line.strip()
 
-                products.append({
-                    "store": "Irani",
-                    "name": current_name,
-                    "price": price
-                })
+        # Detect price
+        if "R$" in line and current_name and not price_found:
 
-        else:
-            if len(line) > 3 and "OFF" not in line and "Add" not in line:
-                current_name = line
+            price = float(
+                re.sub(r"[^0-9.,]", "", line).replace(",", ".")
+            )
+
+            products.append({
+                "store": "Irani",
+                "name": current_name,
+                "price": price
+            })
+
+            price_found = True
+
+
+        # Detect product name
+        elif (
+            len(line) > 3
+            and "OFF" not in line
+            and "Add" not in line
+            and "R$" not in line
+        ):
+            current_name = line
+            price_found = False
+
 
     browser.close()
 
 
 with open("products.json", "w", encoding="utf-8") as f:
     json.dump(products, f, ensure_ascii=False, indent=2)
+
 
 print("Saved products.json")
