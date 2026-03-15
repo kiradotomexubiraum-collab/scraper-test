@@ -1,25 +1,26 @@
-// GLOBAL variable
+// GLOBAL products variable
 let products = [];
 
-// load products.json
-async function loadProducts() {
-    try {
-        const response = await fetch("products.json");
-        products = await response.json();
+// load JSON when page loads
+fetch("products.json")
+.then(response => response.json())
+.then(data => {
 
-        // ensure price is numeric
-        products.forEach(p => {
-            p.price = Number(p.price);
-        });
+    products = data;
 
-        console.log("Products loaded:", products);
+    // make sure prices are numbers
+    products.forEach(p => {
+        p.price = Number(p.price);
+    });
 
-    } catch (error) {
-        console.error("Failed to load JSON:", error);
-    }
-}
+    console.log("Products loaded:", products);
 
-// search function
+})
+.catch(error => {
+    console.error("Failed to load products.json", error);
+});
+
+
 function searchProduct() {
 
     const query = document.getElementById("search").value.toLowerCase();
@@ -27,8 +28,8 @@ function searchProduct() {
 
     results.innerHTML = "";
 
-    if (!products.length) {
-        results.innerHTML = "<li>Products not loaded yet</li>";
+    if (products.length === 0) {
+        results.innerHTML = "<tr><td colspan='3'>Products not loaded yet</td></tr>";
         return;
     }
 
@@ -40,15 +41,16 @@ function searchProduct() {
 
     filtered.forEach(p => {
 
-        const li = document.createElement("li");
+        const row = document.createElement("tr");
 
-        li.textContent =
-            `${p.name} — R$ ${p.price.toFixed(2)} (${p.store})`;
+        row.innerHTML = `
+        <td>${p.name}</td>
+        <td>R$ ${p.price.toFixed(2)}</td>
+        <td>${p.store}</td>
+        `;
 
-        results.appendChild(li);
+        results.appendChild(row);
 
     });
-}
 
-// load data when page opens
-loadProducts();
+}
