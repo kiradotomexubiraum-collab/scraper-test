@@ -42,7 +42,7 @@ window.searchProduct = function(){
         const row = document.createElement("tr");
 
         if(i === 0){
-            row.style.backgroundColor = "#d4ffd4"; // cheapest price highlight
+            row.style.backgroundColor = "#d4ffd4";
         }
 
         row.innerHTML = `
@@ -53,6 +53,6 @@ window.searchProduct = function(){
 
         results.appendChild(row);
 
-});
+        });
 
 };
