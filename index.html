@@ -4,29 +4,30 @@
 <head>
 <title>Preço dos mercado</title>
 <link rel="icon" href="data:,">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
 
 <h2>Preço dos mercado</h2>
-<p>Atualiza a cada 1 hr (feito basicamente só com o chat)</p>
 
-<input id="search" placeholder="Pesquisar produto" oninput="searchProduct()">
+<input id="search" placeholder="Search product" oninput="searchProduct()">
+</div>
 
-<br><br>
-
-<table border="1">
+<table>
 <thead>
 <tr>
-<th>Produto</th>
-<th>Preço</th>
-<th>Loja</th>
+<th>Product</th>
+<th>Price</th>
+<th>Store</th>
 </tr>
 </thead>
 
-<tbody id="results">
-</tbody>
-
+<tbody id="results"></tbody>
 </table>
 
 <script src="script.js"></script>
