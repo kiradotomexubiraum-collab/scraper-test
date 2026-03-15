@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 <title>Price Tracker</title>
 </head>
@@ -12,8 +13,8 @@
 
 <script>
 
-fetch("products.json")
-.then(res => res.json())
+fetch("./products.json")
+.then(response => response.json())
 .then(data => {
 
     const list = document.getElementById("products")
@@ -29,6 +30,7 @@ fetch("products.json")
     })
 
 })
+.catch(err => console.log(err))
 
 </script>
 
