@@ -46,12 +46,11 @@ window.searchProduct = function(){
         <td>R$ ${p.price.toFixed(2)}</td>
         <td>${p.store}</td>
         `;
+        if(i === 0){
+            row.style.backgroundColor = "#d4ffd4";
+        }
 
         results.appendChild(row);
-
-        if(i === 0){
-        row.style.backgroundColor = "#d4ffd4";
-        }
 
     });
 
