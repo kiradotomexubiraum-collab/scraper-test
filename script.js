@@ -49,6 +49,10 @@ window.searchProduct = function(){
 
         results.appendChild(row);
 
+        if(i === 0){
+        row.style.backgroundColor = "#d4ffd4";
+        }
+
     });
 
 };
