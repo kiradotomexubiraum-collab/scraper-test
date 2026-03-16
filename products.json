@@ -11,6 +11,21 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.9
   },
@@ -21,22 +36,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 2.99
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -101,7 +101,12 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
     "price": 14.9
   },
   {
@@ -112,11 +117,6 @@
   {
     "store": "Irani",
     "name": "Toalha Papel Suavita Mega 180 toalhas",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
     "price": 14.9
   },
   {
