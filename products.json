@@ -16,17 +16,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.9
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.9
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 2.99
   },
   {
@@ -77,21 +77,11 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 35.9
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Mortadela Copacol 380g Sem Toucinho",
     "price": 35.9
   },
   {
@@ -101,12 +91,27 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
     "price": 14.9
   },
   {
@@ -117,6 +122,21 @@
   {
     "store": "Irani",
     "name": "Toalha Papel Suavita Mega 180 toalhas",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Cera Grand Prix 200g Tradicional",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
     "price": 14.9
   },
   {
@@ -127,27 +147,7 @@
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Glycolic Gloss",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Cera Grand Prix 200g Tradicional",
     "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
-    "price": 29.99
   },
   {
     "store": "Muffatao",
@@ -207,16 +207,16 @@
   {
     "store": "Muffatao",
     "name": "Amendoim Geriba Branco 500g",
-    "price": 7.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Amendoim da Nona Salgado 150g",
     "price": 6.99
   },
   {
     "store": "Muffatao",
     "name": "Uva-Passa Escura sem Semente La Violetera Pacote 100g",
+    "price": 7.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Amendoim da Nona Salgado 150g",
     "price": 6.99
   },
   {
