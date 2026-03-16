@@ -11,12 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.9
   },
   {
@@ -26,7 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.9
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 2.99
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
     "price": 35.9
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -101,7 +101,12 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 5.98
   },
   {
@@ -116,17 +121,22 @@
   },
   {
     "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Glycolic Gloss",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Cera Grand Prix 200g Tradicional",
-    "price": 14.9
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 29.98
   },
   {
@@ -136,18 +146,8 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Glycolic Gloss",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
-    "price": 5.99
+    "price": 29.99
   },
   {
     "store": "Muffatao",
@@ -157,7 +157,7 @@
   {
     "store": "Muffatao",
     "name": "Laranja Pera",
-    "price": 6.99
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -167,12 +167,7 @@
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
-    "price": 6.45
-  },
-  {
-    "store": "Muffatao",
-    "name": "Melão Espanhol",
-    "price": 9.98
+    "price": 14.99
   },
   {
     "store": "Muffatao",
@@ -182,7 +177,7 @@
   {
     "store": "Muffatao",
     "name": "Maçã Argentina",
-    "price": 2.78
+    "price": 3.79
   },
   {
     "store": "Muffatao",
@@ -198,6 +193,11 @@
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bandeja Un",
     "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Banana Prata",
+    "price": 5.98
   },
   {
     "store": "Muffatao",
@@ -257,7 +257,7 @@
   {
     "store": "Muffatao",
     "name": "Batata Branca",
-    "price": 5.99
+    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -397,17 +397,17 @@
   {
     "store": "Muffatao",
     "name": "Meio Da Asa Coopavel 1kg",
+    "price": 10.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxinha Asa Frango Coopav",
     "price": 21.98
   },
   {
     "store": "Muffatao",
     "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
     "price": 23.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
-    "price": 10.99
   },
   {
     "store": "Muffatao",
@@ -697,7 +697,7 @@
   {
     "store": "Muffatao",
     "name": "Chocolate Pó Solúvel 70% Cacau Dr. Oetker DeCoração Caixa 200g",
-    "price": 16.99
+    "price": 22.98
   },
   {
     "store": "Muffatao",
@@ -1197,17 +1197,17 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Talharim Bolonhesa Nissin Pacote 99g",
-    "price": 4.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão Caseiro Premium Italy N. 03 C/Ovos 400G",
     "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Yakissoba Legumes com Molho Oriental Nissin U.F.O. Bandeja 95g",
     "price": 1.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Lámen Legumes Renata Express Pacote 96g",
+    "price": 6.89
   },
   {
     "store": "Muffatao",
