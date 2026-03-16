@@ -11,12 +11,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.9
   },
   {
@@ -27,16 +37,6 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 2.99
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
     "price": 35.9
   },
   {
@@ -86,37 +86,37 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 14.9
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "Toalha Papel Suavita Mega 180 toalhas",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Toalha Papel Suavita Mega 180 toalhas",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 14.9
   },
   {
