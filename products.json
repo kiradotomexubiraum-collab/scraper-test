@@ -11,22 +11,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.9
   },
   {
@@ -36,12 +26,32 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Biscoito Piraquê 132g Leite Maltado",
+    "name": "300g",
+    "price": 11.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Frimesa 300g",
+    "price": 21.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 19.99
   },
   {
@@ -71,17 +81,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 35.9
+    "name": "+75kg",
+    "price": 1.79
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Melancia Inteira Kg",
     "price": 35.9
   },
   {
@@ -91,17 +96,22 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 29.9
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 14.9
   },
   {
@@ -111,37 +121,27 @@
   },
   {
     "store": "Irani",
-    "name": "Cera Grand Prix 200g Tradicional",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Elseve 400ml Glycolic Gloss",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
-    "price": 29.99
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 2.99
+    "name": "Suco Uva Aurora 1.5l Tp Tinto",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Crystal Com Gás 1,5 L",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Glycolic Gloss",
     "price": 29.98
   },
   {
