@@ -21,12 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.9
   },
   {
@@ -36,7 +31,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 2.99
   },
   {
@@ -91,17 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -112,21 +102,31 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 29.9
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
-    "price": 29.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
     "price": 14.98
   },
   {
