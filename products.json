@@ -11,22 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.9
   },
   {
@@ -36,7 +21,22 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 2.99
   },
   {
@@ -101,27 +101,27 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 29.9
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Liso Dos Sonhos",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
     "price": 14.9
   },
   {
@@ -197,7 +197,7 @@
   {
     "store": "Muffatao",
     "name": "Abacaxi Havaí",
-    "price": 7.39
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -322,16 +322,16 @@
   {
     "store": "Muffatao",
     "name": "Alface Americana",
-    "price": 2.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cheiro Verde Geriba",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Couve Folha Und",
+    "price": 2.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cheiro Verde Geriba",
     "price": 7.39
   },
   {
@@ -547,7 +547,7 @@
   {
     "store": "Muffatao",
     "name": "Tilápia em Postas Copacol Congelada 800g",
-    "price": 159.0
+    "price": 299.0
   },
   {
     "store": "Muffatao",
@@ -662,6 +662,11 @@
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Aerado Suflair Pacote 80g",
+    "price": 6.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate Meio Amargo Garoto Pacote 80g",
     "price": 1.95
   },
   {
@@ -677,11 +682,6 @@
   {
     "store": "Muffatao",
     "name": "Bala Butter Toffees Intense Expresso Caramel 90G",
-    "price": 6.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chocolate Meio Amargo Garoto Pacote 80g",
     "price": 6.49
   },
   {
@@ -742,16 +742,16 @@
   {
     "store": "Muffatao",
     "name": "Sardinha com Óleo Gomes da Costa Lata 75g",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Seleta de Legumes em Conserva Quero Lata 170g",
     "price": 3.19
   },
   {
     "store": "Muffatao",
     "name": "Milho Verde em Conserva Fugini Sachê 200g",
+    "price": 5.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Seleta de Legumes em Conserva Quero Lata 170g",
     "price": 9.98
   },
   {
@@ -837,6 +837,11 @@
   {
     "store": "Muffatao",
     "name": "Paçoca Tradicional DaColônia Caixa 200g",
+    "price": 1.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Torrone Arcor 25G Chocolate",
     "price": 15.98
   },
   {
@@ -868,11 +873,6 @@
     "store": "Muffatao",
     "name": "Confeito Granulado Mesclado Chocolate e Baunilha Dori Pacote 120g",
     "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Confeito Granulado Chocolate Dori Pacote 120g",
-    "price": 22.9
   },
   {
     "store": "Muffatao",
@@ -1032,6 +1032,11 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Piracanjuba Caixa 200g",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Creme de Leite UHT Homogeneizado Zero Lactose Piracanjuba Caixa 200g",
     "price": 3.29
   },
   {
@@ -1047,11 +1052,6 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Zero Lactose Tirol Caixa 200g",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Leite UHT Homogeneizado Zero Lactose Piracanjuba Caixa 200g",
     "price": 4.99
   },
   {
@@ -1122,6 +1122,11 @@
   {
     "store": "Muffatao",
     "name": "Ketchup Fugini Sachê Biquinho 200g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Hellmann's Pote 500g",
     "price": 6.49
   },
   {
@@ -1132,11 +1137,6 @@
   {
     "store": "Muffatao",
     "name": "Ketchup Heinz Squeeze 397g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maionese Hellmann's Pote 500g",
     "price": 14.98
   },
   {
@@ -1157,12 +1157,12 @@
   {
     "store": "Muffatao",
     "name": "Molho Barbecue Kenko Squeeze 220g",
-    "price": 8.98
+    "price": 11.99
   },
   {
     "store": "Muffatao",
-    "name": "Maionese Hellmann's Pote 250g",
-    "price": 9.98
+    "name": "Maionese Caseira Hemmer Pote 500g",
+    "price": 8.98
   },
   {
     "store": "Muffatao",
