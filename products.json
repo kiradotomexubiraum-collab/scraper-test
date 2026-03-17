@@ -11,17 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.9
   },
   {
@@ -31,12 +21,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 2.99
   },
   {
@@ -71,12 +71,22 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -87,16 +97,11 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Condicionador Elseve 400ml Collagen Lifter",
     "price": 14.9
   },
   {
@@ -106,12 +111,12 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Elseve 400ml Collagen Lifter",
-    "price": 29.9
+    "name": "Cera Grand Prix 200g Tradicional",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Cera Grand Prix 200g Tradicional",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 14.9
   },
   {
@@ -122,16 +127,6 @@
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Glycolic Gloss",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 29.9
   },
   {
@@ -147,6 +142,11 @@
   {
     "store": "Irani",
     "name": "Água Mineral Crystal Com Gás 1,5 L",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
     "price": 5.99
   },
   {
