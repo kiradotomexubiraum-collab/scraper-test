@@ -152,12 +152,17 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 4.99
+    "price": 7.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Banana Caturra",
+    "price": 2.95
   },
   {
     "store": "Muffatao",
     "name": "Laranja Pera",
-    "price": 8.98
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -167,7 +172,12 @@
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
-    "price": 14.99
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Melão Espanhol",
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -182,22 +192,12 @@
   {
     "store": "Muffatao",
     "name": "Melancia",
-    "price": 13.99
+    "price": 9.98
   },
   {
     "store": "Muffatao",
     "name": "Abacaxi Havaí",
     "price": 7.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tomate Sweet Grape Bandeja Un",
-    "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Banana Prata",
-    "price": 5.98
   },
   {
     "store": "Muffatao",
@@ -252,22 +252,22 @@
   {
     "store": "Muffatao",
     "name": "Legumes",
-    "price": 4.99
+    "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Batata Branca",
-    "price": 7.99
+    "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Batata Doce",
-    "price": 9.98
+    "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Tomate Longa Vida",
-    "price": 4.69
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -277,7 +277,7 @@
   {
     "store": "Muffatao",
     "name": "Cenoura Extra",
-    "price": 7.99
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -287,7 +287,7 @@
   {
     "store": "Muffatao",
     "name": "Abobrinha Verde",
-    "price": 7.89
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -382,7 +382,7 @@
   {
     "store": "Muffatao",
     "name": "Coxa E Sobrecoxa Coopavel",
-    "price": 16.98
+    "price": 15.59
   },
   {
     "store": "Muffatao",
@@ -397,7 +397,7 @@
   {
     "store": "Muffatao",
     "name": "Meio Da Asa Coopavel 1kg",
-    "price": 10.89
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -422,6 +422,11 @@
   {
     "store": "Muffatao",
     "name": "Carne de Hambúrguer Sadia Bovino - 113g",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Texas burguer 90g",
     "price": 6.69
   },
   {
@@ -512,7 +517,7 @@
   {
     "store": "Muffatao",
     "name": "Filé de Tilapia COPACOL Congelado 400g",
-    "price": 35.98
+    "price": 46.98
   },
   {
     "store": "Muffatao",
@@ -847,7 +852,7 @@
   {
     "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
-    "price": 12.99
+    "price": 14.98
   },
   {
     "store": "Muffatao",
