@@ -11,17 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.9
   },
   {
@@ -31,12 +21,22 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.9
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 2.99
   },
   {
@@ -91,7 +91,17 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -102,26 +112,16 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Condicionador Elseve 400ml Collagen Lifter",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 29.9
   },
   {
@@ -581,11 +581,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Bacon Sigma Pernil 1",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Azeites",
     "price": 19.98
   },
@@ -877,7 +872,7 @@
   {
     "store": "Muffatao",
     "name": "Confeito Granulado Mesclado Chocolate e Baunilha Dori Pacote 120g",
-    "price": 4.99
+    "price": 22.9
   },
   {
     "store": "Muffatao",
