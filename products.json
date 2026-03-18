@@ -252,7 +252,7 @@
   {
     "store": "Muffatao",
     "name": "Legumes",
-    "price": 3.99
+    "price": 3.69
   },
   {
     "store": "Muffatao",
@@ -307,7 +307,7 @@
   {
     "store": "Muffatao",
     "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
-    "price": 18.9
+    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -586,11 +586,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Mortadela Suína COPACOL Sem Toucinha 1Kg",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Azeites",
     "price": 19.98
   },
@@ -617,11 +612,6 @@
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Português Gallo Lata 500ml",
-    "price": 35.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Azeite de Oliva Extra Virgem Português Andorinha Clássicos Vidro 250ml",
     "price": 49.9
   },
   {
@@ -638,6 +628,11 @@
     "store": "Muffatao",
     "name": "Aceto Balsâmico Mastroiani 500ml",
     "price": 52.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite de Oliva Extra Virgem Seleção Português Andorinha Clássicos Vidro 500ml",
+    "price": 44.9
   },
   {
     "store": "Muffatao",
@@ -728,6 +723,11 @@
     "store": "Muffatao",
     "name": "Chocolate Pó Solúvel Dr. Oetker DeCoração Caixa 200g",
     "price": 41.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cacau Po 100% Zaelei 200G",
+    "price": 18.98
   },
   {
     "store": "Muffatao",
