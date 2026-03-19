@@ -6,7 +6,13 @@ categories = [
     "https://muffataosupermercado.instabuy.com.br/cat/Frutas-Legumes-e-Verduras",
     "https://muffataosupermercado.instabuy.com.br/cat/Acougue-Aves-e-Peixaria",
     "https://muffataosupermercado.instabuy.com.br/cat/Bebidas",
-    "https://muffataosupermercado.instabuy.com.br/cat/Mercearia"
+    "https://muffataosupermercado.instabuy.com.br/cat/Mercearia",
+    "https://muffataosupermercado.instabuy.com.br/cat/Laticinios",
+    "https://muffataosupermercado.instabuy.com.br/cat/Alimentos-Basicos",
+    "https://muffataosupermercado.instabuy.com.br/cat/Bebidas-Nao-Alcoolicas",
+    "https://muffataosupermercado.instabuy.com.br/cat/Matinais",
+    "https://muffataosupermercado.instabuy.com.br/cat/Frios",
+    "https://muffataosupermercado.instabuy.com.br/cat/Padaria"
 ]
 
 products = []
