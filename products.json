@@ -7,6 +7,11 @@
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
+    "price": 21.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 6.99
   },
   {
@@ -17,26 +22,21 @@
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Qualy 500g Sem Sal",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Qualy 500g Com Sal",
     "price": 8.99
   },
   {
     "store": "Irani",
     "name": "Doce de Leite Mu-Mu 350g",
-    "price": 16.9
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "name": "Margarina Qualy 500g Com Sal",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Margarina Qualy 500g Sem Sal",
     "price": 16.9
   },
   {
@@ -46,7 +46,17 @@
   },
   {
     "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
     "name": "Sabão Líquido Girando Sol 2L Ação Total",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 7.98
   },
   {
@@ -57,16 +67,6 @@
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -76,22 +76,22 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 5.99
   },
   {
@@ -107,6 +107,11 @@
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 5.99
   },
   {
@@ -122,41 +127,31 @@
   {
     "store": "Irani",
     "name": "Whisky White Horse 1l Fine Old",
-    "price": 19.99
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Copa Ceratti 100g Fatiada",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alicate para Cutículas Mundial 522 Classic",
     "price": 7.98
   },
   {
     "store": "Irani",
-    "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Minas Frescal Polenghi 400g",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "name": "Doce Leite Parmalat 350g Pote",
     "price": 1.99
   },
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 7.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Banana Caturra",
     "price": 2.95
   },
   {
@@ -198,6 +193,11 @@
     "store": "Muffatao",
     "name": "Abacaxi Havaí",
     "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Banana Prata",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -302,11 +302,6 @@
   {
     "store": "Muffatao",
     "name": "Ervilha e Milho Verde em Conserva Dueto Fugini Sachê 170g",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
     "price": 15.98
   },
   {
@@ -372,11 +367,6 @@
   {
     "store": "Muffatao",
     "name": "Filé de Peito de Frango Copacol IQF 800g",
-    "price": 11.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Peito de Frango Defumado Aurora Pacote 200g",
     "price": 12.98
   },
   {
@@ -408,6 +398,11 @@
     "store": "Muffatao",
     "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
     "price": 23.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
+    "price": 10.99
   },
   {
     "store": "Muffatao",
@@ -592,11 +587,6 @@
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Argentino Cocinero Garrafa 500ml",
-    "price": 39.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml",
     "price": 49.9
   },
   {
@@ -607,6 +597,11 @@
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Português Gallo Lata 500ml",
+    "price": 29.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite Gallo Dia A Dia 400Ml",
     "price": 49.9
   },
   {
@@ -662,7 +657,7 @@
   {
     "store": "Muffatao",
     "name": "Chocolate Meio Amargo Garoto Pacote 80g",
-    "price": 1.95
+    "price": 2.59
   },
   {
     "store": "Muffatao",
@@ -802,6 +797,11 @@
   {
     "store": "Muffatao",
     "name": "Molho de Tomate Bolonhesa Pomarola Sabores Sachê 300g",
+    "price": 3.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Concentrado Fugini Sachê 300g",
     "price": 19.98
   },
   {
@@ -818,11 +818,6 @@
     "store": "Muffatao",
     "name": "Extrato de Tomate Quero Caixa 320g",
     "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tomate Pelado Olé em Cubos 240g",
-    "price": 22.9
   },
   {
     "store": "Muffatao",
@@ -1117,6 +1112,11 @@
   {
     "store": "Muffatao",
     "name": "Maioneses, Ketchups e Mostardas",
+    "price": 3.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Ketchup Fugini Sachê Biquinho 200g",
     "price": 9.98
   },
   {
@@ -1158,11 +1158,6 @@
     "store": "Muffatao",
     "name": "Maionese Caseira Hemmer Pote 500g",
     "price": 8.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maionese Hellmann's Pote 250g",
-    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -1317,12 +1312,12 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho Bacon Torcida 35G",
-    "price": 10.99
+    "price": 12.98
   },
   {
     "store": "Muffatao",
     "name": "Salgadinho de Batata Queijo Pringles Tubo 109g",
-    "price": 10.99
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -1362,7 +1357,7 @@
   {
     "store": "Muffatao",
     "name": "Sopas Instantâneas",
-    "price": 10.99
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -1427,6 +1422,11 @@
   {
     "store": "Muffatao",
     "name": "Vinagre de Álcool Castelo Frasco 2l",
+    "price": 6.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Vinagre de Vinho Tinto Rosani Frasco 500ml",
     "price": 8.99
   },
   {
@@ -1453,10 +1453,5 @@
     "store": "Muffatao",
     "name": "Vinagre de Maçã Orgânico 500ml",
     "price": 29.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Vinagre Balsâmico Rosani 500ml",
-    "price": 7.98
   }
 ]
