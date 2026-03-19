@@ -16,32 +16,32 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
-    "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Doce de Leite Mu-Mu 350g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Margarina Qualy 500g Com Sal",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Margarina Qualy 500g Sem Sal",
+    "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Wickbold 450g Integral",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce de Leite Mu-Mu 350g",
     "price": 16.9
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "name": "Sabão Líquido Girando Sol 2L Ação Total",
     "price": 16.9
   },
   {
@@ -51,17 +51,22 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Ação Total",
-    "price": 12.98
+    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "name": "Mortadela Copacol 380g. Frango",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Água de Coco Mais Coco 1L",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 17.89
   },
   {
@@ -76,22 +81,32 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 5.99
   },
   {
@@ -107,16 +122,6 @@
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 19.9
   },
   {
@@ -127,27 +132,22 @@
   {
     "store": "Irani",
     "name": "Whisky White Horse 1l Fine Old",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alicate para Cutículas Mundial 522 Classic",
     "price": 7.98
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Parmalat 350g Pote",
-    "price": 1.99
+    "name": "Lencos Demaquilante Ladybless C/25",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -302,6 +302,11 @@
   {
     "store": "Muffatao",
     "name": "Ervilha e Milho Verde em Conserva Dueto Fugini Sachê 170g",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
     "price": 15.98
   },
   {
@@ -437,7 +442,7 @@
   {
     "store": "Muffatao",
     "name": "Kit Feijoada Perdigão Pacote 880g",
-    "price": 15.98
+    "price": 17.98
   },
   {
     "store": "Muffatao",
