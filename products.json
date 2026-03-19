@@ -7,11 +7,6 @@
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Piraquê 132g Leite Maltado",
     "price": 21.99
   },
   {
@@ -22,6 +17,21 @@
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Ação Total",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
     "price": 14.9
   },
   {
@@ -31,12 +41,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -47,21 +62,11 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
     "price": 5.99
   },
   {
@@ -72,6 +77,11 @@
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
     "price": 29.99
   },
   {
@@ -87,21 +97,21 @@
   {
     "store": "Irani",
     "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 1.99
+    "price": 7.98
   },
   {
     "store": "Irani",
-    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "name": "Lencos Demaquilante Ladybless C/25",
     "price": 19.99
   },
   {
     "store": "Irani",
     "name": "Copa Ceratti 100g Fatiada",
+    "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Parmalat 350g Pote",
     "price": 19.98
   },
   {
@@ -111,17 +121,17 @@
   },
   {
     "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
     "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 7.98
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Parmalat 350g Pote",
-    "price": 7.98
-  },
-  {
-    "store": "Irani",
-    "name": "Lencos Demaquilante Ladybless C/25",
+    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
     "price": 18.98
   },
   {
@@ -138,16 +148,6 @@
     "store": "Irani",
     "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
     "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Minas Frescal Polenghi 400g",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alicate para Cutículas Mundial 522 Classic",
-    "price": 9.98
   },
   {
     "store": "Muffatao",
