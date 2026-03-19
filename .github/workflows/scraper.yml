@@ -2,7 +2,7 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every hour
+    - cron: "0 */12 * * *"   # runs every hour
   workflow_dispatch:
 
 permissions:
