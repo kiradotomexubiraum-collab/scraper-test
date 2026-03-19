@@ -17,16 +17,51 @@
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 35.9
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
+    "name": "Margarina Qualy 500g Com Sal",
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Pão Wickbold 450g Integral",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce de Leite Mu-Mu 350g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Margarina Qualy 500g Sem Sal",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Ação Total",
+    "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Água de Coco Mais Coco 1L",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 35.9
   },
   {
@@ -41,17 +76,27 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
     "price": 5.99
   },
   {
@@ -62,92 +107,47 @@
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
-    "price": 14.9
+    "price": 29.99
   },
   {
     "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
     "price": 64.9
   },
   {
     "store": "Irani",
     "name": "Whisky White Horse 1l Fine Old",
-    "price": 1.99
+    "price": 19.9
   },
   {
     "store": "Irani",
-    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Copa Ceratti 100g Fatiada",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alicate para Cutículas Mundial 522 Classic",
+    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 19.98
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Batata Mccain AIRFRYER 600g",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
     "price": 15.98
   },
   {
     "store": "Irani",
     "name": "Queijo Minas Frescal Polenghi 400g",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Doce Leite Parmalat 350g Pote",
-    "price": 18.98
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta Cabelo Bela & Cor 3.0 Castanho Escuro",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Bela & Cor 2.0 Preto",
-    "price": 9.98
+    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "price": 1.99
   },
   {
     "store": "Muffatao",
