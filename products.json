@@ -7,11 +7,11 @@
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": 21.99
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "name": "Pão Wickbold 450g Integral",
     "price": 6.79
   },
   {
@@ -21,22 +21,17 @@
   },
   {
     "store": "Irani",
-    "name": "Margarina Qualy 500g Com Sal",
+    "name": "Margarina Qualy 500g Sem Sal",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
+    "name": "Margarina Qualy 500g Com Sal",
     "price": 8.99
   },
   {
     "store": "Irani",
     "name": "Doce de Leite Mu-Mu 350g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Qualy 500g Sem Sal",
     "price": 16.9
   },
   {
@@ -57,6 +52,11 @@
   {
     "store": "Irani",
     "name": "Água de Coco Mais Coco 1L",
+    "price": 17.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 12.98
   },
   {
@@ -66,7 +66,17 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -77,26 +87,11 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 5.99
   },
   {
@@ -112,41 +107,46 @@
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 64.9
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 19.9
   },
   {
     "store": "Irani",
     "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "price": 64.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky White Horse 1l Fine Old",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Copa Ceratti 100g Fatiada",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
     "price": 15.98
   },
   {
     "store": "Irani",
     "name": "Queijo Minas Frescal Polenghi 400g",
-    "price": 7.98
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Parmalat 350g Pote",
-    "price": 1.99
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
     "price": 1.99
   },
   {
