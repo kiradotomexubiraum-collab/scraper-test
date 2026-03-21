@@ -2,16 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Lata",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "Gergelim Branco 200g Istambul Torrado",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Cerpa Export 350ml Lata",
     "price": 23.98
   },
   {
@@ -27,6 +27,11 @@
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 8.99
   },
   {
@@ -36,12 +41,42 @@
   },
   {
     "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
     "name": "Pão Wickbold 450g Integral",
+    "price": 17.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Mortadela Copacol 380g. Frango",
+    "name": "700ml",
+    "price": 9.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Perro 700ml Coco",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Tirol 300g",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Huggies 600ml Suave",
     "price": 12.98
   },
   {
@@ -51,22 +86,12 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 29.99
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Congelada Lar 1,5kg",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
+    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
     "price": 14.9
   },
   {
@@ -77,6 +102,36 @@
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
     "price": 67.89
   },
   {
@@ -91,63 +146,8 @@
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
-    "price": 67.89
-  },
-  {
-    "store": "Irani",
     "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
-    "price": 64.9
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Coca-Cola Sem Açúcar 350ml",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "Coca-Cola 350ml Original",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Mccain AIRFRYER 600g",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alicate para Cutículas Mundial 522 Classic",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 1.99
+    "price": 67.89
   },
   {
     "store": "Muffatao",
@@ -407,7 +407,7 @@
   {
     "store": "Muffatao",
     "name": "Coxinha Da Asa Coopavel 1Kg IQF",
-    "price": 10.99
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -492,7 +492,7 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Campeira 700g",
-    "price": 27.98
+    "price": 30.98
   },
   {
     "store": "Muffatao",
@@ -1142,11 +1142,6 @@
   {
     "store": "Muffatao",
     "name": "Maionese Tradicional Hemmer Sachê 200g",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Ketchup Heinz Squeeze 397g",
     "price": 14.98
   },
   {
@@ -1173,6 +1168,11 @@
     "store": "Muffatao",
     "name": "Maionese Caseira Hemmer Pote 500g",
     "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Hellmann's Pote 250g",
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -1357,17 +1357,17 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho de Trigo Churrasco Torcida Pacote 100g",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Barra de Frutas Banana e Morango Cobertura Morango Minions Banana Brasil Kids Pacote 22g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Salgadinho Picanha Elma Chips Pingo Douro 120G",
     "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho Presunto Elma Chips Fandangos 160G",
-    "price": 10.9
   },
   {
     "store": "Muffatao",
@@ -1432,7 +1432,7 @@
   {
     "store": "Muffatao",
     "name": "Vinagre De Álcool 6% P/ Limpeza Castelo 5L",
-    "price": 10.98
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -1452,7 +1452,7 @@
   {
     "store": "Muffatao",
     "name": "Vinagre Balsamico Castelo Pet 250Ml Tradicional",
-    "price": 10.98
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -1462,12 +1462,12 @@
   {
     "store": "Muffatao",
     "name": "Vinagre de Álcool Chemim Frasco 900ml",
-    "price": 28.99
+    "price": 29.9
   },
   {
     "store": "Muffatao",
-    "name": "Vinagre de Maçã Orgânico 500ml",
-    "price": 29.9
+    "name": "Vinagre Balsâmico Rosani 500ml",
+    "price": 7.98
   },
   {
     "store": "Muffatao",
@@ -1627,7 +1627,7 @@
   {
     "store": "Muffatao",
     "name": "Banha Frimesa Pacote 1kg",
-    "price": 10.99
+    "price": 9.99
   },
   {
     "store": "Muffatao",
@@ -1647,7 +1647,7 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Frimesa Extra 500G",
-    "price": 10.99
+    "price": 9.99
   },
   {
     "store": "Muffatao",
@@ -2027,7 +2027,7 @@
   {
     "store": "Muffatao",
     "name": "Farelo de Aveia Nestlé Oat Bran Caixa 170g",
-    "price": 4.99
+    "price": 5.19
   },
   {
     "store": "Muffatao",
@@ -2292,7 +2292,7 @@
   {
     "store": "Muffatao",
     "name": "Chá Preto Ice Tea Limão Leão Zero Garrafa 450ml",
-    "price": 8.59
+    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -2607,11 +2607,6 @@
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural com Gás Prata Garrafa 310ml",
-    "price": 3.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Agua Prata 370Ml Sem Gas",
     "price": 4.99
   },
   {
@@ -2623,6 +2618,11 @@
     "store": "Muffatao",
     "name": "Água Mineral Natural com Gás Sferriê Garrafa 1,5l",
     "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Água Mineral Natural com Gás Sferriê Premium Garrafa 410ml",
+    "price": 3.39
   },
   {
     "store": "Muffatao",
@@ -3107,11 +3107,6 @@
   {
     "store": "Muffatao",
     "name": "Mortadela Defumada Perdigão Ouro 200g",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela Defumada Fatiada Sadia Soltíssimo 200g",
     "price": 5.69
   },
   {
@@ -3123,6 +3118,11 @@
     "store": "Muffatao",
     "name": "Bacon em Cubos Frimesa 400g",
     "price": 38.68
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bacon Sadia Inteiro",
+    "price": 36.98
   },
   {
     "store": "Muffatao",
@@ -3297,11 +3297,6 @@
   {
     "store": "Muffatao",
     "name": "Salsicha hot dog Seara 500g",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha Seara Defumada 500G",
     "price": 14.89
   },
   {
@@ -3328,6 +3323,11 @@
     "store": "Muffatao",
     "name": "Salsicha Tradicional Sadia 500g",
     "price": 14.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salsicha de Peru Sadia 500g",
+    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -3392,6 +3392,11 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Tradiciona",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Pullman Artesano Pacote 300g",
     "price": 7.99
   },
   {
@@ -3407,27 +3412,22 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
+    "price": 6.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Humbúrguer Caseirinho 200G",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Visconti 400G Integral",
     "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Integral Bauducco Pacote 390g",
     "price": 16.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Hamburguer Pullman 420G Com Gergelim",
-    "price": 13.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Tortilha Original Rap10 Pouch 297g",
-    "price": 19.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Frutas, Grãos & Castanhas Nutrella Pacote 500g",
-    "price": 16.98
   },
   {
     "store": "Muffatao",
@@ -3452,6 +3452,11 @@
   {
     "store": "Muffatao",
     "name": "Tapioca Pinduca Pacote 1kg",
+    "price": 17.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tapioca Rap10 Pouch 198g",
     "price": 10.98
   }
 ]
