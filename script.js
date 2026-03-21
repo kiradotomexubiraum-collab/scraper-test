@@ -6,12 +6,11 @@ fetch("products.json")
 .then(data => {
     products = data;
     window.products = data;
-    console.log("Products loaded:", products);
 })
 .catch(err => console.error("Error loading products:", err));
 
 
-// 🟢 NORMALIZE FUNCTION (fixes case + spaces + accents)
+// 🟢 NORMALIZE FUNCTION
 function normalize(text){
     return text
         .toLowerCase()
@@ -21,10 +20,10 @@ function normalize(text){
 }
 
 
-// 🟢 SEARCH FUNCTION
+// 🟢 MAIN SEARCH FUNCTION
 window.searchProduct = function(){
 
-    const query = document.getElementById("search").value.toLowerCase();
+    const query = document.getElementById("search").value;
     const storeFilter = document.getElementById("storeFilter").value;
     const results = document.getElementById("results");
 
@@ -33,14 +32,6 @@ window.searchProduct = function(){
     if(!products || products.length === 0){
         results.innerHTML = "<tr><td colspan='3'>No products loaded</td></tr>";
         return;
-    }
-
-    function normalize(text){
-        return text
-            .toLowerCase()
-            .trim()
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "");
     }
 
     const selected = normalize(storeFilter);
@@ -58,7 +49,7 @@ window.searchProduct = function(){
     }
 
     // =====================================================
-    // 🟢 CASE 1: GROUPED (ALL STORES)
+    // 🟢 CASE 1: GROUPED VIEW (ALL STORES)
     // =====================================================
     if(selected === "all"){
 
@@ -76,20 +67,25 @@ window.searchProduct = function(){
 
         Object.values(grouped).forEach(group => {
 
+            // sort by price
             group.sort((a, b) => Number(a.price) - Number(b.price));
 
             const bestPrice = Number(group[0].price);
 
-            // 🟢 TITLE ROW
+            // 🟢 TITLE ROW (aligned correctly)
             const titleRow = document.createElement("tr");
+
             titleRow.innerHTML = `
-                <td colspan="3" style="font-weight:bold; background:#eee;">
+                <td style="font-weight:bold; background:#eee;">
                     ${group[0].name}
                 </td>
+                <td></td>
+                <td></td>
             `;
+
             results.appendChild(titleRow);
 
-            // 🟢 STORES ROWS
+            // 🟢 STORE ROWS
             group.forEach((p, i) => {
 
                 const row = document.createElement("tr");
@@ -119,7 +115,7 @@ window.searchProduct = function(){
     }
 
     // =====================================================
-    // 🟢 CASE 2: NORMAL LIST (ONE STORE)
+    // 🟢 CASE 2: NORMAL VIEW (ONE STORE)
     // =====================================================
     else{
 
