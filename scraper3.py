@@ -28,7 +28,7 @@ with sync_playwright() as p:
 
     # 🟢 AUTO SELECT CITY
     try:
-        page.click("text=Curitiba", timeout=2000)
+        page.click("text=Cascavel", timeout=2000)
     except:
         try:
             page.locator("button").first.click()
