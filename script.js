@@ -119,7 +119,7 @@ if(selected === "all"){
             }
 
             row.innerHTML = `
-                <td>${p.name}</td>
+                <td>${p.name.replace(/\s+/g, " ").trim()}</td>
                 <td>R$ ${Number(p.price).toFixed(2)}</td>
                 <td>${p.store}</td>
             `;
