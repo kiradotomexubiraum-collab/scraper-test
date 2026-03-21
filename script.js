@@ -1,16 +1,17 @@
 let products = [];
-let selectedStore = "all";
 
 // 🟢 LOAD PRODUCTS
 fetch("products.json")
 .then(res => res.json())
 .then(data => {
     products = data;
+    window.products = data;
+    console.log("Loaded products:", products);
 })
 .catch(err => console.error("Error loading products:", err));
 
 
-// 🟢 NORMALIZE
+// 🟢 NORMALIZE FUNCTION (fix case, accents, spaces)
 function normalize(text){
     return text
         .toLowerCase()
@@ -20,40 +21,11 @@ function normalize(text){
 }
 
 
-// 🟢 DROPDOWN TOGGLE
-function toggleDropdown(){
-    document.querySelector(".dropdown").classList.toggle("open");
-}
-
-
-// 🟢 SELECT STORE
-function selectStore(store){
-
-    selectedStore = store;
-
-    document.querySelector(".dropdown-selected").innerText =
-        store === "all" ? "All Stores" : store;
-
-    document.querySelector(".dropdown").classList.remove("open");
-
-    searchProduct();
-}
-
-
-// 🟢 CLOSE DROPDOWN ON OUTSIDE CLICK
-document.addEventListener("click", (e) => {
-    const dropdown = document.querySelector(".dropdown");
-
-    if (!dropdown.contains(e.target)) {
-        dropdown.classList.remove("open");
-    }
-});
-
-
-// 🟢 SEARCH FUNCTION
+// 🟢 MAIN SEARCH FUNCTION
 window.searchProduct = function(){
 
     const query = document.getElementById("search").value;
+    const storeFilter = document.getElementById("storeFilter").value;
     const results = document.getElementById("results");
 
     results.innerHTML = "";
@@ -63,37 +35,46 @@ window.searchProduct = function(){
         return;
     }
 
-    const selected = normalize(selectedStore);
+    const selected = normalize(storeFilter);
 
+    // 🟢 FILTER BY NAME
     let filtered = products.filter(p =>
         normalize(p.name).includes(normalize(query))
     );
 
+    // 🟢 FILTER BY STORE
     if(selected !== "all"){
         filtered = filtered.filter(p =>
             p.store && normalize(p.store) === selected
         );
     }
 
+    // 🟢 SORT BY PRICE (cheapest first)
     filtered.sort((a, b) => Number(a.price) - Number(b.price));
 
-    // 🟢 REMOVE DUPES (frontend safety)
+    // 🟢 REMOVE DUPLICATES (frontend safety)
     const seen = new Set();
     filtered = filtered.filter(p => {
-        const key = `${normalize(p.name)}-${normalize(p.store)}-${p.price}`;
+        const key = `${normalize(p.name)}-${normalize(p.store)}-${Number(p.price)}`;
         if(seen.has(key)) return false;
         seen.add(key);
         return true;
     });
 
+    // 🟢 DISPLAY RESULTS
     filtered.forEach((p, i) => {
 
         const row = document.createElement("tr");
 
+        // highlight cheapest overall
         if(i === 0){
-            row.style.backgroundColor = "#1e3a2f";
+            row.style.backgroundColor = "#d4ffd4";
+        }
+        if(i > 0){
+            row.style.backgroundColor = "000000";
         }
 
+        // clean product name (fix broken spacing)
         const cleanName = p.name.replace(/\s+/g, " ").trim();
 
         row.innerHTML = `
