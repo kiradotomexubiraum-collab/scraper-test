@@ -1,24 +1,27 @@
-// make products global
-window.products = [];
+let products = [];
 
-// load the JSON
+// 🟢 LOAD JSON
 fetch("products.json")
 .then(res => res.json())
 .then(data => {
-
+    products = data;
     window.products = data;
-
-    window.products.forEach(p=>{
-        p.price = Number(p.price);
-    });
-
-    console.log("Products loaded:", window.products);
-
+    console.log("Products loaded:", products);
 })
-.catch(err => console.error("JSON load error:", err));
+.catch(err => console.error("Error loading products:", err));
 
 
-// make search function global
+// 🟢 NORMALIZE FUNCTION (fixes case + spaces + accents)
+function normalize(text){
+    return text
+        .toLowerCase()
+        .trim()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+}
+
+
+// 🟢 SEARCH FUNCTION
 window.searchProduct = function(){
 
     const query = document.getElementById("search").value.toLowerCase();
@@ -27,25 +30,28 @@ window.searchProduct = function(){
 
     results.innerHTML = "";
 
-    if(!window.products || window.products.length === 0){
-        results.innerHTML = "<tr><td colspan='3'>Products not loaded</td></tr>";
+    if(!products || products.length === 0){
+        results.innerHTML = "<tr><td colspan='3'>No products loaded</td></tr>";
         return;
     }
 
-    let filtered = window.products.filter(p =>
+    let filtered = products.filter(p =>
         p.name.toLowerCase().includes(query)
     );
 
-    // 🟢 FILTER BY STORE
-    if(storeFilter !== "all"){
+    const selected = normalize(storeFilter);
+
+    // 🟢 FILTER BY STORE (FIXED)
+    if(selected !== "all"){
         filtered = filtered.filter(p =>
-            p.store.toLowerCase() === storeFilter.toLowerCase()
+            p.store && normalize(p.store) === selected
         );
     }
 
     // 🟢 SORT BY PRICE
-    filtered.sort((a,b)=>a.price-b.price);
+    filtered.sort((a, b) => Number(a.price) - Number(b.price));
 
+    // 🟢 DISPLAY RESULTS
     filtered.forEach((p, i) => {
 
         const row = document.createElement("tr");
