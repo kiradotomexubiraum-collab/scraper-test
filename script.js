@@ -82,12 +82,13 @@ if(selected === "all"){
                 extra = ` (+${diff.toFixed(0)}%)`;
             }
 
-            let displayName = p.name;
+            let displayName = p.name.replace(/\s+/g, " ").trim();
 
             if(i > 0){
-                displayName = "↳ " + p.name;
+                displayName = "↳ " + displayName;
             }
 
+            // ✅ ONLY FIRST ITEM OF GROUP
             if(i === 0){
                 row.style.backgroundColor = "#d4ffd4";
             }
@@ -100,7 +101,6 @@ if(selected === "all"){
 
             results.appendChild(row);
         });
-
     });
 }
     // =====================================================
