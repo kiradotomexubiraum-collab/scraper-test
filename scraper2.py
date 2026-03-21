@@ -32,7 +32,7 @@ with sync_playwright() as p:
         print("Scraping:", url)
 
         page.goto(url)
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(500)
 
         # scroll to load products
         for i in range(6):
