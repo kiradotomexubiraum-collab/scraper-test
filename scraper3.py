@@ -5,53 +5,57 @@ import os
 
 FILE = "products.json"
 
-# 🟢 load existing products
+# 🟢 LOAD EXISTING DATA
 if os.path.exists(FILE):
     with open(FILE, "r", encoding="utf-8") as f:
         existing = json.load(f)
 else:
     existing = []
 
-# 🟢 remove old Festval data
+# 🟢 REMOVE OLD FESTVAL DATA
 existing = [p for p in existing if p.get("store") != "Festval"]
 
+# 🟢 DEDUP TRACKER
+seen = set()
 new_products = []
+
+def normalize(text):
+    return (
+        text.lower()
+        .strip()
+        .replace("\n", " ")
+    )
 
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
-    print("Opening Festval...")
     page.goto("https://superfestval.com.br")
-    page.wait_for_timeout(2000)
+    page.wait_for_timeout(1000)
 
     # 🟢 AUTO SELECT CITY
     try:
-        page.click("text=Cascavel", timeout=2000)
+        page.click("text=Cascavel", timeout=500)
     except:
-        try:
-            page.locator("button").first.click()
-        except:
-            print("⚠️ Could not auto-select city")
+        pass
 
-    page.wait_for_timeout(6000)
+    page.wait_for_timeout(1000)
 
     # 🟢 OPEN OFERTAS
     try:
-        page.click("text=Ofertas", timeout=2000)
+        page.click("text=Ofertas", timeout=500)
     except:
-        print("⚠️ Could not open ofertas")
+        pass
 
-    page.wait_for_timeout(1500)
+    page.wait_for_timeout(1000)
 
     # 🟢 SCROLL
     for _ in range(6):
         page.mouse.wheel(0, 10000)
-        page.wait_for_timeout(1000)
+        page.wait_for_timeout(500)
 
-    print("Extracting Festval products...")
-
+    # 🟢 EXTRACT
     cards = page.locator("*:has-text('R$')")
     count = cards.count()
 
@@ -68,28 +72,31 @@ with sync_playwright() as p:
             price = None
 
             for line in lines:
-
                 if "R$" in line:
                     match = re.search(r"R\$ ?([0-9]+,[0-9]+)", line)
                     if match:
                         price = float(match.group(1).replace(",", "."))
-
                 else:
                     if len(line) > 5 and not name:
                         name = line.strip()
 
-            # 🧹 filter garbage
             if name and price:
-                if (
-                    len(name) < 5 or
-                    name.isupper() or
-                    "OFERTA" in name.upper()
-                ):
+
+                key = (
+                    normalize(name),
+                    round(price, 2),
+                    "festval"
+                )
+
+                # 🟢 REMOVE DUPLICATES HERE
+                if key in seen:
                     continue
+
+                seen.add(key)
 
                 new_products.append({
                     "store": "Festval",
-                    "name": name,
+                    "name": name.strip(),
                     "price": price
                 })
 
@@ -98,25 +105,11 @@ with sync_playwright() as p:
 
     browser.close()
 
-# 🟢 MERGE
-all_products = existing + new_products
+# 🟢 MERGE DATA
+final_products = existing + new_products
 
-# 🟢 REMOVE DUPLICATES
-unique = {}
-
-for p in all_products:
-    key = (
-        p["store"].strip().lower(),
-        p["name"].strip().lower(),
-        round(float(p["price"]), 2)
-    )
-
-    unique[key] = p  # overwrites duplicates
-
-final_products = list(unique.values())
-
-# 🟢 save
+# 🟢 SAVE JSON
 with open(FILE, "w", encoding="utf-8") as f:
     json.dump(final_products, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Saved {len(new_products)} Festval products")
+print(f"✅ Saved {len(new_products)} Festval products (no duplicates)")
