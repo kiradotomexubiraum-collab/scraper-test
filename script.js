@@ -51,69 +51,58 @@ window.searchProduct = function(){
     // =====================================================
     // 🟢 CASE 1: GROUPED VIEW (ALL STORES)
     // =====================================================
-    if(selected === "all"){
+if(selected === "all"){
 
-        const grouped = {};
+    const grouped = {};
 
-        filtered.forEach(p => {
-            const key = normalize(p.name);
+    filtered.forEach(p => {
+        const key = normalize(p.name);
 
-            if(!grouped[key]){
-                grouped[key] = [];
+        if(!grouped[key]){
+            grouped[key] = [];
+        }
+
+        grouped[key].push(p);
+    });
+
+    Object.values(grouped).forEach(group => {
+
+        group.sort((a, b) => Number(a.price) - Number(b.price));
+
+        const bestPrice = Number(group[0].price);
+
+        group.forEach((p, i) => {
+
+            const row = document.createElement("tr");
+
+            let extra = "";
+
+            if(i > 0){
+                const diff = ((Number(p.price) - bestPrice) / bestPrice) * 100;
+                extra = ` (+${diff.toFixed(0)}%)`;
             }
 
-            grouped[key].push(p);
-        });
+            let displayName = p.name;
 
-        Object.values(grouped).forEach(group => {
+            if(i > 0){
+                displayName = "↳ " + p.name;
+            }
 
-            // sort by price
-            group.sort((a, b) => Number(a.price) - Number(b.price));
+            if(i === 0){
+                row.style.backgroundColor = "#d4ffd4";
+            }
 
-            const bestPrice = Number(group[0].price);
-
-            // 🟢 TITLE ROW (aligned correctly)
-            const titleRow = document.createElement("tr");
-
-            titleRow.innerHTML = `
-                <td style="font-weight:bold; background:#eee;">
-                    ${group[0].name}
-                </td>
-                <td></td>
-                <td></td>
+            row.innerHTML = `
+                <td>${displayName}</td>
+                <td>R$ ${Number(p.price).toFixed(2)}${extra}</td>
+                <td>${p.store}</td>
             `;
 
-            results.appendChild(titleRow);
-
-            // 🟢 STORE ROWS
-            group.forEach((p, i) => {
-
-                const row = document.createElement("tr");
-
-                let extra = "";
-
-                if(i > 0){
-                    const diff = ((Number(p.price) - bestPrice) / bestPrice) * 100;
-                    extra = ` (+${diff.toFixed(0)}%)`;
-                }
-
-                if(i === 0){
-                    row.style.backgroundColor = "#d4ffd4";
-                }
-
-                row.innerHTML = `
-                    <td></td>
-                    <td>R$ ${Number(p.price).toFixed(2)}${extra}</td>
-                    <td>${p.store}</td>
-                `;
-
-                results.appendChild(row);
-            });
-
+            results.appendChild(row);
         });
 
-    }
-
+    });
+}
     // =====================================================
     // 🟢 CASE 2: NORMAL VIEW (ONE STORE)
     // =====================================================
