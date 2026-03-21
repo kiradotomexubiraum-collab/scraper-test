@@ -37,7 +37,7 @@ with sync_playwright() as p:
         # scroll to load products
         for i in range(6):
             page.mouse.wheel(0, 10000)
-            page.wait_for_timeout(1000)
+            page.wait_for_timeout(500)
 
         text = page.inner_text("body")
         lines = text.split("\n")
