@@ -1,16 +1,17 @@
 let products = [];
 
-// 🟢 LOAD JSON
+// 🟢 LOAD PRODUCTS
 fetch("products.json")
 .then(res => res.json())
 .then(data => {
     products = data;
     window.products = data;
+    console.log("Loaded products:", products);
 })
 .catch(err => console.error("Error loading products:", err));
 
 
-// 🟢 NORMALIZE FUNCTION
+// 🟢 NORMALIZE FUNCTION (fix case, accents, spaces)
 function normalize(text){
     return text
         .toLowerCase()
@@ -48,84 +49,38 @@ window.searchProduct = function(){
         );
     }
 
-    // =====================================================
-    // 🟢 CASE 1: GROUPED VIEW (ALL STORES)
-    // =====================================================
-if(selected === "all"){
+    // 🟢 SORT BY PRICE (cheapest first)
+    filtered.sort((a, b) => Number(a.price) - Number(b.price));
 
-    const grouped = {};
+    // 🟢 REMOVE DUPLICATES (frontend safety)
+    const seen = new Set();
+    filtered = filtered.filter(p => {
+        const key = `${normalize(p.name)}-${normalize(p.store)}-${Number(p.price)}`;
+        if(seen.has(key)) return false;
+        seen.add(key);
+        return true;
+    });
 
-    filtered.forEach(p => {
-        const key = normalize(p.name);
+    // 🟢 DISPLAY RESULTS
+    filtered.forEach((p, i) => {
 
-        if(!grouped[key]){
-            grouped[key] = [];
+        const row = document.createElement("tr");
+
+        // highlight cheapest overall
+        if(i === 0){
+            row.style.backgroundColor = "#d4ffd4";
         }
 
-        grouped[key].push(p);
+        // clean product name (fix broken spacing)
+        const cleanName = p.name.replace(/\s+/g, " ").trim();
+
+        row.innerHTML = `
+            <td>${cleanName}</td>
+            <td>R$ ${Number(p.price).toFixed(2)}</td>
+            <td>${p.store}</td>
+        `;
+
+        results.appendChild(row);
     });
-
-    Object.values(grouped).forEach(group => {
-
-        group.sort((a, b) => Number(a.price) - Number(b.price));
-
-        const bestPrice = Number(group[0].price);
-
-        group.forEach((p, i) => {
-
-            const row = document.createElement("tr");
-
-            let extra = "";
-
-            if(i > 0){
-                const diff = ((Number(p.price) - bestPrice) / bestPrice) * 100;
-                extra = ` (+${diff.toFixed(0)}%)`;
-            }
-
-            let displayName = p.name.replace(/\s+/g, " ").trim();
-
-            if(i > 0){
-                displayName = "↳ " + displayName;
-            }
-
-            // ✅ ONLY FIRST ITEM OF GROUP
-            if(i === 0){
-                row.style.backgroundColor = "#d4ffd4";
-            }
-
-            row.innerHTML = `
-                <td>${displayName}</td>
-                <td>R$ ${Number(p.price).toFixed(2)}${extra}</td>
-                <td>${p.store}</td>
-            `;
-
-            results.appendChild(row);
-        });
-    });
-}
-    // =====================================================
-    // 🟢 CASE 2: NORMAL VIEW (ONE STORE)
-    // =====================================================
-    else{
-
-        filtered.sort((a, b) => Number(a.price) - Number(b.price));
-
-        filtered.forEach((p, i) => {
-
-            const row = document.createElement("tr");
-
-            if(i === 0){
-                row.style.backgroundColor = "#d4ffd4";
-            }
-
-            row.innerHTML = `
-                <td>${p.name.replace(/\s+/g, " ").trim()}</td>
-                <td>R$ ${Number(p.price).toFixed(2)}</td>
-                <td>${p.store}</td>
-            `;
-
-            results.appendChild(row);
-        });
-    }
 
 };
