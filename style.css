@@ -1,60 +1,88 @@
-body{
-font-family: Arial, sans-serif;
-margin:20px;
-}
-
-.meinho{
-text-align:center;
-}
-
-.search-container{
-text-align:center;
-margin-bottom:20px;
-}
-
-input{
-padding:10px;
-font-size:16px;
-width:70%;
-max-width:300px;
-}
-
-button{
-padding:10px;
-font-size:16px;
-cursor:pointer;
-}
-
-table{
-width:100%;
-border-collapse:collapse;
-margin-top:20px;
-}
-
-th, td{
-padding:10px;
-text-align:left;
-border:1px solid #ccc;
-}
-
-/* Mobile responsiveness */
-@media (max-width:600px){
-
-body{
-margin:10px;
-}
-
-input{
-width:60%;
-}
-
-th, td{
-font-size:14px;
-padding:8px;
-}
-
+/* 🌙 DARK MODE BACKGROUND */
 body {
-  background-color: black; /* Use color name, hex, RGB, etc. */
+    background-color: #0f1115;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
 }
-  
+
+/* 🧾 TITLE */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* 🔍 SEARCH AREA */
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+input, select {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 14px;
+}
+
+/* 📊 TABLE */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #1a1d24;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* 🧱 HEADER */
+thead {
+    background: #222631;
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    font-size: 14px;
+}
+
+/* 📦 ROWS */
+td {
+    padding: 10px;
+    border-top: 1px solid #2a2f3a;
+    font-size: 13px;
+}
+
+/* 🟢 CHEAPEST ROW */
+tr:first-child {
+    background-color: #1e3a2f !important;
+}
+
+/* 📱 MOBILE OPTIMIZATION */
+@media (max-width: 600px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .search-container {
+        flex-direction: column;
+    }
+
+    input, select {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    th, td {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    table {
+        font-size: 12px;
+    }
 }
