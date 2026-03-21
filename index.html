@@ -18,8 +18,14 @@
 </div>
 <div class="search-container">
 <input id="search" placeholder="Procurar produto" oninput="searchProduct()">
-<div class="search-container2">
-<input id="search2" placeholder="Procurar produto" oninput="searchProduct()">
+  
+<select id="storeFilter" onchange="searchProduct()">
+<option value="all">Todos os mercados</option>
+<option value="Irani">Irani</option>
+<option value="Muffatao">Muffatao</option>
+<option value="Festval">Festval</option>
+</select>
+  
 </div>
 
 <table>
