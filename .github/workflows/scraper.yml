@@ -30,6 +30,8 @@ jobs:
         run: python scraper.py
       - name: Run scraper2
         run: python scraper2.py
+      - name: Run scraper3
+        run: python scraper3.py
 
       - name: Commit results
         run: |
