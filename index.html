@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Preço dos mercados</title>
+<title>Preço dos mercado</title>
 <link rel="icon" href="data:,">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,30 +13,19 @@
 
 <body>
 <div class="meinho">
-<h2>Preço dos mercados</h2>
+<h2>Preço dos mercado</h2>
 </div>
-  
 <div class="search-container">
-
 <input id="search" placeholder="Procurar produto" oninput="searchProduct()">
-
-<div class="dropdown">
-
-    <div class="dropdown-selected" onclick="toggleDropdown()">
-        Todos os mercados
-    </div>
-
-    <div class="dropdown-options" id="dropdownOptions">
-        <div onclick="selectStore('all')">Todos os mercados</div>
-        <div onclick="selectStore('Irani')">Irani</div>
-        <div onclick="selectStore('Muffatao')">Muffatao</div>
-        <div onclick="selectStore('Festval')">Festval</div>
-    </div>
-
+  
+<select id="storeFilter" onchange="searchProduct()">
+<option value="all">Todos os mercados</option>
+<option value="Irani">Irani</option>
+<option value="Muffatao">Muffatao</option>
+<option value="Festval">Festval</option>
+</select>
+  
 </div>
-
-</div>
-
 
 <table>
 <thead>
