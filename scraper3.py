@@ -98,8 +98,22 @@ with sync_playwright() as p:
 
     browser.close()
 
-# 🟢 merge data
-final_products = existing + new_products
+# 🟢 MERGE
+all_products = existing + new_products
+
+# 🟢 REMOVE DUPLICATES
+unique = {}
+
+for p in all_products:
+    key = (
+        p["store"].strip().lower(),
+        p["name"].strip().lower(),
+        round(float(p["price"]), 2)
+    )
+
+    unique[key] = p  # overwrites duplicates
+
+final_products = list(unique.values())
 
 # 🟢 save
 with open(FILE, "w", encoding="utf-8") as f:
