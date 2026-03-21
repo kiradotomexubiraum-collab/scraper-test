@@ -53,4 +53,8 @@ font-size:14px;
 padding:8px;
 }
 
+body {
+  background-color: black; /* Use color name, hex, RGB, etc. */
+}
+  
 }
