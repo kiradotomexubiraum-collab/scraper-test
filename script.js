@@ -38,7 +38,9 @@ window.searchProduct = function(){
 
     // 🟢 FILTER BY STORE
     if(storeFilter !== "all"){
-        filtered = filtered.filter(p => p.store === storeFilter);
+        filtered = filtered.filter(p =>
+            p.store.toLowerCase() === storeFilter.toLowerCase()
+        );
     }
 
     // 🟢 SORT BY PRICE
