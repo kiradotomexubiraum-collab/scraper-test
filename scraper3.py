@@ -1,54 +1,64 @@
 from playwright.sync_api import sync_playwright
 import re
+import json
+import os
+
+FILE = "products.json"
+
+# 🟢 load existing products
+if os.path.exists(FILE):
+    with open(FILE, "r", encoding="utf-8") as f:
+        existing = json.load(f)
+else:
+    existing = []
+
+# 🟢 remove old Festval data
+existing = [p for p in existing if p.get("store") != "Festval"]
+
+new_products = []
 
 with sync_playwright() as p:
 
-    browser = p.chromium.launch(headless=False)
+    browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
     print("Opening Festval...")
     page.goto("https://superfestval.com.br")
-    page.wait_for_timeout(1000)
+    page.wait_for_timeout(2000)
 
     # 🟢 AUTO SELECT CITY
-    print("Selecting city automatically...")
     try:
-        page.click("text=Cascavel", timeout=1000)
+        page.click("text=Curitiba", timeout=2000)
     except:
         try:
             page.locator("button").first.click()
         except:
-            print("⚠️ Could not auto-select city, continuing...")
+            print("⚠️ Could not auto-select city")
 
-    page.wait_for_timeout(2000)
+    page.wait_for_timeout(6000)
 
-    # 🟢 OPEN OFERTAS (IMPORTANT: click, don't goto)
-    print("Opening offers...")
+    # 🟢 OPEN OFERTAS
     try:
         page.click("text=Ofertas", timeout=2000)
     except:
-        print("⚠️ Could not find 'Ofertas' button")
+        print("⚠️ Could not open ofertas")
 
-    page.wait_for_timeout(2000)
+    page.wait_for_timeout(1500)
 
     # 🟢 SCROLL
-    print("Scrolling...")
     for _ in range(6):
-        page.mouse.wheel(0, 3000)
+        page.mouse.wheel(0, 10000)
         page.wait_for_timeout(1000)
 
-    print("\n--- PRODUCTS ---\n")
+    print("Extracting Festval products...")
 
     cards = page.locator("*:has-text('R$')")
     count = cards.count()
-
-    found = 0
 
     for i in range(count):
         try:
             text = cards.nth(i).inner_text().strip()
 
-            # ❌ skip garbage blocks
             if "CATEGORIAS" in text.upper():
                 continue
 
@@ -68,9 +78,8 @@ with sync_playwright() as p:
                     if len(line) > 5 and not name:
                         name = line.strip()
 
-            # 🧹 FILTER BAD DATA
+            # 🧹 filter garbage
             if name and price:
-
                 if (
                     len(name) < 5 or
                     name.isupper() or
@@ -78,14 +87,22 @@ with sync_playwright() as p:
                 ):
                     continue
 
-                print(f"{name} → R$ {price:.2f}")
-                print("--------")
-                found += 1
+                new_products.append({
+                    "store": "Festval",
+                    "name": name,
+                    "price": price
+                })
 
         except:
             pass
 
-    if found == 0:
-        print("⚠️ No clean products found (site is tricky)")
-
     browser.close()
+
+# 🟢 merge data
+final_products = existing + new_products
+
+# 🟢 save
+with open(FILE, "w", encoding="utf-8") as f:
+    json.dump(final_products, f, ensure_ascii=False, indent=2)
+
+print(f"✅ Saved {len(new_products)} Festval products")
