@@ -2,16 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Gergelim Branco 200g Istambul Torrado",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Cerveja Cerpa Export 350ml Lata",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Gergelim Branco 200g Istambul Torrado",
     "price": 23.98
   },
   {
@@ -22,21 +22,21 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Doce de Leite Mu-Mu 350g",
     "price": 6.79
   },
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce de Leite Mu-Mu 350g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Wickbold 450g Integral",
     "price": 4.99
   },
   {
@@ -52,31 +52,36 @@
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
     "price": 29.99
   },
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 67.89
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
     "price": 67.89
   },
   {
@@ -87,11 +92,6 @@
   {
     "store": "Irani",
     "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
-    "price": 67.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
     "price": 67.89
   },
   {
@@ -116,27 +116,22 @@
   },
   {
     "store": "Irani",
-    "name": "+1.5kg",
-    "price": 2.79
+    "name": "Coca-Cola 350ml Original",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Batata Monalisa Kg",
-    "price": 7.98
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 19.98
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Parmalat 350g Pote",
-    "price": 1.99
+    "name": "Batata Mccain AIRFRYER 600g",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
     "price": 1.99
   },
   {
@@ -147,7 +142,12 @@
   {
     "store": "Irani",
     "name": "Alicate para Cutículas Mundial 522 Classic",
-    "price": 19.98
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
+    "price": 1.99
   },
   {
     "store": "Muffatao",
@@ -162,16 +162,21 @@
   {
     "store": "Muffatao",
     "name": "Limão Taiti",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manga Tommy",
     "price": 14.99
   },
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manga Tommy",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Melancia",
     "price": 10.98
   },
   {
@@ -187,11 +192,6 @@
   {
     "store": "Muffatao",
     "name": "Maçã Argentina",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Melancia",
     "price": 13.99
   },
   {
@@ -1062,7 +1062,7 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Zero Lactose Tirol Caixa 200g",
-    "price": 4.99
+    "price": 3.49
   },
   {
     "store": "Muffatao",
@@ -1207,6 +1207,11 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Talharim Bolonhesa Nissin Pacote 99g",
+    "price": 5.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Galinha Caipira Cup Noodles Copo 69g",
     "price": 7.99
   },
   {
@@ -1217,12 +1222,7 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Legumes Renata Express Pacote 96g",
-    "price": 6.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão de Sêmola com Ovos Ninho 3 Renata Pacote 500g",
-    "price": 2.79
+    "price": 5.49
   },
   {
     "store": "Muffatao",
@@ -1367,7 +1367,7 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho Presunto Elma Chips Fandangos 160G",
-    "price": 12.98
+    "price": 10.9
   },
   {
     "store": "Muffatao",
@@ -1547,11 +1547,11 @@
   {
     "store": "Muffatao",
     "name": "Leite Fermentado BATAVINHO Tradicional 75g",
-    "price": 7.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
-    "name": "Leite Fermentado Unibaby 850G",
+    "name": "Iogurte Parcialmente Desnatado Morango Batavo Frasco 170g",
     "price": 12.99
   },
   {
@@ -2727,16 +2727,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoitos",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 2.49
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Bauducco Barrinha Pacote 25g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 9.98
   },
   {
@@ -2752,6 +2752,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Trakinas Pacote 126g",
+    "price": 3.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
+    "price": 2.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Wafer Recheio Chocolate Isabela Pacote 100g",
     "price": 4.59
   },
   {
@@ -2763,16 +2773,6 @@
     "store": "Muffatao",
     "name": "Biscoito Integral Cacau Renata Pacote 150g",
     "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Amanteigado Chocolate Renata Pacote 330g",
-    "price": 2.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Wafer Recheio Chocolate Isabela Pacote 100g",
-    "price": 2.19
   },
   {
     "store": "Muffatao",
@@ -3312,7 +3312,7 @@
   {
     "store": "Muffatao",
     "name": "Salsichão de Frango Copacol 600g",
-    "price": 10.89
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -3397,16 +3397,16 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Seven Boys Pacote 450g",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Pullman Pacote 480g",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
     "price": 5.99
   },
   {
@@ -3427,7 +3427,7 @@
   {
     "store": "Muffatao",
     "name": "Pão Frutas, Grãos & Castanhas Nutrella Pacote 500g",
-    "price": 8.49
+    "price": 16.98
   },
   {
     "store": "Muffatao",
