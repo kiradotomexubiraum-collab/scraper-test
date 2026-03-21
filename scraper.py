@@ -12,7 +12,7 @@ with sync_playwright() as p:
     page = browser.new_page()
 
     page.goto(url)
-    page.wait_for_timeout(5000)
+    page.wait_for_timeout(2000)
 
     text = page.inner_text("body")
     lines = text.split("\n")
