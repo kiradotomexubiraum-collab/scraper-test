@@ -70,6 +70,9 @@ window.searchProduct = function(){
         if(i === 0){
             row.style.backgroundColor = "#d4ffd4";
         }
+        if(i > 0){
+            row.style.backgroundColor = "000000";
+        }
 
         // clean product name (fix broken spacing)
         const cleanName = p.name.replace(/\s+/g, " ").trim();
