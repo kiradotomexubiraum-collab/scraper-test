@@ -2,16 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Gergelim Branco 200g Istambul Torrado",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Cerveja Cerpa Export 350ml Lata",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Gergelim Branco 200g Istambul Torrado",
     "price": 23.98
   },
   {
@@ -31,28 +31,23 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 8.99
+    "name": "Pão Wickbold 450g Integral",
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Doce de Leite Mu-Mu 350g",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 6.99
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
+    "name": "Doce de Leite Mu-Mu 350g",
     "price": 17.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 4.99
   },
   {
     "store": "Irani",
@@ -62,16 +57,6 @@
   {
     "store": "Irani",
     "name": "Shampoo Perro 700ml Coco",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Tirol 300g",
     "price": 39.9
   },
   {
@@ -82,11 +67,36 @@
   {
     "store": "Irani",
     "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Tirol 300g",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
     "price": 5.99
   },
   {
@@ -101,42 +111,22 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Congelada Lar 1,5kg",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Sadia 113g Bovino",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Barra Hersheys 82g Ao Leite",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 29.99
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 67.89
+    "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
+    "name": "Hambúrguer Sadia 113g Bovino",
     "price": 67.89
   },
   {
@@ -146,8 +136,18 @@
   },
   {
     "store": "Irani",
+    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
+    "price": 67.89
+  },
+  {
+    "store": "Irani",
     "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
     "price": 67.89
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
+    "price": 64.9
   },
   {
     "store": "Muffatao",
@@ -2817,12 +2817,12 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo 3 Corações Estrada Real Premium Pacote 500g",
-    "price": 8.99
+    "price": 4.79
   },
   {
     "store": "Muffatao",
-    "name": "Café Solúvel em Pó Tradicional Iguaçu Sachê 40g",
-    "price": 15.98
+    "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
+    "price": 8.99
   },
   {
     "store": "Muffatao",
