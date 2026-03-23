@@ -17,11 +17,21 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "Milho Verde Fugini 170g Sachê",
     "price": 21.99
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 6.99
   },
   {
@@ -32,11 +42,6 @@
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 6.79
   },
   {
@@ -47,21 +52,36 @@
   {
     "store": "Irani",
     "name": "Shampoo Perro 700ml Coco",
-    "price": 17.89
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 64.89
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
-    "price": 64.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
     "price": 64.89
   },
   {
@@ -71,42 +91,32 @@
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
-    "price": 12.98
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
+    "price": 64.89
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 12.98
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
-    "price": 5.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Sadia 113g Bovino",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 29.99
   },
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
     "price": 5.99
   },
   {
@@ -121,33 +131,23 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 64.9
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
-    "price": 7.98
-  },
-  {
-    "store": "Irani",
-    "name": "Doce Leite Parmalat 350g Pote",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
-    "price": 1.99
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -172,7 +172,7 @@
   {
     "store": "Muffatao",
     "name": "Manga Tommy",
-    "price": 2.99
+    "price": 3.79
   },
   {
     "store": "Muffatao",
@@ -252,12 +252,12 @@
   {
     "store": "Muffatao",
     "name": "Legumes",
-    "price": 3.79
+    "price": 4.98
   },
   {
     "store": "Muffatao",
     "name": "Batata Branca",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -272,7 +272,7 @@
   {
     "store": "Muffatao",
     "name": "Cebola Nacional",
-    "price": 4.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -1757,6 +1757,11 @@
   {
     "store": "Muffatao",
     "name": "Queijo Parmesão Ralado Président Pacote 50g",
+    "price": 51.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Mussarela Fatiado Président",
     "price": 9.39
   },
   {
@@ -1766,17 +1771,17 @@
   },
   {
     "store": "Muffatao",
-    "name": "Queijo LATCO Mussarela Zero Lactose 150g",
-    "price": 38.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Requeijão",
     "price": 6.99
   },
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Tradicional Lider Copo 180g",
+    "price": 16.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso com Queijo Batavo Pote 400g",
     "price": 8.99
   },
   {
@@ -1813,11 +1818,6 @@
     "store": "Muffatao",
     "name": "Requeijão Cremoso com Queijo Uso Culinário Quatro Queijos Tirol Profissional Bisnaga 400g",
     "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso Tradicional Poços de Caldas Copo 200g",
-    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -2632,7 +2632,7 @@
   {
     "store": "Muffatao",
     "name": "Achocolatado Pó Original Toddy Pote 370g",
-    "price": 16.98
+    "price": 14.99
   },
   {
     "store": "Muffatao",
@@ -3461,76 +3461,6 @@
   },
   {
     "store": "Festval",
-    "name": "Água de Coco Sococo 1L Leve 3 Pague 2 - Kit Pronto",
-    "price": 29.98
-  },
-  {
-    "store": "Festval",
-    "name": "Café Itamaraty Tradicional 500g",
-    "price": 23.98
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Frimesa Sabores Bandeja 540g",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Sorvete Apiacere Sabores 2L",
-    "price": 17.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Sabor Sul 5kg",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Energético Monster Energy Sabores Lata 473ML",
-    "price": 8.49
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 9.99
-  },
-  {
-    "store": "Festval",
-    "name": "Posta de Tilápia Copacol IQF 800g",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Carré suíno Frimesa sem pele c/osso congelado kg",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Água Mineral Fontana Oro c/gás 510ml",
-    "price": 1.39
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 2kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Argentino Melincué Pedaço Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito Coopavel Resfriado Kg",
-    "price": 19.99
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Copacol de Frango Fina 700g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
     "name": "Vinho Argentino Opi Mascota Tipos 750ml",
     "price": 34.9
   },
@@ -3566,107 +3496,202 @@
   },
   {
     "store": "Festval",
-    "name": "Rosas Maço/ Cores Diversas",
-    "price": 29.98
+    "name": "Coxão Mole Bovino Reserva Pedaço Kg",
+    "price": 44.9
   },
   {
     "store": "Festval",
-    "name": "Flor Orquídea Vanda Unidade",
-    "price": 79.98
+    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Samambaia Americana Cuia 25",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Oncidium Variadas Pote 15",
-    "price": 29.98
-  },
-  {
-    "store": "Festval",
-    "name": "Peperômia Scandens cuia 21cm",
-    "price": 14.98
-  },
-  {
-    "store": "Festval",
-    "name": "Zamioculcas Pote 17",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Jibóia Verde Cuia 21",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Roseira Mini Pote 13",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Orquídea Phalaenopsis 2 Hastes Pote 12 Unidades",
-    "price": 39.98
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Denphalaen Pote 15",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Pilea Cuia 21 Unidade",
-    "price": 14.98
-  },
-  {
-    "store": "Festval",
-    "name": "Peperômia Melancia Cuia 21 Unidade",
-    "price": 14.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Phalaenopsis Cascata Pote 15 Kit Árvore Unidade",
-    "price": 79.98
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Contrafilé Bovino Reserva Peça A Vácuo Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sorvete Freddo Sabores 500ml",
-    "price": 35.9
-  },
-  {
-    "store": "Festval",
-    "name": "Meio da Asa Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pizza Oliva Forneria Sabores Unidade",
-    "price": 27.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bombom Sonho de Ouro Lacta 220g",
+    "name": "Doce de Leite Ilolay 400g",
     "price": 9.9
   },
   {
     "store": "Festval",
-    "name": "Biscoito Dinamarquês Jacobsens 150g Milk & Dark",
+    "name": "Carré Suíno sem Pele com Osso Congelado Coopavel kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Patinho Bovino Reserva Pedaço Kg",
+    "price": 44.9
+  },
+  {
+    "store": "Festval",
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Rituais 3 Corações 250g Tipos",
+    "price": 28.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Nestlé Zero 1,15kg",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Cremer Hiper Tamanhos",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cotonete Johnson Com 75 Unidades",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Shampoo Bio Extratus Kids Fragrâncias 240ml",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Condicionador Bio Extratus Kids Fragrâncias 240ml",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
     "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Spray Bio Extratus Kids Desembaraçante 150g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Máscara de Tratamento Bio Extratus Kids 250g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Toalhas Umedecidas Huggies Corpo e Rosto com 48 Unidades - Leve 4 Pague 3",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Composto Milnutri Danone 800g",
+    "price": 52.9
+  },
+  {
+    "store": "Festval",
+    "name": "Condicionador Johnson's Baby Regular 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Huggies Máxima Proteção Hiperzinha Tamanhos",
+    "price": 67.9
+  },
+  {
+    "store": "Festval",
+    "name": "Finalizador Bio Extratus Kids 150g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Feijão Preto Flor do Sul 1Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia CVale IQF 800g",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 11.99
+  },
+  {
+    "store": "Festval",
+    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
+    "price": 11.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas em Pó Girando Sol Fragrâncias 1,6Kg",
+    "price": 12.98
+  },
+  {
+    "store": "Festval",
+    "name": "Presunto Cozido Seara 180g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Polpa Nestlé 510g Sabores",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Branco Sabor Sul 5kg",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 2kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Coxa e Sobrecoxa a Passarinho de Frango Copacol IQF 800g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Caboclo Tradicional A Vácuo 500g",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Mortadela Seara Gourmet Defumada 180g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito McCain Airfryer 600g",
+    "price": 14.9
+  },
+  {
+    "store": "Festval",
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 10.9
   }
 ]
