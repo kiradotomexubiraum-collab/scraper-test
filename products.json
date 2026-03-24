@@ -17,11 +17,26 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
-    "price": 1.98
+    "price": 15.9
   },
   {
     "store": "Irani",
-    "name": "Milho Verde Fugini 170g Sachê",
+    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 21.99
   },
   {
@@ -31,18 +46,18 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 6.99
+    "name": "Pão Wickbold 450g Integral",
+    "price": 6.79
   },
   {
     "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 6.79
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -52,16 +67,31 @@
   {
     "store": "Irani",
     "name": "Shampoo Perro 700ml Coco",
-    "price": 12.98
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Queijo Mussarela Lac Lelo 300g Fatiado",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Hulk Nutri e Forç",
     "price": 35.9
   },
   {
@@ -72,56 +102,36 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 12.98
+    "price": 16.9
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 64.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/66 M",
-    "price": 64.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
-    "price": 64.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
-    "price": 64.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
+    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 29.98
   },
   {
@@ -131,23 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Agenda Pepper Cost M4 Tilibra preta e rosa",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 2.99
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Intimus 200ml Defesa Natural",
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -362,16 +362,16 @@
   {
     "store": "Muffatao",
     "name": "Aves e Frangos",
-    "price": 8.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Frango A Passarinho Iqf Levo 800G",
     "price": 19.9
   },
   {
     "store": "Muffatao",
     "name": "Filé de Peito de Frango Copacol IQF 800g",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Frango A Passarinho Iqf Levo 800G",
     "price": 12.98
   },
   {
@@ -382,16 +382,16 @@
   {
     "store": "Muffatao",
     "name": "Filezinho de Frango Copacol 800g Sassami",
-    "price": 15.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sobrecoxa de Frango Congelada Temperada Sadia Frango Fácil 800g",
     "price": 21.98
   },
   {
     "store": "Muffatao",
     "name": "Meio Da Asa Coopavel 1kg",
+    "price": 15.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sobrecoxa de Frango Congelada Temperada Sadia Frango Fácil 800g",
     "price": 14.98
   },
   {
@@ -642,12 +642,12 @@
   {
     "store": "Muffatao",
     "name": "Batata Palha",
-    "price": 20.9
+    "price": 12.69
   },
   {
     "store": "Muffatao",
-    "name": "Batata Palha Tradicional Elma Chips Pacote 215g Embalagem Econômica",
-    "price": 12.69
+    "name": "Batata Palha Extrafina Elma Chips Pacote 90g",
+    "price": 20.9
   },
   {
     "store": "Muffatao",
@@ -2822,7 +2822,7 @@
   {
     "store": "Muffatao",
     "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
-    "price": 8.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
