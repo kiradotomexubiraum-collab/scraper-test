@@ -17,16 +17,16 @@
   {
     "store": "Irani",
     "name": "Enxaguante Bucal Plax 250ml Kids Agnes",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
     "price": 29.99
   },
   {
     "store": "Irani",
     "name": "Repelente Sbp 100ml Baby Loção",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
     "price": 9.9
   },
   {
@@ -37,21 +37,16 @@
   {
     "store": "Irani",
     "name": "Shampoo Dove Baby Hidratação Glicerina",
-    "price": 3.5
+    "price": 8.89
   },
   {
     "store": "Irani",
-    "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
-    "price": 12.95
+    "name": "Escova Dental Powerdent Infantil Fun Baby",
+    "price": 10.95
   },
   {
     "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
-    "price": 3.5
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete em Barra Huggies 75g Extra Suave",
+    "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
     "price": 12.89
   },
   {
@@ -62,21 +57,26 @@
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 10.95
+    "price": 12.95
   },
   {
     "store": "Irani",
-    "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
-    "price": 8.89
-  },
-  {
-    "store": "Irani",
-    "name": "Escova Dental Powerdent Infantil Fun Baby",
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
     "price": 12.99
   },
   {
     "store": "Irani",
     "name": "Condicionador Palmolive Kids 350ml Trolls",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Extra Suave",
     "price": 2.28
   },
   {
@@ -91,63 +91,63 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
     "price": 15.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
+    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 26.85
   },
   {
     "store": "Irani",
     "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Tandy 50g Morango",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Tandy 50g Tutti Frutti",
     "price": 10.99
   },
   {
     "store": "Irani",
     "name": "Escova Dental Colgate Tandy C/2",
-    "price": 6.98
+    "price": 6.89
   },
   {
     "store": "Irani",
-    "name": "Gel Dental Powerdent 100g Mundo Bita",
+    "name": "Creme Dental Tandy 50g Morango",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Dental Tandy 50g Tutti Frutti",
     "price": 17.99
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Ola 1l Pg 800ml Original",
-    "price": 15.9
+    "name": "Sabão Líquido Ola 1l Pg 800ml Bebê",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 200ml Baby Chá Camomila",
+    "name": "Gel Dental Powerdent 100g Mundo Bita",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Huggies 200ml Baby Chá Camomila",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 6.79
+    "price": 13.89
   },
   {
     "store": "Muffatao",
@@ -162,16 +162,16 @@
   {
     "store": "Muffatao",
     "name": "Limão Taiti",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mamão Formosa",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Manga Tommy",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mamão Formosa",
     "price": 3.79
   },
   {
@@ -192,12 +192,12 @@
   {
     "store": "Muffatao",
     "name": "Maçã Argentina",
-    "price": 13.99
+    "price": 10.99
   },
   {
     "store": "Muffatao",
-    "name": "Abacaxi Havaí",
-    "price": 10.99
+    "name": "Banana Prata",
+    "price": 13.99
   },
   {
     "store": "Muffatao",
@@ -372,11 +372,6 @@
   {
     "store": "Muffatao",
     "name": "Frango A Passarinho Iqf Levo 800G",
-    "price": 21.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Meio Da Asa Coopavel 1kg",
     "price": 12.98
   },
   {
@@ -387,6 +382,11 @@
   {
     "store": "Muffatao",
     "name": "Filezinho de Frango Copacol 800g Sassami",
+    "price": 21.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Meio Da Asa Coopavel 1kg",
     "price": 15.59
   },
   {
@@ -1527,16 +1527,16 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Unibaby Zero Lac Morango 900G",
-    "price": 2.15
-  },
-  {
-    "store": "Muffatao",
-    "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Leite Fermentado BATAVINHO Tradicional 75g",
+    "price": 2.15
+  },
+  {
+    "store": "Muffatao",
+    "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
     "price": 7.99
   },
   {
@@ -1887,6 +1887,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Takumi 5Kg Grao Curto",
+    "price": 5.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Integral Prato Fino Pacote 1kg",
     "price": 6.39
   },
   {
@@ -1897,6 +1902,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Arbório Tipo 1 Caldo Bom Seleção Especial Pacote 500g",
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz 500G Meu Biju 8 Graos Com Chia",
     "price": 15.98
   },
   {
@@ -1907,16 +1917,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz Branco Sabor Sul 5kg Tp1",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz à Grega Tio João Cozinha Fácil Pacote 250g 2 Unidades",
-    "price": 5.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
     "price": 15.98
   },
   {
@@ -2507,17 +2507,17 @@
   {
     "store": "Muffatao",
     "name": "Bebida Frutas Cítricas Del Valle Kapo Caixa 200ml",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Saco Multi Freezer Italy 2Kg 50Un 20Cm X 33Xm",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Néctar Pêssego Del Valle Caixa 1l",
     "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suco KAPO Laranja 200ml",
-    "price": 21.98
   },
   {
     "store": "Muffatao",
