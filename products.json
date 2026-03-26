@@ -7,6 +7,21 @@
   {
     "store": "Irani",
     "name": "Gergelim Branco 200g Istambul Torrado",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Margarina Doriana 500g Com Sal",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Margarina Doriana 500g Sem Sal",
     "price": 10.89
   },
   {
@@ -17,26 +32,31 @@
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Sbp 100ml Baby Loção",
     "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
-    "price": 9.9
+    "price": 29.99
   },
   {
     "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "name": "Repelente Sbp 100ml Baby Loção",
     "price": 11.79
   },
   {
     "store": "Irani",
     "name": "Shampoo Dove Baby Hidratação Glicerina",
+    "price": 9.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 8.89
+  },
+  {
+    "store": "Irani",
+    "name": "Escova Dental Powerdent Infantil Fun Baby",
     "price": 3.5
   },
   {
@@ -57,21 +77,21 @@
   {
     "store": "Irani",
     "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
-    "price": 8.89
+    "price": 12.9
   },
   {
     "store": "Irani",
-    "name": "Escova Dental Powerdent Infantil Fun Baby",
-    "price": 3.5
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete em Barra Huggies 75g Extra Suave",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 10.95
   },
   {
     "store": "Irani",
     "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Extra Suave",
     "price": 2.28
   },
   {
@@ -97,6 +117,11 @@
   {
     "store": "Irani",
     "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Dental Tandy 50g Morango",
     "price": 14.9
   },
   {
@@ -117,37 +142,12 @@
   {
     "store": "Irani",
     "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
-    "price": 6.89
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "Creme Dental Tandy 50g Morango",
+    "name": "Gel Dental Powerdent 100g Mundo Bita",
     "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
-    "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 13.89
-  },
-  {
-    "store": "Irani",
-    "name": "Talco Granado Bebê 100g",
-    "price": 15.9
   },
   {
     "store": "Muffatao",
@@ -577,7 +577,7 @@
   {
     "store": "Muffatao",
     "name": "Panceta Aperitivo Frimesa 1kg Temperado",
-    "price": 11.99
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -592,11 +592,21 @@
   {
     "store": "Muffatao",
     "name": "Azeites",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite de Oliva Tipo Único Português Gallo Vidro 250ml",
     "price": 41.9
   },
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Argentino Cocinero Garrafa 500ml",
+    "price": 39.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml",
     "price": 49.9
   },
   {
@@ -631,16 +641,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Aceto Balsâmico Mastroiani 500ml",
-    "price": 52.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Azeite de Oliva Extra Virgem Seleção Português Andorinha Clássicos Vidro 500ml",
-    "price": 23.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Batata Palha",
     "price": 12.69
   },
@@ -672,6 +672,11 @@
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Aerado Suflair Pacote 80g",
+    "price": 2.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Wafer Parati Minueto 81G Limão",
     "price": 7.99
   },
   {
@@ -693,11 +698,6 @@
     "store": "Muffatao",
     "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
     "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bala Arcor Butter Toffees Intense Sabor Trufa Pacote 90g",
-    "price": 6.29
   },
   {
     "store": "Muffatao",
@@ -882,7 +882,7 @@
   {
     "store": "Muffatao",
     "name": "Confeito Granulado Mesclado Chocolate e Baunilha Dori Pacote 120g",
-    "price": 22.9
+    "price": 5.49
   },
   {
     "store": "Muffatao",
@@ -1182,12 +1182,12 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Galinha Caipira Renata Express Pacote 85g",
-    "price": 2.79
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Galinha Caipira Nissin Miojo Pacote 85g",
-    "price": 2.79
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -1197,7 +1197,7 @@
   {
     "store": "Muffatao",
     "name": "Macarrão de Sêmola com Ovos Parafuso Todeschini 500G",
-    "price": 7.89
+    "price": 8.89
   },
   {
     "store": "Muffatao",
@@ -1212,7 +1212,7 @@
   {
     "store": "Muffatao",
     "name": "Macarrão de Sêmola com Ovos Pena Todeschini 500G",
-    "price": 5.39
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -1222,7 +1222,7 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Caseiro Premium Italy N. 03 C/Ovos 400G",
-    "price": 7.99
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -1257,7 +1257,7 @@
   {
     "store": "Muffatao",
     "name": "Molho para Salada Oriental Limão Sakura Squeeze 180ml",
-    "price": 7.99
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -1632,7 +1632,7 @@
   {
     "store": "Muffatao",
     "name": "Manteiga com Sal Batavo 200g",
-    "price": 6.99
+    "price": 7.79
   },
   {
     "store": "Muffatao",
@@ -2052,6 +2052,11 @@
   {
     "store": "Muffatao",
     "name": "Feijão Carioca Pronto com Tempero Camil Caixa 380g",
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Rosinha Tipo 1 Caldo Bom Seleção Especial Pacote 500g",
     "price": 12.39
   },
   {
@@ -2072,11 +2077,6 @@
   {
     "store": "Muffatao",
     "name": "Feijão Carioca Pronto sem Tempero Camil Caixa 490g",
-    "price": 10.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Branco Pronto Camil Caixa 247g",
     "price": 5.99
   },
   {
@@ -2832,6 +2832,11 @@
   {
     "store": "Muffatao",
     "name": "Cereal Matinal Original Kellogg's Sucrilhos Pacote 110g",
+    "price": 3.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Aveia em Flocos APTI 200g",
     "price": 32.9
   },
   {
@@ -2872,11 +2877,6 @@
   {
     "store": "Muffatao",
     "name": "Granola Tradicional Villamar Pacote 200g",
-    "price": 25.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Farinha Láctea Original Nestlé Lata 360g",
     "price": 3.99
   },
   {
@@ -3212,7 +3212,7 @@
   {
     "store": "Muffatao",
     "name": "Apresuntado AURORA 200g",
-    "price": 7.99
+    "price": 11.79
   },
   {
     "store": "Muffatao",
@@ -3292,7 +3292,7 @@
   {
     "store": "Muffatao",
     "name": "Salsicha Hot Dog COPACOL 500g",
-    "price": 16.98
+    "price": 17.98
   },
   {
     "store": "Muffatao",
@@ -3407,6 +3407,11 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
+    "price": 6.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Humbúrguer Caseirinho 200G",
     "price": 8.98
   },
   {
@@ -3423,11 +3428,6 @@
     "store": "Muffatao",
     "name": "Pão Hamburguer Pullman 420G Com Gergelim",
     "price": 13.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Tortilha Original Rap10 Pouch 297g",
-    "price": 8.49
   },
   {
     "store": "Muffatao",
