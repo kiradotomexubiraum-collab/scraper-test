@@ -42,16 +42,16 @@
   {
     "store": "Irani",
     "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Trolls",
     "price": 12.89
   },
   {
     "store": "Irani",
     "name": "Repelente Baruel 100ml Loção Kids",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
     "price": 12.95
   },
   {
@@ -102,16 +102,16 @@
   {
     "store": "Irani",
     "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
     "price": 6.89
   },
   {
     "store": "Irani",
     "name": "Creme Dental Tandy 50g Tutti Frutti",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
     "price": 14.9
   },
   {
@@ -3638,5 +3638,35 @@
     "store": "Festval",
     "name": "Vinho Italiano Lirica Primitivo Manduria Tinto 750ml",
     "price": 69.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Moulin D'issan 750ml",
+    "price": 129.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Galileo Reserva 750ml",
+    "price": 99.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Poggio Brunello Montalcino 750ml",
+    "price": 299.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Granatey 750ml Tipos",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Santos da Casa 750ml Tipos",
+    "price": 99.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Paolo Scavino Dolcetto D'Alba 750ml",
+    "price": 109.0
   }
 ]
