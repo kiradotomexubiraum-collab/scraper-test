@@ -12,16 +12,6 @@
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Doriana 500g Com Sal",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Doriana 500g Sem Sal",
     "price": 10.89
   },
   {
@@ -32,31 +22,31 @@
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 170g Kit Kat",
     "price": 29.99
   },
   {
     "store": "Irani",
     "name": "Repelente Sbp 100ml Baby Loção",
-    "price": 11.79
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Dove Baby Hidratação Glicerina",
     "price": 9.9
   },
   {
     "store": "Irani",
     "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 11.79
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Dove Baby Hidratação Glicerina",
     "price": 8.89
   },
   {
     "store": "Irani",
     "name": "Escova Dental Powerdent Infantil Fun Baby",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Extra Suave",
     "price": 3.5
   },
   {
@@ -87,21 +77,16 @@
   {
     "store": "Irani",
     "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
-    "price": 3.5
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete em Barra Huggies 75g Extra Suave",
-    "price": 2.28
-  },
-  {
-    "store": "Irani",
-    "name": "Hastes Cottonbaby C/75 Unidades",
     "price": 3.19
   },
   {
     "store": "Irani",
     "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
+    "price": 2.28
+  },
+  {
+    "store": "Irani",
+    "name": "Hastes Cottonbaby C/75 Unidades",
     "price": 15.9
   },
   {
@@ -148,6 +133,21 @@
     "store": "Irani",
     "name": "Gel Dental Powerdent 100g Mundo Bita",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "price": 13.89
   },
   {
     "store": "Muffatao",
@@ -612,6 +612,11 @@
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Português Andorinha Clássicos Vidro 500ml",
+    "price": 35.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite de Oliva Tipo Único Português Gallo Vidro 500ml",
     "price": 41.9
   },
   {
@@ -633,11 +638,6 @@
     "store": "Muffatao",
     "name": "Azeite de Oliva Extra Virgem Português Gallo Lata 200ml",
     "price": 25.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Raiz Amarga Asteca 900Ml",
-    "price": 29.9
   },
   {
     "store": "Muffatao",
@@ -1582,6 +1582,11 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Integral Lider Caixa com Tampa 1l",
     "price": 6.49
   },
   {
@@ -1602,11 +1607,6 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Semidesnatado Frimesa Caixa com Tampa 1l",
-    "price": 4.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Integral Lider Caixa com Tampa 1l",
     "price": 5.49
   },
   {
@@ -1812,12 +1812,12 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Santa Clara Tradicional 400g",
-    "price": 18.98
+    "price": 11.59
   },
   {
     "store": "Muffatao",
-    "name": "Requeijão Cremoso com Queijo Uso Culinário Quatro Queijos Tirol Profissional Bisnaga 400g",
-    "price": 10.98
+    "name": "Requeijão Cremoso Zero Lactose Catupiry Copo 150g",
+    "price": 18.98
   },
   {
     "store": "Muffatao",
@@ -3077,6 +3077,11 @@
   {
     "store": "Muffatao",
     "name": "Embutidos",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mortadela Aurora 200G Frango",
     "price": 7.69
   },
   {
@@ -3121,17 +3126,17 @@
   },
   {
     "store": "Muffatao",
-    "name": "Bacon em Cubos Frimesa 400g",
-    "price": 38.68
-  },
-  {
-    "store": "Muffatao",
     "name": "Patês e Pastas",
     "price": 12.98
   },
   {
     "store": "Muffatao",
     "name": "Nata Santa Clara 300G",
+    "price": 22.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pasta Amendoim Integral Crocante Guimaraes 450G",
     "price": 22.9
   },
   {
@@ -3167,11 +3172,6 @@
   {
     "store": "Muffatao",
     "name": "Patê de Atum com Azeitonas Verdes Coqueiro Sachê 170g",
-    "price": 22.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pasta Amendoim Integral Crocante Guimaraes 450G",
     "price": 5.89
   },
   {
