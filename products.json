@@ -37,26 +37,26 @@
   {
     "store": "Irani",
     "name": "Shampoo Dove Baby Hidratação Glicerina",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Trolls",
-    "price": 12.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Baruel 100ml Loção Kids",
     "price": 8.89
   },
   {
     "store": "Irani",
     "name": "Escova Dental Powerdent Infantil Fun Baby",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Baruel 100ml Loção Kids",
     "price": 3.5
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
     "price": 15.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
+    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 3.99
   },
   {
@@ -107,16 +107,16 @@
   {
     "store": "Irani",
     "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
     "price": 6.89
   },
   {
     "store": "Irani",
     "name": "Creme Dental Tandy 50g Morango",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
     "price": 14.9
   },
   {
@@ -132,21 +132,21 @@
   {
     "store": "Irani",
     "name": "Creme Dental Tandy 50g Tutti Frutti",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 200ml Baby Chá Camomila",
     "price": 13.89
   },
   {
     "store": "Irani",
     "name": "Talco Granado Bebê 100g",
-    "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Huggies 200ml Baby Chá Camomila",
     "price": 6.98
   },
   {
@@ -852,6 +852,11 @@
   {
     "store": "Muffatao",
     "name": "Torrone Arcor 25G Chocolate",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 15.98
   },
   {
@@ -867,11 +872,6 @@
   {
     "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
-    "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 15.89
   },
   {
@@ -1937,6 +1937,11 @@
   {
     "store": "Muffatao",
     "name": "Açúcar Docesucar 2Kg Cristal",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Demerara União Naturais Pacote 1kg",
     "price": 19.98
   },
   {
@@ -1947,11 +1952,6 @@
   {
     "store": "Muffatao",
     "name": "Açúcar Docesucar 1Kg Extra Fino",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Demerara União Naturais Pacote 1kg",
     "price": 3.99
   },
   {
@@ -2002,6 +2002,11 @@
   {
     "store": "Muffatao",
     "name": "Farofa de Mandioca ZAELI Tradicional 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Farinha de Aveia Vitao Pacote 250g",
     "price": 8.99
   },
   {
@@ -2022,11 +2027,6 @@
   {
     "store": "Muffatao",
     "name": "Farinha Empanar Panko 200G",
-    "price": 7.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Farelo de Aveia Nestlé Oat Bran Caixa 170g",
     "price": 5.19
   },
   {
@@ -2977,16 +2977,16 @@
   {
     "store": "Muffatao",
     "name": "Leites em Pó",
-    "price": 21.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Pó Integral Ninho Forti+ Lata 380g",
     "price": 15.98
   },
   {
     "store": "Muffatao",
     "name": "Leite Em Po Batavo Integral 400G",
+    "price": 21.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Pó Integral Ninho Forti+ Lata 380g",
     "price": 22.49
   },
   {
