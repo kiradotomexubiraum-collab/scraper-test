@@ -16,17 +16,17 @@
   },
   {
     "store": "Irani",
-    "name": "Enxaguante Bucal Plax 250ml Kids Agnes",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Sbp 100ml Baby Loção",
     "price": 9.9
   },
   {
@@ -37,26 +37,26 @@
   {
     "store": "Irani",
     "name": "Shampoo Dove Baby Hidratação Glicerina",
-    "price": 8.89
-  },
-  {
-    "store": "Irani",
-    "name": "Escova Dental Powerdent Infantil Fun Baby",
     "price": 12.99
   },
   {
     "store": "Irani",
     "name": "Condicionador Palmolive Kids 350ml Trolls",
-    "price": 12.89
+    "price": 8.89
   },
   {
     "store": "Irani",
-    "name": "Repelente Baruel 100ml Loção Kids",
+    "name": "Escova Dental Powerdent Infantil Fun Baby",
     "price": 12.95
   },
   {
     "store": "Irani",
     "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Baruel 100ml Loção Kids",
     "price": 3.5
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
+    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 15.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "name": "Condicionador Huggies 360ml Kids Ariel Brilho Mágico",
     "price": 3.99
   },
   {
@@ -122,11 +122,6 @@
   {
     "store": "Irani",
     "name": "Creme Dental Tandy 50g Morango",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Tandy 50g Tutti Frutti",
     "price": 10.99
   },
   {
@@ -142,12 +137,17 @@
   {
     "store": "Irani",
     "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 13.89
+    "price": 6.89
   },
   {
     "store": "Irani",
-    "name": "Talco Granado Bebê 100g",
-    "price": 6.98
+    "name": "Creme Dental Tandy 50g Tutti Frutti",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 15.9
   },
   {
     "store": "Muffatao",
@@ -3591,82 +3591,47 @@
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
     "price": 54.9
   },
   {
     "store": "Festval",
-    "name": "Passata italiana Mamma Bia 690g",
-    "price": 9.9
+    "name": "Bombom Ferrero Rocher Com 12 Unidades 150g",
+    "price": 39.99
   },
   {
     "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 14.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800G",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bombom Sonho de Ouro Lacta 220g",
-    "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Toscana Frimesa Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 37.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Meio da Asa Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Suína com Pele e Osso Coopavel kg",
+    "name": "Batata Palito Copacol Congelada 2kg",
     "price": 22.9
   },
   {
     "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 39.9
+    "name": "Palmito Inteiro Palmivel em Conserva 300g",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Costela Bovina Padrão Beef Kg",
+    "name": "Denver Steak Bovino 1953 Peça A Vácuo Kg",
+    "price": 54.9
+  },
+  {
+    "store": "Festval",
+    "name": "Pepino Agridoce La Violetera Fatiado 360g",
+    "price": 14.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Argentina Quilmes Clássica Long Neck 340ml",
+    "price": 5.89
+  },
+  {
+    "store": "Festval",
+    "name": "Ovo de Páscoa Ferrero Rocher 137,5g Box",
+    "price": 69.9
+  },
+  {
+    "store": "Festval",
+    "name": "Carpaccio Padrão Beef Congelado 160g",
     "price": 25.9
   }
 ]
