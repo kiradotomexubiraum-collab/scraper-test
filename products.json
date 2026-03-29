@@ -16,17 +16,17 @@
   },
   {
     "store": "Irani",
+    "name": "Enxaguante Bucal Plax 250ml Kids Agnes",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Sbp 100ml Baby Loção",
     "price": 9.9
   },
   {
@@ -37,11 +37,6 @@
   {
     "store": "Irani",
     "name": "Shampoo Dove Baby Hidratação Glicerina",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
     "price": 8.89
   },
   {
@@ -57,26 +52,31 @@
   {
     "store": "Irani",
     "name": "Repelente Baruel 100ml Loção Kids",
-    "price": 3.5
+    "price": 12.95
   },
   {
     "store": "Irani",
-    "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 10.95
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
     "price": 3.5
   },
   {
     "store": "Irani",
     "name": "Sabonete em Barra Huggies 75g Extra Suave",
+    "price": 12.9
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
+    "price": 10.95
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Johnsons Baby 180ml Sachê Tradicional",
     "price": 2.28
   },
   {
@@ -122,6 +122,11 @@
   {
     "store": "Irani",
     "name": "Creme Dental Tandy 50g Morango",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Dental Tandy 50g Tutti Frutti",
     "price": 10.99
   },
   {
@@ -131,23 +136,18 @@
   },
   {
     "store": "Irani",
-    "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Tandy 50g Tutti Frutti",
+    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
     "price": 14.9
   },
   {
     "store": "Irani",
-    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
+    "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
     "price": 13.89
   },
   {
     "store": "Irani",
     "name": "Talco Granado Bebê 100g",
-    "price": 15.9
+    "price": 6.98
   },
   {
     "store": "Muffatao",
@@ -297,11 +297,11 @@
   {
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bdj 180G",
-    "price": 3.99
+    "price": 7.39
   },
   {
     "store": "Muffatao",
-    "name": "Ervilha e Milho Verde em Conserva Dueto Fugini Sachê 170g",
+    "name": "Tomate Sweet Grape Bandeja Un",
     "price": 17.98
   },
   {
@@ -477,6 +477,11 @@
   {
     "store": "Muffatao",
     "name": "Linguíça tipo Calabresa Fatiada Frimesa 400g",
+    "price": 26.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguiça Campeira 700g",
     "price": 16.98
   },
   {
@@ -487,11 +492,6 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Toscana - Firmesa",
-    "price": 26.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguiça Campeira 700g",
     "price": 30.98
   },
   {
@@ -1557,6 +1557,11 @@
   {
     "store": "Muffatao",
     "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Iogurte Desnatado Ameixa Frimesa Zero Frasco 170g",
     "price": 14.98
   },
   {
@@ -1567,11 +1572,6 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Grego Morango Batavo Pote 500g",
-    "price": 9.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Iogurte Elege Paw Patrol Morango Bj 510G",
     "price": 4.89
   },
   {
@@ -1692,6 +1692,11 @@
   {
     "store": "Muffatao",
     "name": "Massa de Soja Shiro Missô Pote 500g Grátis Livro de Receita",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Massa para Lasanha Mezzani Pacote 500g",
     "price": 18.98
   },
   {
@@ -1713,11 +1718,6 @@
     "store": "Muffatao",
     "name": "Massa de Sêmola com Ovos para Lasanha Renata Caixa 500g",
     "price": 22.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Massa de Lasanha Sem Glúten 300g CASARÃO",
-    "price": 4.39
   },
   {
     "store": "Muffatao",
@@ -2427,16 +2427,16 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Zero Açúcar Guaraná Antarctica Lata 350ml",
     "price": 1.79
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante sem Açúcar Coca-Cola Garrafa 200ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Zero Açúcar Guaraná Antarctica Lata 350ml",
     "price": 3.99
   },
   {
@@ -2802,6 +2802,11 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g",
+    "price": 4.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
     "price": 6.79
   },
   {
@@ -2817,12 +2822,7 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo 3 Corações Estrada Real Premium Pacote 500g",
-    "price": 4.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
-    "price": 8.99
+    "price": 22.98
   },
   {
     "store": "Muffatao",
