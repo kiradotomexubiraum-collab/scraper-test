@@ -17,91 +17,41 @@
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 3.99
+    "price": 47.99
   },
   {
     "store": "Irani",
-    "name": "Creme de Leite Nestlé 200g Tp",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Condensado Moça Semidesnatado 395g",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Qualy 500g Com Sal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
+    "name": "Ovo Garoto Serenata De Amor 217,7g",
     "price": 6.79
   },
   {
     "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "700ml",
-    "price": 9.9
+    "name": "Pão Wickbold 450g Integral",
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Shampoo Perro 700ml Coco",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Mortadela Copacol 380g. Frango",
+    "price": 17.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 9.99
   },
   {
@@ -111,27 +61,27 @@
   },
   {
     "store": "Irani",
-    "name": "Leite Condensado Frimesa 395g Tradicional",
-    "price": 4.99
+    "name": "700ml",
+    "price": 9.9
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 152g Carne",
-    "price": 4.99
+    "name": "350g",
+    "price": 69.99
   },
   {
     "store": "Irani",
-    "name": "Mortadela Copacol 380g. Frango",
+    "name": "350g",
+    "price": 69.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Garoto Talento 350g Castanha do Pará",
     "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/68 M",
-    "price": 17.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "name": "Fraldas Cremer Magic CareHiper C/60 G",
     "price": 39.9
   },
   {
@@ -141,13 +91,63 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/60 G",
-    "price": 7.99
+    "name": "Fraldas Cremer Magic CareHiper C/68 M",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "400gr",
-    "price": 7.99
+    "name": "400g",
+    "price": 5.49
+  },
+  {
+    "store": "Irani",
+    "name": "Proteína de Soja Camil 400g Clara",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "100g",
+    "price": 49.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -382,16 +382,16 @@
   {
     "store": "Muffatao",
     "name": "Frango A Passarinho Iqf Levo 800G",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxa E Sobrecoxa Coopavel",
     "price": 17.98
   },
   {
     "store": "Muffatao",
     "name": "Filezinho de Frango Copacol 800g Sassami",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxa E Sobrecoxa Coopavel",
     "price": 21.98
   },
   {
@@ -417,6 +417,11 @@
   {
     "store": "Muffatao",
     "name": "Bovinos",
+    "price": 6.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Fígado de Frango Congelado Perdigão 1kg",
     "price": 5.99
   },
   {
@@ -427,11 +432,6 @@
   {
     "store": "Muffatao",
     "name": "Texas burguer 90g",
-    "price": 6.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fígado de Frango Congelado Perdigão 1kg",
     "price": 31.98
   },
   {
@@ -931,46 +931,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Fitness",
-    "price": 149.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Milk",
-    "price": 139.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Chocolate",
-    "price": 4.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Supino Barra De Banana E Açaí 24G S/Açúcar",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suplemento Alimentar Uva Plant Power Jungle Low Carb Frasco 500ml",
-    "price": 12.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Barra NUTRATA Whey Grego Mousse",
-    "price": 79.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Whey Pó Chocolate Parmalat Fit Pacote 450g",
-    "price": 79.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Whey Pó Morango Parmalat Fit Pacote 450g",
-    "price": 12.69
-  },
-  {
-    "store": "Muffatao",
     "name": "Gelatinas",
     "price": 1.69
   },
@@ -1461,6 +1421,46 @@
   },
   {
     "store": "Muffatao",
+    "name": "Fitness",
+    "price": 149.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Milk",
+    "price": 139.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Chocolate",
+    "price": 4.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Supino Barra De Banana E Açaí 24G S/Açúcar",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suplemento Alimentar Uva Plant Power Jungle Low Carb Frasco 500ml",
+    "price": 12.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Barra NUTRATA Whey Grego Mousse",
+    "price": 79.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Whey Pó Chocolate Parmalat Fit Pacote 450g",
+    "price": 79.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Whey Pó Morango Parmalat Fit Pacote 450g",
+    "price": 12.69
+  },
+  {
+    "store": "Muffatao",
     "name": "Bebidas Lácteas",
     "price": 7.79
   },
@@ -1627,6 +1627,11 @@
   {
     "store": "Muffatao",
     "name": "Manteiga com Sal Batavo 200g",
+    "price": 9.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga sem Sal Batavo 200g",
     "price": 10.49
   },
   {
@@ -1637,11 +1642,6 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Frimesa Extra 500G",
-    "price": 9.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga sem Sal Batavo 200g",
     "price": 12.98
   },
   {
@@ -1862,11 +1862,66 @@
   {
     "store": "Muffatao",
     "name": "Farinhas e Farofas",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Acucar Cristal Docesucar 5Kg",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Docesucar Acucar Cristal 1Kg",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Docesucar 2Kg Cristal",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Demerara União Naturais Pacote 1kg",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Especial Alto Alegre Pacote 5kg",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Especial Alto Alegre Pacote 1kg",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Cristal Alto Alegre Pacote 2kg",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Docesucar 1Kg Extra Fino",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Especial União Pacote 1kg",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Mascavo União Naturais Pacote 400g",
     "price": 9.59
   },
   {
     "store": "Muffatao",
     "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
     "price": 17.99
   },
   {
@@ -1903,61 +1958,6 @@
     "store": "Muffatao",
     "name": "Arroz Takumi 5Kg Grao Curto",
     "price": 16.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Branco Sabor Sul 5kg Tp1",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz à Grega Tio João Cozinha Fácil Pacote 250g 2 Unidades",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Acucar Cristal Docesucar 5Kg",
-    "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Docesucar Acucar Cristal 1Kg",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Docesucar 2Kg Cristal",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Demerara União Naturais Pacote 1kg",
-    "price": 19.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Especial Alto Alegre Pacote 5kg",
-    "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Docesucar 1Kg Extra Fino",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Especial Alto Alegre Pacote 1kg",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Mascavo União Naturais Pacote 400g",
-    "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Cristal União Cristalçúcar Pacote 1kg",
-    "price": 17.98
   },
   {
     "store": "Muffatao",
@@ -2117,56 +2117,6 @@
   {
     "store": "Muffatao",
     "name": "Gergelim Branco Natural Integral Jasmine Pouch 150g",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Refinado Moc 1Kg",
-    "price": 12.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Rosa do Himalaia Moído Lebre Pacote 500g",
-    "price": 3.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Grosso Zaeli 1kg Churrasco",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Refinado Light Lebre Frasco 100g",
-    "price": 6.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal do Himalaia Moído Lebre Frasco 100g",
-    "price": 12.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Rosa do Himalaia Grosso Lebre Pacote 500g",
-    "price": 18.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Marinho Fino Integral Smart Pouch 1kg",
-    "price": 21.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Grosso para Churrasco Aji-Sal Pote 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Refinado Light Lebre Pacote 500g",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Marinho Refinado Lebre Pacote 1kg",
     "price": 6.98
   },
   {
@@ -2213,6 +2163,56 @@
     "store": "Muffatao",
     "name": "Óleo Gergelim Torrado HONG KONG 100ml",
     "price": 25.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo Composto de Soja e Oliva Tradicional Maria Lata 500ml",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Refinado Moc 1Kg",
+    "price": 12.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Rosa do Himalaia Moído Lebre Pacote 500g",
+    "price": 3.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Grosso Zaeli 1kg Churrasco",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Refinado Light Lebre Frasco 100g",
+    "price": 6.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal do Himalaia Moído Lebre Frasco 100g",
+    "price": 12.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Rosa do Himalaia Grosso Lebre Pacote 500g",
+    "price": 18.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Marinho Fino Integral Smart Pouch 1kg",
+    "price": 21.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Grosso para Churrasco Aji-Sal Pote 500g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Refinado Light Lebre Pacote 500g",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -2263,56 +2263,6 @@
     "store": "Muffatao",
     "name": "Jungle Sup Alimentar Abacaxi Horte 500Ml",
     "price": 21.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Pronto",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Limão Matte Leão Garrafa 1,5l",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Natural Matte Leão Garrafa 1,5l",
-    "price": 4.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Preto Ice Tea Limão Leão Zero Garrafa 450ml",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Branco Leão 1.5L Lichia Zero",
-    "price": 4.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Matte Leao Branco 450Ml Lichia Zero",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Natural Matte Leão Copo 300ml",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Limão Matte Leão Copo 300ml",
-    "price": 4.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Matte LEÃO Natural 450ml",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Verde Limão Leão Reequilibra Garrafa 1,5l",
-    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -2616,6 +2566,56 @@
   },
   {
     "store": "Muffatao",
+    "name": "Chá Pronto",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Limão Matte Leão Garrafa 1,5l",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Natural Matte Leão Garrafa 1,5l",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Preto Ice Tea Limão Leão Zero Garrafa 450ml",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Branco Leão 1.5L Lichia Zero",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Matte Leao Branco 450Ml Lichia Zero",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Natural Matte Leão Copo 300ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Limão Matte Leão Copo 300ml",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Matte LEÃO Natural 450ml",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Verde Limão Leão Reequilibra Garrafa 1,5l",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Achocolatados em Pó",
     "price": 9.98
   },
@@ -2667,16 +2667,16 @@
   {
     "store": "Muffatao",
     "name": "Adoçantes",
-    "price": 15.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Adoçante em Pó Stevia Lowçucar Plus Caixa 25g 50 Unidades",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Adoçante Líquido Sucralose Linea Caixa 25ml",
+    "price": 15.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Adoçante em Pó Stevia Lowçucar Plus Caixa 25g 50 Unidades",
     "price": 21.9
   },
   {
@@ -2877,6 +2877,11 @@
   {
     "store": "Muffatao",
     "name": "Erva-Mate Chimarrão a Vácuo Tertúlia Suprema Pacote 1kg",
+    "price": 13.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Erva-mate Chimarrão Tertúlia Pacote 1kg",
     "price": 5.49
   },
   {
@@ -2908,11 +2913,6 @@
     "store": "Muffatao",
     "name": "Erva-mate Chimarrão Alto Vácuo Tertúlia Pacote 1kg",
     "price": 20.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá em Cápsula Noites Tranquilas 3 Chá Caixa 10 Unidades 3g Cada",
-    "price": 3.99
   },
   {
     "store": "Muffatao",
