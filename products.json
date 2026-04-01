@@ -2,21 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Gergelim Branco 200g Istambul Torrado",
     "price": 23.98
   },
   {
     "store": "Irani",
-    "name": "500g",
-    "price": 2.99
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Açucar Confeiteiro Glaçucar 500g",
+    "name": "Wafer Hersheys Mais 102g Ao Leite",
     "price": 3.99
   },
   {
@@ -27,21 +22,16 @@
   {
     "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Ao Leite",
     "price": 21.99
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 6.79
+    "price": 47.99
   },
   {
     "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
+    "name": "Ovo Garoto Serenata De Amor 217,7g",
     "price": 6.99
   },
   {
@@ -52,12 +42,12 @@
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 47.99
+    "price": 9.99
   },
   {
     "store": "Irani",
-    "name": "Ovo Garoto Serenata De Amor 217,7g",
-    "price": 6.99
+    "name": "Aveia em Flocos Finos Jasmine 400g",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -77,46 +67,11 @@
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 4.99
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "Mortadela Copacol 380g. Frango",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Aveia em Flocos Finos Jasmine 400g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Queijo",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 104g Original",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "100g",
-    "price": 49.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
+    "name": "Fraldas Cremer Magic CareHiper C/52 XG",
     "price": 39.9
   },
   {
@@ -126,28 +81,73 @@
   },
   {
     "store": "Irani",
-    "name": "Ovo Garoto Talento 350g Castanha do Pará",
-    "price": 35.9
+    "name": "350g",
+    "price": 69.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Ovo Garoto Talento 350g Avelã",
     "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/60 G",
-    "price": 35.9
+    "name": "Fraldas Cremer Magic CareHiper C/68 M",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "100g",
+    "price": 49.99
   },
   {
     "store": "Irani",
     "name": "400g",
     "price": 5.49
+  },
+  {
+    "store": "Irani",
+    "name": "Proteína de Soja Camil 400g Clara",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Ferrero Rocher c/8",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 1.29
   },
   {
     "store": "Muffatao",
@@ -2362,16 +2362,16 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Zero Açúcar Guaraná Antarctica Lata 350ml",
     "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante Laranja Zero Adição de Açúcar Fanta Lata 350ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Zero Açúcar Guaraná Antarctica Lata 350ml",
     "price": 3.99
   },
   {
@@ -2782,16 +2782,21 @@
   {
     "store": "Muffatao",
     "name": "Filtro de Papel Brigitta 103 Caixa 30 Unidades",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g",
     "price": 3.49
   },
   {
     "store": "Muffatao",
     "name": "Filtro de Papel Itamaraty 103 Caixa 30 Unidades",
+    "price": 26.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Torrado e Moído a Vácuo Extraforte 3 Corações Pacote 500g",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g",
     "price": 7.99
   },
   {
@@ -2803,11 +2808,6 @@
     "store": "Muffatao",
     "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
     "price": 31.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Café Torrado e Moído a Vácuo 3 Corações Estrada Real Premium Pacote 500g",
-    "price": 27.99
   },
   {
     "store": "Muffatao",
@@ -2987,6 +2987,11 @@
   {
     "store": "Muffatao",
     "name": "Leite Pó Instantâneo Zero Lactose Parmalat Max Pacote 300g",
+    "price": 21.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite em Pó Ninho Integral Instantâneo Lata 380g",
     "price": 28.98
   },
   {
@@ -3003,11 +3008,6 @@
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Sachê 575g",
     "price": 37.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
-    "price": 27.9
   },
   {
     "store": "Muffatao",
@@ -3628,11 +3628,6 @@
     "store": "Festval",
     "name": "Mortadela Ouro Perdigão Fatiada 200G",
     "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 19.9
   },
   {
     "store": "Festval",
