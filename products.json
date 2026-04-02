@@ -2,11 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 23.98
+    "price": 49.98
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 3.99
   },
   {
@@ -22,16 +27,36 @@
   {
     "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 47.99
+  },
+  {
+    "store": "Irani",
+    "name": "227g",
+    "price": 47.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Garoto Crocante 227g",
     "price": 21.99
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 47.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Garoto Serenata De Amor 217,7g",
     "price": 6.99
   },
   {
@@ -51,43 +76,18 @@
   },
   {
     "store": "Irani",
+    "name": "Caldo Maggi 152g Galinha",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
     "name": "Caldo Maggi 152g Carne",
     "price": 9.99
   },
   {
     "store": "Irani",
-    "name": "700ml",
-    "price": 9.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Perro 700ml Coco",
-    "price": 17.89
-  },
-  {
-    "store": "Irani",
     "name": "350g",
     "price": 69.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Garoto Talento 350g Castanha do Pará",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/60 G",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/52 XG",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/68 M",
-    "price": 39.9
   },
   {
     "store": "Irani",
@@ -101,27 +101,32 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "400g",
     "price": 5.49
   },
   {
     "store": "Irani",
     "name": "Proteína de Soja Camil 400g Clara",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
     "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate Barra Hersheys 82g Ao Leite",
-    "price": 14.98
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Congelada Lar 1,5kg",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
     "price": 2.99
   },
   {
@@ -132,22 +137,17 @@
   {
     "store": "Irani",
     "name": "Bombom Ferrero Rocher c/8",
-    "price": 5.99
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
-    "price": 1.29
+    "name": "350ml",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -292,11 +292,11 @@
   {
     "store": "Muffatao",
     "name": "Mix Oriental Congelado Ati-Gel Pacote 300g",
-    "price": 3.89
+    "price": 7.99
   },
   {
     "store": "Muffatao",
-    "name": "Cebola, Salsa e Alho Geriba 20G",
+    "name": "Alho Temperbom 200G",
     "price": 19.9
   },
   {
@@ -322,11 +322,21 @@
   {
     "store": "Muffatao",
     "name": "Alho Ki Forte 100G",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alho Temperbom 200G",
     "price": 3.69
   },
   {
     "store": "Muffatao",
     "name": "Alecrim Geriba 20g",
+    "price": 7.88
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alho Aldez 200G",
     "price": 21.99
   },
   {
@@ -337,22 +347,12 @@
   {
     "store": "Muffatao",
     "name": "Alho Temperbom 100G",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alho Temperbom 200G",
     "price": 2.98
   },
   {
     "store": "Muffatao",
     "name": "Semente Feltrin Manjericão Alfavaca",
     "price": 2.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sementes Feltrin 130Mg Sempre-viva Sortida",
-    "price": 5.98
   },
   {
     "store": "Muffatao",
@@ -1517,16 +1517,16 @@
   {
     "store": "Muffatao",
     "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Fermentado BATAVINHO Tradicional 75g",
     "price": 8.89
   },
   {
     "store": "Muffatao",
     "name": "Leite Fermentado Chamyto 6x 75g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Fermentado BATAVINHO Tradicional 75g",
     "price": 10.89
   },
   {
@@ -1537,6 +1537,11 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Parcialmente Desnatado Grego Morango Zero Lactose Batavo Pense Zero Pote 100g",
+    "price": 1.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Stick Petit Suisse Unibaby Ice Morango 56G",
     "price": 7.99
   },
   {
@@ -1552,11 +1557,6 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Desnatado Ameixa Frimesa Zero Frasco 170g",
-    "price": 9.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Iogurte Elege Paw Patrol Morango Bj 510G",
     "price": 5.19
   },
   {
@@ -2402,16 +2402,16 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante COCA COLA Zero Açúcar 1,5L",
-    "price": 7.79
+    "price": 1.89
   },
   {
     "store": "Muffatao",
-    "name": "Refrigerante Coca-Cola Garrafa Retornável 2l",
-    "price": 3.59
+    "name": "Refrigerante Cola Pepsi Garrafa 200ml",
+    "price": 1.89
   },
   {
     "store": "Muffatao",
-    "name": "Refrigerante COCA COLA Zero Lata 350ml",
+    "name": "Refrigerante Guaraná Antarctica Garrafa 200ml",
     "price": 18.9
   },
   {
