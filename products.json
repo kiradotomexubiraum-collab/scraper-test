@@ -1,5 +1,155 @@
 [
   {
+    "store": "Irani",
+    "name": "Filtros",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "227g",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Garoto Crocante 227g",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "350g",
+    "price": 62.99
+  },
+  {
+    "store": "Irani",
+    "name": "349,5g",
+    "price": 62.99
+  },
+  {
+    "store": "Irani",
+    "name": "225g",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Nestle Prestigio 225g",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Topcau 80g L.O.L Surprise",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Topcau 80g Shrek",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Topcau 80g Ao Leite Transformers",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Topcau 80g Bluey Quebra Cabeça",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Top Cau 80g Ben 10",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Ao Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "240g",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Nestlé Charge 240g",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "199g",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Nestle Galak 199g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Mortadela Copacol 380g. Frango",
+    "price": 17.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Aveia em Flocos Finos Jasmine 400g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Carne",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "400g",
+    "price": 5.49
+  },
+  {
+    "store": "Irani",
+    "name": "100g",
+    "price": 49.99
+  },
+  {
     "store": "Muffatao",
     "name": "Verduras",
     "price": 3.79
@@ -357,7 +507,7 @@
   {
     "store": "Muffatao",
     "name": "Hamburguer Perdigao 150G Picanha",
-    "price": 8.79
+    "price": 9.39
   },
   {
     "store": "Muffatao",
@@ -532,17 +682,17 @@
   {
     "store": "Muffatao",
     "name": "Wafer Recheio e Cobertura Chocolate Branco Lacta Bis Pacote 100,8g",
-    "price": 8.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bala Arcor Butter Toffees Intense Sabor Trufa Pacote 90g",
     "price": 6.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate ao Leite Garoto Pacote 80g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate ao Leite Lacta Pacote 80g",
+    "price": 8.49
   },
   {
     "store": "Muffatao",
@@ -1437,16 +1587,16 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Batavo Caixa com Tampa 1l",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
     "price": 6.49
   },
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Ninho Forti+ Caixa com Tampa 1l",
+    "price": 5.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
     "price": 4.99
   },
   {
@@ -2607,6 +2757,11 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Rosquinha Coco Marilan Pacote 300g",
+    "price": 2.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Recheio Duplo Chocolate Bauducco Pacote 108g",
     "price": 3.49
   },
   {
@@ -2618,11 +2773,6 @@
     "store": "Muffatao",
     "name": "Biscoito Amanteigado Chocolate Renata Pacote 330g",
     "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Recheio Chocolate Bono Pacote 90g",
-    "price": 5.99
   },
   {
     "store": "Muffatao",
