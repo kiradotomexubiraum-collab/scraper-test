@@ -26,22 +26,7 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Ao Leite",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Topcau 80g Bluey Quebra Cabeça",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
     "price": 19.99
   },
   {
@@ -52,16 +37,26 @@
   {
     "store": "Irani",
     "name": "Ovo Topcau 80g Shrek",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Topcau 80g Bluey Quebra Cabeça",
     "price": 19.99
   },
   {
     "store": "Irani",
     "name": "Ovo Topcau 80g L.O.L Surprise",
-    "price": 19.99
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Ovo Top Cau 80g Ben 10",
+    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
     "price": 41.98
   },
   {
@@ -72,11 +67,6 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 41.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 6.99
   },
   {
@@ -97,11 +87,6 @@
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
     "price": 9.99
   },
   {
@@ -112,6 +97,11 @@
   {
     "store": "Irani",
     "name": "Caldo Maggi 152g Carne",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Galinha",
     "price": 7.98
   },
   {
@@ -126,21 +116,6 @@
   },
   {
     "store": "Irani",
-    "name": "335g",
-    "price": 10.9
-  },
-  {
-    "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Tradicional",
-    "price": 10.9
-  },
-  {
-    "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Churrasco",
-    "price": 10.9
-  },
-  {
-    "store": "Irani",
     "name": "100g",
     "price": 49.99
   },
@@ -148,6 +123,31 @@
     "store": "Irani",
     "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
     "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líq Conc OMO 500ML Lavagem Perfeita",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Ferrero Rocher c/8",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
