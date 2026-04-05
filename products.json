@@ -16,27 +16,27 @@
   },
   {
     "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Ao Leite",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
-    "price": 41.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 41.98
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 21.99
   },
   {
@@ -71,32 +71,17 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Elege 200g Tablete Com Sal",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "400g",
     "price": 5.49
   },
   {
     "store": "Irani",
     "name": "Proteína de Soja Camil 400g Clara",
-    "price": 2.99
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "name": "Biscoito Marilan 350g Maizena",
     "price": 5.99
   },
   {
@@ -107,36 +92,36 @@
   {
     "store": "Irani",
     "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Crystal Sem Gás 1.5L",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "350ml",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Therezópolis Lata 350ml",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Hambúrguer Sadia 113g Bovino",
-    "price": 32.98
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Sabão Líq Conc OMO 500ML Lavagem Perfeita",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "name": "Água Mineral Crystal Sem Gás 1.5L",
     "price": 1.29
   },
   {
@@ -147,6 +132,21 @@
   {
     "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Limão",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
     "price": 1.29
   },
   {
@@ -3513,50 +3513,5 @@
     "store": "Festval",
     "name": "Queijo Mussarela Frimesa Fatiado 150g",
     "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 54.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bombom Ferrero Rocher Com 12 Unidades 150g",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Heineken Lata 350ml",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
-    "price": 37.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Fatiado Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Asio Otus 750ml - Leve 3 Pague 2 Kit Pronto",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Ovinhos Milka 86g ou 90g ou 100g",
-    "price": 29.9
   }
 ]
