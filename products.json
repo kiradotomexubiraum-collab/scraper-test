@@ -11,57 +11,32 @@
   },
   {
     "store": "Irani",
-    "name": "229g",
-    "price": 44.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Garoto Caribe 229g",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Topcau 80g Shrek",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Topcau 80g L.O.L Surprise",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Topcau 80g Bluey Quebra Cabeça",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Topcau 80g Ao Leite Transformers",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Wafer Hersheys Mais 102g Ao Leite",
-    "price": 41.98
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
     "price": 41.98
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 21.99
   },
   {
@@ -81,12 +56,7 @@
   },
   {
     "store": "Irani",
-    "name": "Mortadela Copacol 380g. Frango",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
+    "name": "Caldo Maggi 152g Carne",
     "price": 9.99
   },
   {
@@ -96,8 +66,13 @@
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 152g Carne",
+    "name": "Caldo Maggi 152g Galinha",
     "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Manteiga Elege 200g Tablete Com Sal",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -106,48 +81,73 @@
   },
   {
     "store": "Irani",
-    "name": "100g",
-    "price": 49.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
+    "name": "Proteína de Soja Camil 400g Clara",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Crystal Sem Gás 1.5L",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
-    "name": "Carvão Vegetal Nôno Otávio 7kg",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Ferrero Rocher c/8",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Água Mineral Crystal Sem Gás 1.5L",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
     "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líq Conc OMO 500ML Lavagem Perfeita",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero 8g Morango",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
+    "price": 1.29
   },
   {
     "store": "Muffatao",
