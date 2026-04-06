@@ -16,12 +16,12 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
+    "name": "Wafer Hersheys Mais 102g Ao Leite",
     "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Ao Leite",
+    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
     "price": 3.99
   },
   {
@@ -46,12 +46,17 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Galinha",
     "price": 4.99
   },
   {
@@ -62,31 +67,36 @@
   {
     "store": "Irani",
     "name": "Aveia em Flocos Finos Jasmine 400g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
     "price": 7.98
   },
   {
     "store": "Irani",
-    "name": "400g",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
-    "name": "Proteína de Soja Camil 400g Clara",
+    "name": "Manteiga Elege 200g Tablete Com Sal",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
     "price": 5.99
   },
   {
@@ -97,31 +107,21 @@
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 2.99
+    "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
-    "price": 2.99
+    "name": "Refresco Magro Zero Açúcar 8g Limão",
+    "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "350ml",
-    "price": 2.99
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
+    "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "Cerveja Therezópolis Lata 350ml",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Sadia 113g Bovino",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Água Mineral Crystal Sem Gás 1.5L",
+    "name": "Refresco Magro Zero Açúcar 8g Laranja",
     "price": 1.29
   },
   {
@@ -136,18 +136,18 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
     "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Limão",
+    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
     "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
-    "price": 1.29
+    "name": "Refresco Magro Zero 8g Morango",
+    "price": 7.98
   },
   {
     "store": "Muffatao",
