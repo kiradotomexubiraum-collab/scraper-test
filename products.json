@@ -11,52 +11,37 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Cookies'n Cream",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Ao Leite",
-    "price": 41.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 41.98
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 6.99
+    "price": 41.98
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Caldo Maggi 152g Carne",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Aveia em Flocos Finos Jasmine 400g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Galinha",
     "price": 17.89
   },
   {
@@ -66,32 +51,12 @@
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Aveia em Flocos Finos Jasmine 400g",
-    "price": 7.98
-  },
-  {
-    "store": "Irani",
-    "name": "Manteiga Elege 200g Tablete Com Sal",
-    "price": 10.98
-  },
-  {
-    "store": "Irani",
-    "name": "Água de Coco Kero Coco 1L",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
-    "price": 5.99
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate Barra Hersheys 77g Cookies´n´cream",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
     "price": 2.99
   },
   {
@@ -101,27 +66,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Barra Hersheys 82g Ao Leite",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
     "name": "Hambúrguer Sadia 113g Bovino",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
     "price": 1.29
   },
   {
@@ -131,12 +76,12 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
     "price": 1.29
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
+    "name": "Refresco Magro Zero 8g Morango",
     "price": 1.29
   },
   {
@@ -146,8 +91,63 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Pêssego",
     "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 400g Lanche Hot Dog",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet White",
+    "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lencos Demaquilante Ladybless C/25",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
+    "price": 19.98
   },
   {
     "store": "Muffatao",
@@ -392,16 +392,16 @@
   {
     "store": "Muffatao",
     "name": "Coxa E Sobrecoxa Coopavel",
-    "price": 23.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
     "price": 21.98
   },
   {
     "store": "Muffatao",
     "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
+    "price": 23.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
     "price": 10.98
   },
   {
@@ -967,16 +967,16 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Homogeneizado Frimesa Caixa 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Condensado Frimesa Caixa 395g",
     "price": 4.99
   },
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Homogeneizado Zero Lactose Piracanjuba Caixa 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Condensado Frimesa Caixa 395g",
     "price": 3.29
   },
   {
@@ -1572,11 +1572,6 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
     "price": 5.49
   },
   {
@@ -1597,6 +1592,11 @@
   {
     "store": "Muffatao",
     "name": "Leite Tirol Integral Zero Lactose 1L",
+    "price": 6.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Ninho Levinho Forti+ Caixa com Tampa 1l",
     "price": 5.89
   },
   {
@@ -1662,6 +1662,11 @@
   {
     "store": "Muffatao",
     "name": "Perdigão",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Massa para Lasanha sem Glúten Urbano Caixa 250g",
     "price": 14.98
   },
   {
@@ -1677,11 +1682,6 @@
   {
     "store": "Muffatao",
     "name": "Tagliatelle Mezzani Pacote 500g",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Massa para Lasanha sem Glúten Urbano Caixa 250g",
     "price": 24.98
   },
   {
@@ -1717,6 +1717,11 @@
   {
     "store": "Muffatao",
     "name": "Queijo Ralado Santa Clara 40G",
+    "price": 9.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Mussarela Fatiado Zero Lactose Tirol 150g",
     "price": 7.79
   },
   {
@@ -1732,22 +1737,17 @@
   {
     "store": "Muffatao",
     "name": "Queijo Mussarela Fatiado Président",
+    "price": 4.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho 4 Queijos Elegê Caixa 200g",
     "price": 9.39
   },
   {
     "store": "Muffatao",
     "name": "Creme de Queijo Ricota Light Président Pote 200g",
     "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo LATCO Mussarela Zero Lactose 150g",
-    "price": 12.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo Santa Clara Fat 150G Mussarela Zero Lactose",
-    "price": 38.98
   },
   {
     "store": "Muffatao",
@@ -1807,16 +1807,16 @@
   {
     "store": "Muffatao",
     "name": "Creme Quark Calda Frutas Vermelhas Batavo Nuv Pote 100g",
-    "price": 17.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
     "price": 4.99
   },
   {
     "store": "Muffatao",
     "name": "Sobremesa Láctea Flan Calda Caramelo Batavo Bandeja 200g 2 Unidades",
+    "price": 17.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
     "price": 5.49
   },
   {
@@ -3381,7 +3381,7 @@
   },
   {
     "store": "Muffatao",
-    "name": "Pão Frutas, Grãos & Castanhas Nutrella Pacote 500g",
+    "name": "Pão Integral Nutrella Pacote 450g",
     "price": 27.79
   },
   {
