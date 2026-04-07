@@ -2,11 +2,51 @@
   {
     "store": "Irani",
     "name": "Filtros",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Tripla Camada Oreo Lacta 320g",
     "price": 23.98
   },
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 49.98
   },
   {
@@ -17,21 +57,36 @@
   {
     "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 41.98
+    "price": 19.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Batata Palito Copacol 2kg",
     "price": 41.98
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 41.98
+  },
+  {
+    "store": "Irani",
+    "name": "400gr",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 152g Carne",
+    "name": "Leite Condensado Frimesa 395g Tradicional",
+    "price": 17.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 9.99
   },
   {
@@ -41,128 +96,73 @@
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
-    "price": 17.89
+    "name": "Caldo Maggi 152g Carne",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "name": "Caldo Maggi 152g Galinha",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Churrasco",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Queijo",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 104g Original",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
-    "price": 2.99
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Hambúrguer Sadia 113g Bovino",
-    "price": 1.29
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Laranja",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Limão",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Uva",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 400g Lanche Hot Dog",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tira Mancha Pó Vanish 400g Sachet White",
-    "price": 7.98
-  },
-  {
-    "store": "Irani",
-    "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 19,6g Sachet Chocolate",
-    "price": 19.98
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 35.9
   },
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 7.89
+    "price": 3.95
   },
   {
     "store": "Muffatao",
     "name": "Banana Caturra",
-    "price": 5.59
+    "price": 3.58
   },
   {
     "store": "Muffatao",
     "name": "Laranja Pera",
-    "price": 4.98
+    "price": 3.58
   },
   {
     "store": "Muffatao",
@@ -187,7 +187,7 @@
   {
     "store": "Muffatao",
     "name": "Maçã Gala",
-    "price": 11.99
+    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -197,7 +197,7 @@
   {
     "store": "Muffatao",
     "name": "Maçã Argentina",
-    "price": 4.99
+    "price": 3.49
   },
   {
     "store": "Muffatao",
@@ -257,7 +257,7 @@
   {
     "store": "Muffatao",
     "name": "Batata Branca",
-    "price": 6.99
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -267,12 +267,12 @@
   {
     "store": "Muffatao",
     "name": "Tomate Longa Vida",
-    "price": 5.25
+    "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Cebola Nacional",
-    "price": 6.99
+    "price": 5.59
   },
   {
     "store": "Muffatao",
@@ -282,7 +282,7 @@
   {
     "store": "Muffatao",
     "name": "Beterraba",
-    "price": 5.99
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -307,7 +307,7 @@
   {
     "store": "Muffatao",
     "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
-    "price": 19.9
+    "price": 21.98
   },
   {
     "store": "Muffatao",
@@ -337,6 +337,11 @@
   {
     "store": "Muffatao",
     "name": "Alho Ki Forte 100G",
+    "price": 6.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alface Crespa Tanabe",
     "price": 7.88
   },
   {
@@ -358,11 +363,6 @@
     "store": "Muffatao",
     "name": "Alho Ki Forte 500G",
     "price": 24.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tomate Cereja",
-    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -402,17 +402,17 @@
   {
     "store": "Muffatao",
     "name": "Coxinha Da Asa Coopavel 1Kg IQF",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxinha Asa Frango Coopav",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Coxa De Frango - Copacol",
     "price": 10.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Filé de Peito de Frango Congelado Moído Copacol 500g",
-    "price": 21.99
   },
   {
     "store": "Muffatao",
@@ -442,11 +442,11 @@
   {
     "store": "Muffatao",
     "name": "Kit Feijoada Defumado Frimesa Pacote 800g",
-    "price": 27.98
+    "price": 17.98
   },
   {
     "store": "Muffatao",
-    "name": "Kit Feijoada Perdigão Pacote 880g",
+    "name": "Coração Bovino P Bee",
     "price": 82.29
   },
   {
@@ -482,7 +482,7 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Campeira 700g",
-    "price": 16.98
+    "price": 23.98
   },
   {
     "store": "Muffatao",
@@ -722,7 +722,7 @@
   {
     "store": "Muffatao",
     "name": "Azeitona Verde em Conserva Fatiada Malagueña Sachê 120g",
-    "price": 2.99
+    "price": 3.19
   },
   {
     "store": "Muffatao",
@@ -1067,7 +1067,7 @@
   {
     "store": "Muffatao",
     "name": "Ketchup Fugini Sachê Biquinho 200g",
-    "price": 8.98
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -1272,12 +1272,22 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho de Trigo Queijo Torcida Pacote 100g",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho de Trigo Churrasco Torcida Pacote 100g",
     "price": 13.98
   },
   {
     "store": "Muffatao",
     "name": "Salgadinho de Batata Queijo Pringles Tubo 109g",
-    "price": 11.99
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho Picanha Elma Chips Pingo Douro 120G",
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -1288,16 +1298,6 @@
     "store": "Muffatao",
     "name": "Palitinho Salgado Elma Chips Stiksy 160G",
     "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho a Base De Batata Original Ruffles Tira Onda Elma Chips Tubo 100G",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho de Batata Churrasco Pringles Tubo 109g",
-    "price": 13.98
   },
   {
     "store": "Muffatao",
@@ -1572,6 +1572,11 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
     "price": 5.49
   },
   {
@@ -1593,11 +1598,6 @@
     "store": "Muffatao",
     "name": "Leite Tirol Integral Zero Lactose 1L",
     "price": 6.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Semidesnatado Zero Lactose Ninho Levinho Forti+ Caixa com Tampa 1l",
-    "price": 5.89
   },
   {
     "store": "Muffatao",
@@ -1632,11 +1632,11 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Frimesa Extra 500G",
-    "price": 14.89
+    "price": 12.98
   },
   {
     "store": "Muffatao",
-    "name": "Margarina Original com Sal Becel Pote 500g",
+    "name": "Manteiga Extra Com Sal 200G",
     "price": 19.98
   },
   {
@@ -1702,6 +1702,11 @@
   {
     "store": "Muffatao",
     "name": "Queijos",
+    "price": 15.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Mussarela Fatiado Président 300g",
     "price": 7.99
   },
   {
@@ -1746,11 +1751,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Creme de Queijo Ricota Light Président Pote 200g",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Requeijão",
     "price": 6.99
   },
@@ -1767,7 +1767,7 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Unibaby Pote 400g",
-    "price": 7.99
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -1777,6 +1777,11 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso com Queijo Light Batavo Pote 400g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso Cheddar Frimesa Copo 180g",
     "price": 6.99
   },
   {
@@ -1793,11 +1798,6 @@
     "store": "Muffatao",
     "name": "Requeijão Cremoso Zero Lactose Catupiry Copo 150g",
     "price": 18.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso com Queijo Uso Culinário Quatro Queijos Tirol Profissional Bisnaga 400g",
-    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -2357,7 +2357,7 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante",
-    "price": 2.99
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -2382,12 +2382,12 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Tradicional Lata 310ml",
-    "price": 3.59
+    "price": 4.49
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca-Cola Lata 350ml",
-    "price": 10.49
+    "price": 11.99
   },
   {
     "store": "Muffatao",
@@ -2417,12 +2417,12 @@
   {
     "store": "Muffatao",
     "name": "Néctar Manga Purity Caixa 1l",
-    "price": 21.9
+    "price": 14.98
   },
   {
     "store": "Muffatao",
     "name": "Suco Integral Uva Tinto Aurora Caixa 1,5l",
-    "price": 7.99
+    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -2447,17 +2447,17 @@
   {
     "store": "Muffatao",
     "name": "Suco Po Frisco Laranja Acerola 18G",
-    "price": 2.69
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Bebida Frutas Cítricas Del Valle Kapo Caixa 200ml",
-    "price": 7.99
+    "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Água de Coco",
-    "price": 11.99
+    "price": 13.99
   },
   {
     "store": "Muffatao",
@@ -2507,12 +2507,12 @@
   {
     "store": "Muffatao",
     "name": "Águas Minerais",
-    "price": 1.08
+    "price": 1.49
   },
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural com Gás Cristal Select Garrafa 500ml",
-    "price": 1.08
+    "price": 1.19
   },
   {
     "store": "Muffatao",
@@ -2567,7 +2567,7 @@
   {
     "store": "Muffatao",
     "name": "Chá Mate Natural Matte Leão Garrafa 1,5l",
-    "price": 4.39
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -2582,7 +2582,7 @@
   {
     "store": "Muffatao",
     "name": "Chá Branco Leão 1.5L Lichia Zero",
-    "price": 4.39
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -2762,7 +2762,7 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído Tradicional Melitta Caixa 500g",
-    "price": 27.99
+    "price": 22.98
   },
   {
     "store": "Muffatao",
@@ -3092,12 +3092,12 @@
   {
     "store": "Muffatao",
     "name": "Mortadela Defumada Sadia 180g",
-    "price": 38.68
+    "price": 15.98
   },
   {
     "store": "Muffatao",
-    "name": "Bacon Sadia Inteiro",
-    "price": 36.98
+    "name": "Mortadela Perdigão 1kg",
+    "price": 8.39
   },
   {
     "store": "Muffatao",
@@ -3151,6 +3151,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Peito de Peru",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Presuntos",
     "price": 10.98
   },
@@ -3182,21 +3187,26 @@
   {
     "store": "Muffatao",
     "name": "Apresuntado AURORA 200g",
+    "price": 11.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Presunto fatiado Seara 180g",
     "price": 9.9
   },
   {
     "store": "Muffatao",
     "name": "Apresuntado Fatiado Seara 180g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Apresuntado Fatiado Frimesa 200g",
     "price": 7.98
   },
   {
     "store": "Muffatao",
     "name": "Salame e Copa Lombo",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salame Pepperônico Sadia Salamitos 36g",
     "price": 16.98
   },
   {
@@ -3207,11 +3217,6 @@
   {
     "store": "Muffatao",
     "name": "Salame Pepperoni Fatiado Sadia 100g",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Copa Lombo Fatiada Sadia Pacote 100g",
     "price": 15.9
   },
   {
@@ -3232,12 +3237,17 @@
   {
     "store": "Muffatao",
     "name": "Salame Sweet Chilli Sadia Salamitos 36g",
-    "price": 5.99
+    "price": 11.98
   },
   {
     "store": "Muffatao",
-    "name": "Salame Lemonástico Sadia Salamitos 36g",
-    "price": 5.99
+    "name": "Salame Italiano Fatiado Sadia 100g",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salame Italiano AURORA Fatiado 100g",
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -3372,6 +3382,11 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Integral",
+    "price": 19.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Frutas, Grãos & Castanhas Nutrella Pacote 500g",
     "price": 13.79
   },
   {
@@ -3383,11 +3398,6 @@
     "store": "Muffatao",
     "name": "Pão Integral Nutrella Pacote 450g",
     "price": 27.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Sanduíche Chia & Ervas Finas sem Glúten Jasmine Pacote 350g",
-    "price": 8.49
   },
   {
     "store": "Muffatao",
