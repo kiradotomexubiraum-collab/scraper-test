@@ -16,22 +16,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.98
   },
   {
@@ -46,27 +41,27 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 49.98
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 49.98
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 19.98
+    "price": 49.98
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 41.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 41.98
   },
   {
@@ -81,62 +76,52 @@
   },
   {
     "store": "Irani",
-    "name": "Leite Condensado Frimesa 395g Tradicional",
-    "price": 17.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Aveia em Flocos Finos Jasmine 400g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Caldo Maggi 152g Carne",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Caldo Maggi 152g Galinha",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Churrasco",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Queijo",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 104g Original",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Aveia em Flocos Finos Jasmine 400g",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
     "price": 2.99
   },
   {
@@ -147,6 +132,21 @@
   {
     "store": "Irani",
     "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
