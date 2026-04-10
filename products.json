@@ -6,6 +6,16 @@
   },
   {
     "store": "Irani",
+    "name": "Ovo Tripla Camada Oreo Lacta 320g",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -16,7 +26,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -27,21 +37,6 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 4.99
   },
   {
@@ -51,12 +46,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 41.98
   },
   {
@@ -91,16 +86,6 @@
   },
   {
     "store": "Irani",
-    "name": "250g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "250g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "400gr",
     "price": 8.99
   },
@@ -112,11 +97,6 @@
   {
     "store": "Irani",
     "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 11.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Tirol 300g",
     "price": 4.99
   },
   {
@@ -147,7 +127,27 @@
   {
     "store": "Irani",
     "name": "Proteína de Soja Camil 400g Clara",
-    "price": 35.9
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto C/Cheddar",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tempero Zaeli 36g Faça Fácil Arroz",
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -382,16 +382,16 @@
   {
     "store": "Muffatao",
     "name": "Coxa E Sobrecoxa Coopavel",
-    "price": 21.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
     "price": 23.98
   },
   {
     "store": "Muffatao",
     "name": "Coxinha Da Asa Coopavel 1Kg IQF",
+    "price": 21.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
     "price": 14.98
   },
   {
@@ -407,7 +407,7 @@
   {
     "store": "Muffatao",
     "name": "Filé de Peito de Frango Congelado Moído Copacol 500g",
-    "price": 21.99
+    "price": 12.89
   },
   {
     "store": "Muffatao",
@@ -1542,11 +1542,6 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
     "price": 6.49
   },
   {
@@ -1568,6 +1563,11 @@
     "store": "Muffatao",
     "name": "Leite UHT Semidesnatado Ninho Levinho Forti+ Caixa com Tampa 1l",
     "price": 6.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Ninho Levinho Forti+ Caixa com Tampa 1l",
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -2697,16 +2697,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Wafer Recheio Chocolate Isabela Pacote 100g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Parati Rosca Brigadeiro 250g",
     "price": 4.59
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Rosquinha Coco Marilan Pacote 300g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Parati Rosca Brigadeiro 250g",
     "price": 2.19
   },
   {
@@ -3077,6 +3077,16 @@
   {
     "store": "Muffatao",
     "name": "Nata Santa Clara 300G",
+    "price": 5.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Patê de peito de peru Seara 100g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Patê de Atum com Azeitonas Verdes Coqueiro Sachê 170g",
     "price": 22.9
   },
   {
@@ -3108,16 +3118,6 @@
     "store": "Muffatao",
     "name": "Creme de Aveia Nude. Caixa 200g",
     "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Patê de Atum Coqueiro Sachê 170g",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Patê de Atum com Azeitonas Verdes Coqueiro Sachê 170g",
-    "price": 23.98
   },
   {
     "store": "Muffatao",
