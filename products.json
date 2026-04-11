@@ -2,21 +2,11 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Tripla Camada Oreo Lacta 320g",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
@@ -31,7 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
@@ -41,27 +36,27 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
     "price": 5.99
   },
   {
@@ -76,12 +71,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 41.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 12.98
   },
   {
@@ -106,6 +101,16 @@
   },
   {
     "store": "Irani",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "price": 4.59
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 4.59
+  },
+  {
+    "store": "Irani",
     "name": "300g",
     "price": 69.9
   },
@@ -117,21 +122,16 @@
   {
     "store": "Irani",
     "name": "Doce Leite Ilolay 400g",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
     "price": 8.99
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Lider Caixa com Tampa 1l",
-    "price": 5.79
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -2082,7 +2082,7 @@
   {
     "store": "Muffatao",
     "name": "Gergelim Branco Natural Integral Jasmine Pouch 150g",
-    "price": 6.98
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -2692,16 +2692,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Bauducco Barrinha Pacote 25g",
-    "price": 3.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 2.69
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Wafer Recheio Chocolate Isabela Pacote 100g",
+    "price": 3.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 4.59
   },
   {
