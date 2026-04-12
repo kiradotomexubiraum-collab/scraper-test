@@ -6,6 +6,16 @@
   },
   {
     "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -16,22 +26,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 5.99
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 41.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 12.98
   },
   {
@@ -101,18 +101,18 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 4.59
   },
   {
     "store": "Irani",
     "name": "400gr",
     "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
+    "price": 4.59
   },
   {
     "store": "Irani",
@@ -932,17 +932,17 @@
   {
     "store": "Muffatao",
     "name": "Gelatina Pó APTI Maracuja 35g",
+    "price": 1.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Gelatina Pó Framboesa Apti Caixa 20g",
     "price": 1.99
   },
   {
     "store": "Muffatao",
     "name": "Gelatina Pó Amora Dr. Oetker Caixa 20g",
     "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Gelatina Pó Morango Diet Dr. Oetker Caixa 12g",
-    "price": 6.49
   },
   {
     "store": "Muffatao",
@@ -1197,6 +1197,11 @@
   {
     "store": "Muffatao",
     "name": "Pipocas",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pipoca Pronta Doce Magitlec Pacote 120g",
     "price": 4.49
   },
   {
@@ -1217,11 +1222,6 @@
   {
     "store": "Muffatao",
     "name": "Pipoca Microondas Zaeli 100G Bacon",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pipoca Pronta Doce Magitlec Pacote 120g",
     "price": 10.59
   },
   {
@@ -3297,6 +3297,11 @@
   {
     "store": "Muffatao",
     "name": "Fermento Biológico Seco Instantâneo Dona Benta Fermix Envelope 10g",
+    "price": 1.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bolo Chocolate Recheio Brigadeiro Cobertura Granulado Crocante Miraculous Renata Divertix Pacote 40g",
     "price": 5.99
   },
   {
@@ -3307,6 +3312,11 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Laranja Renata Pacote 400g",
+    "price": 1.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bolo Chocolate Recheio Chocolate Renata Divertix Pacote 40g",
     "price": 9.98
   },
   {
@@ -3317,31 +3327,21 @@
   {
     "store": "Muffatao",
     "name": "Bolo Mesclado Baunilha e Chocolate Renata Pacote 250g",
-    "price": 5.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fermento Químico Pó Royal Pote 100g",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fermento Biológico Seco Instantâneo Dr. Oetker Envelope 10g",
     "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 6.99
   },
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Tradiciona",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 8.49
   },
   {
