@@ -2,7 +2,17 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 23.98
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -16,77 +26,32 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 49.98
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Margarina Doriana 500g Com Sal",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Margarina Doriana 500g Sem Sal",
-    "price": 41.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 41.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 21.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 12.98
   },
   {
     "store": "Irani",
     "name": "Condicionador Seda 300ml Luminous Uv",
+    "price": 21.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 12.98
   },
   {
@@ -101,32 +66,12 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Seda 325ml Sos Ceramidas",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
     "name": "300g",
     "price": 69.9
   },
   {
     "store": "Irani",
     "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
-    "name": "400gr",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 4.59
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.19
   },
   {
@@ -148,6 +93,61 @@
     "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Morango",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Uva",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Abacaxi",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Carne",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 152g Galinha",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "400g",
+    "price": 5.49
+  },
+  {
+    "store": "Irani",
+    "name": "Proteína de Soja Camil 400g Clara",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tempero Zaeli 36g Faça Fácil Arroz",
+    "price": 14.98
   },
   {
     "store": "Muffatao",
