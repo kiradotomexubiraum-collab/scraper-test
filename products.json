@@ -6,7 +6,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
@@ -26,12 +31,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hambúrguer Texas Burger 112g Misto",
     "price": 9.98
   },
   {
@@ -41,17 +46,12 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 12.98
   },
   {
@@ -142,11 +142,11 @@
   {
     "store": "Irani",
     "name": "Proteína de Soja Camil 400g Clara",
-    "price": 35.9
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Tempero Zaeli 36g Faça Fácil Arroz",
     "price": 14.9
   },
   {
@@ -1152,6 +1152,16 @@
   {
     "store": "Muffatao",
     "name": "Molhos Diversos",
+    "price": 6.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho Shoyu Light Sakura Frasco 150ml",
+    "price": 5.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho de Soja Aji no Shoyu Frasco 150ml",
     "price": 15.69
   },
   {
@@ -1188,16 +1198,6 @@
     "store": "Muffatao",
     "name": "Molho Agridoce com Pimenta Sweet Chilli Blue Dragon Squeeze 220g",
     "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho para Salada Mostarda e Mel Kenko Squeeze 236ml",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho para Salada Ervas Finas Kenko Squeeze 236ml",
-    "price": 5.79
   },
   {
     "store": "Muffatao",
@@ -1547,11 +1547,6 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
     "price": 6.49
   },
   {
@@ -1576,6 +1571,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Ninho Levinho Forti+ Caixa com Tampa 1l",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Manteigas e Margarinas",
     "price": 18.69
   },
@@ -1592,6 +1592,11 @@
   {
     "store": "Muffatao",
     "name": "Manteiga com Sal Batavo 200g",
+    "price": 9.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga de Primeira Qualidade com Sal Tirol Pote 200g",
     "price": 9.99
   },
   {
@@ -1602,11 +1607,6 @@
   {
     "store": "Muffatao",
     "name": "Margarina com Sal Dualis Pote 500g",
-    "price": 9.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga de Primeira Qualidade com Sal Tirol Pote 200g",
     "price": 12.98
   },
   {
@@ -1872,11 +1872,11 @@
   {
     "store": "Muffatao",
     "name": "Açúcar Docesucar 1Kg Extra Fino",
-    "price": 4.99
+    "price": 8.49
   },
   {
     "store": "Muffatao",
-    "name": "Açúcar Refinado Especial União Pacote 1kg",
+    "name": "Açúcar Mascavo Guimaraes 500G",
     "price": 4.39
   },
   {
