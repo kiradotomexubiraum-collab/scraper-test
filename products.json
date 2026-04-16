@@ -1,155 +1,5 @@
 [
   {
-    "store": "Irani",
-    "name": "Filtros",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "500g",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 300ml Luminous Uv",
-    "price": 21.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 325ml Liso Perfeito",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 325ml Pretos Luminosos",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 325ml Sos Ceramidas",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Maracujá",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Tangerina",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Limonada",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Morango",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Uva",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "400g",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
-    "name": "Proteína de Soja Camil 400g Clara",
-    "price": 16.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Ação Total",
-    "price": 16.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Coco",
-    "price": 16.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
-    "price": 2.99
-  },
-  {
     "store": "Muffatao",
     "name": "Verduras",
     "price": 4.85
@@ -442,11 +292,6 @@
   {
     "store": "Muffatao",
     "name": "Kit Feijoada Perdigão Pacote 880g",
-    "price": 54.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxão M Bife Frigosu",
     "price": 17.98
   },
   {
@@ -458,6 +303,11 @@
     "store": "Muffatao",
     "name": "Costela Defumada - Aurora",
     "price": 43.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Traseiro Bovino Jerked Beef Paineira 500g",
+    "price": 38.99
   },
   {
     "store": "Muffatao",
@@ -497,7 +347,7 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Mista Cozida e Defumada Fininha Perdigão 215g",
-    "price": 9.39
+    "price": 9.79
   },
   {
     "store": "Muffatao",
@@ -632,6 +482,11 @@
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Aerado Suflair Pacote 80g",
+    "price": 6.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate Meio Amargo Garoto Pacote 80g",
     "price": 2.59
   },
   {
@@ -662,11 +517,6 @@
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Lacta Pacote 80g",
-    "price": 8.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
     "price": 8.49
   },
   {
@@ -767,6 +617,11 @@
   {
     "store": "Muffatao",
     "name": "Molho de Tomate Tradicional Pomarola Caixa 520g",
+    "price": 6.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Elefante Pote 300g",
     "price": 6.89
   },
   {
@@ -793,11 +648,6 @@
     "store": "Muffatao",
     "name": "Extrato de Tomate Quero Caixa 320g",
     "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tomate Pelado Olé em Cubos 240g",
-    "price": 24.69
   },
   {
     "store": "Muffatao",
@@ -837,7 +687,7 @@
   {
     "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
-    "price": 15.89
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -952,17 +802,12 @@
   {
     "store": "Muffatao",
     "name": "Leites Condensados e Cremes de Leite",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Leite UHT Homogeneizado Frimesa Caixa 200g",
     "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Leite Condensado Frimesa Caixa 395g",
-    "price": 4.99
+    "price": 5.79
   },
   {
     "store": "Muffatao",
@@ -997,7 +842,12 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Original Nestlé Caixa 200g",
-    "price": 9.98
+    "price": 10.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Condensado Zero Lactose Piracanjuba Caixa 395g",
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -1432,7 +1282,7 @@
   {
     "store": "Muffatao",
     "name": "Bebidas Lácteas",
-    "price": 7.79
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -1457,7 +1307,7 @@
   {
     "store": "Muffatao",
     "name": "Bebida Láctea Fermentada Morango Batavo Bandeja 540g 6 Unidades",
-    "price": 7.79
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -1887,7 +1737,7 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
-    "price": 17.99
+    "price": 19.9
   },
   {
     "store": "Muffatao",
@@ -1912,7 +1762,7 @@
   {
     "store": "Muffatao",
     "name": "Arroz 500G Meu Biju 8 Graos Com Chia",
-    "price": 15.98
+    "price": 18.9
   },
   {
     "store": "Muffatao",
@@ -2822,6 +2672,11 @@
   {
     "store": "Muffatao",
     "name": "Cereal Matinal Nescau Sachê 120g",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Farinha Láctea Original Nestlé Sachê 160g",
     "price": 10.98
   },
   {
@@ -2832,11 +2687,6 @@
   {
     "store": "Muffatao",
     "name": "Farinha Láctea Original Nestlé Lata 360g",
-    "price": 12.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cereal Matinal Chocolate Kellogg's Choco Krispis Caixa 200g",
     "price": 3.99
   },
   {
@@ -2962,12 +2812,12 @@
   {
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Instantâneo Lata 380g",
-    "price": 23.98
+    "price": 25.98
   },
   {
     "store": "Muffatao",
     "name": "Leite Pó Instantâneo Desnatado Piracanjuba Sachê 600g",
-    "price": 28.98
+    "price": 33.98
   },
   {
     "store": "Muffatao",
@@ -3002,7 +2852,7 @@
   {
     "store": "Muffatao",
     "name": "Torrada Bauducco 284g Integral",
-    "price": 10.98
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -3142,7 +2992,7 @@
   {
     "store": "Muffatao",
     "name": "Presuntos",
-    "price": 5.99
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -3237,7 +3087,7 @@
   {
     "store": "Muffatao",
     "name": "Salame Sadia Salamitos 36g",
-    "price": 11.98
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -3297,7 +3147,7 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Chocolate Renata Pacote 400g",
-    "price": 4.79
+    "price": 3.99
   },
   {
     "store": "Muffatao",
