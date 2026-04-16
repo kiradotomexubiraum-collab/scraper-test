@@ -6,17 +6,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
@@ -31,7 +21,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 1.99
   },
   {
@@ -42,16 +47,6 @@
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Ovomaltine",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 12.98
   },
   {
@@ -121,23 +116,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Abacaxi",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 152g Carne",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 152g Galinha",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "750ml",
     "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -147,7 +132,22 @@
   {
     "store": "Irani",
     "name": "Proteína de Soja Camil 400g Clara",
-    "price": 14.98
+    "price": 16.95
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Ação Total",
+    "price": 16.95
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "price": 16.95
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -667,7 +667,7 @@
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
-    "price": 7.99
+    "price": 8.49
   },
   {
     "store": "Muffatao",
@@ -802,16 +802,16 @@
   {
     "store": "Muffatao",
     "name": "Doces e Compotas",
-    "price": 15.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 11.98
   },
   {
     "store": "Muffatao",
     "name": "Paçoca Tradicional DaColônia Caixa 200g",
+    "price": 15.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 1.49
   },
   {
@@ -831,6 +831,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Doce Cremoso Schmier Goiaba Ritter Pote 400g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
     "price": 15.89
   },
@@ -843,11 +848,6 @@
     "store": "Muffatao",
     "name": "Confeito Granulado Mesclado Chocolate e Baunilha Dori Pacote 120g",
     "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Confeito Granulado Chocolate Dori Pacote 120g",
-    "price": 22.9
   },
   {
     "store": "Muffatao",
@@ -957,16 +957,16 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Homogeneizado Frimesa Caixa 200g",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Leite UHT Homogeneizado Zero Lactose Piracanjuba Caixa 200g",
     "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Leite Condensado Frimesa Caixa 395g",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Creme de Leite UHT Homogeneizado Zero Lactose Piracanjuba Caixa 200g",
     "price": 3.29
   },
   {
@@ -1542,7 +1542,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Tirol Caixa com Tampa 1l",
-    "price": 6.99
+    "price": 8.39
   },
   {
     "store": "Muffatao",
@@ -1552,7 +1552,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
-    "price": 9.98
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -1577,7 +1577,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Desnatado Frimesa Caixa com Tampa 1l",
-    "price": 6.99
+    "price": 8.39
   },
   {
     "store": "Muffatao",
@@ -1612,6 +1612,11 @@
   {
     "store": "Muffatao",
     "name": "Margarina com Sal Dualis Pote 500g",
+    "price": 9.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga Extra sem Sal Elegê 200g",
     "price": 12.98
   },
   {
@@ -1623,11 +1628,6 @@
     "store": "Muffatao",
     "name": "Margarina Original com Sal Becel Pote 500g",
     "price": 19.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga de Primeira Qualidade com Sal Aviação Lata 200g",
-    "price": 9.99
   },
   {
     "store": "Muffatao",
@@ -2102,6 +2102,11 @@
   {
     "store": "Muffatao",
     "name": "Óleo Coala Cravo E Canela 120Ml",
+    "price": 12.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Canola Tipo 1 Suavit Garrafa 900ml",
     "price": 16.99
   },
   {
@@ -2132,11 +2137,6 @@
   {
     "store": "Muffatao",
     "name": "Óleo Gergelim Torrado HONG KONG 100ml",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Milho Tipo 1 Suavit Garrafa 900ml",
     "price": 2.99
   },
   {
@@ -3352,16 +3352,16 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Tradiciona",
-    "price": 8.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Seven Boys Pacote 450g",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Pullman Pacote 480g",
+    "price": 8.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão de Forma Seven Boys Pacote 450g",
     "price": 8.99
   },
   {
