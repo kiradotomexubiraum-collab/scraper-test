@@ -1,5 +1,155 @@
 [
   {
+    "store": "Irani",
+    "name": "Filtros",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "500g",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Açucar Confeiteiro Glaçucar 500g",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger 112g Misto",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Seda 300ml Luminous Uv",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Seda 325ml Liso Perfeito",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Seda 325ml Pretos Luminosos",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "300g",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Integralmedica 300g Hardcore",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Maracujá",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Tangerina",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Limonada",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Morango",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Uva",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "400g",
+    "price": 5.49
+  },
+  {
+    "store": "Irani",
+    "name": "Proteína de Soja Camil 400g Clara",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tempero Zaeli 36g Faça Fácil Arroz",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Saponáceo Cremoso Cif 450ml Floral",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Sadia 113g Bovino",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Saponáceo Cremoso Cif 450ml Laranja",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 2.99
+  },
+  {
     "store": "Muffatao",
     "name": "Verduras",
     "price": 4.85
@@ -637,17 +787,17 @@
   {
     "store": "Muffatao",
     "name": "Passata Pomodori Mastroiani 680g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
     "price": 4.39
   },
   {
     "store": "Muffatao",
     "name": "Molho de Tomate Tradicional Pomarola Caixa 260g",
     "price": 4.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Extrato de Tomate Quero Caixa 320g",
-    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -1127,7 +1277,7 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho Picanha Elma Chips Pingo Douro 120G",
-    "price": 14.98
+    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -1147,6 +1297,11 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho de Batata Creme e Cebola Pringles Tubo 109g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Creme Cebola Maggi Pacote 68g",
     "price": 5.39
   },
   {
@@ -1183,11 +1338,6 @@
     "store": "Muffatao",
     "name": "Sopa Individual Cremosa Mandioquinha com Cebola e Salsa Vono Pacote 17g",
     "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sopa Individual Cremosa Batata com Carne Vono Pacote 18g",
-    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -1742,6 +1892,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parbolizado Rampinelli 5KG",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
     "price": 10.99
   },
   {
@@ -1773,11 +1928,6 @@
     "store": "Muffatao",
     "name": "Arroz Takumi 5Kg Grao Curto",
     "price": 16.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Branco Sabor Sul 5kg Tp1",
-    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -1902,6 +2052,11 @@
   {
     "store": "Muffatao",
     "name": "Milho Pipoca ZAELI 500G Americana",
+    "price": 11.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho Pipoca Perola Zaeli 500G",
     "price": 5.49
   },
   {
@@ -1932,11 +2087,6 @@
   {
     "store": "Muffatao",
     "name": "Gergelim Preto Cru 100g",
-    "price": 24.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Gergelim Branco Natural Integral Jasmine Pouch 150g",
     "price": 6.98
   },
   {
@@ -2212,16 +2362,16 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Tradicional Lata 310ml",
-    "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Coca-Cola Lata 350ml",
     "price": 11.99
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Sem Açúcar Garrafa 2L",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Coca-Cola Lata 350ml",
     "price": 7.79
   },
   {
@@ -3237,7 +3387,7 @@
   {
     "store": "Muffatao",
     "name": "Pão de Sanduíche Chia & Ervas Finas sem Glúten Jasmine Pacote 350g",
-    "price": 8.49
+    "price": 9.98
   },
   {
     "store": "Muffatao",
