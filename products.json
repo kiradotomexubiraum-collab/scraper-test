@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -26,32 +26,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger 112g Misto",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 12.98
   },
   {
@@ -137,6 +127,11 @@
   {
     "store": "Irani",
     "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Saponáceo Cremoso Cif 450ml Floral",
     "price": 2.99
   },
   {
@@ -147,7 +142,12 @@
   {
     "store": "Irani",
     "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 2.99
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 14.9
   },
   {
     "store": "Muffatao",
