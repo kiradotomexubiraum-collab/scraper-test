@@ -11,6 +11,11 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
@@ -22,16 +27,6 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "500g",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Açucar Confeiteiro Glaçucar 500g",
     "price": 6.99
   },
   {
@@ -42,16 +37,11 @@
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Condensado Moça Semidesnatado 395g",
     "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Condicionador Seda 325ml Liso Perfeito",
+    "name": "Condicionador Seda 300ml Luminous Uv",
     "price": 12.98
   },
   {
@@ -66,88 +56,98 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Seda 300ml Luminous Uv",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "400gr",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Maracujá",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Tangerina",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Limonada",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Morango",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Uva",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
     "name": "750ml",
     "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
+    "name": "500ml",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "400g",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
-    "name": "Proteína de Soja Camil 400g Clara",
+    "name": "350ml",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Tempero Zaeli 36g Faça Fácil Arroz",
-    "price": 17.9
+    "name": "Cerveja Therezópolis Lata 350ml",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 14.9
+    "name": "Vodka Smirnoff 998ml",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 17.9
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
+    "price": 64.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky White Horse 1l Fine Old",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom 210,7g Garoto Serenata de Amor",
+    "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lencos Demaquilante Ladybless C/25",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Copa Ceratti 100g Fatiada",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
+    "price": 11.98
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Seda 300ml Luminous Uv",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "price": 79.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Pampers Confortsec Bag C/44 XXXG",
+    "price": 11.98
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Seda 300ml Toque De Seda",
+    "price": 79.9
   },
   {
     "store": "Muffatao",
