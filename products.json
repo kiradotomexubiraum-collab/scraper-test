@@ -11,12 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
@@ -26,38 +21,23 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 6.99
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 12.98
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Condicionador Seda 325ml Pretos Luminosos",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 300ml Luminous Uv",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Seda 325ml Sos Ceramidas",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 21.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 12.98
   },
   {
     "store": "Irani",
@@ -71,27 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "350ml",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Therezópolis Lata 350ml",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -101,12 +61,22 @@
   },
   {
     "store": "Irani",
-    "name": "500ml",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "Azeite Oliva Costa D'oro 500ml",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 4.99
   },
   {
@@ -116,12 +86,12 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
     "price": 64.9
   },
   {
@@ -132,22 +102,52 @@
   {
     "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
     "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Bombom 210,7g Garoto Serenata de Amor",
-    "price": 5.49
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "Leite Condensado SemidesPiracanjuba 395g",
+    "name": "Copa Ceratti 100g Fatiada",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Caramelo",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
     "price": 7.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lencos Demaquilante Ladybless C/25",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Sprite 350ml",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 350ml Uva",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Bis Xtra lacta 45g Original",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 350ml Laranja Zero",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
