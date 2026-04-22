@@ -11,7 +11,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -21,12 +26,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 6.99
   },
   {
@@ -46,37 +46,27 @@
   },
   {
     "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
     "name": "750ml",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mortadela Copacol 380g Sem Toucinho",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mingau Mucilon 400g Multicereais",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -91,63 +81,73 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Vodka Smirnoff 998ml",
     "price": 19.98
   },
   {
     "store": "Irani",
     "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
-    "price": 4.99
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 64.9
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
+    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "price": 64.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky White Horse 1l Fine Old",
     "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Bombom 210,7g Garoto Serenata de Amor",
-    "price": 1.99
+    "price": 18.99
   },
   {
     "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
+    "name": "Batata Mccain AIRFRYER 600g",
     "price": 19.99
   },
   {
     "store": "Irani",
     "name": "Copa Ceratti 100g Fatiada",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 18.99
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Geleia Turca Tunas 380g Amora",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Geleia Turca Tunas 380g Framboesa",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Branco C/10 Happy Eggs",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
