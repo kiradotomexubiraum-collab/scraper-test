@@ -11,12 +11,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.98
   },
   {
@@ -31,18 +31,18 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 21.99
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 11.99
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -52,102 +52,102 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mortadela Copacol 380g Sem Toucinho",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 19.98
   },
   {
     "store": "Irani",
     "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido OMO 3L Lavagem Perfeita",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 29.98
   },
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Premium Caseirinho 450g 100% Integral",
     "price": 64.9
   },
   {
     "store": "Irani",
     "name": "Whisky White Horse 1l Fine Old",
-    "price": 8.99
+    "price": 9.99
   },
   {
     "store": "Irani",
-    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Casal Mendes 750ml Verde",
+    "name": "Pão Premium Caseirinho 450g 100% Integral",
     "price": 34.9
   },
   {
     "store": "Irani",
     "name": "Vinho Português Casal Mendes 750ml Rose",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Casal Mendes 750ml Verde",
     "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Bombom 210,7g Garoto Serenata de Amor",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
     "price": 18.99
   },
   {
     "store": "Irani",
     "name": "Batata Mccain AIRFRYER 600g",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Copa Ceratti 100g Fatiada",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Lencos Demaquilante Ladybless C/25",
-    "price": 1.99
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Geleia Turca Tunas 380g Amora",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Geleia Turca Tunas 380g Framboesa",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Bis Xtra lacta 45g Original",
+    "price": 28.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky Old Eight 900ml",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 600ml",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Lombo Canadense Pamplona 180g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Ralado Quata 50g",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 200ml Pet Guaraná",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 200ml Pet Laranja",
+    "price": 5.49
   },
   {
     "store": "Muffatao",
@@ -1492,6 +1492,11 @@
   {
     "store": "Muffatao",
     "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
     "price": 3.39
   },
   {
@@ -1507,11 +1512,6 @@
   {
     "store": "Muffatao",
     "name": "Stick Petit Suisse Unibaby Ice Morango 56G",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
     "price": 11.98
   },
   {
@@ -1727,21 +1727,21 @@
   {
     "store": "Muffatao",
     "name": "Requeijão",
-    "price": 7.49
+    "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Tradicional Lider Copo 180g",
-    "price": 19.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso com Queijo Batavo Pote 400g",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Unibaby Pote 400g",
+    "price": 19.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso com Queijo Batavo Pote 400g",
     "price": 9.98
   },
   {
@@ -2692,16 +2692,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Bauducco Barrinha Pacote 25g",
-    "price": 3.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 4.59
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Rosquinha Coco Marilan Pacote 300g",
+    "price": 3.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 4.49
   },
   {
@@ -2717,17 +2717,17 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Goiabinha Bauducco Barrinha Pacote 30g",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Ninfa Rosca Leite 300G",
     "price": 3.49
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Integral Cacau Renata Pacote 150g",
     "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Amanteigado Chocolate Renata Pacote 330g",
-    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -3142,16 +3142,16 @@
   {
     "store": "Muffatao",
     "name": "Presuntos",
-    "price": 9.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Presunto Cozido Fatiado sem Capa de Gordura Frimesa 200g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Presunto Cozido Fatiado Perdigão 200g",
+    "price": 9.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Presunto Cozido Fatiado sem Capa de Gordura Frimesa 200g",
     "price": 13.98
   },
   {
@@ -3352,16 +3352,16 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Tradiciona",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Pão Bisnaguinha Original Pullman Artesano Pacote 300g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 8.49
   },
   {
