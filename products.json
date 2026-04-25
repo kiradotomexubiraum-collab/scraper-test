@@ -11,17 +11,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
   {
@@ -36,27 +36,27 @@
   },
   {
     "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
     "name": "750ml",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
     "price": 29.98
   },
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
     "price": 21.9
   },
   {
@@ -72,41 +72,41 @@
   {
     "store": "Irani",
     "name": "Absorvente Interno Intimus C/16 mini",
-    "price": 64.9
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
-    "price": 24.9
+    "price": 64.9
   },
   {
     "store": "Irani",
-    "name": "Carvão Vegetal Nôno Otávio 4kg 1135",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Casal Mendes 750ml Rose",
+    "name": "Whisky White Horse 1l Fine Old",
     "price": 34.9
   },
   {
     "store": "Irani",
     "name": "Vinho Português Casal Mendes 750ml Verde",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Casal Mendes 750ml Rose",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Carvão Vegetal Nôno Otávio 4kg 1135",
     "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Bombom 210,7g Garoto Serenata de Amor",
-    "price": 18.9
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
+    "name": "Leite Fermentado Frimesa 170g",
     "price": 7.98
   },
   {
@@ -117,11 +117,6 @@
   {
     "store": "Irani",
     "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Fermentado Frimesa 170g",
     "price": 18.99
   },
   {
@@ -131,23 +126,28 @@
   },
   {
     "store": "Irani",
+    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
     "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
     "price": 72.8
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
     "price": 15.99
   },
   {
     "store": "Irani",
     "name": "Geleia Turca Tunas 380g Framboesa",
-    "price": 15.99
+    "price": 12.49
   },
   {
     "store": "Irani",
-    "name": "Geleia Turca Tunas 380g Amora",
-    "price": 12.49
+    "name": "Coca-Cola 3L",
+    "price": 15.99
   },
   {
     "store": "Muffatao",
