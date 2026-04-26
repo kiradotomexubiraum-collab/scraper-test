@@ -16,22 +16,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
     "price": 6.99
   },
   {
@@ -41,37 +41,42 @@
   },
   {
     "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
     "name": "750ml",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
     "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 19.98
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
     "price": 29.98
   },
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Avelã Tunas 350g Turco Chocolate Avelã",
+    "price": 21.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Interno Intimus C/16 mini",
     "price": 21.9
   },
   {
@@ -82,11 +87,6 @@
   {
     "store": "Irani",
     "name": "Absorvente Interno Intimus C/16",
-    "price": 21.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16 mini",
     "price": 64.9
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Casal Mendes 750ml Rose",
+    "name": "Vinho Português Casal Mendes 750ml Verde",
     "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Casal Mendes 750ml Verde",
+    "name": "Vinho Português Casal Mendes 750ml Rose",
     "price": 24.9
   },
   {
@@ -117,21 +117,26 @@
   {
     "store": "Irani",
     "name": "Bombom 210,7g Garoto Serenata de Amor",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Mccain AIRFRYER 600g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Wickbold 450g Integral",
     "price": 7.98
   },
   {
     "store": "Irani",
     "name": "Lencos Demaquilante Ladybless C/25",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Wickbold 450g Integral",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Leite Fermentado Frimesa 170g",
     "price": 1.99
   },
   {
@@ -142,12 +147,7 @@
   {
     "store": "Irani",
     "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Fermentado Frimesa 170g",
-    "price": 18.9
+    "price": 18.99
   },
   {
     "store": "Muffatao",
@@ -1547,7 +1547,7 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Elege Paw Patrol Morango Bj 510G",
-    "price": 5.59
+    "price": 5.29
   },
   {
     "store": "Muffatao",
