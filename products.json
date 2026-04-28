@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
@@ -21,22 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 6.99
   },
   {
@@ -46,18 +36,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Detergente Líquido Limpol 500ml Neutro",
-    "price": 1.99
+    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -67,26 +52,16 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 1.99
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Detergente Líquido Limpol 500ml Cristal",
-    "price": 1.99
+    "name": "Vinho Nacional Canção 750ml Branco Seco",
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Detergente Líquido Limpol 500ml Maçã",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Detergente Líquido Limpol 500ml Limão",
+    "name": "Vinho Nacional Cancao 750ml Branco Suave",
     "price": 12.98
   },
   {
@@ -101,53 +76,78 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Seco",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Cancao 750ml Branco Suave",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Branco Seco",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Visconti 400g Tradicional",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Nacional Canção 750ml Rose Suave",
-    "price": 16.98
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Ação Total",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "name": "Vinho Nacional Canção 750ml Tinto Seco",
     "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 16.98
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Coco",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
     "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Mingau Mucilon 400g Multicereais",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "price": 64.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky White Horse 1l Fine Old",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom 210,7g Garoto Serenata de Amor",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
+    "price": 7.99
   },
   {
     "store": "Muffatao",
