@@ -11,12 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
   {
@@ -26,7 +21,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 6.99
   },
   {
@@ -36,12 +41,17 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 21.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 4.99
   },
   {
@@ -51,12 +61,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "300g",
     "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Branco Seco",
+    "name": "Queijo Mussarela Frimesa 300g",
     "price": 12.98
   },
   {
@@ -66,7 +76,22 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Meio Seco",
+    "name": "Vinho Nacional Canção 750ml Branco Seco",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Nacional Canção 750ml Tinto Seco",
     "price": 12.98
   },
   {
@@ -81,27 +106,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Seco",
-    "price": 13.99
+    "name": "Vinho Nacional Canção 750ml Tinto Meio Seco",
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Mingau Mucilon 400g Multicereais",
     "price": 29.98
   },
   {
@@ -111,68 +121,58 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mingau Mucilon 400g Multicereais",
     "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 64.9
   },
   {
     "store": "Irani",
     "name": "Whisky White Horse 1l Fine Old",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom 210,7g Garoto Serenata de Amor",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
-    "price": 7.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 7.78
+    "price": 3.79
   },
   {
     "store": "Muffatao",
     "name": "Banana Caturra",
-    "price": 5.69
+    "price": 3.79
   },
   {
     "store": "Muffatao",
     "name": "Laranja Pera",
-    "price": 4.99
+    "price": 3.59
   },
   {
     "store": "Muffatao",
     "name": "Limão Taiti",
-    "price": 12.99
+    "price": 8.98
   },
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
-    "price": 9.98
+    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -182,7 +182,7 @@
   {
     "store": "Muffatao",
     "name": "Melancia",
-    "price": 12.99
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -192,7 +192,7 @@
   {
     "store": "Muffatao",
     "name": "Banana Prata",
-    "price": 12.99
+    "price": 6.95
   },
   {
     "store": "Muffatao",
@@ -252,22 +252,22 @@
   {
     "store": "Muffatao",
     "name": "Legumes",
-    "price": 6.79
+    "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Batata Branca",
-    "price": 4.98
+    "price": 3.79
   },
   {
     "store": "Muffatao",
     "name": "Batata Doce",
-    "price": 9.98
+    "price": 6.95
   },
   {
     "store": "Muffatao",
     "name": "Tomate Longa Vida",
-    "price": 6.99
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -277,12 +277,12 @@
   {
     "store": "Muffatao",
     "name": "Cenoura Extra",
-    "price": 7.79
+    "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Beterraba",
-    "price": 5.99
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -317,6 +317,11 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
+    "price": 12.75
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alface Americana",
     "price": 6.99
   },
   {
@@ -352,17 +357,12 @@
   {
     "store": "Muffatao",
     "name": "Alho Aldez 200G",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alho Temperbom 200G",
     "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alecrim Geriba 20g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Hort Alho Poro Un",
-    "price": 21.99
   },
   {
     "store": "Muffatao",
@@ -462,7 +462,7 @@
   {
     "store": "Muffatao",
     "name": "Linguiças",
-    "price": 14.98
+    "price": 19.98
   },
   {
     "store": "Muffatao",
@@ -557,7 +557,7 @@
   {
     "store": "Muffatao",
     "name": "Bacon Sigma Pernil 1",
-    "price": 13.98
+    "price": 14.29
   },
   {
     "store": "Muffatao",
@@ -702,7 +702,7 @@
   {
     "store": "Muffatao",
     "name": "Azeitona Verde em Conserva Fatiada Malagueña Sachê 120g",
-    "price": 2.99
+    "price": 3.19
   },
   {
     "store": "Muffatao",
@@ -792,7 +792,7 @@
   {
     "store": "Muffatao",
     "name": "Doces e Compotas",
-    "price": 10.98
+    "price": 11.99
   },
   {
     "store": "Muffatao",
@@ -977,7 +977,7 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Zero Lactose Tirol Caixa 200g",
-    "price": 7.99
+    "price": 9.99
   },
   {
     "store": "Muffatao",
@@ -1527,7 +1527,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Lider Caixa com Tampa 1l",
-    "price": 5.59
+    "price": 4.89
   },
   {
     "store": "Muffatao",
@@ -1562,7 +1562,7 @@
   {
     "store": "Muffatao",
     "name": "Leite Tirol Integral Zero Lactose 1L",
-    "price": 5.59
+    "price": 4.89
   },
   {
     "store": "Muffatao",
@@ -2432,7 +2432,7 @@
   {
     "store": "Muffatao",
     "name": "Água de Coco Integral Sococo Caixa 1l",
-    "price": 9.98
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -2477,12 +2477,12 @@
   {
     "store": "Muffatao",
     "name": "Águas Minerais",
-    "price": 1.08
+    "price": 1.49
   },
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural com Gás Cristal Select Garrafa 500ml",
-    "price": 1.08
+    "price": 1.19
   },
   {
     "store": "Muffatao",
@@ -2607,7 +2607,7 @@
   {
     "store": "Muffatao",
     "name": "Achocolatado em Pó NESCAU Cilíndrico 350g",
-    "price": 22.98
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -2732,7 +2732,7 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído Tradicional Melitta Caixa 500g",
-    "price": 27.99
+    "price": 20.9
   },
   {
     "store": "Muffatao",
@@ -3037,7 +3037,7 @@
   {
     "store": "Muffatao",
     "name": "Bacon Frimesa Fatiado 400g",
-    "price": 8.99
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -3182,7 +3182,7 @@
   {
     "store": "Muffatao",
     "name": "Presunto Parma Fatiado Sadia Speciale 100g",
-    "price": 11.9
+    "price": 9.79
   },
   {
     "store": "Muffatao",
@@ -3252,7 +3252,7 @@
   {
     "store": "Muffatao",
     "name": "Salsichão de Frango Copacol 600g",
-    "price": 9.49
+    "price": 9.69
   },
   {
     "store": "Muffatao",
@@ -3342,7 +3342,7 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -3352,6 +3352,11 @@
   {
     "store": "Muffatao",
     "name": "Pão Bisnaguinha Original Pullman Artesano Pacote 300g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 8.49
   },
   {
@@ -3372,16 +3377,11 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Integral",
-    "price": 19.98
+    "price": 12.98
   },
   {
     "store": "Muffatao",
-    "name": "Pão Frutas, Grãos & Castanhas Nutrella Pacote 500g",
-    "price": 13.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Tortilha Original Rap10 Pouch 297g",
+    "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
     "price": 19.98
   },
   {
@@ -3443,51 +3443,6 @@
     "store": "Festval",
     "name": "Vinho Argentino Pascual Toso Estate Tipos 750ml",
     "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ML",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
-    "price": 27.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Uau Active 3L",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Multiuso UAU 500ml",
-    "price": 3.98
-  },
-  {
-    "store": "Festval",
-    "name": "Desinfetante Clean Plus Fragrâncias 2L",
-    "price": 6.98
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Girando Sol Concentrado Fragrâncias 1L",
-    "price": 13.9
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Perfumado Uau Fragrâncias 1L - 20% de desconto",
-    "price": 6.98
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Destac Pisos 750ml",
-    "price": 19.9
   },
   {
     "store": "Festval",
