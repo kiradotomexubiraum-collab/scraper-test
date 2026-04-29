@@ -21,17 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 6.99
   },
   {
@@ -41,12 +36,17 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
     "price": 21.99
   },
   {
@@ -61,42 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "300g",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Frimesa 300g",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Cancao 750ml Branco Suave",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Branco Seco",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Seco",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Suave",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
     "price": 12.98
   },
   {
@@ -107,6 +72,61 @@
   {
     "store": "Irani",
     "name": "Vinho Nacional Canção 750ml Tinto Meio Seco",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Nacional Canção 750ml Tinto Suave",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Nacional Cancao 750ml Branco Suave",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "300g",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Frimesa 300g",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Nacional Canção 750ml Branco Seco",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 14.98
   },
   {
@@ -121,33 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 64.9
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky White Horse 1l Fine Old",
     "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Fruta Supino 24g Açaí Zero",
+    "price": 9.99
   },
   {
     "store": "Muffatao",
