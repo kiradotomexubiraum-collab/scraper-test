@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -21,22 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 2.99
   },
   {
@@ -46,8 +41,18 @@
   },
   {
     "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Garoto ChocoTrio 90g Prestígio",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 138g Ovomaltine",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -57,71 +62,31 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Seco",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Suave",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "300g",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Frimesa 300g",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Branco Seco",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Cancao 750ml Branco Suave",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Canção 750ml Tinto Meio Seco",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
     "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 35.9
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 14.98
   },
   {
@@ -131,12 +96,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -147,7 +107,47 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
     "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Fruta Supino 24g Maçã e Canela Zero",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "price": 64.9
+  },
+  {
+    "store": "Irani",
+    "name": "Whisky White Horse 1l Fine Old",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "300g",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Integralmedica 300g Hardcore",
+    "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "Aparelho de Barbear Bic Comfort 3 C/4 Sensitive",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom 210,7g Garoto Serenata de Amor",
+    "price": 17.98
   },
   {
     "store": "Muffatao",
@@ -167,51 +167,51 @@
   {
     "store": "Muffatao",
     "name": "Manga Tommy",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Melancia",
     "price": 10.99
   },
   {
     "store": "Muffatao",
     "name": "Banana Prata",
-    "price": 18.98
+    "price": 4.99
   },
   {
     "store": "Muffatao",
-    "name": "Maçã Argentina",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Abacate",
+    "name": "Melancia",
     "price": 13.99
   },
   {
     "store": "Muffatao",
     "name": "Abacaxi Havaí",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Abacate",
     "price": 7.39
   },
   {
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bandeja Un",
-    "price": 9.98
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Fruta Congelada Baum Frutas Vermelhas 100g",
+    "price": 7.99
   },
   {
     "store": "Muffatao",
     "name": "Frutas Secas e Oleoginosas",
-    "price": 7.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Amendoim da Nona Salgado 150g",
     "price": 7.98
   },
   {
     "store": "Muffatao",
     "name": "Amendoim Geriba Branco 500g",
+    "price": 7.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Amendoim da Nona Salgado 150g",
     "price": 64.89
   },
   {
@@ -222,16 +222,6 @@
   {
     "store": "Muffatao",
     "name": "Uva-Passa Escura sem Semente La Violetera Pacote 100g",
-    "price": 222.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Castanha Do Pará Large",
-    "price": 133.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Amêndoa Torrada Sem Sal",
     "price": 9.98
   },
   {
@@ -251,6 +241,16 @@
   },
   {
     "store": "Muffatao",
+    "name": "Uva Passa Branca",
+    "price": 112.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nozes Mariposa Extralig",
+    "price": 22.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Legumes",
     "price": 7.99
   },
@@ -262,6 +262,11 @@
   {
     "store": "Muffatao",
     "name": "Batata Doce",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cenoura Extra",
     "price": 6.95
   },
   {
@@ -272,37 +277,27 @@
   {
     "store": "Muffatao",
     "name": "Cebola Nacional",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cenoura Extra",
     "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Beterraba",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pepino Caipira",
-    "price": 6.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Abobrinha Verde",
     "price": 5.89
   },
   {
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bdj 180G",
-    "price": 5.49
+    "price": 6.79
   },
   {
     "store": "Muffatao",
-    "name": "Abóbora Cabotia",
-    "price": 17.98
+    "name": "Abobrinha Verde",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pepino Caipira",
+    "price": 3.49
   },
   {
     "store": "Muffatao",
@@ -317,11 +312,6 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 12.75
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alface Americana",
     "price": 6.99
   },
   {
@@ -332,6 +322,11 @@
   {
     "store": "Muffatao",
     "name": "Couve Folha Und",
+    "price": 12.75
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alface Americana",
     "price": 2.79
   },
   {
@@ -342,6 +337,11 @@
   {
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bandeja Un",
+    "price": 7.88
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alho Aldez 200G",
     "price": 3.99
   },
   {
@@ -352,36 +352,26 @@
   {
     "store": "Muffatao",
     "name": "Alface Crespa Tanabe",
-    "price": 7.88
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alho Aldez 200G",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alho Temperbom 200G",
     "price": 3.69
   },
   {
     "store": "Muffatao",
-    "name": "Aves e Frangos",
-    "price": 19.9
+    "name": "Alecrim Geriba 20g",
+    "price": 9.98
   },
   {
     "store": "Muffatao",
-    "name": "Filé de Peito de Frango Copacol IQF 800g",
+    "name": "Aves e Frangos",
     "price": 19.98
   },
   {
     "store": "Muffatao",
     "name": "Filezinho de Frango Copacol 800g Sassami",
-    "price": 10.98
+    "price": 19.9
   },
   {
     "store": "Muffatao",
-    "name": "Peito de Frango Defumado Aurora Pacote 200g",
+    "name": "Filé de Peito de Frango Copacol IQF 800g",
     "price": 23.98
   },
   {
@@ -397,11 +387,6 @@
   {
     "store": "Muffatao",
     "name": "Coxinha Asa Frango Coopav",
-    "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxa De Frango - Copacol",
     "price": 10.99
   },
   {
@@ -412,7 +397,17 @@
   {
     "store": "Muffatao",
     "name": "Frango a Passarinho Congelado Copacol 800g",
-    "price": 21.99
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxa De Frango - Copacol",
+    "price": 24.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Peito de Frango Cozido Desfiado Congelado Sadia Na Receita 400g",
+    "price": 23.99
   },
   {
     "store": "Muffatao",
@@ -487,27 +482,27 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Toscana - Firmesa",
-    "price": 16.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguíça de Frango C.Valle 800g",
-    "price": 29.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguiça Pernil Frimesa",
-    "price": 18.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguiça tipo calabresa Seara 400g 2pc",
     "price": 8.89
   },
   {
     "store": "Muffatao",
     "name": "Hamburguer de Costela Perdigão Nabrasa 150g",
     "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Hamburguer Perdigao 150G Picanha",
+    "price": 9.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguiça Mista Cozida e Defumada Fininha Sadia 215g",
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguiça Fininha Frimesa Mista 240g",
+    "price": 16.98
   },
   {
     "store": "Muffatao",
@@ -632,6 +627,21 @@
   {
     "store": "Muffatao",
     "name": "Wafer Parati Minueto 81G Limão",
+    "price": 6.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Wafer Recheio e Cobertura Chocolate Branco Lacta Bis Pacote 100,8g",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chocolate Meio Amargo 40% Cacau Classic Pacote 80g",
     "price": 7.99
   },
   {
@@ -642,27 +652,12 @@
   {
     "store": "Muffatao",
     "name": "Bala Butter Toffees Intense Expresso Caramel 90G",
-    "price": 6.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Wafer Recheio e Cobertura Chocolate Branco Lacta Bis Pacote 100,8g",
-    "price": 6.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chocolate ao Leite Garoto Pacote 80g",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Chocolate ao Leite Lacta Pacote 80g",
-    "price": 8.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chocolate ao Leite Prestígio Classic Pacote 80g",
-    "price": 8.49
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -702,42 +697,42 @@
   {
     "store": "Muffatao",
     "name": "Azeitona Verde em Conserva Fatiada Malagueña Sachê 120g",
-    "price": 3.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Milho Verde em Conserva Fugini Sachê 200g",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Seleta de Legumes em Conserva Quero Lata 170g",
     "price": 9.98
   },
   {
     "store": "Muffatao",
     "name": "Atum Ralado em Óleo Coqueiro Lata 120g",
-    "price": 6.99
+    "price": 5.49
   },
   {
     "store": "Muffatao",
-    "name": "Sardinha com Óleo Gomes da Costa Lata 75g",
-    "price": 6.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Ervilha e Cenoura em Conserva Quero Lata 170g",
+    "name": "Seleta de Legumes em Conserva Quero Lata 170g",
     "price": 8.98
   },
   {
     "store": "Muffatao",
     "name": "Atum Ralado em Óleo com Caldo Vegetal Pescador Lata 105g",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pepino em Conserva Vale Fértil Sachê 300g",
+    "price": 3.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho Verde em Conserva Fugini Sachê 200g",
     "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Milho Verde em Conserva Quero Lata 170g",
-    "price": 8.98
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Atum Ralado ao Molho de Tomate Coqueiro Lata 120g",
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -762,11 +757,6 @@
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Pote 300g",
-    "price": 6.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho de Tomate Bolonhesa Pomarola Sabores Sachê 300g",
     "price": 8.99
   },
   {
@@ -782,12 +772,17 @@
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Quero Caixa 320g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate com Cebola e Alho Elefante Pote 300g",
     "price": 6.99
   },
   {
     "store": "Muffatao",
-    "name": "Tomate Pelado Olé em Cubos 240g",
-    "price": 8.99
+    "name": "Extrato de Tomate Elefante Caixa 275g",
+    "price": 4.49
   },
   {
     "store": "Muffatao",
@@ -797,16 +792,16 @@
   {
     "store": "Muffatao",
     "name": "Doce de Leite Frimesa Pote 400g",
-    "price": 15.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 1.49
   },
   {
     "store": "Muffatao",
     "name": "Torrone Arcor 25G Chocolate",
+    "price": 15.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nata Bate Chantilly Frimesa Pote 300g",
     "price": 15.98
   },
   {
@@ -827,17 +822,17 @@
   {
     "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
-    "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Doce de Leite Zero Lactose Piracanjuba Pote 350g",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Confeito Granulado Chocolate Dori Pacote 120g",
     "price": 29.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Paçoca Rolha DA COLÔNIA com 40 unidades de 14g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bala de Banana Oliveira 150g",
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -852,16 +847,6 @@
   {
     "store": "Muffatao",
     "name": "Tempero Zaeli Faça Fácil 60G Nacional Feijão/Ovos/Arroz",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tempero para Carnes Maggi Tempero & Sabor Pacote 50g 10 Unidades",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tempero Completo Zaeli Alho e Sal - 300g",
     "price": 4.99
   },
   {
@@ -888,6 +873,16 @@
     "store": "Muffatao",
     "name": "Semente de Gergelim Vitao Pouch 200g",
     "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tempero Sazon Na Medida Cheiro Verde 30G",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tempero Sazon Na Medida 10 Vegetais 30G",
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -972,22 +967,22 @@
   {
     "store": "Muffatao",
     "name": "Creme de Leite UHT Leve Homogeneizado Piracanjuba Caixa 200g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Leite UHT Leve Homogeneizado Zero Lactose Tirol Caixa 200g",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Leite Condensado Integral Moça Lata 395g",
-    "price": 5.99
+    "price": 10.79
   },
   {
     "store": "Muffatao",
-    "name": "Creme de Leite UHT Leve Homogeneizado Original Nestlé Caixa 200g",
-    "price": 10.79
+    "name": "Leite Condensado Zero Lactose Piracanjuba Caixa 395g",
+    "price": 5.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pudim De Leite Condensado Unibaby 115G",
+    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -997,16 +992,16 @@
   {
     "store": "Muffatao",
     "name": "Leite de Coco Mais Coco Vidro 200ml",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coco Ralado Desidratado Sococo Pacote 50g",
     "price": 7.59
   },
   {
     "store": "Muffatao",
     "name": "Coco Ralado Úmido Adoçado Mais Coco Pacote 100g",
+    "price": 5.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coco Ralado Desidratado Sococo Pacote 50g",
     "price": 3.19
   },
   {
@@ -1077,11 +1072,6 @@
   {
     "store": "Muffatao",
     "name": "Mostarda Arisco Squeeze 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho Barbecue Kenko Squeeze 220g",
     "price": 11.98
   },
   {
@@ -1091,12 +1081,27 @@
   },
   {
     "store": "Muffatao",
+    "name": "Maionese Hellmann's Pote 250g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Massas Tradicionais e Instantâneas",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Lámen Tomate Suave Turma da Mônica Nissin Miojo Pacote 85g",
     "price": 4.49
   },
   {
     "store": "Muffatao",
     "name": "Macarrão de Sêmola com Ovos Parafuso Todeschini 500G",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Lámen Carne Nissin Miojo Pacote 85g",
     "price": 1.49
   },
   {
@@ -1106,38 +1111,28 @@
   },
   {
     "store": "Muffatao",
-    "name": "Macarrão Instantâneo Lámen Tomate Suave Turma da Mônica Nissin Miojo Pacote 85g",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Galinha Caipira Nissin Miojo Pacote 85g",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão Instantâneo Lámen Carne Nissin Miojo Pacote 85g",
-    "price": 8.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão Instantâneo Espaguete Nissin 5 Minutos Pacote 500g",
     "price": 4.98
   },
   {
     "store": "Muffatao",
     "name": "Macarrão Caseiro Premium Italy N. 03 C/Ovos 400G",
+    "price": 8.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Espaguete Nissin 5 Minutos Pacote 500g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Galinha Caipira Cup Noodles Copo 69g",
     "price": 4.49
   },
   {
     "store": "Muffatao",
     "name": "Macarrão de Sêmola com Ovos Pena Todeschini 500G",
-    "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão de Sêmola Parafuso Galo Pacote 500g",
-    "price": 5.99
+    "price": 1.49
   },
   {
     "store": "Muffatao",
@@ -1227,26 +1222,6 @@
   {
     "store": "Muffatao",
     "name": "Snacks e Aperitivos",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho Bacon Torcida 35G",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho de Trigo Cebola e Salsa Levinho's Pacote 50g",
-    "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho Bacon Elma Chips Pingo Douro 160G",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho de Trigo Queijo Torcida Pacote 35g",
     "price": 4.99
   },
   {
@@ -1257,22 +1232,42 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho de Trigo Churrasco Torcida Pacote 100g",
-    "price": 3.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Amendoim Confeitado Chocolate Dori Pacote 100g",
-    "price": 10.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho de Batata Queijo Pringles Tubo 109g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
-    "name": "Salgadinho Picanha Elma Chips Pingo Douro 120G",
+    "name": "Salgadinho Bacon Elma Chips Pingo Douro 160G",
     "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho Presunto Elma Chips Fandangos 160G",
+    "price": 10.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Palitinho Salgado Elma Chips Stiksy 160G",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho Bacon Torcida 35G",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho de Trigo Cebola e Salsa Levinho's Pacote 50g",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho de Trigo Bacon Levinho's Pacote 50g",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho a Base De Batata Original Ruffles Tira Onda Elma Chips Tubo 100G",
+    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -1422,31 +1417,16 @@
   {
     "store": "Muffatao",
     "name": "Bebidas Lácteas",
-    "price": 8.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Láctea UHT Chocolate Zero Lactose Piracanjuba Whey Caixa 250ml",
-    "price": 1.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Láctea Fermentada UNIBABY MORANGO 170g",
     "price": 3.79
   },
   {
     "store": "Muffatao",
     "name": "Bebida Láctea Unibaby 510G Morango Coco",
-    "price": 1.79
+    "price": 8.98
   },
   {
     "store": "Muffatao",
-    "name": "Bebida Láctea UHT Chocolate Pirakids Caixa 200ml",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Láctea Fermentada Morango Batavo Bandeja 540g 6 Unidades",
+    "name": "Bebida Láctea UHT Chocolate Zero Lactose Piracanjuba Whey Caixa 250ml",
     "price": 8.98
   },
   {
@@ -1457,36 +1437,46 @@
   {
     "store": "Muffatao",
     "name": "Bebida Láctea UHT Chocolate Zero Lactose Tirol Tirolzinho Caixa 200ml",
+    "price": 1.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bebida Láctea Fermentada UNIBABY MORANGO 170g",
     "price": 6.49
   },
   {
     "store": "Muffatao",
     "name": "Bebida Láctea UHT Cappuccino Chocolate Zero Lactose 3 Corações Power Whey Caixa 250ml",
-    "price": 1.69
+    "price": 5.99
   },
   {
     "store": "Muffatao",
-    "name": "Bebida Láctea Unibaby Coco 150G",
+    "name": "Bebida Láctea Fermentada Morango Batavo Bandeja 540g 6 Unidades",
     "price": 3.99
   },
   {
     "store": "Muffatao",
-    "name": "Iogurtes",
-    "price": 3.39
+    "name": "Bebida Láctea Fermentada Morango + Coco Carolina Bandeja 360g 6 Unidades",
+    "price": 8.98
   },
   {
     "store": "Muffatao",
-    "name": "Iogurte Grego Tradicional Batavo Pote 100g",
+    "name": "Bebida Láctea UHT Baunilha Zero Lactose Parmalat Wheyfit Caixa 250ml",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Iogurtes",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Leite Fermentado BATAVINHO Tradicional 75g",
-    "price": 2.15
+    "price": 3.39
   },
   {
     "store": "Muffatao",
-    "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
+    "name": "Iogurte Grego Tradicional Batavo Pote 100g",
     "price": 1.19
   },
   {
@@ -1497,26 +1487,31 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Parcialmente Desnatado Morango Batavo Frasco 170g",
-    "price": 7.99
+    "price": 2.15
   },
   {
     "store": "Muffatao",
-    "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
+    "name": "Iog Unibaby Grego Com Geleia De Morango 90G",
     "price": 3.39
   },
   {
     "store": "Muffatao",
     "name": "Iogurte Parcialmente Desnatado Grego Morango Zero Lactose Batavo Pense Zero Pote 100g",
-    "price": 8.49
+    "price": 7.99
   },
   {
     "store": "Muffatao",
-    "name": "Leite Fermentado Unibaby 850G",
+    "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
     "price": 11.98
   },
   {
     "store": "Muffatao",
     "name": "Iogurte Parcialmente Desnatado Morango Frimesa Pacote 1000g",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Fermentado Unibaby 850G",
     "price": 9.89
   },
   {
@@ -1537,31 +1532,26 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Batavo Caixa com Tampa 1l",
-    "price": 8.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Integral Ninho Forti+ Caixa com Tampa 1l",
-    "price": 5.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Integral Frimesa Caixa com Tampa 1l",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Leite UHT Desnatado Zero Lactose Molico Proteína Caixa com Tampa 1l",
-    "price": 5.99
+    "price": 8.39
   },
   {
     "store": "Muffatao",
-    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
+    "name": "Leite UHT Integral Ninho Forti+ Caixa com Tampa 1l",
     "price": 6.49
   },
   {
     "store": "Muffatao",
     "name": "Leite Tirol Integral Zero Lactose 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
     "price": 4.89
   },
   {
@@ -1571,27 +1561,27 @@
   },
   {
     "store": "Muffatao",
+    "name": "Leite UHT Semidesnatado Zero Lactose Ninho Levinho Forti+ Caixa com Tampa 1l",
+    "price": 7.79
+  },
+  {
+    "store": "Muffatao",
     "name": "Manteigas e Margarinas",
     "price": 18.69
   },
   {
     "store": "Muffatao",
     "name": "Banha Frimesa Pacote 1kg",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Margarina Cremosa com Sal Doriana Pote 500g",
     "price": 9.99
   },
   {
     "store": "Muffatao",
     "name": "Manteiga com Sal Batavo 200g",
-    "price": 9.9
+    "price": 6.99
   },
   {
     "store": "Muffatao",
-    "name": "Manteiga de Primeira Qualidade com Sal Tirol Pote 200g",
+    "name": "Margarina Cremosa com Sal Doriana Pote 500g",
     "price": 9.99
   },
   {
@@ -1602,6 +1592,11 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Frimesa Extra 500G",
+    "price": 9.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga de Primeira Qualidade com Sal Tirol Pote 200g",
     "price": 32.99
   },
   {
@@ -1612,12 +1607,12 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Extra com Sal Président Gastronomique 200g",
-    "price": 13.89
+    "price": 19.98
   },
   {
     "store": "Muffatao",
-    "name": "Margarina Original com Sal Becel Pote 500g",
-    "price": 19.98
+    "name": "Manteiga de Primeira Qualidade com Sal Aviação Lata 200g",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -1627,11 +1622,6 @@
   {
     "store": "Muffatao",
     "name": "Massa De Pastel Ditalia 500G Gd",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Perdigão",
     "price": 17.98
   },
   {
@@ -1642,6 +1632,11 @@
   {
     "store": "Muffatao",
     "name": "Massa para Lasanha Mezzani Pacote 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Perdigão",
     "price": 6.99
   },
   {
@@ -1677,16 +1672,16 @@
   {
     "store": "Muffatao",
     "name": "Queijo Ralado Santa Clara 40G",
-    "price": 8.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo Parmesão Ralado Frimesa Pacote 50g",
     "price": 9.99
   },
   {
     "store": "Muffatao",
     "name": "Queijo Mussarela Fatiado Zero Lactose Tirol 150g",
+    "price": 8.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Parmesão Ralado Frimesa Pacote 50g",
     "price": 7.79
   },
   {
@@ -1702,11 +1697,6 @@
   {
     "store": "Muffatao",
     "name": "Queijo Mussarela Fatiado Président",
-    "price": 9.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Queijo Ricota Light Président Pote 200g",
     "price": 12.98
   },
   {
@@ -1717,7 +1707,12 @@
   {
     "store": "Muffatao",
     "name": "Queijo Santa Clara Fat 150G Mussarela Zero Lactose",
-    "price": 39.9
+    "price": 34.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Brie Président 125g",
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -1727,16 +1722,16 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Tradicional Lider Copo 180g",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso Unibaby Pote 400g",
     "price": 18.79
   },
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso com Queijo Batavo Pote 400g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso Unibaby Pote 400g",
     "price": 9.98
   },
   {
@@ -1752,11 +1747,6 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Poços de Caldas Pote 400g",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso Tradicional Tirol Copo 180g",
     "price": 9.98
   },
   {
@@ -1771,22 +1761,17 @@
   },
   {
     "store": "Muffatao",
-    "name": "Sobremesas",
-    "price": 2.99
+    "name": "Requeijão Cremoso Zero Lactose Catupiry Copo 150g",
+    "price": 10.98
   },
   {
     "store": "Muffatao",
-    "name": "Creme Quark Calda Frutas Vermelhas Batavo Nuv Pote 100g",
+    "name": "Sobremesas",
     "price": 17.99
   },
   {
     "store": "Muffatao",
     "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sobremesa Láctea Flan Baunilha Calda Caramelo Frimesa Bandeja 200g 2 Unidades",
     "price": 3.49
   },
   {
@@ -1821,6 +1806,16 @@
   },
   {
     "store": "Muffatao",
+    "name": "Maria Mole Apti Coco 50g",
+    "price": 4.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Flan UNIBABY Caramelo 180g",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
     "name": "Farinhas e Farofas",
     "price": 12.98
   },
@@ -1832,6 +1827,16 @@
   {
     "store": "Muffatao",
     "name": "Docesucar Acucar Cristal 1Kg",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Especial Alto Alegre Pacote 5kg",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Docesucar Acucar Cristal 5Kg",
     "price": 5.99
   },
   {
@@ -1842,41 +1847,26 @@
   {
     "store": "Muffatao",
     "name": "Açúcar Demerara União Naturais Pacote 1kg",
-    "price": 19.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Especial Alto Alegre Pacote 5kg",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Especial Alto Alegre Pacote 1kg",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Cristal Alto Alegre Pacote 2kg",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Docesucar Acucar Cristal 5Kg",
-    "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Docesucar 1Kg Extra Fino",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Açúcar Mascavo Guimaraes 500G",
-    "price": 9.59
+    "price": 4.99
   },
   {
     "store": "Muffatao",
-    "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
+    "name": "Açúcar Refinado Especial União Pacote 1kg",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Cristal Alto Alegre Pacote 2kg",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Mascavo União Naturais Pacote 400g",
     "price": 19.9
   },
   {
@@ -1887,16 +1877,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
-    "price": 6.49
+    "price": 9.59
   },
   {
     "store": "Muffatao",
-    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
-    "price": 11.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Prato Fino Parboilizado 2kg",
+    "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
     "price": 5.99
   },
   {
@@ -1907,17 +1892,27 @@
   {
     "store": "Muffatao",
     "name": "Arroz Polido Tipo 1 Tio João 100% Grãos Nobres Pacote 1kg",
-    "price": 9.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Integral 8 Grãos e Vegetais Caldo Bom Mix Pacote 500g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Arroz 500G Meu Biju 8 Graos Com Chia",
     "price": 18.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Rampinelli 5KG Branco",
+    "price": 59.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Takumi 5Kg Grao Curto",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Branco Sabor Sul 5kg Tp1",
+    "price": 6.49
   },
   {
     "store": "Muffatao",
@@ -1937,36 +1932,11 @@
   {
     "store": "Muffatao",
     "name": "Farinha de Trigo Tipo 1 Anaconda Pacote 1kg",
-    "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fubá de Milho Pré-Cozido Sinhá Pacote 1kg",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Farinha de Mandioca Torrada e Temperada Tradicional Pinduca Pacote 500g",
-    "price": 3.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fubá Mimoso Fino Sinhá Pacote 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Flocos de Milho Pré-Cozido Quaker Polentina Pacote 500g",
-    "price": 4.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Farinha de Trigo Tipo 1 Famiglia Venturelli Pacote 1kg",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Farinha de Milho Amarela Caldo Bom Pacote 1kg",
     "price": 4.39
   },
   {
@@ -1977,6 +1947,31 @@
   {
     "store": "Muffatao",
     "name": "Flocao De Milho Zaeli 500G",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "FARINHA AVEIA APTI 250gr",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Fubá de Milho Pré-Cozido Sinhá Pacote 1kg",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Polvilho Doce Prata 500G",
+    "price": 18.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Farinha de Trigo Tipo 1 Anaconda Pacote 5kg",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Farinha de Mandioca Tipo 1 Torrada Pinduca Pacote 1kg",
     "price": 5.19
   },
   {
@@ -2037,16 +2032,16 @@
   {
     "store": "Muffatao",
     "name": "Milho Pipoca Zaeli 500G Premium Quality",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Milho Pipoca ZAELI 500G Americana",
     "price": 11.59
   },
   {
     "store": "Muffatao",
     "name": "Milho Pipoca Perola Zaeli 500G",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho Pipoca ZAELI 500G Americana",
     "price": 5.49
   },
   {
@@ -2082,11 +2077,6 @@
   {
     "store": "Muffatao",
     "name": "Óleo de Soja Tipo 1 Coamo Garrafa 900ml",
-    "price": 6.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Soja Tipo 1 Liza Garrafa 900ml",
     "price": 14.98
   },
   {
@@ -2127,6 +2117,11 @@
   {
     "store": "Muffatao",
     "name": "Óleo Gergelim Torrado HONG KONG 100ml",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Milho Tipo 1 Suavit Garrafa 900ml",
     "price": 2.99
   },
   {
@@ -2137,16 +2132,16 @@
   {
     "store": "Muffatao",
     "name": "Sal Rosa do Himalaia Moído Natural Life Pacote 500g",
-    "price": 3.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Grosso Zaeli 1kg Churrasco",
     "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Sal Marinho Refinado Lebre Pacote 1kg",
+    "price": 3.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Grosso Zaeli 1kg Churrasco",
     "price": 6.99
   },
   {
@@ -2232,11 +2227,31 @@
   {
     "store": "Muffatao",
     "name": "Energético Red Bull Lata 250ml",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Energético com Suco Mango Loco Monster Lata 473ml",
     "price": 6.99
   },
   {
     "store": "Muffatao",
     "name": "Energético Baly Lata 473ml",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Energético Zero Açúcar Red Bull Lata 250ml",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Energético Monster Lata 473ml",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Isotônico Gatorade Berryblue Garrafa 500ml",
     "price": 4.99
   },
   {
@@ -2246,37 +2261,22 @@
   },
   {
     "store": "Muffatao",
-    "name": "Isotônico Gatorade Berryblue Garrafa 500ml",
-    "price": 4.59
+    "name": "Isotônico Limão Gatorade Garrafa 500ml",
+    "price": 9.49
   },
   {
     "store": "Muffatao",
-    "name": "Isotônico POWERADE Uva 500ml",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Isotônico Morango e Maracujá Gatorade Garrafa 500ml",
+    "name": "Energético Furioso Garrafa 2l",
     "price": 7.99
   },
   {
     "store": "Muffatao",
-    "name": "Energético com Suco Mango Loco Monster Lata 473ml",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Energético Zero Açúcar Red Bull Lata 250ml",
-    "price": 4.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Isotônico Mix de Frutas Powerade Pro Garrafa 500ml",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
     "name": "Refrescos",
+    "price": 0.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refresco em Pó Abacaxi Frisco Pacote 25g",
     "price": 0.69
   },
   {
@@ -2286,12 +2286,12 @@
   },
   {
     "store": "Muffatao",
-    "name": "Refresco em Pó Laranja Frisco Pacote 18G",
+    "name": "Refresco em Pó Limão Frisco Pacote 25g",
     "price": 0.69
   },
   {
     "store": "Muffatao",
-    "name": "Refresco em Pó Abacaxi Frisco Pacote 25g",
+    "name": "Refresco em Pó Laranja Frisco Pacote 18G",
     "price": 0.69
   },
   {
@@ -2311,18 +2311,13 @@
   },
   {
     "store": "Muffatao",
-    "name": "Refresco em Pó Limão Frisco Pacote 25g",
-    "price": 0.69
-  },
-  {
-    "store": "Muffatao",
     "name": "Refresco em Pó Uva Frisco Pacote 18g",
-    "price": 0.99
+    "price": 1.19
   },
   {
     "store": "Muffatao",
-    "name": "Refresco em Pó Abacaxi Mid Pacote 20g",
-    "price": 0.69
+    "name": "Refresco em Pó Uva Tang Pacote 18g",
+    "price": 1.19
   },
   {
     "store": "Muffatao",
@@ -2342,51 +2337,46 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Tradicional Lata 310ml",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Lemon Fresh Sem Açúcar Sprite Garrafa 510ml",
     "price": 11.99
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Sem Açúcar Garrafa 2L",
-    "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Coca-Cola Lata 350ml",
     "price": 9.29
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante COCA COLA Zero Açúcar 1,5L",
-    "price": 3.99
+    "price": 7.29
   },
   {
     "store": "Muffatao",
-    "name": "Refrigerante Limão sem Açúcares Sprite Lata 350ml",
-    "price": 7.99
+    "name": "Refrigerante COCA-COLA 1L TRADICIONAL",
+    "price": 4.99
   },
   {
     "store": "Muffatao",
-    "name": "Refrigerante Coca Cola Zero Açúcar Garrafa Retornável 2l",
+    "name": "Refrigerante Guaraná Kuat Garrafa 2l",
     "price": 5.49
   },
   {
     "store": "Muffatao",
     "name": "Conti Cola 2Lt",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Pepsi Twist Lata 350ml",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Água Tônica Zero Açúcar Antarctica Lata 350ml",
     "price": 16.9
   },
   {
     "store": "Muffatao",
     "name": "Suco Integral Laranja Prat's Garrafa 900ml",
-    "price": 7.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Néctar Manga Purity Caixa 1l",
     "price": 19.98
   },
   {
@@ -2402,6 +2392,11 @@
   {
     "store": "Muffatao",
     "name": "Suco Suvalan 200Ml Manga",
+    "price": 7.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Néctar Manga Purity Caixa 1l",
     "price": 2.99
   },
   {
@@ -2412,17 +2407,17 @@
   {
     "store": "Muffatao",
     "name": "Suco Laranja, Acerola e Maçã Prat's Garrafa 900ml",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Frutas Cítricas Del Valle Kapo Caixa 200ml",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Néctar Pêssego Del Valle Caixa 1l",
-    "price": 2.99
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suco Concentrado Caju Maguary Garrafa 500ml",
+    "price": 19.98
   },
   {
     "store": "Muffatao",
@@ -2437,11 +2432,6 @@
   {
     "store": "Muffatao",
     "name": "Água De Coco 1 Litro Copra",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Água de Coco Integral Sococo Caixa 200ml",
     "price": 2.39
   },
   {
@@ -2476,6 +2466,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Água de Coco Tangerina Sococo Mais Caixa 200ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
     "name": "Águas Minerais",
     "price": 1.49
   },
@@ -2497,21 +2492,16 @@
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural sem Gás Crystal Garrafa 500ml",
-    "price": 1.58
-  },
-  {
-    "store": "Muffatao",
-    "name": "Água Mineral Natural sem Gás Sferriê Garrafa 510ml",
-    "price": 3.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Água Mineral Natural sem Gás Sferriê Garrafa 1,5l",
     "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Água Mineral Crystal Com Gás 1,5l",
+    "price": 3.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Água Mineral Natural sem Gás Sferriê Garrafa 1,5l",
     "price": 5.99
   },
   {
@@ -2523,6 +2513,11 @@
     "store": "Muffatao",
     "name": "Água Mineral Natural sem Gás Prata Garrafa 300ml",
     "price": 3.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Agua Prata 370Ml Sem Gas",
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -2587,21 +2582,16 @@
   {
     "store": "Muffatao",
     "name": "Achocolatado Chocolatto Refil 700G",
-    "price": 16.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Achocolatado Pó Nescau Pacote 550g",
     "price": 15.79
   },
   {
     "store": "Muffatao",
     "name": "Pó para Preparo de Bebida Morango Nesquik Lata 200g",
-    "price": 26.98
+    "price": 16.98
   },
   {
     "store": "Muffatao",
-    "name": "Achocolatado Flocos Crocantes Ovomaltine Pacote 300g",
+    "name": "Achocolatado Pó Nescau Pacote 550g",
     "price": 18.98
   },
   {
@@ -2623,6 +2613,11 @@
     "store": "Muffatao",
     "name": "Achocolatado Pó Nescau Lata 670g",
     "price": 24.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Achocolatado Pó Linea Pote 210g",
+    "price": 33.9
   },
   {
     "store": "Muffatao",
@@ -2677,16 +2672,16 @@
   {
     "store": "Muffatao",
     "name": "Biscoitos",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 2.79
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Bauducco Barrinha Pacote 25g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 3.79
   },
   {
@@ -2702,56 +2697,46 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Parati Rosca Brigadeiro 250g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Amanteigado Chocolate Renata Pacote 330g",
-    "price": 2.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Recheio Duplo Chocolate Bauducco Pacote 108g",
-    "price": 2.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Recheio Goiabinha Bauducco Barrinha Pacote 30g",
     "price": 4.99
   },
   {
     "store": "Muffatao",
     "name": "Biscoito Ninfa Rosca Leite 300G",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Amanteigado Chocolate Renata Pacote 330g",
+    "price": 0.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito recheado Oreo Original Baunilha 18g",
     "price": 3.49
   },
   {
     "store": "Muffatao",
-    "name": "Cafés e Cápsulas",
-    "price": 32.9
+    "name": "Biscoito Integral Cacau Renata Pacote 150g",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
-    "name": "Café Torrado e Moído Tradicional Melitta Caixa 500g",
+    "name": "Cafés e Cápsulas",
     "price": 20.9
   },
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional Caboclo Pacote 500g",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Filtro de Papel Brigitta 103 Caixa 30 Unidades",
     "price": 1.99
   },
   {
     "store": "Muffatao",
     "name": "Café em Sachê Torrado e Moído Drip Coffee Matas de Minas 3 Corações Gourmet Envelope 10g",
-    "price": 3.49
+    "price": 3.99
   },
   {
     "store": "Muffatao",
-    "name": "Filtro de Papel Itamaraty 103 Caixa 30 Unidades",
+    "name": "Filtro de Papel Brigitta 103 Caixa 30 Unidades",
     "price": 25.89
   },
   {
@@ -2762,17 +2747,27 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g",
-    "price": 7.99
+    "price": 29.9
   },
   {
     "store": "Muffatao",
-    "name": "Café Forte Nescafé Tradição Sachê 40g",
+    "name": "Café Torrado e Moído a Vácuo 3 Corações Estrada Real Premium Pacote 500g",
+    "price": 32.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Torrado e Moído Tradicional Melitta Caixa 500g",
     "price": 4.79
   },
   {
     "store": "Muffatao",
     "name": "Filtro de Papel Original Melitta 103 Caixa 30 Unidades",
-    "price": 29.9
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Filtro de Papel Itamaraty 103 Caixa 30 Unidades",
+    "price": 20.9
   },
   {
     "store": "Muffatao",
@@ -2792,26 +2787,6 @@
   {
     "store": "Muffatao",
     "name": "Cereal Matinal Sucrilhos 240G Original",
-    "price": 7.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cereal Matinal Original Kellogg's Sucrilhos Pacote 110g",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cereal Matinal Chocolate Kellogg's Sucrilhos Caixa 240g",
-    "price": 32.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Granola Kobber 800G Villamar Tradicional",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Granola Banana e Canela Jasmine Pouch 250g",
     "price": 7.99
   },
   {
@@ -2827,11 +2802,36 @@
   {
     "store": "Muffatao",
     "name": "Granola Tradicional Villamar Pacote 200g",
+    "price": 25.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Farinha Láctea Original Nestlé Lata 360g",
+    "price": 12.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cereal Matinal Chocolate Kellogg's Choco Krispis Caixa 200g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pack Barra de Cereal Bolo de Chocolate Nutry Pacote 66g 3 Unidades",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Aveia em Flocos Finos Vitao Caixa 200g",
     "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Chá Erva-Doce-Nacional Dr. Oetker Caixa 20g 10 Unidades",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Capim-Cidreira Dr. Oetker Caixa 10g 10 Unidades",
     "price": 5.49
   },
   {
@@ -2841,32 +2841,17 @@
   },
   {
     "store": "Muffatao",
-    "name": "Chá Camomila Dr. Oetker Caixa 10g 10 Unidades",
-    "price": 18.9
+    "name": "Chá Hortelã Dr. Oetker Caixa 10g 10 Unidades",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
-    "name": "Erva-Mate Chimarrão a Vácuo Tertúlia Suprema Pacote 1kg",
+    "name": "Chá Camomila Dr. Oetker Caixa 10g 10 Unidades",
     "price": 13.98
   },
   {
     "store": "Muffatao",
     "name": "Erva-mate Chimarrão Tertúlia Pacote 1kg",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Capim-Cidreira Dr. Oetker Caixa 10g 10 Unidades",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Hortelã Dr. Oetker Caixa 10g 10 Unidades",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Canela Matte Leão Caixa 30g 25 Unidades",
     "price": 23.98
   },
   {
@@ -2876,22 +2861,32 @@
   },
   {
     "store": "Muffatao",
+    "name": "Erva-mate Chimarrão Alto Vácuo Tertúlia Pacote 1kg",
+    "price": 15.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá em Cápsula Noites Tranquilas 3 Chá Caixa 10 Unidades 3g Cada",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Geleias",
     "price": 15.98
   },
   {
     "store": "Muffatao",
     "name": "Creme de Avelã com Cacau Nutella Pote 140g",
-    "price": 35.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Geleia Uva Linea Vidro 230g",
     "price": 19.9
   },
   {
     "store": "Muffatao",
     "name": "Geleia Abacaxi com Gengibre Ritter Gourmet Vidro 310g",
+    "price": 35.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Geleia Uva Linea Vidro 230g",
     "price": 27.98
   },
   {
@@ -2932,31 +2927,21 @@
   {
     "store": "Muffatao",
     "name": "Leite Em Po Batavo Integral 400G",
-    "price": 21.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Pó Integral Ninho Forti+ Lata 380g",
     "price": 16.99
   },
   {
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Sachê 350g",
-    "price": 16.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Pó Integral Tirol Pacote 400g",
-    "price": 19.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Pó Instantâneo Zero Lactose Parmalat Max Pacote 300g",
     "price": 21.98
   },
   {
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Instantâneo Lata 380g",
+    "price": 21.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Pó Integral Ninho Forti+ Lata 380g",
     "price": 25.98
   },
   {
@@ -2973,6 +2958,16 @@
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Instantâneo Sachê 350g",
     "price": 37.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite em Pó Ninho Integral Sachê 575g",
+    "price": 37.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
+    "price": 27.9
   },
   {
     "store": "Muffatao",
@@ -3037,16 +3032,6 @@
   {
     "store": "Muffatao",
     "name": "Bacon Frimesa Fatiado 400g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela defumada fatiada Seara Gourmet 180g",
-    "price": 6.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela Bologna Fatiada Aurora 200g",
     "price": 7.78
   },
   {
@@ -3062,17 +3047,27 @@
   {
     "store": "Muffatao",
     "name": "Mortadela Fatiada Viluc 250g",
-    "price": 24.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bacon em Cubos Frimesa 400g",
     "price": 39.98
   },
   {
     "store": "Muffatao",
     "name": "Bacon Perdigão Defumado",
     "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mortadela Perdigão 1kg",
+    "price": 24.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bacon em Cubos Frimesa 400g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mortadela defumada fatiada Seara Gourmet 180g",
+    "price": 8.39
   },
   {
     "store": "Muffatao",
@@ -3102,11 +3097,6 @@
   {
     "store": "Muffatao",
     "name": "Pasta Amendoim Integral Crocante Guimaraes 450G",
-    "price": 22.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pasta de Amendoim com Cacau e Coco Integral Zero Lactose Guimarães Pote 450g",
     "price": 10.98
   },
   {
@@ -3126,6 +3116,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Patê de Atum Coqueiro Sachê 170g",
+    "price": 23.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Peito de Peru",
     "price": 21.98
   },
@@ -3142,16 +3137,16 @@
   {
     "store": "Muffatao",
     "name": "Presunto Cozido Fatiado Perdigão 200g",
-    "price": 9.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Presunto Cozido Fatiado sem Capa de Gordura Frimesa 200g",
     "price": 13.98
   },
   {
     "store": "Muffatao",
     "name": "Presunto cozido fatiado Sadia Soltíssimo 200g",
+    "price": 9.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Presunto Cozido Fatiado sem Capa de Gordura Frimesa 200g",
     "price": 8.49
   },
   {
@@ -3202,11 +3197,6 @@
   {
     "store": "Muffatao",
     "name": "Salame Pepperoni Fatiado Sadia 100g",
-    "price": 15.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salame tipo italiano fatiado Seara Gourmet 100g",
     "price": 15.99
   },
   {
@@ -3233,6 +3223,11 @@
     "store": "Muffatao",
     "name": "Salame Sadia Salamitos 36g",
     "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salame Italiano AURORA Fatiado 100g",
+    "price": 15.9
   },
   {
     "store": "Muffatao",
@@ -3292,11 +3287,6 @@
   {
     "store": "Muffatao",
     "name": "Fermento Biológico Seco Instantâneo Fleischmann Envelope 10g Cada Leve 3 Pague 2 Unidades",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mistura para Bolo Chocolate Renata Pacote 400g",
     "price": 3.99
   },
   {
@@ -3322,51 +3312,41 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Limão Renata Pacote 400g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mistura para Bolo Chocolate Renata Pacote 400g",
     "price": 1.89
   },
   {
     "store": "Muffatao",
     "name": "Bolo Chocolate Recheio Chocolate Renata Divertix Pacote 40g",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Fermento Biológico Seco Instantâneo Dr. Oetker Envelope 10g",
     "price": 9.98
   },
   {
     "store": "Muffatao",
-    "name": "Bolo Gotas de Chocolate Renata Pacote 250g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bolo Mesclado Baunilha e Chocolate Renata Pacote 250g",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Visconti 400G Tradiciona",
+    "name": "Mistura para Bolo Aerado Cenoura-Up Fleischmann Sachê 390g",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Pão Bisnaguinha Original Pullman Artesano Pacote 300g",
-    "price": 6.99
+    "price": 7.99
   },
   {
     "store": "Muffatao",
-    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
+    "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
     "price": 8.49
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Pullman Pacote 480g",
-    "price": 8.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Seven Boys Pacote 450g",
     "price": 8.99
   },
   {
@@ -3376,13 +3356,28 @@
   },
   {
     "store": "Muffatao",
-    "name": "Pão Visconti 400G Integral",
+    "name": "Pão de Forma Seven Boys Pacote 450g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Visconti 400G Tradiciona",
     "price": 12.98
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g",
-    "price": 19.98
+    "price": 16.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Hamburguer Pullman 420G Com Gergelim",
+    "price": 8.19
   },
   {
     "store": "Muffatao",
