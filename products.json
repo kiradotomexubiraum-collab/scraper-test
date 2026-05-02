@@ -2,21 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 1.98
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 57g Costela",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -31,13 +26,8 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 1.99
   },
   {
     "store": "Irani",
@@ -46,12 +36,7 @@
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "Doce Leite Ilolay 400g",
     "price": 4.98
   },
   {
@@ -61,7 +46,17 @@
   },
   {
     "store": "Irani",
-    "name": "Petit Batavinho 320g Morango",
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
     "price": 13.99
   },
   {
@@ -76,22 +71,12 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Original",
-    "price": 14.98
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Mingau Mucilon 400g Multicereais",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Açúcar Cristal Alto Alegre 5Kg",
+    "name": "Barra Fruta Supino 24g Açaí Zero",
     "price": 2.99
   },
   {
@@ -102,21 +87,16 @@
   {
     "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Açúcar Cristal Alto Alegre 5Kg",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Limpador Perfumado Veja 500ml Lavanda",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
     "price": 6.99
   },
   {
@@ -126,7 +106,12 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Integralmedica 300g Hardcore",
+    "name": "300g",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Dux 300g",
     "price": 3.69
   },
   {
@@ -136,18 +121,33 @@
   },
   {
     "store": "Irani",
-    "name": "335g",
+    "name": "Biscoito Oreo 90g Chocolate",
     "price": 11.99
   },
   {
     "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Tradicional",
-    "price": 19.99
+    "name": "400g",
+    "price": 15.98
   },
   {
     "store": "Irani",
-    "name": "Copa Ceratti 100g Fatiada",
-    "price": 10.99
+    "name": "Queijo Mussarela Lider 400g",
+    "price": 4.79
+  },
+  {
+    "store": "Irani",
+    "name": "Leite Lv Tirol 1l Tp Integral",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hellmanns Squeeze 335g Churrasco",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "750ml",
+    "price": 19.9
   },
   {
     "store": "Muffatao",
