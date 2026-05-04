@@ -1,6 +1,11 @@
 [
   {
     "store": "Irani",
+    "name": "Filtros",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -11,12 +16,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -32,16 +32,16 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mortadela Copacol 380g Sem Toucinho",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "Pão Caseirinho 450g Leite",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Mortadela Copacol 380g Sem Toucinho",
     "price": 13.99
   },
   {
@@ -57,11 +57,21 @@
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Aurora 1.5l Tp Tinto",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Barra Fruta Supino 24g Maçã e Canela Zero",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "Água Mineral c/ Gás Cristal Azul 510ml",
     "price": 9.99
   },
   {
@@ -76,78 +86,68 @@
   },
   {
     "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
     "name": "300g",
     "price": 69.9
   },
   {
     "store": "Irani",
     "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 18.99
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Batata Mccain AIRFRYER 600g",
-    "price": 19.99
+    "name": "Limpador Perfumado UAU 1L Requinte",
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Copa Ceratti 100g Fatiada",
-    "price": 8.99
+    "name": "Limpador Perfumado UAU 1L Flores e Sonhos",
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Red Bull 250ml Sugar Free",
-    "price": 8.99
+    "name": "Limpador Perfumado Uau 1l C/20% Desc Chá Branco",
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Energético Red Bull 250ml Maçã Edition",
-    "price": 29.98
+    "name": "Limpador Perfumado UAU 1L Flores Vermelhas",
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Creme Hidratante Nivea Facial 100g Antissinais",
-    "price": 8.99
+    "name": "Limpador Perfumado UAU 1L Lavanda & Conforto",
+    "price": 6.29
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Red Bull 250ml Tradicional",
-    "price": 2.29
+    "name": "Limpador Perfumado UAU 1L Brisa & Frescor",
+    "price": 7.98
   },
   {
     "store": "Irani",
-    "name": "Snack Crocantissimo 40g Churrasco",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
-    "price": 2.29
-  },
-  {
-    "store": "Irani",
-    "name": "Snack Crocantissimo 40g Queijo e Cebola",
-    "price": 2.29
-  },
-  {
-    "store": "Irani",
-    "name": "Snack Crocantissimo 40g Peito Peru C/ Req",
-    "price": 2.29
-  },
-  {
-    "store": "Irani",
-    "name": "Snack Crocantissimo 40g Salaminho C/Limao",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Cereal Sucrilhos 240g Original",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Lombo Canadense Pamplona 180g",
-    "price": 9.98
+    "name": "Amaciante de Roupas Ypê 2l Azul Aconchego",
+    "price": 18.9
   },
   {
     "store": "Muffatao",
@@ -157,7 +157,7 @@
   {
     "store": "Muffatao",
     "name": "Laranja Pera",
-    "price": 3.79
+    "price": 4.98
   },
   {
     "store": "Muffatao",
@@ -172,7 +172,7 @@
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
-    "price": 7.59
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -187,7 +187,7 @@
   {
     "store": "Muffatao",
     "name": "Melancia",
-    "price": 9.98
+    "price": 13.99
   },
   {
     "store": "Muffatao",
@@ -197,17 +197,17 @@
   {
     "store": "Muffatao",
     "name": "Abacate",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Fruta Congelada Baum Frutas Vermelhas 100g",
-    "price": 7.65
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maca Gala Cantu Escolinha 1Kg",
     "price": 16.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Banana Maçã",
+    "price": 12.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pera Argentina",
+    "price": 17.98
   },
   {
     "store": "Muffatao",
@@ -282,12 +282,12 @@
   {
     "store": "Muffatao",
     "name": "Batata Doce",
-    "price": 6.99
+    "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Cenoura Extra",
-    "price": 7.98
+    "price": 10.99
   },
   {
     "store": "Muffatao",
@@ -307,7 +307,7 @@
   {
     "store": "Muffatao",
     "name": "Tomate Sweet Grape Bdj 180G",
-    "price": 4.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -317,7 +317,7 @@
   {
     "store": "Muffatao",
     "name": "Pepino Caipira",
-    "price": 3.79
+    "price": 4.98
   },
   {
     "store": "Muffatao",
@@ -342,7 +342,7 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -517,11 +517,6 @@
   {
     "store": "Muffatao",
     "name": "Linguíça tipo Calabresa Fatiada Frimesa 400g",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguiça Calabresa Defumada Perdigão 400g",
     "price": 26.98
   },
   {
@@ -563,6 +558,11 @@
     "store": "Muffatao",
     "name": "Linguíça de Frango C.Valle 800g",
     "price": 14.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguiça Frango Cong Lar 1kg Fina",
+    "price": 34.98
   },
   {
     "store": "Muffatao",
@@ -1102,11 +1102,6 @@
   {
     "store": "Muffatao",
     "name": "Leite Condensado Zero Lactose Piracanjuba Caixa 395g",
-    "price": 5.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pudim De Leite Condensado Unibaby 115G",
     "price": 7.99
   },
   {
@@ -1117,7 +1112,12 @@
   {
     "store": "Muffatao",
     "name": "Margarina com Sal e Creme de Leite Delícia Pote 500g",
-    "price": 16.9
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mistura Láctea Condensada Triangulo Mineiro Caixa 395g",
+    "price": 2.75
   },
   {
     "store": "Muffatao",
@@ -1421,11 +1421,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Salgadinho Bacon Torcida 35G",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
     "name": "Salgadinho de Trigo Cebola e Salsa Levinho's Pacote 50g",
     "price": 1.99
   },
@@ -1452,6 +1447,11 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho Cebola Elma Chips Cebolitos 138G",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho Queijo Elma Chips Fandangos 160G",
     "price": 15.98
   },
   {
@@ -2202,7 +2202,7 @@
   {
     "store": "Muffatao",
     "name": "Arroz Takumi 5Kg Grao Curto",
-    "price": 17.98
+    "price": 14.98
   },
   {
     "store": "Muffatao",
@@ -2352,6 +2352,11 @@
   {
     "store": "Muffatao",
     "name": "Milho Pipoca Zaeli 500G Premium Quality",
+    "price": 5.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho para Pipoca Tipo 1 Pinduca Gold Pacote 500g",
     "price": 11.59
   },
   {
@@ -2362,11 +2367,6 @@
   {
     "store": "Muffatao",
     "name": "Milho Pipoca ZAELI 500G Americana",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Milho para Pipoca Tipo 1 Pinduca Gold Pacote 500g",
     "price": 24.98
   },
   {
@@ -2522,27 +2522,27 @@
   {
     "store": "Muffatao",
     "name": "A Base de Vegetais",
-    "price": 1.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Bebida à Base de Soja Pêssego Ades Caixa 200ml",
-    "price": 1.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Bebida à Base de Soja Uva Ades Caixa 200ml",
-    "price": 1.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Bebida à Base de Soja Laranja Ades Caixa 200ml",
-    "price": 1.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
     "name": "Bebida à Base de Soja Abacaxi Ades Caixa 200ml",
-    "price": 1.99
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -2587,12 +2587,12 @@
   {
     "store": "Muffatao",
     "name": "Energético Red Bull Lata 250ml",
-    "price": 7.99
+    "price": 9.49
   },
   {
     "store": "Muffatao",
     "name": "Energético com Suco Mango Loco Monster Lata 473ml",
-    "price": 7.99
+    "price": 9.49
   },
   {
     "store": "Muffatao",
@@ -2632,12 +2632,12 @@
   {
     "store": "Muffatao",
     "name": "Energético Furioso Garrafa 2l",
-    "price": 7.99
+    "price": 9.49
   },
   {
     "store": "Muffatao",
     "name": "Energético Zero Açúcar Monster Lata 473ml",
-    "price": 7.99
+    "price": 9.49
   },
   {
     "store": "Muffatao",
@@ -2702,7 +2702,7 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante",
-    "price": 2.99
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -2722,12 +2722,22 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Tradicional Lata 310ml",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Coca Cola Sem Açúcar Mini Lata 220ml",
     "price": 11.99
   },
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Sem Açúcar Garrafa 2L",
-    "price": 7.99
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refrigerante Coca Cola Tradicional Mini Lata 220ml",
+    "price": 9.29
   },
   {
     "store": "Muffatao",
@@ -2737,7 +2747,7 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante COCA-COLA 1L TRADICIONAL",
-    "price": 4.99
+    "price": 6.79
   },
   {
     "store": "Muffatao",
@@ -2752,16 +2762,6 @@
   {
     "store": "Muffatao",
     "name": "Água Tônica Zero Açúcar Antarctica Lata 350ml",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Guaraná Antarctica Lata 350ml",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refrigerante Limão sem Açúcares Sprite Lata 350ml",
     "price": 16.9
   },
   {
@@ -2897,7 +2897,7 @@
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural sem Gás Crystal Garrafa 500ml",
-    "price": 2.99
+    "price": 4.59
   },
   {
     "store": "Muffatao",
@@ -3002,11 +3002,6 @@
   {
     "store": "Muffatao",
     "name": "Achocolatado Pó Original Toddy Pote 370g",
-    "price": 17.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Achocolatado Chocolatto Refil 700G",
     "price": 15.79
   },
   {
@@ -3053,6 +3048,11 @@
     "store": "Muffatao",
     "name": "Achocolatado Pó Nescau Lata 200g",
     "price": 23.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pó para Preparo de Bebida Morango Nesquik Lata 380g",
+    "price": 26.98
   },
   {
     "store": "Muffatao",
@@ -3202,11 +3202,6 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g",
-    "price": 29.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Café Torrado e Moído a Vácuo 3 Corações Estrada Real Premium Pacote 500g",
     "price": 32.9
   },
   {
@@ -3227,12 +3222,17 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Extraforte Caboclo Pacote 500g",
-    "price": 25.89
+    "price": 6.99
   },
   {
     "store": "Muffatao",
-    "name": "Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g",
-    "price": 6.99
+    "name": "Café Solúvel Granulado Damasco Sachê 40g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Forte Nescafé Tradição Sachê 40g",
+    "price": 27.98
   },
   {
     "store": "Muffatao",
@@ -3787,21 +3787,11 @@
   {
     "store": "Muffatao",
     "name": "Salsichas",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha hot dog Seara 500g",
     "price": 14.89
   },
   {
     "store": "Muffatao",
     "name": "Salsicha Viena Perdigão 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsichão de Frango Copacol 600g",
     "price": 13.98
   },
   {
@@ -3812,21 +3802,11 @@
   {
     "store": "Muffatao",
     "name": "Salsicha Tradicional Sadia 500g",
-    "price": 14.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha de Peru Sadia 500g",
     "price": 15.98
   },
   {
     "store": "Muffatao",
     "name": "Salsicha Hot-Dog Sadia 500g 10 Unidades",
-    "price": 14.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha de Frango Sadia 500g",
     "price": 14.79
   },
   {
@@ -3932,11 +3912,16 @@
   {
     "store": "Muffatao",
     "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
-    "price": 5.99
+    "price": 4.49
   },
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Tradiciona",
+    "price": 16.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Hamburguer Pullman 420G Com Gergelim",
     "price": 8.19
   },
   {
@@ -3958,11 +3943,6 @@
     "store": "Muffatao",
     "name": "Pão de Leite Seven Boys Pacote 450g",
     "price": 8.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Bisnaguinha Tradicional Zero Lactose Pullman Bisnaguito Pacote 300g",
-    "price": 11.79
   },
   {
     "store": "Muffatao",
@@ -3996,88 +3976,58 @@
   },
   {
     "store": "Festval",
-    "name": "Creme de Leite Batavo TP 200g",
-    "price": 2.49
+    "name": "Carré Suíno Coopavel S/Pele C/Osso Congelado Kg",
+    "price": 13.99
   },
   {
     "store": "Festval",
-    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
-    "price": 39.9
+    "name": "Lava Roupas Uau Active 3L",
+    "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 10.9
+    "name": "Linguiça Calabresa Frimesa kg",
+    "price": 22.9
   },
   {
     "store": "Festval",
-    "name": "Leite Condensado Frimesa TP 395g",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito McCain Tradicional Congelada 720g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxão Mole Bovino Padrão Beef Pedaço Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa Com Sobrecoxa de Frango Coopavel Congelada Kg",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Concentrado Downy Brisa de Verão Sachê 1,2L",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coração de Frango Coopavel Resfriado Kg",
+    "name": "Bacon Manta Frimesa KG",
     "price": 35.9
   },
   {
     "store": "Festval",
-    "name": "Azeite de Oliva Rafael Salgado 500 ml",
-    "price": 29.9
+    "name": "Manteiga Batavo Com ou Sem Sal Tablete 200g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Palmito Inteiro Palmivel em Conserva 300g",
-    "price": 15.9
+    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
+    "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Cápsulas Tres Corações Sabores 10 unidades",
-    "price": 14.9
+    "name": "Presunto Frimesa Cozido Fatiado 200g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Pepino Hemmer Agridoce Burgers 440g",
-    "price": 15.9
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Batata Palito Mccain AirFryer 600g",
-    "price": 14.99
+    "name": "Filé de Peito Sadia IQF 1KG",
+    "price": 19.99
   },
   {
     "store": "Festval",
-    "name": "Denver Steak Bovino 1953 Peça A Vácuo Kg",
-    "price": 49.9
+    "name": "Filezinho Sassami Sadia IQF 1KG",
+    "price": 19.99
   },
   {
     "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Pizza Oliva Forneria Sabores Unidade",
-    "price": 27.9
+    "name": "Arroz Branco Prato Fino 5Kg",
+    "price": 24.99
   },
   {
     "store": "Festval",
@@ -4118,5 +4068,75 @@
     "store": "Festval",
     "name": "Vinho Argentino Renacer Punto Final Tipos 750ML",
     "price": 39.0
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 56.9
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Parboilizado Sabor Sul 5kg",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Polpa Ninho 540g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Perdigão Sabores Congelada 600g",
+    "price": 13.9
+  },
+  {
+    "store": "Festval",
+    "name": "Presunto Cozido Seara 180g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Maionese Hellmann's leve 600g pague 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mistura de Tapioca Geriba 500g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Paleta Bovina Com Osso Padrão Beef Kg",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Concentrado Downy Brisa de Verão Sachê 1,2L",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Energético Moster Lata Sabores Lata 473ML",
+    "price": 8.49
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Zero Lactose Sabores 1,2Kg",
+    "price": 16.99
+  },
+  {
+    "store": "Festval",
+    "name": "Agnoline La Bonna Sabores 400G",
+    "price": 18.9
   }
 ]
