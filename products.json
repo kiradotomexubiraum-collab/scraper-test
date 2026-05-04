@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Filtros",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -26,23 +16,13 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "400gr",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mortadela Copacol 380g Sem Toucinho",
-    "price": 4.99
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -52,6 +32,16 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Mortadela Copacol 380g Sem Toucinho",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Leite",
     "price": 13.99
   },
   {
@@ -67,27 +57,22 @@
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Fruta Supino 24g Maçã e Canela Zero",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Açúcar Cristal Alto Alegre 5Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Limpador Perfumado Veja 500ml Lavanda",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Barra Fruta Supino 24g Açaí Zero",
-    "price": 2.99
+    "name": "300g",
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -97,57 +82,72 @@
   {
     "store": "Irani",
     "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 6.99
+    "price": 18.99
   },
   {
     "store": "Irani",
-    "name": "300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 3.69
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Oreo 90g Chocolate",
-    "price": 3.69
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Oreo 90g Baunilha",
+    "name": "Batata Mccain AIRFRYER 600g",
     "price": 19.99
   },
   {
     "store": "Irani",
     "name": "Copa Ceratti 100g Fatiada",
-    "price": 4.79
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Leite Longa Vida Tirol 1l T. Rosca Semidesnatado",
-    "price": 11.99
+    "name": "Bebida Energética Red Bull 250ml Sugar Free",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Bacon",
-    "price": 4.79
+    "name": "Energético Red Bull 250ml Maçã Edition",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "335g",
-    "price": 11.99
+    "name": "Creme Hidratante Nivea Facial 100g Antissinais",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Tradicional",
-    "price": 18.99
+    "name": "Bebida Energética Red Bull 250ml Tradicional",
+    "price": 2.29
   },
   {
     "store": "Irani",
-    "name": "400g",
-    "price": 15.98
+    "name": "Snack Crocantissimo 40g Churrasco",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Queijo e Cebola",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Peito Peru C/ Req",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Salaminho C/Limao",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Cereal Sucrilhos 240g Original",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Lombo Canadense Pamplona 180g",
+    "price": 9.98
   },
   {
     "store": "Muffatao",
