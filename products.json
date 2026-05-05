@@ -32,21 +32,11 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Leite",
     "price": 4.98
   },
   {
     "store": "Irani",
     "name": "Mortadela Copacol 380g Sem Toucinho",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
     "price": 4.99
   },
   {
@@ -57,51 +47,26 @@
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 14.98
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Aurora 1.5l Tp Tinto",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
     "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Barra Fruta Supino 24g Maçã e Canela Zero",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "Água Mineral c/ Gás Cristal Azul 510ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Premium Caseirinho 450g 100% Integral",
     "price": 2.99
   },
   {
     "store": "Irani",
+    "name": "Barra Fruta Supino 24g Açaí Zero",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
     "name": "300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/54 XXG",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
     "price": 69.9
   },
   {
@@ -112,42 +77,77 @@
   {
     "store": "Irani",
     "name": "Creatina Integralmedica 300g Hardcore",
-    "price": 6.29
+    "price": 18.99
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado UAU 1L Requinte",
-    "price": 6.29
+    "name": "Batata Mccain AIRFRYER 600g",
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado UAU 1L Flores e Sonhos",
-    "price": 6.29
+    "name": "Copa Ceratti 100g Fatiada",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado Uau 1l C/20% Desc Chá Branco",
-    "price": 6.29
+    "name": "Bebida Energética Red Bull 250ml Sugar Free",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado UAU 1L Flores Vermelhas",
-    "price": 6.29
+    "name": "Bebida Energética Red Bull 250ml Tradicional",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado UAU 1L Lavanda & Conforto",
-    "price": 6.29
+    "name": "Creme Hidratante Nivea Facial 100g Antissinais",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Limpador Perfumado UAU 1L Brisa & Frescor",
-    "price": 7.98
+    "name": "Energético Red Bull 250ml Maçã Edition",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "Amaciante de Roupas Ypê 2l Azul Aconchego",
-    "price": 18.9
+    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Peito Peru C/ Req",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Churrasco",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Queijo e Cebola",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "Snack Crocantissimo 40g Salaminho C/Limao",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido OMO 3L Lavagem Perfeita",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Elseve Shampoo 375ml + Cond. 170ml - Hidra Hialurônico",
+    "price": 29.9
   },
   {
     "store": "Muffatao",
