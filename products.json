@@ -6,7 +6,12 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -22,36 +27,11 @@
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 19.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mortadela Copacol 1kg Sem Toucinho",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.89
   },
   {
@@ -61,12 +41,12 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 24.89
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 24.89
   },
   {
@@ -76,7 +56,27 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 24.89
   },
   {
@@ -87,41 +87,51 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 36.98
-  },
-  {
-    "store": "Irani",
-    "name": "Óleo Dove 110ml Bond Repair",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
     "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 36.98
+  },
+  {
+    "store": "Irani",
+    "name": "Óleo Dove 110ml Bond Repair",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
     "price": 29.98
   },
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
+    "name": "Gelatina Lowçucar Zero Sabores 10g Abacaxi",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
+    "name": "Gelatina Lowçucar Zero Sabores 10g Cereja",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
+    "name": "Gelatina Lowçucar Zero 10g Limão Siciliano",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
+    "name": "Gelatina Lowçucar Zero 10g Frutas Vermelhas",
     "price": 2.79
   },
   {
@@ -136,17 +146,7 @@
   },
   {
     "store": "Irani",
-    "name": "Gelatina Lowçucar Zero 10g Amora",
-    "price": 2.79
-  },
-  {
-    "store": "Irani",
     "name": "Gelatina Lowçucar Zero Sabores 10g Morango",
-    "price": 2.79
-  },
-  {
-    "store": "Irani",
-    "name": "Gelatina Lowçucar Zero 10g Limão Siciliano",
     "price": 2.79
   },
   {
@@ -412,16 +412,16 @@
   {
     "store": "Muffatao",
     "name": "Sobrecoxa de Frango Congelada Temperada Sadia Frango Fácil 800g",
-    "price": 19.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
     "price": 14.98
   },
   {
     "store": "Muffatao",
     "name": "Coxinha Asa Frango Coopav",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Coxinha Da Asa Coopavel 1Kg IQF",
     "price": 21.98
   },
   {
@@ -2167,6 +2167,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
+    "price": 18.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Rampinelli 5KG Branco",
     "price": 6.49
   },
   {
@@ -2187,11 +2192,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz 500G Meu Biju 8 Graos Com Chia",
-    "price": 18.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Rampinelli 5KG Branco",
     "price": 59.9
   },
   {
@@ -3606,6 +3606,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Patê de Atum Coqueiro Sachê 170g",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Patê de Atum com Azeitonas Verdes Coqueiro Sachê 170g",
     "price": 22.9
   },
@@ -3637,11 +3642,6 @@
   {
     "store": "Muffatao",
     "name": "Creme de Aveia Nude. Caixa 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Patê de Atum Coqueiro Sachê 170g",
     "price": 23.98
   },
   {
@@ -3876,12 +3876,7 @@
   },
   {
     "store": "Muffatao",
-    "name": "Biscoito de Polvilho",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Minibiscoito de Polvilho Palito Ofir Pacote 80g",
+    "name": "Bolinho Chocolate Recheio Baunilha Bauducco Pacote 40g",
     "price": 7.99
   },
   {
@@ -3963,11 +3958,6 @@
     "store": "Muffatao",
     "name": "Tapioca Rap10 Pouch 198g",
     "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Lanches, salgados e tortas",
-    "price": 6.99
   },
   {
     "store": "Festval",
