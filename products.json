@@ -6,12 +6,7 @@
   },
   {
     "store": "Irani",
-    "name": "500g",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Açucar Confeiteiro Glaçucar 500g",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -26,12 +21,32 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "500g",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Açucar Confeiteiro Glaçucar 500g",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle 110g Nescau",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Joy 40g C/2",
     "price": 19.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 10.98
+  },
+  {
+    "store": "Irani",
+    "name": "Mostarda Hemmer 200g Gourmet Dijon",
     "price": 24.89
   },
   {
@@ -41,32 +56,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 24.89
   },
   {
@@ -76,7 +66,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.89
   },
   {
@@ -87,16 +87,31 @@
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 114g Carne Menos Sódio",
     "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Congelada Lar 1,5kg",
     "price": 4.99
   },
   {
@@ -117,37 +132,22 @@
   {
     "store": "Irani",
     "name": "Vodka Smirnoff 998ml",
-    "price": 11.88
-  },
-  {
-    "store": "Irani",
-    "name": "Detergente Líq Limpol 500ml C/6 Neutro",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Macarrão Sêmola Galo 500g Espaguete 8",
-    "price": 11.88
+    "name": "Macarrão Sêmola Galo 500g Nhoque",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Shampoo Seda 325ml Ceramidas",
-    "price": 2.79
+    "name": "Macarrão Sêmola Galo 500g Parafuso 2",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Gelatina Lowçucar Zero Sabores 10g Morango",
-    "price": 2.79
-  },
-  {
-    "store": "Irani",
-    "name": "Gelatina Lowçucar Zero Sabores 10g Cereja",
-    "price": 2.79
-  },
-  {
-    "store": "Irani",
-    "name": "Gelatina Lowçucar Zero Sabores 10g Abacaxi",
-    "price": 2.79
+    "name": "Macarrão Sêmola Galo 500g Concha",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -1602,6 +1602,11 @@
   {
     "store": "Muffatao",
     "name": "Bebidas Lácteas",
+    "price": 1.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bebida Láctea UHT Chocolate Frimesa Friminho Caixa 200ml",
     "price": 3.79
   },
   {
@@ -1656,12 +1661,12 @@
   },
   {
     "store": "Muffatao",
-    "name": "Bebida Láctea Fermentada Mamão Zero Lactose Batavo Pense Zero Frasco 170g",
-    "price": 11.59
+    "name": "Iogurtes",
+    "price": 2.19
   },
   {
     "store": "Muffatao",
-    "name": "Iogurtes",
+    "name": "Leite Fermentado Desnatado Chamyto Big Frasco 120g",
     "price": 1.19
   },
   {
@@ -1717,11 +1722,6 @@
   {
     "store": "Muffatao",
     "name": "Iog Frimesa Zero 170G Frutas Vermelhas",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Iogurte Grego Batavo 100G Pense Zero Maracujá",
     "price": 5.29
   },
   {
@@ -3102,6 +3102,11 @@
   {
     "store": "Muffatao",
     "name": "Biscoitos",
+    "price": 3.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 9.98
   },
   {
@@ -3117,11 +3122,6 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
-    "price": 3.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
     "price": 4.59
   },
   {
