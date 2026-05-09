@@ -1,11 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Filtros",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "500g",
     "price": 2.99
   },
@@ -16,27 +11,32 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 48.69
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 48.69
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 48.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 24.9
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -96,17 +96,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 24.89
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 24.89
+    "name": "750ml",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
     "price": 24.89
   },
   {
@@ -116,22 +116,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
     "price": 24.89
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.89
   },
   {
@@ -141,13 +136,18 @@
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 24.89
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -282,6 +282,11 @@
   {
     "store": "Muffatao",
     "name": "Batata Doce",
+    "price": 10.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tomate Longa Vida",
     "price": 7.49
   },
   {
@@ -292,11 +297,6 @@
   {
     "store": "Muffatao",
     "name": "Cenoura Extra",
-    "price": 10.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Tomate Longa Vida",
     "price": 6.99
   },
   {
@@ -847,11 +847,21 @@
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho de Tomate Pizza Fugini Especial Sachê 300g",
     "price": 4.98
   },
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Quero Caixa 320g",
+    "price": 3.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho de Tomate Zero Açúcar Fugini Sachê 340g",
     "price": 8.99
   },
   {
@@ -863,16 +873,6 @@
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Caixa 275g",
     "price": 4.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Extrato de Tomate Elefante Caixa 135g",
-    "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho de Tomate Tradicional Pomarola Sachê 300g",
-    "price": 1.99
   },
   {
     "store": "Muffatao",
@@ -922,17 +922,17 @@
   {
     "store": "Muffatao",
     "name": "Paçoca Rolha DA COLÔNIA com 40 unidades de 14g",
+    "price": 13.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nata Tirol Pote 300g",
     "price": 6.99
   },
   {
     "store": "Muffatao",
     "name": "Bala de Banana Oliveira 150g",
     "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bala De Banana Guimarães 150G",
-    "price": 12.99
   },
   {
     "store": "Muffatao",
@@ -1222,17 +1222,17 @@
   {
     "store": "Muffatao",
     "name": "Maionese Hellmann's Pote 250g",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Tradicional Hemmer Squeeze 670g",
     "price": 9.98
   },
   {
     "store": "Muffatao",
     "name": "Maionese Hellmann's Sachê 400g Embalagem Econômica",
     "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mostarda Dijon Sabores Cepêra Squeeze 190g",
-    "price": 7.49
   },
   {
     "store": "Muffatao",
@@ -1727,11 +1727,11 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Integral Cremoso Natural Frimesa Copo 165g",
-    "price": 3.19
+    "price": 11.98
   },
   {
     "store": "Muffatao",
-    "name": "Iog Frimesa Zero 170G Frutas Vermelhas",
+    "name": "Iogurte Parcialmente Desnatado Salada de Frutas Frimesa Pacote 1000g",
     "price": 5.29
   },
   {
@@ -1942,6 +1942,11 @@
   {
     "store": "Muffatao",
     "name": "Queijo Parmesão Ralado Président Pacote 50g",
+    "price": 42.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Mussarela Vale",
     "price": 29.99
   },
   {
@@ -1963,11 +1968,6 @@
     "store": "Muffatao",
     "name": "Queijo Santa Clara Fat 150G Mussarela Zero Lactose",
     "price": 20.38
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo Tipo Burrata De Bufala Bufalo Dourado 120G Trufa Bca",
-    "price": 17.99
   },
   {
     "store": "Muffatao",
@@ -2337,11 +2337,6 @@
   {
     "store": "Muffatao",
     "name": "Feijão Vermelho Tipo 1 Caldo Bom Ouro Pacote 1kg",
-    "price": 16.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Proteína Texturizada de Soja Média Vitao Pacote 200g",
     "price": 5.99
   },
   {
@@ -2352,16 +2347,21 @@
   {
     "store": "Muffatao",
     "name": "Milho para Pipoca Tipo 1 Pinduca Gold Pacote 500g",
-    "price": 11.59
+    "price": 16.98
   },
   {
     "store": "Muffatao",
-    "name": "Milho Pipoca Perola Zaeli 500G",
+    "name": "Proteína Texturizada de Soja Média Vitao Pacote 200g",
     "price": 4.99
   },
   {
     "store": "Muffatao",
     "name": "Milho Pipoca ZAELI 500G Americana",
+    "price": 11.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho Pipoca Perola Zaeli 500G",
     "price": 24.98
   },
   {
@@ -2552,7 +2552,7 @@
   {
     "store": "Muffatao",
     "name": "Água Saborizada com Gás Limão Crystal Sabores Garrafa 510ml",
-    "price": 3.39
+    "price": 2.79
   },
   {
     "store": "Muffatao",
@@ -2827,6 +2827,11 @@
   {
     "store": "Muffatao",
     "name": "Água De Coco 1 Litro Copra",
+    "price": 13.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Água de Coco Esterilizada Obrigado Caixa 1l",
     "price": 2.39
   },
   {
@@ -2842,11 +2847,6 @@
   {
     "store": "Muffatao",
     "name": "Água de Coco Uva Sococo Mais Caixa 200ml",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Água de Coco Esterilizada Obrigado Caixa 1l",
     "price": 5.39
   },
   {
@@ -3117,6 +3117,11 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Wafer Recheio Chocolate Bauducco Pacote 140g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 9.98
   },
   {
@@ -3127,11 +3132,6 @@
   {
     "store": "Muffatao",
     "name": "Biscoito Recheio Chocolate Bauducco Barrinha Pacote 25g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Biscoito Original Sol Águia Salt Plus Pacote 360g",
     "price": 4.59
   },
   {
@@ -3357,6 +3357,16 @@
   {
     "store": "Muffatao",
     "name": "Creme de Avelã com Cacau Nutella Pote 140g",
+    "price": 26.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Geleia Agridoce Pimenta-Vermelha Queensberry Gourmet Vidro 320g",
+    "price": 24.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Geleia Uva Ritter Pote 400g",
     "price": 19.9
   },
   {
@@ -3401,16 +3411,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Geleia Amora Diet Ritter Gelifrut Vidro 260g",
-    "price": 22.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Creme de Avelã com Cacau Ritter Pote 250g",
-    "price": 26.9
-  },
-  {
-    "store": "Muffatao",
     "name": "Leites em Pó",
     "price": 15.98
   },
@@ -3442,7 +3442,7 @@
   {
     "store": "Muffatao",
     "name": "Leite em Pó Ninho Integral Instantâneo Sachê 350g",
-    "price": 37.98
+    "price": 39.98
   },
   {
     "store": "Muffatao",
@@ -3892,6 +3892,11 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 8.49
   },
   {
@@ -3907,11 +3912,6 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Seven Boys Pacote 450g",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
     "price": 5.99
   },
   {
