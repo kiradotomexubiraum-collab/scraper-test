@@ -6,22 +6,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 48.69
   },
   {
@@ -51,28 +51,78 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
+    "name": "2,7l",
+    "price": 19.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 19.98
+    "name": "Lava Roupas Liquido Uau 2,7l Chá Branco",
+    "price": 19.9
   },
   {
     "store": "Irani",
-    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
+    "name": "Sabão Líquido Uau 3L Active",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Uau 3L Rosas e Sedução",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 18g Milho C/Frango",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 18g Batata C/ Carne",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 17g Peito Frango C/ Queijo",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 17g Mand, Cebola, Salsa",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 17g Abobora C/Carne",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 18g Caldinho De Feijão",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sopa Instantânea Vono 18g Aipim Com Costela",
+    "price": 10.98
+  },
+  {
+    "store": "Irani",
+    "name": "Mostarda Hemmer 200g Gourmet Dijon",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 10.98
+    "price": 19.98
   },
   {
     "store": "Irani",
@@ -81,12 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "Nhoque Importado Granoro 500g",
     "price": 24.89
   },
   {
@@ -96,58 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.89
   },
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 3.99
   },
   {
     "store": "Muffatao",
