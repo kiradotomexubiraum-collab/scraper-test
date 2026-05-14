@@ -16,12 +16,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 24.9
   },
   {
@@ -32,16 +32,26 @@
   {
     "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
-    "price": 2.99
+    "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 39.89
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 39.89
   },
   {
@@ -81,11 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "750ml",
     "price": 24.9
   },
@@ -101,7 +106,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 3.99
   },
   {
@@ -122,11 +132,6 @@
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 11.9
   },
   {
@@ -136,17 +141,12 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -1732,7 +1732,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Integral Lider Caixa com Tampa 1l",
-    "price": 5.59
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -1767,7 +1767,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Desnatado Frimesa Caixa com Tampa 1l",
-    "price": 5.59
+    "price": 4.99
   },
   {
     "store": "Muffatao",
