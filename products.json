@@ -37,41 +37,11 @@
   {
     "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
-    "price": 17.9
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Nac Marcus James 750ml Cabernet Franc",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nac Marcus James 750ml Cabernet Sauvign",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Marcus James 750ml Pinotage",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Marcus James 750ml Merlot",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Marcus James 750ml Tannat",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Marcus James 750ml Pinot Noir",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Marcus James 750ml Chardonnay",
+    "name": "Chocolate Kinder Joy 40g C/2",
     "price": 22.9
   },
   {
@@ -82,56 +52,46 @@
   {
     "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Joy 40g C/2",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
     "price": 10.98
   },
   {
     "store": "Irani",
     "name": "Mostarda Hemmer 200g Gourmet Dijon",
-    "price": 6.99
+    "price": 19.98
   },
   {
     "store": "Irani",
-    "name": "Macarrão Paganini Spaghetti 500g",
+    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Macarrão Paganini Penne Rigate 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Spaghetti 500g",
     "price": 11.98
   },
   {
@@ -148,6 +108,46 @@
     "store": "Irani",
     "name": "750ml",
     "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 114g Carne Menos Sódio",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "350ml",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Therezópolis Lata 350ml",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 5.98
   },
   {
     "store": "Muffatao",
