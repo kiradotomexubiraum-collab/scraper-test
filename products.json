@@ -6,17 +6,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Tangerina",
-    "price": 0.49
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Clight 8g Laranja",
-    "price": 0.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Morango",
     "price": 48.69
   },
   {
@@ -132,11 +122,11 @@
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
-    "price": 11.9
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
     "price": 29.9
   },
   {
@@ -148,6 +138,16 @@
     "store": "Irani",
     "name": "350ml",
     "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Therezópolis Lata 350ml",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 29.9
   },
   {
     "store": "Muffatao",
@@ -207,7 +207,7 @@
   {
     "store": "Muffatao",
     "name": "Abacate",
-    "price": 6.99
+    "price": 7.39
   },
   {
     "store": "Muffatao",
@@ -362,6 +362,11 @@
   {
     "store": "Muffatao",
     "name": "Cheiro Verde Geriba",
+    "price": 7.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Tomate Sweet Grape Bandeja Un",
     "price": 6.79
   },
   {
@@ -392,11 +397,6 @@
   {
     "store": "Muffatao",
     "name": "Semente de Alho Poró Semente Feltrin 500mg",
-    "price": 2.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Semente Feltrin Salsa Lisa 900Mg Sachê",
     "price": 2.98
   },
   {
