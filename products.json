@@ -7,16 +7,21 @@
   {
     "store": "Irani",
     "name": "Refresco Clight 8g Laranja",
-    "price": 48.69
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Pispi 750ml Blend",
     "price": 48.69
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 24.9
   },
   {
@@ -37,6 +42,16 @@
   {
     "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Frimesa 200g Cheddar",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
   {
@@ -47,11 +62,6 @@
   {
     "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 19.98
   },
   {
@@ -101,7 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 3.99
   },
   {
@@ -126,27 +136,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
+    "price": 5.89
+  },
+  {
+    "store": "Irani",
+    "name": "Toalha Papel Suavita Mega 180 toalhas",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "350ml",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Therezópolis Lata 350ml",
-    "price": 11.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
     "price": 29.9
   },
   {
@@ -262,12 +262,12 @@
   {
     "store": "Muffatao",
     "name": "Nozes Mariposa Extralig",
-    "price": 28.69
+    "price": 222.79
   },
   {
     "store": "Muffatao",
-    "name": "Uva Passa Preta",
-    "price": 222.79
+    "name": "Castanha Do Pará Large",
+    "price": 149.29
   },
   {
     "store": "Muffatao",
@@ -327,7 +327,7 @@
   {
     "store": "Muffatao",
     "name": "Abóbora Cabotia",
-    "price": 17.98
+    "price": 15.99
   },
   {
     "store": "Muffatao",
@@ -432,6 +432,11 @@
   {
     "store": "Muffatao",
     "name": "Filé de Coxa e Sobrecoxa Copacol IGF 800g",
+    "price": 10.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Filé de Peito de Frango Congelado Moído Copacol 500g",
     "price": 11.98
   },
   {
@@ -456,11 +461,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Meio Da Asa Cong Copacol 800G",
-    "price": 28.69
-  },
-  {
-    "store": "Muffatao",
     "name": "Bovinos",
     "price": 22.98
   },
@@ -482,6 +482,11 @@
   {
     "store": "Muffatao",
     "name": "Coração Bovino P Bee",
+    "price": 40.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bisteca Bovina - Astra",
     "price": 43.98
   },
   {
@@ -497,6 +502,11 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Toscana - Friella",
+    "price": 18.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguíça tipo Calabresa Fatiada Frimesa 400g",
     "price": 15.98
   },
   {
@@ -546,11 +556,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Linguiça Calabresa Sadia",
-    "price": 29.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Peixaria",
     "price": 25.89
   },
@@ -562,7 +567,7 @@
   {
     "store": "Muffatao",
     "name": "Filé de Tilápia Copacol Congelado 800g",
-    "price": 15.79
+    "price": 12.99
   },
   {
     "store": "Muffatao",
@@ -922,7 +927,7 @@
   {
     "store": "Muffatao",
     "name": "Doce Cremoso Schmier Figo Ritter Pote 400g",
-    "price": 15.98
+    "price": 19.98
   },
   {
     "store": "Muffatao",
@@ -1207,6 +1212,11 @@
   {
     "store": "Muffatao",
     "name": "Ketchup Heinz Squeeze 397g",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Hellmann's Pote 250g",
     "price": 13.98
   },
   {
@@ -1222,11 +1232,6 @@
   {
     "store": "Muffatao",
     "name": "Maionese Caseira Hemmer Pote 500g",
-    "price": 8.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maionese Hellmann's Pote 250g",
     "price": 17.98
   },
   {
@@ -1342,7 +1347,7 @@
   {
     "store": "Muffatao",
     "name": "Molho de Pimenta-Vermelha Suave com Alho Tabasco Vidro 60ml",
-    "price": 8.69
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -1832,11 +1837,6 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Extra sem Sal Elegê 200g",
-    "price": 32.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga Frimesa Extra 500G",
     "price": 9.9
   },
   {
@@ -1863,6 +1863,11 @@
     "store": "Muffatao",
     "name": "Manteiga Extra Com Sal 200G",
     "price": 10.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Margarina com Sal Qualy Vita Pote 500g",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -2022,7 +2027,12 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Santa Clara Tradicional 400g",
-    "price": 10.98
+    "price": 11.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso Zero Lactose Catupiry Copo 150g",
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -2041,13 +2051,8 @@
   },
   {
     "store": "Muffatao",
-    "name": "Requeijão Cremoso Zero Lactose Tirol Copo 180g",
-    "price": 11.89
-  },
-  {
-    "store": "Muffatao",
     "name": "Sobremesas",
-    "price": 17.99
+    "price": 18.98
   },
   {
     "store": "Muffatao",
@@ -2077,7 +2082,7 @@
   {
     "store": "Muffatao",
     "name": "Sobremesa Láctea Chocolate ao Leite Danette Bandeja 180g 2 Unidades",
-    "price": 7.98
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -2182,11 +2187,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
-    "price": 18.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Rampinelli 5KG Branco",
     "price": 6.49
   },
   {
@@ -2223,6 +2223,11 @@
     "store": "Muffatao",
     "name": "Arroz Chines Parbolizzado 5Kg",
     "price": 29.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 5kg",
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -2877,11 +2882,6 @@
   {
     "store": "Muffatao",
     "name": "Água de Coco Tangerina Sococo Mais Caixa 200ml",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Água de Coco Integral Sococo Caixa 200ml",
     "price": 10.98
   },
   {
@@ -3122,12 +3122,12 @@
   {
     "store": "Muffatao",
     "name": "Adoçante Líquido Magro Frasco 200ml",
-    "price": 14.98
+    "price": 22.69
   },
   {
     "store": "Muffatao",
     "name": "Biscoitos",
-    "price": 3.79
+    "price": 2.99
   },
   {
     "store": "Muffatao",
@@ -3247,6 +3247,11 @@
   {
     "store": "Muffatao",
     "name": "Cereais",
+    "price": 4.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Aveia em Flocos Finos Kodilar 170G",
     "price": 6.99
   },
   {
@@ -3257,11 +3262,6 @@
   {
     "store": "Muffatao",
     "name": "Cereal Matinal Sucrilhos 240G Original",
-    "price": 4.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Aveia em Flocos Finos Kodilar 170G",
     "price": 7.99
   },
   {
@@ -3666,11 +3666,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Peito de Peru",
-    "price": 21.98
-  },
-  {
-    "store": "Muffatao",
     "name": "Presuntos",
     "price": 10.98
   },
@@ -3727,7 +3722,7 @@
   {
     "store": "Muffatao",
     "name": "Apresuntado Fatiado Frimesa 200g",
-    "price": 7.98
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -3797,11 +3792,6 @@
   {
     "store": "Muffatao",
     "name": "Salsicha Hot-Dog Perdigão 500g 12 Unidades",
-    "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha Aurora 500G Hot Dog",
     "price": 15.89
   },
   {
@@ -3837,17 +3827,22 @@
   {
     "store": "Muffatao",
     "name": "Salsicha de Peru Sadia 500g",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha Hot-Dog Sadia 500g 10 Unidades",
     "price": 14.89
   },
   {
     "store": "Muffatao",
     "name": "Salsicha de Frango Sadia 500g",
     "price": 14.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salsicha de Frango Hot-Dog Perdigão 500g 12 Unidades",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salsicha Oderich Lata 180g",
+    "price": 8.49
   },
   {
     "store": "Muffatao",
@@ -3862,7 +3857,7 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Chocolate Renata Pacote 400g",
-    "price": 4.79
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -3907,12 +3902,12 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Brownie Chocolate Fleischmann Sachê 400g",
-    "price": 2.49
+    "price": 1.99
   },
   {
     "store": "Muffatao",
     "name": "Bolinho Chocolate Recheio Baunilha Bauducco Pacote 40g",
-    "price": 7.99
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -4116,97 +4111,97 @@
   },
   {
     "store": "Festval",
-    "name": "Café Caboclo Tradicional A Vácuo 500g",
-    "price": 20.9
+    "name": "Sequilhos Goody's Sabores 250g",
+    "price": 8.49
   },
   {
     "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 11.99
+    "name": "Mistura de Tapioca Geriba 500g",
+    "price": 5.9
   },
   {
     "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 15.98
+    "name": "Pão Aminna Sem Glúten Sabores 400/450g",
+    "price": 18.9
   },
   {
     "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 3.99
+    "name": "Biscoito Rampinelli de Arroz ou Milho 150g",
+    "price": 7.49
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Frimesa 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Suavit Pet 900ml",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Phalaenopsis 2 Hastes Pote 12",
-    "price": 39.98
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
+    "name": "Aveia Q-Vita Flocos Sem Glutén 200g",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Macarrão Todeschini c/ovos Tipos 500gr",
-    "price": 2.99
+    "name": "Macarrão Urbano Pena, Parafuso ou Espaguete 500g",
+    "price": 4.69
   },
   {
     "store": "Festval",
-    "name": "Achocolatado em Pó 3 Corações lata 350g",
-    "price": 6.98
-  },
-  {
-    "store": "Festval",
-    "name": "Presunto Frimesa Cozido Fatiado 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
+    "name": "Nhoque Miss Laura de Batata-Doce Vegano 250g - 50% de Desconto na 2ª Unidade",
     "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Costela Suína com Pele e Osso Coopavel kg",
-    "price": 23.98
+    "name": "Coxinha Miss Laura Sabores Vegana 300g - 50% de Desconto na 2ª Unidade",
+    "price": 19.99
   },
   {
     "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Big Chicken Perdigão 1KG Sabores",
-    "price": 24.9
+    "name": "Nata Santa Clara 300g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Calabresa Frimesa kg",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Palmito Inteiro Palmivel em Conserva 300g",
+    "price": 16.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pepino Hemmer Agridoce Burgers 440g",
+    "price": 16.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pizza Forneria Oliva Sabores",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Salmão Fresco Com Pele Kg",
+    "price": 99.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Biscoito Italiano Grissini Mamma Bia 125g",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Chá Alemão Krüger Sabores 400g",
+    "price": 19.9
   }
 ]
