@@ -16,12 +16,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 24.9
   },
   {
@@ -56,22 +56,22 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
     "price": 10.98
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "store": "Irani",
-    "name": "Macarrão Paganini Spaghetti 500g",
+    "name": "Macarrão Paganini Penne Rigate 500g",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Macarrão Paganini Penne Rigate 500g",
+    "name": "Macarrão Paganini Spaghetti 500g",
     "price": 11.98
   },
   {
@@ -136,12 +136,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
-    "price": 5.89
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Toalha Papel Suavita Mega 180 toalhas",
+    "name": "Vinho Português Olaria 750ml Rose Suave",
     "price": 29.9
   },
   {
@@ -3988,220 +3988,5 @@
     "store": "Muffatao",
     "name": "Tapioca Rap10 Pouch 198g",
     "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Pinot Noir 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Adp. Chafariz D. Maria Tipos 750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Cielo Passaia Toscana Tinto 750ml",
-    "price": 69.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Cigarra Gran Passo Tinto 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Balduzzi Almaule Tinto 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Sogrape Silk&Spice Tipos 750ml",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Cielo Appassionante Tinto 750ml",
-    "price": 79.0
-  },
-  {
-    "store": "Festval",
-    "name": "Coxão Mole Bovino Reserva Pedaço Kg",
-    "price": 52.9
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 6.98
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
-    "price": 3.39
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Catupiry Tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito McCain Tradicional Congelada 720g",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 2kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 1kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coquetel Alcoólico Bella Roma Composto 473ML",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Refrigerante Refriko Tubaina Long Neck 300ml",
-    "price": 2.69
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Nestlé Zero 1,15kg",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy 1,2L",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito Ninfa Rosca Sabores 250g",
-    "price": 3.98
-  },
-  {
-    "store": "Festval",
-    "name": "Sequilhos Goody's Sabores 250g",
-    "price": 8.49
-  },
-  {
-    "store": "Festval",
-    "name": "Mistura de Tapioca Geriba 500g",
-    "price": 5.9
-  },
-  {
-    "store": "Festval",
-    "name": "Pão Aminna Sem Glúten Sabores 400/450g",
-    "price": 18.9
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito Rampinelli de Arroz ou Milho 150g",
-    "price": 7.49
-  },
-  {
-    "store": "Festval",
-    "name": "Aveia Q-Vita Flocos Sem Glutén 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Urbano Pena, Parafuso ou Espaguete 500g",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Nhoque Miss Laura de Batata-Doce Vegano 250g - 50% de Desconto na 2ª Unidade",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha Miss Laura Sabores Vegana 300g - 50% de Desconto na 2ª Unidade",
-    "price": 19.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Calabresa Frimesa kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Inteiro Palmivel em Conserva 300g",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pepino Hemmer Agridoce Burgers 440g",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pizza Forneria Oliva Sabores",
-    "price": 25.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Salmão Fresco Com Pele Kg",
-    "price": 99.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 49.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Bovino Do Chef Kg",
-    "price": 89.9
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito Italiano Grissini Mamma Bia 125g",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Chá Alemão Krüger Sabores 400g",
-    "price": 19.9
   }
 ]
