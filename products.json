@@ -17,16 +17,6 @@
   {
     "store": "Irani",
     "name": "Açucar Confeiteiro Glaçucar 500g",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 24.9
   },
   {
@@ -52,21 +42,11 @@
   {
     "store": "Irani",
     "name": "Requeijão Cremoso Frimesa 200g Cheddar",
-    "price": 39.89
+    "price": 10.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Mostarda Hemmer 200g Gourmet Dijon",
     "price": 21.98
   },
   {
@@ -77,21 +57,16 @@
   {
     "store": "Irani",
     "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
-    "price": 10.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mostarda Hemmer 200g Gourmet Dijon",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão Paganini Penne Rigate 500g",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Macarrão Paganini Spaghetti 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Penne Rigate 500g",
     "price": 11.98
   },
   {
@@ -117,11 +92,21 @@
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
     "price": 29.9
   },
   {
@@ -137,17 +122,32 @@
   {
     "store": "Irani",
     "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Premisse Refil 450ml Tang e Chá",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Premisse Refil 450ml Camom Açaí",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Premisse Refil 450ml Mor Hibi",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
-    "price": 11.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 5.98
+    "name": "Vinho Português Olaria 750ml Branco Suave",
+    "price": 29.9
   },
   {
     "store": "Muffatao",
@@ -442,6 +442,11 @@
   {
     "store": "Muffatao",
     "name": "Frango a Passarinho Congelado Copacol 800g",
+    "price": 26.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Meio Da Asa Cong Copacol 800G",
     "price": 21.98
   },
   {
@@ -453,11 +458,6 @@
     "store": "Muffatao",
     "name": "Coxa De Frango - Copacol",
     "price": 28.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Peito de Frango Cozido Desfiado Congelado Sadia Na Receita 400g",
-    "price": 26.98
   },
   {
     "store": "Muffatao",
@@ -792,6 +792,11 @@
   {
     "store": "Muffatao",
     "name": "Atum Ralado em Óleo com Caldo Vegetal Pescador Lata 105g",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Milho Verde em Conserva Fugini Sachê 200g",
     "price": 6.99
   },
   {
@@ -802,11 +807,6 @@
   {
     "store": "Muffatao",
     "name": "Pepino em Conserva Vale Fértil Sachê 300g",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Milho Verde em Conserva Fugini Sachê 200g",
     "price": 3.99
   },
   {
@@ -1252,6 +1252,11 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Tomate Suave Turma da Mônica Nissin Miojo Pacote 85g",
+    "price": 2.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão Instantâneo Lámen Galinha Caipira Nissin Miojo Pacote 85g",
     "price": 1.49
   },
   {
@@ -1267,11 +1272,6 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Carne Nissin Miojo Pacote 85g",
-    "price": 2.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão Instantâneo Lámen Galinha Caipira Nissin Miojo Pacote 85g",
     "price": 7.89
   },
   {
@@ -1782,16 +1782,16 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite UHT Desnatado Frimesa Caixa com Tampa 1l",
     "price": 4.69
   },
   {
     "store": "Muffatao",
     "name": "Leite UHT Semidesnatado Tirol Caixa com Tampa 1l",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite UHT Desnatado Frimesa Caixa com Tampa 1l",
     "price": 5.99
   },
   {
@@ -1852,17 +1852,17 @@
   {
     "store": "Muffatao",
     "name": "Margarina Cremosa sem Sal Qualy Pote 250g",
+    "price": 8.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Margarina Cremosa sem Sal Qualy Pote 500g",
     "price": 12.98
   },
   {
     "store": "Muffatao",
     "name": "Manteiga Extra Com Sal 200G",
     "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Margarina com Sal Qualy Vita Pote 500g",
-    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -2172,16 +2172,16 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parbolizado Rampinelli 5KG",
-    "price": 9.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
     "price": 4.99
   },
   {
     "store": "Muffatao",
     "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
+    "price": 9.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
     "price": 6.49
   },
   {
@@ -2687,6 +2687,11 @@
   {
     "store": "Muffatao",
     "name": "Refresco em Pó Tangerina Frisco Pacote 25g",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Refresco Adoçado de Uva Del Valle Kapo Caixa 200ml",
     "price": 0.69
   },
   {
@@ -2703,11 +2708,6 @@
     "store": "Muffatao",
     "name": "Refresco em Pó Laranja Docinha Tang Pacote 18g",
     "price": 0.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Refresco em Pó Frisco 18G Baunilha com Limão",
-    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -3937,17 +3937,17 @@
   {
     "store": "Muffatao",
     "name": "Pão Hamburguer Pullman 420G Com Gergelim",
+    "price": 9.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão de Leite Seven Boys Pacote 450g",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão Bisnaguinha Tradicional Zero Lactose Pullman Bisnaguito Pacote 300g",
     "price": 7.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão Visconti 400G Integral",
-    "price": 16.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Australiano Fonte de Fibras Wickbold Do Forno Pacote 500g",
-    "price": 11.29
   },
   {
     "store": "Muffatao",
