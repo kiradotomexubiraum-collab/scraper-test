@@ -66,12 +66,12 @@
   },
   {
     "store": "Irani",
-    "name": "Macarrão Paganini Spaghetti 500g",
+    "name": "Macarrão Paganini Penne Rigate 500g",
     "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Macarrão Paganini Penne Rigate 500g",
+    "name": "Macarrão Paganini Spaghetti 500g",
     "price": 11.98
   },
   {
@@ -87,26 +87,6 @@
   {
     "store": "Irani",
     "name": "Queijo Mussarela Frimesa 300g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nacional Saint Germain 750ml Merlot",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nac Saint Germain 750ml Ass Branco",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nac Saint Germain 750ml Blanc Blanc",
     "price": 13.99
   },
   {
@@ -117,21 +97,6 @@
   {
     "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nac Saint Germain 750ml Assemblage Tint",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Nac Saint Germain 750ml Cabernet Sauv",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
     "price": 29.9
   },
   {
@@ -141,13 +106,48 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Olaria 750ml Branco Suave",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "350ml",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Therezópolis Lata 350ml",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 2.99
   },
   {
     "store": "Muffatao",
