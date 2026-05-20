@@ -76,22 +76,22 @@
   },
   {
     "store": "Irani",
-    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão Paganini Penne Rigate 500g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "500g",
     "price": 8.99
   },
   {
     "store": "Irani",
     "name": "Nhoque Importado Granoro 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Spaghetti 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Penne Rigate 500g",
     "price": 11.98
   },
   {
@@ -116,7 +116,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "300g",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Mussarela Frimesa 300g",
     "price": 3.99
   },
   {
@@ -131,22 +136,17 @@
   },
   {
     "store": "Irani",
-    "name": "300g",
-    "price": 12.98
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Queijo Mussarela Frimesa 300g",
-    "price": 11.9
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 5.98
   },
   {
     "store": "Irani",
-    "name": "350ml",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Therezópolis Lata 350ml",
+    "name": "Sabonete Líq Premisse Refil 450ml Tang e Chá",
     "price": 5.98
   },
   {
@@ -1006,17 +1006,17 @@
   },
   {
     "store": "Muffatao",
+    "name": "Gelatina Pó Tutti Frutti Dr. Oetker Caixa 20g",
+    "price": 1.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Gelatina Oetker Fini Bananas 20G",
     "price": 1.69
   },
   {
     "store": "Muffatao",
     "name": "Gelatina Pó Morango Apti Caixa 20g",
-    "price": 1.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Gelatina Pó Tutti Frutti Dr. Oetker Caixa 20g",
     "price": 1.69
   },
   {
@@ -1031,17 +1031,17 @@
   },
   {
     "store": "Muffatao",
+    "name": "Gelatina Pó Framboesa Apti Caixa 20g",
+    "price": 1.69
+  },
+  {
+    "store": "Muffatao",
     "name": "Gelatina Pó Limão Apti Caixa 20g",
     "price": 1.69
   },
   {
     "store": "Muffatao",
     "name": "Gelatina Pó APTI Maracuja 35g",
-    "price": 1.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Gelatina Pó Framboesa Apti Caixa 20g",
     "price": 1.99
   },
   {
@@ -2172,6 +2172,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
+    "price": 17.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Chines Parbolizzado 5Kg",
     "price": 6.49
   },
   {
@@ -2202,11 +2207,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz Branco Sabor Sul 5kg Tp1",
-    "price": 17.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Chines Parbolizzado 5Kg",
     "price": 29.98
   },
   {
