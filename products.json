@@ -2,26 +2,6 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 0.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Pispi 750ml Blend",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Joy 40g C/2",
     "price": 22.9
   },
   {
@@ -32,6 +12,16 @@
   {
     "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Joy 40g C/2",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 5.99
   },
   {
@@ -47,107 +37,117 @@
   {
     "store": "Irani",
     "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 10.98
   },
   {
     "store": "Irani",
     "name": "Mostarda Hemmer 200g Gourmet Dijon",
-    "price": 19.98
+    "price": 21.98
   },
   {
     "store": "Irani",
-    "name": "500g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Nhoque Importado Granoro 500g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão Paganini Penne Rigate 500g",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Macarrão Paganini Spaghetti 500g",
-    "price": 11.98
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 24.89
+    "name": "Macarrão Paganini Penne Rigate 500g",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.89
+    "name": "Caldo Maggi 114g Carne Menos Sódio",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 24.89
+    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Vodka Smirnoff 998ml",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 24.89
+    "name": "Vinho Português Olaria 750ml Branco Suave",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 24.89
+    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.89
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 24.89
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 24.89
+    "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo de Codorna Sabor Sul 300g Tradicional",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
     "store": "Muffatao",
@@ -3172,6 +3172,11 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional Caboclo Pacote 500g",
+    "price": 37.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Torrado e Moído a Vácuo Superior Aviação Pacote 500g",
     "price": 3.99
   },
   {
@@ -3218,11 +3223,6 @@
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g",
     "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Café Solúvel Granulado Damasco Sachê 40g",
-    "price": 14.98
   },
   {
     "store": "Muffatao",
