@@ -7,11 +7,6 @@
   {
     "store": "Irani",
     "name": "Linguica Frango Copacol 500g Pimenta Biquinho Congelada",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Joy 40g C/2",
     "price": 22.9
   },
   {
@@ -22,31 +17,31 @@
   {
     "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 5.99
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Frimesa 200g Cheddar",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "name": "Chocolate Kinder Joy 40g C/2",
     "price": 1.99
   },
   {
     "store": "Irani",
     "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Frimesa 200g Cheddar",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 10.98
-  },
-  {
-    "store": "Irani",
-    "name": "Mostarda Hemmer 200g Gourmet Dijon",
     "price": 6.99
   },
   {
@@ -76,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 3.99
   },
   {
@@ -87,31 +82,41 @@
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo de Codorna Sabor Sul 300g Tradicional",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 29.9
   },
   {
@@ -121,33 +126,28 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 35.9
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 5.99
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 35.9
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo de Codorna Sabor Sul 300g Tradicional",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "Vinho Esp Finca El Puntal 750ml Cab Sauvignon",
-    "price": 29.9
+    "price": 99.9
   },
   {
     "store": "Muffatao",
