@@ -11,17 +11,22 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 15.99
   },
   {
     "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 5.99
   },
   {
@@ -32,11 +37,6 @@
   {
     "store": "Irani",
     "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
     "price": 21.98
   },
   {
@@ -46,17 +46,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
   {
@@ -66,17 +56,12 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
     "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Macarrão Paganini Penne Rigate 500g",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
     "price": 6.99
   },
   {
@@ -86,12 +71,27 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
     "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
   {
@@ -116,22 +116,12 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Caldo Maggi 114g Carne Menos Sódio",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Maionese Hellmanns Squeeze 335g Churrasco",
     "price": 10.99
   },
   {
@@ -147,7 +137,17 @@
   {
     "store": "Irani",
     "name": "Maionese Hellmanns Squeeze 335g Tradicional",
-    "price": 2.99
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hellmanns Squeeze 335g Churrasco",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 5.99
   },
   {
     "store": "Muffatao",
@@ -282,6 +282,11 @@
   {
     "store": "Muffatao",
     "name": "Batata Doce",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cebola Nacional",
     "price": 8.99
   },
   {
@@ -292,11 +297,6 @@
   {
     "store": "Muffatao",
     "name": "Tomate Longa Vida",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cebola Nacional",
     "price": 7.39
   },
   {
@@ -702,6 +702,11 @@
   {
     "store": "Muffatao",
     "name": "Wafer Parati Minueto 81G Limão",
+    "price": 1.95
+  },
+  {
+    "store": "Muffatao",
+    "name": "Wafer Parati Minueto 81G Chocolate",
     "price": 7.99
   },
   {
@@ -733,11 +738,6 @@
     "store": "Muffatao",
     "name": "Chocolate Meio Amargo 40% Cacau Classic Pacote 80g",
     "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bala Arcor Butter Toffees Intense Sabor Trufa Pacote 90g",
-    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -932,17 +932,17 @@
   {
     "store": "Muffatao",
     "name": "Doce de Leite Elegê Pote 400g",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Goiabada Val 300G",
     "price": 29.98
   },
   {
     "store": "Muffatao",
     "name": "Paçoca Rolha DA COLÔNIA com 40 unidades de 14g",
     "price": 13.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Nata Tirol Pote 300g",
-    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -1217,6 +1217,11 @@
   {
     "store": "Muffatao",
     "name": "Maionese Light Hellmann's Pote 500g",
+    "price": 10.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Alho Tostado com Ervas Heinz Squeeze 215g",
     "price": 5.89
   },
   {
@@ -1238,11 +1243,6 @@
     "store": "Muffatao",
     "name": "Maionese Hellmann's Sachê 400g Embalagem Econômica",
     "price": 13.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mostarda Dijon Sabores Cepêra Squeeze 190g",
-    "price": 7.49
   },
   {
     "store": "Muffatao",
@@ -1712,6 +1712,11 @@
   {
     "store": "Muffatao",
     "name": "Stick Petit Suisse Unibaby Ice Morango 56G",
+    "price": 8.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Fermentado Chamyto 6x 75g",
     "price": 2.99
   },
   {
@@ -1727,11 +1732,6 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Parcialmente Desnatado Morango Frimesa Frasco 170g",
-    "price": 8.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Leite Fermentado Chamyto 6x 75g",
     "price": 8.39
   },
   {
@@ -1747,11 +1747,11 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Elege Paw Patrol Morango Bj 510G",
-    "price": 3.89
+    "price": 11.98
   },
   {
     "store": "Muffatao",
-    "name": "Iogurte Grego Tradicional Vigor Pote 90g",
+    "name": "Iogurte Parcialmente Desnatado Salada de Frutas Frimesa Pacote 1000g",
     "price": 4.99
   },
   {
@@ -2052,16 +2052,16 @@
   {
     "store": "Muffatao",
     "name": "Sobremesas",
-    "price": 18.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
     "price": 5.39
   },
   {
     "store": "Muffatao",
     "name": "Sobremesa Láctea Flan Calda Caramelo Batavo Bandeja 200g 2 Unidades",
+    "price": 18.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
     "price": 3.49
   },
   {
@@ -3587,17 +3587,17 @@
   {
     "store": "Muffatao",
     "name": "Bacon Perdigão Defumado",
+    "price": 22.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bacon em Fatias Perdigão 250g",
     "price": 9.49
   },
   {
     "store": "Muffatao",
     "name": "Mortadela sem Toucinho Frimesa 500g",
     "price": 6.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela Fatiada Perdigão 200g",
-    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -3676,12 +3676,12 @@
   },
   {
     "store": "Muffatao",
-    "name": "Presunto Cozido Fatiado Perdigão 200g",
+    "name": "Presunto Cozido Fatiado Sadia 180g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
-    "name": "Presunto Cozido Fatiado Sadia 180g",
+    "name": "Presunto Cozido Fatiado Perdigão 200g",
     "price": 13.98
   },
   {
@@ -3837,6 +3837,11 @@
   {
     "store": "Muffatao",
     "name": "Tapioca",
+    "price": 1.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bolo Chocolate Recheio Chocolate Renata Divertix Pacote 40g",
     "price": 5.18
   },
   {
@@ -3877,11 +3882,6 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Laranja Renata Pacote 400g",
-    "price": 1.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bolo Chocolate Recheio Chocolate Renata Divertix Pacote 40g",
     "price": 1.99
   },
   {
@@ -3897,16 +3897,16 @@
   {
     "store": "Muffatao",
     "name": "Mistura para Bolo Brownie Chocolate Fleischmann Sachê 400g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
     "price": 8.9
   },
   {
     "store": "Muffatao",
     "name": "Pão Bisnaguinha Original Pullman Artesano Pacote 300g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
     "price": 8.19
   },
   {
