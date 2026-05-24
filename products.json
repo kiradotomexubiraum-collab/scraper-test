@@ -46,6 +46,11 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.89
   },
@@ -56,12 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
   {
@@ -96,22 +96,27 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Lata",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
     "price": 5.99
   },
   {
@@ -121,12 +126,12 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 2.99
+    "name": "Cerveja Cerpa Export 350ml Lata",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -136,12 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
     "price": 21.98
   },
   {
@@ -287,16 +287,16 @@
   {
     "store": "Muffatao",
     "name": "Cebola Nacional",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Cenoura Extra",
     "price": 9.98
   },
   {
     "store": "Muffatao",
     "name": "Tomate Longa Vida",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Cenoura Extra",
     "price": 7.39
   },
   {
@@ -462,16 +462,16 @@
   {
     "store": "Muffatao",
     "name": "Bovinos",
-    "price": 22.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Figado Bovino P Beef",
     "price": 3.99
   },
   {
     "store": "Muffatao",
     "name": "Texas burguer 90g",
+    "price": 22.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Figado Bovino P Beef",
     "price": 31.98
   },
   {
@@ -3237,12 +3237,12 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g",
-    "price": 6.99
+    "price": 27.98
   },
   {
     "store": "Muffatao",
-    "name": "Café Solúvel Granulado Damasco Sachê 40g",
-    "price": 14.98
+    "name": "Café Torrado e Moído Tradicional Bom Jesus Caixa 500g",
+    "price": 6.99
   },
   {
     "store": "Muffatao",
