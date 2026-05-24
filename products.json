@@ -6,12 +6,12 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
     "price": 5.99
   },
   {
@@ -21,17 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
+    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
     "price": 23.98
   },
   {
@@ -46,17 +41,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.89
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
@@ -66,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.89
   },
   {
     "store": "Irani",
@@ -92,36 +87,6 @@
   {
     "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Frimesa 200g Cheddar",
     "price": 3.99
   },
   {
@@ -131,22 +96,57 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Frimesa 200g Cheddar",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 4.59
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
     "price": 15.99
   },
   {
@@ -482,11 +482,6 @@
   {
     "store": "Muffatao",
     "name": "Kit Feijoada Perdigão Pacote 880g",
-    "price": 44.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Coxão M Bife Frigosu",
     "price": 17.98
   },
   {
@@ -552,11 +547,6 @@
   {
     "store": "Muffatao",
     "name": "Linguiça Mista Cozida e Defumada Fininha Perdigão 215g",
-    "price": 9.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Linguiça Mista Cozida e Defumada Fininha Sadia 215g",
     "price": 10.98
   },
   {
@@ -573,6 +563,11 @@
     "store": "Muffatao",
     "name": "Linguiça Calabresa Sadia",
     "price": 29.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Linguiça Calabresa Friel",
+    "price": 35.98
   },
   {
     "store": "Muffatao",
@@ -1872,11 +1867,6 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Extra com Sal Président Gastronomique 200g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Margarina Cremosa sem Sal Qualy Pote 250g",
     "price": 8.98
   },
   {
@@ -1886,12 +1876,22 @@
   },
   {
     "store": "Muffatao",
+    "name": "Manteiga Extra Com Sal 200G",
+    "price": 3.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Massas Resfriadas",
     "price": 8.79
   },
   {
     "store": "Muffatao",
     "name": "Massa De Pastel Ditalia 500G Gd",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Massa para Lasanha sem Glúten Urbano Caixa 250g",
     "price": 13.98
   },
   {
@@ -1912,11 +1912,6 @@
   {
     "store": "Muffatao",
     "name": "Tagliatelle Mezzani Pacote 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Penne ao Molho Parisiense com Queijo Parmesão Ralado Perdigão Pacote 300g",
     "price": 9.98
   },
   {
@@ -3712,17 +3707,17 @@
   {
     "store": "Muffatao",
     "name": "Presunto fatiado Seara 180g",
-    "price": 33.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Presunto Parma Fatiado Sadia Speciale 100g",
     "price": 9.79
   },
   {
     "store": "Muffatao",
     "name": "Apresuntado Fatiado Seara 180g",
     "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Apresuntado Fatiado Frimesa 200g",
+    "price": 7.98
   },
   {
     "store": "Muffatao",
@@ -4116,47 +4111,47 @@
   },
   {
     "store": "Festval",
-    "name": "Pizza Disco Festval sabores Unidade",
-    "price": 23.98
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 56.9
   },
   {
     "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Heineken Lata 350ml",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "name": "Azeite de Oliva Rafael Salgado 500 ml",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 33.9
+    "name": "Iogurte Polpa Ninho 540g",
+    "price": 8.98
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
-    "price": 15.9
+    "name": "Cream Cheese Polenghi Tradicional ou Light 150g",
+    "price": 8.98
   },
   {
     "store": "Festval",
-    "name": "Linguiça Campeira Stark Kg",
-    "price": 19.98
+    "name": "Geléia Polonesa Mamma Bia Sabores 410g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Chocolate Tablete Lacta 80g",
-    "price": 5.98
+    "name": "Conchiglione Crostini Sabores 500g",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bombom Sonho de Valsa e Ouro Branco Lacta 220g",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Agnoline de Frango Bernardi 440g",
+    "price": 21.98
   }
 ]
