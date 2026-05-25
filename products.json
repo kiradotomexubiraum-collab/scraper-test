@@ -6,6 +6,11 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 5.99
   },
@@ -16,17 +21,12 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 23.98
   },
   {
@@ -42,21 +42,11 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
+    "price": 14.89
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 14.98
   },
   {
@@ -66,8 +56,18 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.89
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -96,58 +96,58 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Requeijão Cremoso Frimesa 200g Cheddar",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Spaghetti 500g",
+    "price": 4.59
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
     "price": 4.59
   },
   {
     "store": "Irani",
     "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 15.99
+    "price": 4.59
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": 15.99
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 6.99
   },
   {
     "store": "Muffatao",
