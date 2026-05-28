@@ -6,7 +6,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
     "price": 5.99
   },
   {
@@ -16,17 +16,12 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 23.98
   },
   {
@@ -41,12 +36,32 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 1.49
   },
   {
     "store": "Irani",
     "name": "Água Mineral Crystal Com Gas 500ml",
+    "price": 14.89
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -57,51 +72,11 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 19.89
   },
   {
     "store": "Irani",
     "name": "Repelente Xo Inseto 100ml Baby Gel Icaridina",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Limpador Multiuso VEJA 500ml Azul",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Lata",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 3.99
   },
   {
@@ -121,17 +96,22 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Coco",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Chocolate",
     "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Toalha Papel Suavita C/2 100 Toalhas",
+    "name": "Schweppes 269ml Lata Gin Tônica",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cerveja Cerpa Export 350ml Lata",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Coco",
     "price": 3.99
   },
   {
@@ -147,7 +127,27 @@
   {
     "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Nata",
-    "price": 3.99
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 7.89
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Ferrero Rocher C/3",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Spaghetti 500g",
+    "price": 13.98
   },
   {
     "store": "Muffatao",
@@ -1192,11 +1192,21 @@
   {
     "store": "Muffatao",
     "name": "Maionese Hellmann's Pote 500g",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Maionese Quero Sachê 200g",
     "price": 3.39
   },
   {
     "store": "Muffatao",
     "name": "Maionese Original Fugini Squeeze 180g",
+    "price": 5.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mostarda Arisco Squeeze 200g",
     "price": 6.89
   },
   {
@@ -1217,21 +1227,11 @@
   {
     "store": "Muffatao",
     "name": "Maionese Light Hellmann's Pote 500g",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maionese Quero Sachê 200g",
     "price": 10.79
   },
   {
     "store": "Muffatao",
     "name": "Maionese Alho Tostado com Ervas Heinz Squeeze 215g",
-    "price": 5.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mostarda Arisco Squeeze 200g",
     "price": 11.98
   },
   {
@@ -1247,6 +1247,11 @@
   {
     "store": "Muffatao",
     "name": "Massas Tradicionais e Instantâneas",
+    "price": 3.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão de Sêmola com Ovos Parafuso Todeschini 500G",
     "price": 2.99
   },
   {
@@ -1257,11 +1262,6 @@
   {
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Galinha Caipira Nissin Miojo Pacote 85g",
-    "price": 3.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão de Sêmola com Ovos Parafuso Todeschini 500G",
     "price": 1.49
   },
   {
@@ -1707,16 +1707,16 @@
   {
     "store": "Muffatao",
     "name": "Iogurte Grego Tradicional Batavo Pote 100g",
-    "price": 1.19
-  },
-  {
-    "store": "Muffatao",
-    "name": "Stick Petit Suisse Unibaby Ice Morango 56G",
     "price": 8.89
   },
   {
     "store": "Muffatao",
     "name": "Leite Fermentado Chamyto 6x 75g",
+    "price": 1.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Stick Petit Suisse Unibaby Ice Morango 56G",
     "price": 2.99
   },
   {
@@ -2037,17 +2037,17 @@
   {
     "store": "Muffatao",
     "name": "Requeijão Santa Clara 180g Zero Lactose",
+    "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Requeijão Cremoso com Queijo Uso Culinário Quatro Queijos Tirol Profissional Bisnaga 400g",
     "price": 8.99
   },
   {
     "store": "Muffatao",
     "name": "Requeijão Cremoso Zero Lactose Tirol Copo 180g",
     "price": 11.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso Light Poços de Caldas Copo 200g",
-    "price": 7.99
   },
   {
     "store": "Muffatao",
@@ -2262,6 +2262,11 @@
   {
     "store": "Muffatao",
     "name": "Farinha de Mandioca Torrada e Temperada Tradicional Pinduca Pacote 500g",
+    "price": 3.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Amido de Milho Kimimo Caixa 200g",
     "price": 4.39
   },
   {
@@ -2292,11 +2297,6 @@
   {
     "store": "Muffatao",
     "name": "Farinha de Trigo Tipo 1 Anaconda Pacote 5kg",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Farinha de Mandioca Tipo 1 Torrada Pinduca Pacote 1kg",
     "price": 5.99
   },
   {
@@ -2472,16 +2472,16 @@
   {
     "store": "Muffatao",
     "name": "Óleo de Canola Tipo 1 Liza Especiais Garrafa 900ml",
-    "price": 2.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sal Refinado Moc 1Kg",
     "price": 12.59
   },
   {
     "store": "Muffatao",
     "name": "Sal Rosa do Himalaia Moído Natural Life Pacote 500g",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal Refinado Moc 1Kg",
     "price": 3.29
   },
   {
