@@ -2,16 +2,16 @@
   {
     "store": "Irani",
     "name": "Filtros",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 138g Cookies N`Cream",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 5.99
   },
   {
@@ -22,11 +22,11 @@
   {
     "store": "Irani",
     "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
-    "price": 5.99
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "name": "Cerveja Cerpa Export 350ml Lata",
     "price": 23.98
   },
   {
@@ -41,17 +41,17 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 1.49
   },
   {
@@ -62,26 +62,31 @@
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.89
   },
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 19.89
   },
   {
     "store": "Irani",
     "name": "Repelente Xo Inseto 100ml Baby Gel Icaridina",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Brigadeiro",
     "price": 1.99
   },
   {
@@ -91,7 +96,22 @@
   },
   {
     "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Lata",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 3.99
   },
   {
@@ -106,48 +126,28 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Chocolate",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Brigadeiro",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Nata",
     "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
-    "price": 7.89
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Ferrero Rocher C/3",
+    "name": "Biscoito Rosca Parati 250g Chocolate",
     "price": 21.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 13.98
+    "price": 7.89
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Ferrero Rocher C/3",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão Paganini Penne Rigate 500g",
+    "price": 4.59
   },
   {
     "store": "Muffatao",
@@ -342,6 +342,11 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
+    "price": 12.75
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alface Americana",
     "price": 6.99
   },
   {
@@ -367,11 +372,6 @@
   {
     "store": "Muffatao",
     "name": "Alface Crespa Tanabe",
-    "price": 12.75
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alface Americana",
     "price": 3.69
   },
   {
@@ -852,6 +852,11 @@
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
+    "price": 6.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Elefante Pote 300g",
     "price": 4.49
   },
   {
@@ -882,11 +887,6 @@
   {
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Caixa 275g",
-    "price": 6.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Extrato de Tomate Elefante Pote 300g",
     "price": 4.19
   },
   {
@@ -1422,6 +1422,11 @@
   {
     "store": "Muffatao",
     "name": "Salgadinho Bacon Elma Chips Pingo Douro 160G",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Salgadinho Presunto Elma Chips Fandangos 160G",
     "price": 10.9
   },
   {
@@ -1463,11 +1468,6 @@
     "store": "Muffatao",
     "name": "Salgadinho de Trigo Cebola e Salsa Levinho's Pacote 50g",
     "price": 1.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salgadinho de Trigo Bacon Levinho's Pacote 50g",
-    "price": 2.49
   },
   {
     "store": "Muffatao",
@@ -1657,6 +1657,11 @@
   {
     "store": "Muffatao",
     "name": "Bebida Láctea Fermentada Ameixa Zero Lactose Batavo Pense Zero Frasco 170g",
+    "price": 1.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Bebida Láctea UHT Chocolate Pirakids Caixa 200ml",
     "price": 6.39
   },
   {
@@ -1687,11 +1692,6 @@
   {
     "store": "Muffatao",
     "name": "Bebida Láctea Unibaby Morango 1250G",
-    "price": 6.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Láctea Fermentada Morango + Ameixa Elegê Bandeja 540g 6 Unidades",
     "price": 6.59
   },
   {
@@ -1862,17 +1862,17 @@
   {
     "store": "Muffatao",
     "name": "Margarina Cremosa sem Sal Qualy Pote 500g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga de Primeira Qualidade com Sal Aviação Pote 200g",
     "price": 10.98
   },
   {
     "store": "Muffatao",
     "name": "Margarina com Sal Qualy Vita Pote 500g",
     "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga De Cacau Evelize 3G",
-    "price": 13.98
   },
   {
     "store": "Muffatao",
@@ -1942,6 +1942,11 @@
   {
     "store": "Muffatao",
     "name": "Queijo Mussarela Fatiado Président 300g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Queijo Mussarela Fatiado Président 150g",
     "price": 5.49
   },
   {
@@ -1952,11 +1957,6 @@
   {
     "store": "Muffatao",
     "name": "Queijo Mussarela Fatiado Zero Lactose Tirol 150g",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Queijo Mussarela Fatiado Président 150g",
     "price": 8.79
   },
   {
@@ -2307,6 +2307,11 @@
   {
     "store": "Muffatao",
     "name": "Feijão Preto Tipo 1 Pontarollo Premium Pacote 1kg",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Preto Tipo 1 Caldo Bom Ouro Pacote 1kg",
     "price": 9.98
   },
   {
@@ -2332,11 +2337,6 @@
   {
     "store": "Muffatao",
     "name": "Feijão Carioca Tipo 1 Caldo Bom Ouro Pacote 1kg",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Preto Tipo 1 Caldo Bom Ouro Pacote 1kg",
     "price": 11.49
   },
   {
@@ -3307,6 +3307,11 @@
   {
     "store": "Muffatao",
     "name": "Chá Erva-Doce-Nacional Dr. Oetker Caixa 20g 10 Unidades",
+    "price": 5.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Original Matte Leão Caixa 40g 25 Unidades",
     "price": 4.29
   },
   {
@@ -3317,11 +3322,6 @@
   {
     "store": "Muffatao",
     "name": "Chá Capim-Cidreira Chá Leão Caixa 10g 10 Unidades",
-    "price": 5.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Original Matte Leão Caixa 40g 25 Unidades",
     "price": 4.29
   },
   {
@@ -3557,6 +3557,11 @@
   {
     "store": "Muffatao",
     "name": "Mortadela Defumada Perdigão Ouro 200g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Mortadela Defumada Sadia 180g",
     "price": 37.98
   },
   {
@@ -3593,11 +3598,6 @@
     "store": "Muffatao",
     "name": "Bacon Perdigão Defumado",
     "price": 5.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela Fatiada Viluc 250g",
-    "price": 25.98
   },
   {
     "store": "Muffatao",
@@ -3917,16 +3917,16 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Bauducco Pacote 390g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pão de Forma Integral Bauducco Pacote 390g",
     "price": 8.9
   },
   {
     "store": "Muffatao",
     "name": "Pão de Forma Tradicional Pullman Pacote 480g",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pão de Forma Integral Bauducco Pacote 390g",
     "price": 6.68
   },
   {
@@ -3962,7 +3962,7 @@
   {
     "store": "Muffatao",
     "name": "Pão Humbúrguer Caseirinho 200G",
-    "price": 16.99
+    "price": 19.29
   },
   {
     "store": "Muffatao",
