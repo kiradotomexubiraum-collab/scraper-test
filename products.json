@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
     "price": 5.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 5.99
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.98
   },
   {
     "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 1.49
   },
   {
@@ -67,16 +67,6 @@
   {
     "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Cítrus Original",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
     "price": 14.98
   },
   {
@@ -101,6 +91,11 @@
   },
   {
     "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Coco",
     "price": 3.99
   },
@@ -117,11 +112,6 @@
   {
     "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Nata",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Leite",
     "price": 3.99
   },
   {
@@ -148,6 +138,16 @@
     "store": "Irani",
     "name": "Sal Refinado Moc 1kg",
     "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ketchup Hemmer Premium1kg Tradicional",
+    "price": 7.89
   },
   {
     "store": "Muffatao",
