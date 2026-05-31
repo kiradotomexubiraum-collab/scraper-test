@@ -11,17 +11,17 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Hersheys 80g Dark 47% Caramelo Salgado",
     "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 5.99
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.98
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 1.49
   },
   {
@@ -4138,51 +4138,6 @@
     "store": "Festval",
     "name": "Vinho Português Pacheca Douro Premium Tinto 750ml",
     "price": 69.0
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 54.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa e Sobrecoxa Coopavel Congelada kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 9.99
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Campeira Starck Kg",
-    "price": 25.9
-  },
-  {
-    "store": "Festval",
-    "name": "Denver Steak Bovino 1953 Peça A Vácuo Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Suína com Pele e Osso Coopavel kg",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Bovino Do Chef Kg",
-    "price": 89.9
   },
   {
     "store": "Festval",
