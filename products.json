@@ -1,33 +1,13 @@
 [
   {
     "store": "Irani",
-    "name": "Filtros",
+    "name": "Kit Gel Dental Carmed c/3",
     "price": 23.98
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "Água Mineral Crystal Com Gas 500ml",
-    "price": 14.89
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
+    "name": "-45%",
+    "price": 43.98
   },
   {
     "store": "Irani",
@@ -36,43 +16,98 @@
   },
   {
     "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Água Mineral Crystal Com Gas 500ml",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 2.49
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.89
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.89
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
     "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 19.89
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
   },
   {
     "store": "Irani",
     "name": "Repelente Xo Inseto 100ml Baby Gel Icaridina",
-    "price": 1.99
+    "price": 19.89
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 30.89
   },
   {
     "store": "Irani",
     "name": "Iogurte Frimesa 170g Zero Frutas Vermelhas",
-    "price": 7.89
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 2.99
   },
   {
     "store": "Irani",
     "name": "Bombom Ferrero Rocher C/3",
-    "price": 16.99
+    "price": 7.89
   },
   {
     "store": "Irani",
-    "name": "Tira Mancha Pó Vanish 400g Sachet Poder O2",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tira Mancha Pó Vanish 400g Sachet White",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 16.98
+    "name": "-31%",
+    "price": 11.49
   },
   {
     "store": "Irani",
@@ -81,63 +116,128 @@
   },
   {
     "store": "Irani",
-    "name": "750ml",
+    "name": "-29%",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
     "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
     "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet Poder O2",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet White",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "750ml",
-    "price": 24.9
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chardonnay",
-    "price": 3.99
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
+    "price": 19.89
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 27.99
   },
   {
     "store": "Irani",
     "name": "Caldo Maggi 114g Carne Menos Sódio",
-    "price": 4.99
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 5.49
   },
   {
     "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
-    "price": 29.9
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
-    "price": 29.9
+    "name": "-27%",
+    "price": 6.79
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
+    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
+    "price": 7.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
-    "price": 29.9
+    "name": "-27%",
+    "price": 10.99
   },
   {
     "store": "Irani",
@@ -146,8 +246,58 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
     "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
   },
   {
     "store": "Muffatao",
@@ -157,7 +307,7 @@
   {
     "store": "Muffatao",
     "name": "Banana Caturra",
-    "price": 2.99
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -187,12 +337,12 @@
   {
     "store": "Muffatao",
     "name": "Mamão Formosa",
-    "price": 2.99
+    "price": 3.69
   },
   {
     "store": "Muffatao",
     "name": "Melancia",
-    "price": 2.99
+    "price": 4.65
   },
   {
     "store": "Muffatao",
@@ -272,12 +422,12 @@
   {
     "store": "Muffatao",
     "name": "Legumes",
-    "price": 3.99
+    "price": 5.99
   },
   {
     "store": "Muffatao",
     "name": "Batata Doce",
-    "price": 6.99
+    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -287,12 +437,12 @@
   {
     "store": "Muffatao",
     "name": "Cebola Nacional",
-    "price": 5.99
+    "price": 7.59
   },
   {
     "store": "Muffatao",
     "name": "Cenoura Extra",
-    "price": 8.98
+    "price": 11.98
   },
   {
     "store": "Muffatao",
@@ -302,12 +452,12 @@
   {
     "store": "Muffatao",
     "name": "Beterraba",
-    "price": 6.98
+    "price": 7.49
   },
   {
     "store": "Muffatao",
     "name": "Abobrinha Verde",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -342,7 +492,7 @@
   {
     "store": "Muffatao",
     "name": "Verduras",
-    "price": 5.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -621,11 +771,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Panceta Aperitivo Frimesa 1kg Temperado",
-    "price": 14.29
-  },
-  {
-    "store": "Muffatao",
     "name": "Azeites",
     "price": 19.98
   },
@@ -847,11 +992,6 @@
   {
     "store": "Muffatao",
     "name": "Molho de Tomate Tradicional Pomarola Caixa 260g",
-    "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
     "price": 6.98
   },
   {
@@ -888,6 +1028,11 @@
     "store": "Muffatao",
     "name": "Extrato de Tomate Elefante Caixa 275g",
     "price": 4.19
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Elefante Caixa 135g",
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -1202,11 +1347,6 @@
   {
     "store": "Muffatao",
     "name": "Ketchup Tradicional Quero Caixa 300g",
-    "price": 3.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Maionese Original Fugini Squeeze 180g",
     "price": 5.89
   },
   {
@@ -1248,6 +1388,11 @@
     "store": "Muffatao",
     "name": "Maionese Caseira Tradicional Liza Pote 450g",
     "price": 2.39
+  },
+  {
+    "store": "Muffatao",
+    "name": "Frasco de Catchup Jaguar",
+    "price": 13.98
   },
   {
     "store": "Muffatao",
@@ -1332,11 +1477,6 @@
   {
     "store": "Muffatao",
     "name": "Molho de Soja Aji no Shoyu Frasco 150ml",
-    "price": 16.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Molho Shoyu HINOMOTO Tradicional 1L",
     "price": 6.39
   },
   {
@@ -1367,6 +1507,11 @@
   {
     "store": "Muffatao",
     "name": "Molho Agridoce com Pimenta Sweet Chilli Blue Dragon Squeeze 220g",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Molho para Salada Mostarda e Mel Kenko Squeeze 236ml",
     "price": 7.99
   },
   {
@@ -1667,11 +1812,6 @@
   {
     "store": "Muffatao",
     "name": "Bebida Láctea UHT Chocolate Pirakids Caixa 200ml",
-    "price": 6.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Bebida Láctea Fermentada Morango Batavo Bandeja 540g 6 Unidades",
     "price": 8.98
   },
   {
@@ -1696,6 +1836,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Bebida Láctea Unibaby Morango 1250G",
+    "price": 6.59
+  },
+  {
+    "store": "Muffatao",
     "name": "Iogurtes",
     "price": 8.89
   },
@@ -1717,11 +1862,6 @@
   {
     "store": "Muffatao",
     "name": "Queijo Petit Suisse Morango Paw Patrol Batavo Batavinho Bandeja 320g 8 Unidades",
-    "price": 3.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Iogurte Parcialmente Desnatado Grego Morango Zero Lactose Batavo Pense Zero Pote 100g",
     "price": 10.89
   },
   {
@@ -1757,6 +1897,11 @@
   {
     "store": "Muffatao",
     "name": "Leite Fermentado Unibaby 850G",
+    "price": 2.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Iogurte Integral Cremoso Natural Frimesa Copo 165g",
     "price": 5.49
   },
   {
@@ -1822,11 +1967,6 @@
   {
     "store": "Muffatao",
     "name": "Banha Frimesa Pacote 1kg",
-    "price": 10.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga sem Sal Batavo 200g",
     "price": 11.89
   },
   {
@@ -1852,11 +1992,6 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Extra com Sal Président Gastronomique 200g",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Margarina Cremosa sem Sal Qualy Pote 250g",
     "price": 8.98
   },
   {
@@ -1873,6 +2008,16 @@
     "store": "Muffatao",
     "name": "Manteiga De Cacau Evelize 3G",
     "price": 13.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Banha Machulek 500G",
+    "price": 12.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga Extra com Sal Catupiry 200g",
+    "price": 15.98
   },
   {
     "store": "Muffatao",
@@ -1997,11 +2142,6 @@
   {
     "store": "Muffatao",
     "name": "Requeijão",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Requeijão Cremoso Tradicional Lider Copo 180g",
     "price": 7.99
   },
   {
@@ -2056,17 +2196,17 @@
   },
   {
     "store": "Muffatao",
+    "name": "Requeijão Santa Clara Tradicional 400g",
+    "price": 10.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Sobremesas",
     "price": 5.39
   },
   {
     "store": "Muffatao",
     "name": "Sobremesa Láctea Flan Calda Caramelo Batavo Bandeja 200g 2 Unidades",
-    "price": 18.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Sobremesa Láctea Chocolate Chandelle Bandeja 540g 6 Unidades Leve Mais Pague Menos",
     "price": 3.49
   },
   {
@@ -2112,6 +2252,11 @@
   {
     "store": "Muffatao",
     "name": "Sobremesa UNIBABY Chocolate 180g",
+    "price": 5.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Pó para Pudim Chocolate Lowçucar Caixa 30g",
     "price": 5.69
   },
   {
@@ -2327,11 +2472,6 @@
   {
     "store": "Muffatao",
     "name": "Feijão Carioca Cozido no Vapor Vapza Caixa 500g 2 Unidades",
-    "price": 18.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Preto Cozido no Vapor Vapza Caixa 500g 2 Unidades",
     "price": 10.99
   },
   {
@@ -2362,6 +2502,11 @@
   {
     "store": "Muffatao",
     "name": "Feijão Vermelho Tipo 1 Caldo Bom Ouro Pacote 1kg",
+    "price": 6.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Preto Cozido Temperado Fugini Sachê 250g",
     "price": 5.99
   },
   {
@@ -2757,7 +2902,7 @@
   {
     "store": "Muffatao",
     "name": "Refrigerante Coca Cola Tradicional Mini Lata 220ml",
-    "price": 3.99
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -3007,12 +3152,12 @@
   {
     "store": "Muffatao",
     "name": "Achocolatados em Pó",
-    "price": 16.98
+    "price": 14.98
   },
   {
     "store": "Muffatao",
     "name": "Achocolatado Pó Nescau Pacote 550g",
-    "price": 12.99
+    "price": 13.99
   },
   {
     "store": "Muffatao",
@@ -3182,12 +3327,12 @@
   {
     "store": "Muffatao",
     "name": "Filtro de Papel Brigitta 103 Caixa 30 Unidades",
-    "price": 25.99
+    "price": 22.9
   },
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Extraforte Caboclo Pacote 500g",
-    "price": 25.99
+    "price": 22.9
   },
   {
     "store": "Muffatao",
@@ -3457,17 +3602,17 @@
   {
     "store": "Muffatao",
     "name": "Leite Pó Integral Tirol Pacote 400g",
-    "price": 23.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Composto Lácteo Zero Lactose Piracanjuba Lata 380g",
     "price": 20.99
   },
   {
     "store": "Muffatao",
     "name": "Flocos de Cereais Neston 3 Cereais Lata 360g",
     "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Leite Pó Instantâneo Zero Lactose Parmalat Max Pacote 300g",
+    "price": 29.9
   },
   {
     "store": "Muffatao",
@@ -3532,11 +3677,6 @@
   {
     "store": "Muffatao",
     "name": "Embutidos",
-    "price": 6.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Mortadela Aurora 200G Frango",
     "price": 5.99
   },
   {
@@ -3591,17 +3731,17 @@
   },
   {
     "store": "Muffatao",
+    "name": "Bacon Frimesa Fatiado 400g",
+    "price": 24.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Patês e Pastas",
     "price": 13.99
   },
   {
     "store": "Muffatao",
     "name": "Nata Santa Clara 300G",
-    "price": 5.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Patê de peito de peru Seara 100g",
     "price": 9.98
   },
   {
@@ -3651,6 +3791,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Pasta de Amendoim Crunchy Integral DaColônia Amendo Power Pote 500g",
+    "price": 25.98
+  },
+  {
+    "store": "Muffatao",
     "name": "Peito de Peru",
     "price": 20.99
   },
@@ -3677,11 +3822,6 @@
   {
     "store": "Muffatao",
     "name": "Presunto Viluc 200g",
-    "price": 10.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Presunto Aurora 200G Sem Capa Fatiados",
     "price": 7.99
   },
   {
@@ -3747,11 +3887,6 @@
   {
     "store": "Muffatao",
     "name": "Salame Italiano Fatiado Sadia 100g",
-    "price": 12.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salame Fatiado Hamburguês Sadia 100g",
     "price": 17.98
   },
   {
@@ -3777,11 +3912,6 @@
   {
     "store": "Muffatao",
     "name": "Salsichas",
-    "price": 15.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Salsicha Hot-Dog Perdigão 500g 12 Unidades",
     "price": 13.98
   },
   {
@@ -3986,83 +4116,108 @@
   },
   {
     "store": "Festval",
-    "name": "Vinho Argentino La Mascota Tipos 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Valsierra Varietal Tipos 750ml",
+    "name": "Café do Ponto Tradicional 500g",
     "price": 24.9
   },
   {
     "store": "Festval",
-    "name": "Vinho Espanhol Faustino Rioja Crianza 750ml",
-    "price": 69.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Pascual Toso Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Gattavecchi Santa Maria 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português ADP Vale dos Barris Tipos 750ml",
-    "price": 29.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Herdade Grande Colheita Tipos 750ml",
-    "price": 69.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Renacer Punto Final 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 56.9
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Polpa Ninho 540g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Frimesa TP 395g",
-    "price": 5.98
+    "name": "Lava Roupas Líquido Uau 3L",
+    "price": 19.98
   },
   {
     "store": "Festval",
     "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Margarina Claybom Com ou Sem Sal 500g",
     "price": 5.99
   },
   {
     "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 14.99
+    "name": "Granola Jasmine Tipos 850g ou 1kg",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Requeijão Tradicional Vigor 200g",
-    "price": 7.99
+    "name": "Filé de Peito de Frango Copacol IQF 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cápsulas Lo'r Sabores com 10 Unidades",
+    "price": 18.99
+  },
+  {
+    "store": "Festval",
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Balduzzi Classic Tipos 750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Cremaschi Reserva Tipos 750ml",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol El Rejoneo Tipos 750ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
+    "price": 39.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Mendoza Heights Tipos 750ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Cielo Passaia Toscana Tinto 750ml",
+    "price": 69.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Cielo Primasole Primitivo Puglia Tipos 750ML",
+    "price": 54.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Santa Ema Blocks Reserva Tipos 750ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Carré Suíno Coopavel S/Pele C/Osso Congelado Kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Poços de Caldas Tradicional 200g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Caboclo Tipos a Vácuo 500g",
+    "price": 22.9
+  },
+  {
+    "store": "Festval",
+    "name": "Limpador Multiuso UAU 500ml",
+    "price": 3.98
+  },
+  {
+    "store": "Festval",
+    "name": "Patinho Bovino Padrão Beef Pedaço Kg",
+    "price": 49.9
   },
   {
     "store": "Festval",
@@ -4071,8 +4226,23 @@
   },
   {
     "store": "Festval",
-    "name": "Mortadela Ouro Perdigão Fatiada 200G",
-    "price": 6.99
+    "name": "Mistura de Tapioca Geriba 500g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Argentino Melincué Pedaço ou Fatiado Kg",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cream Cheese Polenghi Tradicional 150g",
+    "price": 9.98
   },
   {
     "store": "Festval",
@@ -4081,102 +4251,12 @@
   },
   {
     "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 45.9
+    "name": "Mortadela Seara Gourmet Fatiada 180g",
+    "price": 5.99
   },
   {
     "store": "Festval",
-    "name": "Coxa Com Sobrecoxas Coopavel Congelada kg",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Brisa de Verão Sachê 1,2L",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Pinot Noir 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino El Esteco Blend 750ml",
-    "price": 39.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Guerrieri Guerriero Nero 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Gran Mascota Malbec 750ml",
-    "price": 59.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Cremaschi Tipos 750ml",
-    "price": 49.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Poggio Rubino D.O.C.G Tipos 750ml",
-    "price": 269.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Paolo Scavino Tinto 750ml",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Pacheca Douro Premium Tinto 750ml",
-    "price": 69.0
-  },
-  {
-    "store": "Festval",
-    "name": "Passata italiana Mamma Bia 690g",
-    "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Azeitona Espanhol Mamma Bia Gordal com caroço 500g",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 49.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Italiano Mamma Bia Tagliatelle ou Pappardelle 500g",
-    "price": 9.99
+    "name": "Amaciante Soft Plus Concentrado Fragrâncias 1L",
+    "price": 10.9
   }
 ]
