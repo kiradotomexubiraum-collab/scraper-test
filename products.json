@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
     "name": "Água Mineral Crystal Com Gas 500ml",
     "price": 1.49
   },
@@ -31,17 +21,27 @@
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.89
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
   },
   {
     "store": "Irani",
     "name": "-40%",
-    "price": 24.89
+    "price": 24.98
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -61,17 +61,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.89
   },
   {
     "store": "Irani",
     "name": "-40%",
-    "price": 24.98
+    "price": 24.89
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.98
   },
   {
@@ -101,36 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bombom Ferrero Rocher C/3",
-    "price": 7.89
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 11.49
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
     "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
     "price": 16.98
   },
@@ -141,13 +111,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 24.9
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 16.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 34.9
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
   },
   {
     "store": "Irani",
@@ -161,23 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tira Mancha Pó Vanish 400g Sachet Poder O2",
-    "price": 16.99
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tira Mancha Pó Vanish 400g Sachet White",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.99
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -201,26 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
-    "price": 19.89
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 27.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caldo Maggi 114g Carne Menos Sódio",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -231,17 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Toalha Umedecida PURO AMOR C/100 Unidades",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "name": "Vinho Português Olaria 750ml Rose Suave",
     "price": 29.9
   },
   {
@@ -261,7 +201,37 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Aurora 1.5l Tp Tinto",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
     "price": 29.9
   },
   {
@@ -281,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 29.9
   },
   {
@@ -291,13 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
     "price": 29.9
   },
   {
     "store": "Irani",
     "name": "-25%",
     "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Desengordurante Veja 400ml Sachê Coz Limão",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 15.89
   },
   {
     "store": "Muffatao",
