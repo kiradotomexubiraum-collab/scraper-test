@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Cereja",
     "price": 14.98
   },
   {
@@ -61,26 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.89
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed Fini Dentaduras",
     "price": 14.98
   },
@@ -91,7 +71,17 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -108,6 +98,16 @@
     "store": "Irani",
     "name": "-40%",
     "price": 2.49
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.89
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.89
   },
   {
     "store": "Irani",
@@ -131,26 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
@@ -171,6 +151,36 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate M&m's 132g Amendoim",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&M`s 120g Crispy",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
     "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
     "price": 6.98
   },
@@ -178,26 +188,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
   },
   {
     "store": "Irani",
@@ -211,13 +201,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 24.9
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 16.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 34.9
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
   },
   {
     "store": "Irani",
@@ -241,6 +241,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 24.9
   },
@@ -248,6 +258,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Feijão Vermelho Sabor Sul 1kg",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 10.99
   },
   {
     "store": "Irani",
@@ -261,43 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
-    "price": 29.9
+    "name": "Água Mineral Crystal Sem Gás 1.5L",
+    "price": 2.99
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 39.9
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Ovo de Codorna Sabor Sul 300g Tradicional",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 29.9
+    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
+    "price": 2.99
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "price": 3.99
   },
   {
     "store": "Muffatao",
@@ -317,7 +317,7 @@
   {
     "store": "Muffatao",
     "name": "Limão Taiti",
-    "price": 7.99
+    "price": 10.98
   },
   {
     "store": "Muffatao",
@@ -482,7 +482,7 @@
   {
     "store": "Muffatao",
     "name": "Ovo Galinha Marutani Branco Extra Pvc 20",
-    "price": 17.99
+    "price": 16.98
   },
   {
     "store": "Muffatao",
@@ -802,6 +802,11 @@
   {
     "store": "Muffatao",
     "name": "Azeite de Oliva Tipo Único Português Gallo Vidro 500ml",
+    "price": 41.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Azeite de Oliva Extra Virgem Português Gallo Lata 500ml",
     "price": 29.9
   },
   {
@@ -836,8 +841,8 @@
   },
   {
     "store": "Muffatao",
-    "name": "Azeite de Oliva Extra Virgem Italiano Renata Superiore Vidro 500ml",
-    "price": 15.98
+    "name": "Batata Palha",
+    "price": 12.69
   },
   {
     "store": "Muffatao",
@@ -907,7 +912,7 @@
   {
     "store": "Muffatao",
     "name": "Chocolate em Pó APTI Tradicional 200g",
-    "price": 35.98
+    "price": 39.98
   },
   {
     "store": "Muffatao",
@@ -1012,6 +1017,11 @@
   {
     "store": "Muffatao",
     "name": "Tomate Pelado Olé em Cubos 240g",
+    "price": 8.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Extrato de Tomate Elefante Só Tomate Pote 300g",
     "price": 6.98
   },
   {
@@ -1038,11 +1048,6 @@
     "store": "Muffatao",
     "name": "Passata Pomodori Mastroiani 680g",
     "price": 8.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Extrato de Tomate com Cebola e Alho Elefante Pote 300g",
-    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -1247,7 +1252,7 @@
   {
     "store": "Muffatao",
     "name": "Leite Condensado Semidesnatado Triangulo Mineiro Caixa 395g",
-    "price": 9.99
+    "price": 8.98
   },
   {
     "store": "Muffatao",
@@ -1347,7 +1352,7 @@
   {
     "store": "Muffatao",
     "name": "Maioneses, Ketchups e Mostardas",
-    "price": 9.98
+    "price": 8.99
   },
   {
     "store": "Muffatao",
@@ -1932,7 +1937,7 @@
   {
     "store": "Muffatao",
     "name": "Leite UHT Desnatado Zero Lactose Molico Proteína Caixa com Tampa 1l",
-    "price": 6.49
+    "price": 5.49
   },
   {
     "store": "Muffatao",
@@ -2251,6 +2256,11 @@
   },
   {
     "store": "Muffatao",
+    "name": "Po P/ Maria Mole Apti Morango 50G",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
     "name": "Maria Mole Apti Coco 50g",
     "price": 4.69
   },
@@ -2262,11 +2272,6 @@
   {
     "store": "Muffatao",
     "name": "Creme Quark Calda Frutas Vermelhas Batavo Nuv Pote 100g",
-    "price": 5.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Pó para Pudim Chocolate Lowçucar Caixa 30g",
     "price": 5.69
   },
   {
@@ -2472,6 +2477,11 @@
   {
     "store": "Muffatao",
     "name": "Feijão Preto Tipo 1 Caldo Bom Ouro Pacote 1kg",
+    "price": 9.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Carioca Pronto com Tempero Camil Caixa 380g",
     "price": 10.98
   },
   {
@@ -2492,31 +2502,26 @@
   {
     "store": "Muffatao",
     "name": "Feijão Carioca Tipo 1 Caldo Bom Ouro Pacote 1kg",
+    "price": 11.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Carioca Pronto sem Tempero Camil Caixa 490g",
     "price": 11.49
   },
   {
     "store": "Muffatao",
     "name": "FEIJÃO PRETO SEM TEMPERO PRONTO CAMIL - 490 g",
+    "price": 9.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Preto Cozido Temperado Camil Caixa 380g",
     "price": 11.98
   },
   {
     "store": "Muffatao",
     "name": "Feijão Branco Tipo 1 Camil Pacote 500g",
-    "price": 12.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Cavalo Tipo 1 Caldo Bom Seleção Especial Pacote 500g",
-    "price": 10.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Vermelho Tipo 1 Caldo Bom Ouro Pacote 1kg",
-    "price": 6.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Preto Cozido Temperado Fugini Sachê 250g",
     "price": 5.99
   },
   {
@@ -2687,12 +2692,12 @@
   {
     "store": "Muffatao",
     "name": "Sal Grosso para Churrasco Aji-Sal Pacote 500g",
-    "price": 33.9
+    "price": 4.69
   },
   {
     "store": "Muffatao",
-    "name": "Sal de Parrilla para Churrasco Aji-Sal Frasco 500g",
-    "price": 4.49
+    "name": "Sal Marinho Refinado Lebre Frasco 100g",
+    "price": 33.9
   },
   {
     "store": "Muffatao",
@@ -2942,7 +2947,7 @@
   {
     "store": "Muffatao",
     "name": "Suco Integral Uva Tinto Aurora Caixa 1,5l",
-    "price": 12.99
+    "price": 16.9
   },
   {
     "store": "Muffatao",
@@ -3007,7 +3012,7 @@
   {
     "store": "Muffatao",
     "name": "Água de Coco Esterilizada Obrigado Caixa 1l",
-    "price": 10.98
+    "price": 9.98
   },
   {
     "store": "Muffatao",
@@ -3042,12 +3047,12 @@
   {
     "store": "Muffatao",
     "name": "Águas Minerais",
-    "price": 1.58
+    "price": 1.15
   },
   {
     "store": "Muffatao",
     "name": "Água Mineral Natural com Gás Cristal Select Garrafa 500ml",
-    "price": 1.29
+    "price": 1.15
   },
   {
     "store": "Muffatao",
@@ -4072,7 +4077,7 @@
   {
     "store": "Muffatao",
     "name": "Pão Visconti 400G Integral",
-    "price": 6.68
+    "price": 4.99
   },
   {
     "store": "Muffatao",
@@ -4092,12 +4097,12 @@
   {
     "store": "Muffatao",
     "name": "Pão de Forma Seven Boys Pacote 450g",
-    "price": 7.49
+    "price": 8.19
   },
   {
     "store": "Muffatao",
-    "name": "Pão de Forma Multigrãos Bauducco Pacote 390g",
-    "price": 13.79
+    "name": "Pão Bisnaguinha Original Seven Boys Pacote 300g",
+    "price": 16.98
   },
   {
     "store": "Muffatao",
