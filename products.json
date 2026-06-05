@@ -41,7 +41,27 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -61,27 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&m's 132g Chocolate",
     "price": 12.99
   },
@@ -152,6 +142,16 @@
   {
     "store": "Irani",
     "name": "Chocolate M&m's 132g Amendoim",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
   {
@@ -1171,6 +1171,51 @@
   },
   {
     "store": "Muffatao",
+    "name": "Fitness",
+    "price": 149.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Milk",
+    "price": 13.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Barra Protein Crisp Creme de Coco Integral Medica 45G",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Suplemento Alimentar Uva Plant Power Jungle Low Carb Frasco 500ml",
+    "price": 117.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Whey Pó Baunilha Integralmedica Nutri Protein Pouch 907g",
+    "price": 11.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Barra NUTRATA Whey Grego Mousse",
+    "price": 89.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Whey Pó Chocolate Parmalat Fit Pacote 450g",
+    "price": 89.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Whey Pó Morango Parmalat Fit Pacote 450g",
+    "price": 13.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Nutrata Whey Grego Bar Torta limão 40g",
+    "price": 11.99
+  },
+  {
+    "store": "Muffatao",
     "name": "Gelatinas",
     "price": 1.99
   },
@@ -1751,51 +1796,6 @@
   },
   {
     "store": "Muffatao",
-    "name": "Fitness",
-    "price": 149.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suplemento Alimentar Piracanjuba Whey Protein 450G Milk",
-    "price": 13.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Barra Protein Crisp Creme de Coco Integral Medica 45G",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Suplemento Alimentar Uva Plant Power Jungle Low Carb Frasco 500ml",
-    "price": 117.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Whey Pó Baunilha Integralmedica Nutri Protein Pouch 907g",
-    "price": 11.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Barra NUTRATA Whey Grego Mousse",
-    "price": 89.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Whey Pó Chocolate Parmalat Fit Pacote 450g",
-    "price": 89.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Whey Pó Morango Parmalat Fit Pacote 450g",
-    "price": 13.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Nutrata Whey Grego Bar Torta limão 40g",
-    "price": 11.99
-  },
-  {
-    "store": "Muffatao",
     "name": "Bebidas Lácteas",
     "price": 1.79
   },
@@ -2277,66 +2277,6 @@
   {
     "store": "Muffatao",
     "name": "Farinhas e Farofas",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Acucar Cristal Docesucar 5Kg",
-    "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Docesucar Acucar Cristal 1Kg",
-    "price": 5.29
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Especial União Pacote 1kg",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Cristal Alto Alegre Pacote 2kg",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Demerara União Naturais Pacote 1kg",
-    "price": 8.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Mascavo Guimaraes 500G",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Docesucar Acucar Cristal 5Kg",
-    "price": 5.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Docesucar 2Kg Cristal",
-    "price": 7.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Mascavo União Naturais Pacote 400g",
-    "price": 3.69
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Docesucar 1Kg Extra Fino",
-    "price": 11.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Refinado Granulado Cubos União Premium Pote 250g",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Açúcar Cristal Orgânico União Naturais Pacote 1kg",
     "price": 4.99
   },
   {
@@ -2393,6 +2333,66 @@
     "store": "Muffatao",
     "name": "Arroz Basmati Tipo 1 Urbano Seleção Especial Pouch 1kg",
     "price": 19.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Sasanishiki Tipo 1 Tio João Variedades Mundiais Cozinha Japonesa Caixa 1kg 2 Unidades",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Acucar Cristal Docesucar 5Kg",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Docesucar Acucar Cristal 1Kg",
+    "price": 5.29
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Especial União Pacote 1kg",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Cristal Alto Alegre Pacote 2kg",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Demerara União Naturais Pacote 1kg",
+    "price": 8.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Mascavo Guimaraes 500G",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Docesucar Acucar Cristal 5Kg",
+    "price": 5.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Docesucar 2Kg Cristal",
+    "price": 7.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Mascavo União Naturais Pacote 400g",
+    "price": 3.69
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Docesucar 1Kg Extra Fino",
+    "price": 11.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Açúcar Refinado Granulado Cubos União Premium Pote 250g",
+    "price": 6.99
   },
   {
     "store": "Muffatao",
@@ -2582,66 +2582,6 @@
   {
     "store": "Muffatao",
     "name": "Chia em Grãos Integral Jasmine Pouch 120g",
-    "price": 6.89
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Soja Tipo 1 Coamo Garrafa 900ml",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Soja Tipo 1 Liza Garrafa 900ml",
-    "price": 11.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Milho Liza PET 500ml",
-    "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo Coala Cravo E Canela 120Ml",
-    "price": 16.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Algodão Tipo 1 Liza Especiais Garrafa 900ml",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Canola Tipo 1 Sinhá Garrafa 900ml",
-    "price": 24.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Gergelim Torrado Kenko Frasco 100ml",
-    "price": 17.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Milho Tipo 1 Liza Especiais Garrafa 900ml",
-    "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Girassol Tipo 1 Suavit Garrafa 900ml",
-    "price": 15.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Girassol Tipo 1 Liza Especiais Garrafa 900ml",
-    "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Canola Tipo 1 Liza Especiais Garrafa 900ml",
-    "price": 12.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Óleo de Girassol Tipo 1 Sinhá Garrafa 900ml",
     "price": 2.99
   },
   {
@@ -2698,6 +2638,66 @@
     "store": "Muffatao",
     "name": "Sal Marinho Refinado Lebre Frasco 100g",
     "price": 33.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Sal de Parrilla para Churrasco Aji-Sal Frasco 500g",
+    "price": 6.89
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Soja Tipo 1 Coamo Garrafa 900ml",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Soja Tipo 1 Liza Garrafa 900ml",
+    "price": 11.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Milho Liza PET 500ml",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo Coala Cravo E Canela 120Ml",
+    "price": 16.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Algodão Tipo 1 Liza Especiais Garrafa 900ml",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Canola Tipo 1 Sinhá Garrafa 900ml",
+    "price": 24.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Gergelim Torrado Kenko Frasco 100ml",
+    "price": 17.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Milho Tipo 1 Liza Especiais Garrafa 900ml",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Girassol Tipo 1 Suavit Garrafa 900ml",
+    "price": 15.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Girassol Tipo 1 Liza Especiais Garrafa 900ml",
+    "price": 14.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Óleo de Canola Tipo 1 Liza Especiais Garrafa 900ml",
+    "price": 12.98
   },
   {
     "store": "Muffatao",
@@ -2758,6 +2758,66 @@
     "store": "Muffatao",
     "name": "Bebida à Base de Aveia Cremosa Orgânica Nude. Caixa 1l",
     "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Pronto",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Limão Matte Leão Garrafa 1,5l",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Natural Matte Leão Garrafa 1,5l",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Preto Ice Tea Limão Leão Zero Garrafa 450ml",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Natural Matte Leão Zero Garrafa 1,5l",
+    "price": 8.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Branco Leão 1.5L Lichia Zero",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Matte Leao Branco 450Ml Lichia Zero",
+    "price": 67.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Garrafa Térmica Mocha Atx Rattan 1l Aladdin",
+    "price": 4.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate com Gás Limão Leão Lata 290ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Natural Matte Leão Copo 300ml",
+    "price": 3.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Mate Limão Matte Leão Copo 300ml",
+    "price": 4.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Chá Matte LEÃO Natural 450ml",
+    "price": 8.59
   },
   {
     "store": "Muffatao",
@@ -3103,66 +3163,6 @@
     "store": "Muffatao",
     "name": "Água Mineral Natural sem Gás Sferriê Garrafa 510ml",
     "price": 4.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Pronto",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Limão Matte Leão Garrafa 1,5l",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Natural Matte Leão Garrafa 1,5l",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Preto Ice Tea Limão Leão Zero Garrafa 450ml",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Natural Matte Leão Zero Garrafa 1,5l",
-    "price": 8.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Branco Leão 1.5L Lichia Zero",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Matte Leao Branco 450Ml Lichia Zero",
-    "price": 67.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Garrafa Térmica Mocha Atx Rattan 1l Aladdin",
-    "price": 4.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate com Gás Limão Leão Lata 290ml",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Natural Matte Leão Copo 300ml",
-    "price": 3.49
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Mate Limão Matte Leão Copo 300ml",
-    "price": 4.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Chá Matte LEÃO Natural 450ml",
-    "price": 8.59
   },
   {
     "store": "Muffatao",
