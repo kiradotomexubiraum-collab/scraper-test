@@ -41,37 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 14.98
   },
   {
@@ -91,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Crystal Com Gas 500ml",
-    "price": 1.49
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 14.98
   },
   {
     "store": "Irani",
     "name": "-40%",
-    "price": 2.49
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
   },
   {
     "store": "Irani",
@@ -111,6 +101,16 @@
   },
   {
     "store": "Irani",
+    "name": "Linguica Frango Copacol 500g Queijo e Bacon Congelada",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
     "name": "Repelente Xo Inseto 100ml Baby Gel Icaridina",
     "price": 19.89
   },
@@ -118,16 +118,6 @@
     "store": "Irani",
     "name": "-36%",
     "price": 30.89
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 14.98
   },
   {
     "store": "Irani",
@@ -141,17 +131,17 @@
   },
   {
     "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate M&m's 132g Amendoim",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
     "price": 12.99
   },
   {
@@ -172,6 +162,16 @@
   {
     "store": "Irani",
     "name": "Chocolate M&m's 120g Brownie",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 132g Chocolate",
     "price": 12.99
   },
   {
@@ -228,6 +228,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -288,16 +298,6 @@
     "store": "Irani",
     "name": "-27%",
     "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.99
   },
   {
     "store": "Muffatao",
