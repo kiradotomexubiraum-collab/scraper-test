@@ -21,37 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Long Neck Und",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-43%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
     "price": 14.98
   },
   {
@@ -71,7 +41,27 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
     "price": 14.98
   },
   {
@@ -121,27 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&m's 132g Amendoim",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
   {
@@ -161,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
+    "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
   {
@@ -171,13 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 8.99
+    "name": "Chocolate M&M`s 120g Crispy",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
+    "name": "-32%",
+    "price": 18.99
   },
   {
     "store": "Irani",
@@ -221,16 +191,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 24.9
   },
@@ -241,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 24.9
   },
   {
@@ -251,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
     "price": 24.9
   },
   {
@@ -291,13 +251,53 @@
   },
   {
     "store": "Irani",
-    "name": "Patê Sadia Bisnaga 100g Peito Peru Defumado",
-    "price": 2.99
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 3.99
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Tempranillo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Espanhol Finca El Puntal 750ml Verdejo",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Finca El Puntal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
   },
   {
     "store": "Muffatao",
