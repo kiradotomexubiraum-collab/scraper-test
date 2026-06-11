@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "-45%",
-    "price": 43.98
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
     "price": 4.99
   },
@@ -41,56 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.89
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.89
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -98,16 +38,6 @@
     "store": "Irani",
     "name": "-41%",
     "price": 24.49
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
   },
   {
     "store": "Irani",
@@ -121,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Repelente Xo Inseto 100ml Baby Gel Icaridina",
-    "price": 19.89
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 30.89
-  },
-  {
-    "store": "Irani",
     "name": "Linguica Frango Copacol 500g Queijo e Bacon Congelada",
     "price": 6.99
   },
@@ -138,6 +58,46 @@
     "store": "Irani",
     "name": "-36%",
     "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Montepulciano D`abruzzo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Nero D`avola",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Negroamaro Primitivo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -161,33 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -198,36 +138,6 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -251,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chardonnay",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
@@ -271,7 +171,37 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Vinho Africano Six Hats 750ml Chardonnay",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -298,6 +228,76 @@
     "store": "Irani",
     "name": "-27%",
     "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
   },
   {
     "store": "Muffatao",
@@ -497,6 +497,11 @@
   {
     "store": "Muffatao",
     "name": "Repolho Verde",
+    "price": 6.79
+  },
+  {
+    "store": "Muffatao",
+    "name": "Alface Crespa Tanabe",
     "price": 12.75
   },
   {
@@ -517,11 +522,6 @@
   {
     "store": "Muffatao",
     "name": "Cheiro Verde Geriba",
-    "price": 6.79
-  },
-  {
-    "store": "Muffatao",
-    "name": "Alface Crespa Tanabe",
     "price": 3.69
   },
   {
@@ -1477,6 +1477,11 @@
   {
     "store": "Muffatao",
     "name": "Macarrão de Sêmola Parafuso Galo Pacote 500g",
+    "price": 4.49
+  },
+  {
+    "store": "Muffatao",
+    "name": "Macarrão de Sêmola com Ovos Pena Todeschini 500G",
     "price": 1.49
   },
   {
@@ -1493,11 +1498,6 @@
     "store": "Muffatao",
     "name": "Macarrão Instantâneo Lámen Galinha Nissin Miojo Pacote 85g",
     "price": 5.39
-  },
-  {
-    "store": "Muffatao",
-    "name": "Macarrão Instantâneo Galinha Caipira Cup Noodles Copo 69g",
-    "price": 4.49
   },
   {
     "store": "Muffatao",
@@ -1732,6 +1732,11 @@
   {
     "store": "Muffatao",
     "name": "Vinagre de Álcool Castelo Frasco 750ml",
+    "price": 7.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Vinagre de Maçã Rosani Frasco 500ml",
     "price": 29.9
   },
   {
@@ -1742,11 +1747,11 @@
   {
     "store": "Muffatao",
     "name": "Vinagre de Vinho Tinto Rosani Frasco 500ml",
-    "price": 7.59
+    "price": 11.98
   },
   {
     "store": "Muffatao",
-    "name": "Vinagre de Maçã Rosani Frasco 500ml",
+    "name": "Vinagre de Álcool Castelo Frasco 2l",
     "price": 8.99
   },
   {
@@ -1773,11 +1778,6 @@
     "store": "Muffatao",
     "name": "Vinagre de Maçã Orgânico Rosani 500ml",
     "price": 32.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Vinagre Balsâmico Rosani 500ml",
-    "price": 6.59
   },
   {
     "store": "Muffatao",
@@ -2002,6 +2002,11 @@
   {
     "store": "Muffatao",
     "name": "Manteiga Extra com Sal Président Gastronomique 200g",
+    "price": 12.98
+  },
+  {
+    "store": "Muffatao",
+    "name": "Manteiga Extra com Sal Batavo Pote 200g",
     "price": 8.98
   },
   {
@@ -2013,11 +2018,6 @@
     "store": "Muffatao",
     "name": "Margarina com Sal Qualy Vita Pote 500g",
     "price": 3.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Manteiga De Cacau Evelize 3G",
-    "price": 12.29
   },
   {
     "store": "Muffatao",
@@ -2272,6 +2272,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Chines Parbolizzado 5Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
     "price": 19.9
   },
   {
@@ -2282,11 +2287,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz Integral 8 Grãos Caldo Bom Mix Pacote 500g",
-    "price": 6.99
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
     "price": 6.49
   },
   {
@@ -2452,16 +2452,16 @@
   {
     "store": "Muffatao",
     "name": "Feijão Preto Tipo 1 Pontarollo Premium Pacote 1kg",
-    "price": 11.59
-  },
-  {
-    "store": "Muffatao",
-    "name": "Feijão Carioca Tipo 1 Pontarollo Premium Pacote 1kg",
     "price": 7.69
   },
   {
     "store": "Muffatao",
     "name": "Feijão Preto Tipo 1 Caldo Bom Ouro Pacote 1kg",
+    "price": 11.59
+  },
+  {
+    "store": "Muffatao",
+    "name": "Feijão Carioca Tipo 1 Pontarollo Premium Pacote 1kg",
     "price": 12.49
   },
   {
@@ -3367,6 +3367,11 @@
   {
     "store": "Muffatao",
     "name": "Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g",
+    "price": 25.99
+  },
+  {
+    "store": "Muffatao",
+    "name": "Café Torrado e Moído Tradicional Bom Jesus Caixa 500g",
     "price": 6.99
   },
   {
@@ -3378,11 +3383,6 @@
     "store": "Muffatao",
     "name": "Café Suave Nescafé Matinal Sachê 40g",
     "price": 14.98
-  },
-  {
-    "store": "Muffatao",
-    "name": "Café Solúvel Granulado Descafeinado Nescafé Sachê 40g",
-    "price": 26.69
   },
   {
     "store": "Muffatao",
