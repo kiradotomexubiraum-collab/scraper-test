@@ -41,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Queijo Gouda President 160g",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "-44%",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -71,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 48.69
   },
   {
@@ -81,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
   {
@@ -131,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&M`s 120g Crispy",
     "price": 12.99
   },
@@ -171,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate M&m's 120g Brownie",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
     "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
     "price": 6.98
   },
@@ -178,6 +168,16 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -211,16 +211,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
@@ -228,56 +218,6 @@
     "store": "Irani",
     "name": "-28%",
     "price": 13.89
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -298,6 +238,66 @@
     "store": "Irani",
     "name": "-27%",
     "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Raffaello C/9",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Original",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
   },
   {
     "store": "Muffatao",
@@ -2282,6 +2282,11 @@
   {
     "store": "Muffatao",
     "name": "Arroz Parboilizado Tipo 1 Tio João Pacote 1kg",
+    "price": 19.9
+  },
+  {
+    "store": "Muffatao",
+    "name": "Arroz Parbolizado Rampinelli 5KG",
     "price": 17.99
   },
   {
@@ -2292,11 +2297,6 @@
   {
     "store": "Muffatao",
     "name": "Arroz Branco Tipo 1 Prato Fino Pacote 1kg",
-    "price": 19.9
-  },
-  {
-    "store": "Muffatao",
-    "name": "Arroz Parbolizado Rampinelli 5KG",
     "price": 9.59
   },
   {
