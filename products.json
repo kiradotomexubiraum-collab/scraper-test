@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Queijo Camembert Vigor 120g",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -68,6 +58,16 @@
     "store": "Irani",
     "name": "-41%",
     "price": 24.49
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Camembert Vigor 120g",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 24.98
   },
   {
     "store": "Irani",
@@ -91,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 48.69
   },
   {
@@ -131,7 +131,27 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Italiano Bellamico 750ml - Nero D`avola",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Montepulciano D`abruzzo",
     "price": 39.9
   },
   {
@@ -161,36 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Italiano Bellamico 750ml - Montepulciano D`abruzzo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Frutas Vermelhas",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 21.98
   },
@@ -201,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
+    "name": "Chocolate M&m's 132g Amendoim",
     "price": 12.99
   },
   {
@@ -211,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
+    "name": "Chocolate M&M`s 120g Crispy",
     "price": 12.99
   },
   {
@@ -241,33 +231,13 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
   },
   {
     "store": "Irani",
     "name": "-30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 22.99
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -281,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
     "price": 15.99
   },
   {
@@ -291,7 +261,37 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
     "price": 15.99
   },
   {
