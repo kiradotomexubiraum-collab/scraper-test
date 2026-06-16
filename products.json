@@ -41,6 +41,16 @@
   },
   {
     "store": "Irani",
+    "name": "Caldo Maggi 57g Carne",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "-50%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 100g Original",
     "price": 4.99
   },
@@ -101,7 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
+    "name": "Iogurte Frimesa 170g Zero Açúcar Ameixa",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 132g Amendoim",
     "price": 12.99
   },
   {
@@ -112,16 +132,6 @@
   {
     "store": "Irani",
     "name": "Chocolate M&m's 120g Brownie",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
     "price": 12.99
   },
   {
@@ -151,6 +161,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate M&M`s 120g Crispy",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
     "name": "Refrigerante Conti 2l Limao",
     "price": 4.49
   },
@@ -171,17 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -211,6 +221,16 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
@@ -231,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -242,6 +262,16 @@
   {
     "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
     "price": 4.99
   },
   {
@@ -268,36 +298,6 @@
     "store": "Irani",
     "name": "-27%",
     "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Original",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
   },
   {
     "store": "Festval",
