@@ -91,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Perdigão 56g",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
     "name": "Iogurte Frimesa 170g Zero Açúcar Ameixa",
     "price": 1.99
   },
@@ -111,47 +101,17 @@
   },
   {
     "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
+    "name": "Hambúrguer Perdigão 56g",
+    "price": 0.99
   },
   {
     "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 31.98
+    "name": "-34%",
+    "price": 1.49
   },
   {
     "store": "Irani",
     "name": "Chocolate M&M`s 120g Crispy",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
   {
@@ -171,13 +131,43 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
+    "name": "Chocolate M&m's 132g Chocolate",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 31.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 120g Brownie",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 15.99
   },
   {
     "store": "Irani",
@@ -188,6 +178,26 @@
     "store": "Irani",
     "name": "-31%",
     "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -211,27 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -251,13 +241,23 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 13.89
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
