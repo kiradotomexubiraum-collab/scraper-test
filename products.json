@@ -121,7 +121,17 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 31.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&M`s 120g Crispy",
     "price": 12.99
   },
   {
@@ -141,26 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 31.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
@@ -171,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
+    "name": "Chocolate M&m's 132g Amendoim",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
+    "name": "-32%",
+    "price": 18.99
   },
   {
     "store": "Irani",
@@ -191,13 +181,43 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 13.89
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -221,37 +241,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
   {
