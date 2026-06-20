@@ -51,6 +51,26 @@
   },
   {
     "store": "Irani",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -71,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Linguica Frango Copacol 500g Queijo e Bacon Congelada",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
     "name": "Hambúrguer Perdigão 56g",
     "price": 0.99
   },
@@ -91,17 +101,27 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
+    "name": "Creme de Leite Nestlé 200g Tp",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
   },
   {
     "store": "Irani",
     "name": "-31%",
-    "price": 31.98
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
+    "name": "Chocolate M&M`s 120g Crispy",
     "price": 12.99
   },
   {
@@ -131,33 +151,23 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 31.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 132g Chocolate",
     "price": 12.99
   },
   {
     "store": "Irani",
     "name": "-32%",
     "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
   },
   {
     "store": "Irani",
@@ -171,13 +181,23 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
+    "name": "-31%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
   },
   {
     "store": "Irani",
@@ -191,13 +211,23 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti Cola 2 litros",
-    "price": 4.99
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 9.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 6.99
+    "price": 13.98
   },
   {
     "store": "Irani",
@@ -208,6 +238,26 @@
     "store": "Irani",
     "name": "-29%",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti Cola 2 litros",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hemmer 500g Caseira",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 10.99
   },
   {
     "store": "Irani",
@@ -231,16 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão em Pó Ypê Power Action 800g Sachê",
-    "price": 10.9
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
     "name": "Alimento Amêndoa Almond Breeze 1l Original",
     "price": 13.99
   },
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "-26%",
     "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Desnatado",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
   },
   {
     "store": "Festval",
