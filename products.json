@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Nutren Protein 260ml Baunilha Zero Lactose",
     "price": 5.98
   },
@@ -78,6 +68,16 @@
     "store": "Irani",
     "name": "-41%",
     "price": 24.49
+  },
+  {
+    "store": "Irani",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
+    "name": "Chocolate M&m's 132g Chocolate",
     "price": 12.99
   },
   {
@@ -151,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate M&m's 132g Amendoim",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 21.98
   },
@@ -158,16 +168,6 @@
     "store": "Irani",
     "name": "-31%",
     "price": 31.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
   },
   {
     "store": "Irani",
@@ -201,6 +201,56 @@
   },
   {
     "store": "Irani",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti Cola 2 litros",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
     "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
@@ -231,36 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Conti Cola 2 litros",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Maionese Hemmer 500g Caseira",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
     "name": "Feijão Vermelho Sabor Sul 1kg",
     "price": 7.99
   },
@@ -271,33 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
+    "name": "Maionese Hemmer 500g Caseira",
+    "price": 7.99
   },
   {
     "store": "Irani",
     "name": "-27%",
-    "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Original",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
+    "price": 10.99
   },
   {
     "store": "Festval",
@@ -411,102 +411,47 @@
   },
   {
     "store": "Festval",
-    "name": "Pinhão Kg",
-    "price": 12.98
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 9.99
   },
   {
     "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
-    "price": 13.99
+    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 11.98
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
+    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
     "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
     "price": 18.99
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
+    "name": "Vinho Italiano Cielo Appassionante Tinto 750ml",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 4.99
+    "name": "Macarrão Italiano Mamma Bia Tagliatelle ou Pappardelle 500g",
+    "price": 9.99
   },
   {
     "store": "Festval",
-    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Polpa Ninho 540g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Vigor 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Costelinha Suína Com Pele e Com Osso Coopavel Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Desodorante Rexona Aerosol 250ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Toscana Frimesa Resfriada Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Tâmara Jomara Jumbo com Caroço 200g",
-    "price": 12.98
+    "name": "Arroz Branco Itasa 5Kg",
+    "price": 14.99
   }
 ]
