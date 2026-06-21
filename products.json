@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -51,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -62,16 +82,6 @@
   {
     "store": "Irani",
     "name": "Nutren Protein 260ml Baunilha Zero Lactose",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
   {
@@ -111,26 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 31.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate M&m's 120g Brownie",
     "price": 12.99
   },
@@ -151,7 +141,27 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 31.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate M&M`s 120g Crispy",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 132g Amendoim",
     "price": 12.99
   },
   {
@@ -241,16 +251,6 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
-  },
-  {
-    "store": "Irani",
     "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
@@ -271,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
     "name": "Feijão Vermelho Sabor Sul 1kg",
     "price": 7.99
   },
@@ -288,16 +298,6 @@
     "store": "Irani",
     "name": "-27%",
     "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 22.99
   },
   {
     "store": "Festval",
