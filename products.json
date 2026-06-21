@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Joy 40g C/2",
     "price": 14.49
   },
@@ -68,6 +58,16 @@
     "store": "Irani",
     "name": "-41%",
     "price": 24.49
+  },
+  {
+    "store": "Irani",
+    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "-40%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -91,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Perdigão 56g",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
     "name": "Creme de Leite Nestlé 200g Tp",
     "price": 3.99
   },
@@ -118,36 +108,6 @@
     "store": "Irani",
     "name": "-31%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
   },
   {
     "store": "Irani",
@@ -171,13 +131,33 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
+    "name": "Chocolate M&m's 120g Brownie",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&m's 132g Chocolate",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate M&M`s 120g Crispy",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 18.99
   },
   {
     "store": "Irani",
@@ -188,6 +168,16 @@
     "store": "Irani",
     "name": "-31%",
     "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -211,6 +201,16 @@
   },
   {
     "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
@@ -231,16 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros",
     "price": 4.99
   },
@@ -251,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
   {
@@ -261,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
   {
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "-27%",
     "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 22.99
   },
   {
     "store": "Festval",
