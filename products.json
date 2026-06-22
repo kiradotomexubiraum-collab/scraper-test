@@ -61,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
     "price": 5.98
   },
   {
@@ -71,17 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Joy 40g C/2",
-    "price": 14.49
-  },
-  {
-    "store": "Irani",
-    "name": "-41%",
-    "price": 24.49
-  },
-  {
-    "store": "Irani",
-    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
   {
@@ -101,46 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creme de Leite Nestlé 200g Tp",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 120g Brownie",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Chocolate",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 21.98
   },
@@ -151,23 +101,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate M&M`s 120g Crispy",
-    "price": 12.99
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate M&m's 132g Amendoim",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.99
+    "name": "-30%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -178,16 +118,6 @@
     "store": "Irani",
     "name": "-31%",
     "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
   },
   {
     "store": "Irani",
@@ -231,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros",
     "price": 4.99
   },
@@ -248,16 +168,6 @@
     "store": "Irani",
     "name": "-29%",
     "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
   },
   {
     "store": "Irani",
@@ -271,33 +181,123 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
-  },
-  {
-    "store": "Irani",
-    "name": "Feijão Vermelho Sabor Sul 1kg",
-    "price": 7.99
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-27%",
-    "price": 10.99
+    "price": 6.79
   },
   {
     "store": "Irani",
-    "name": "Maionese Hemmer 500g Caseira",
-    "price": 7.99
+    "name": "Alimento Amêndoa Almond Breeze 1l Original",
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "-27%",
-    "price": 10.99
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Aveia/leite",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Frutas Vermelhas",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
   },
   {
     "store": "Festval",
