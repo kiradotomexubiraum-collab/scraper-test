@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -61,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
   {
@@ -71,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
     "price": 5.98
   },
   {
@@ -88,6 +78,16 @@
     "store": "Irani",
     "name": "-38%",
     "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
+    "price": 17.95
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 27.99
   },
   {
     "store": "Irani",
@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -161,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros",
     "price": 4.99
   },
@@ -168,6 +168,46 @@
     "store": "Irani",
     "name": "-29%",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -181,6 +221,26 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "-27%",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -188,6 +248,16 @@
     "store": "Irani",
     "name": "-27%",
     "price": 6.79
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
+    "price": 13.98
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.98
   },
   {
     "store": "Irani",
@@ -221,16 +291,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
     "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
     "price": 2.98
   },
@@ -238,66 +298,6 @@
     "store": "Irani",
     "name": "-25%",
     "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Aveia/leite",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Tinto Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Frutas Vermelhas",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
   },
   {
     "store": "Festval",
@@ -336,122 +336,152 @@
   },
   {
     "store": "Festval",
+    "name": "Fralda Pampers Premium Care Tamanhos",
+    "price": 59.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cotonete Johnson Com 75 Unidades",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Toalhas Umedecidas Huggies Corpo e Rosto com 48 Unidades - Leve 4 Pague 3",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Composto Milnutri Danone 800g",
+    "price": 58.9
+  },
+  {
+    "store": "Festval",
+    "name": "Condicionador Johnson's Baby Regular 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
+    "price": 67.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Copacol IQF 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cápsulas 3 Corações Sabores com 10 Unidades",
+    "price": 17.98
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 14.98
+  },
+  {
+    "store": "Festval",
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Desodorante Aerosol Dove 150ml",
+    "price": 17.9
+  },
+  {
+    "store": "Festval",
+    "name": "Mandioca Amarela Santa Mandioquinha Kg",
+    "price": 11.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Itamaraty Tradicional 500g",
+    "price": 21.89
+  },
+  {
+    "store": "Festval",
     "name": "Margarina Qualy Com ou Sem Sal 500G",
     "price": 8.99
   },
   {
     "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ML",
-    "price": 1.98
+    "name": "Filé de Peito de Frango Copacol Resfriado Kg",
+    "price": 25.9
   },
   {
     "store": "Festval",
-    "name": "Creme de Leite Batavo TP 200g",
-    "price": 2.98
+    "name": "Requeijão Tradicional Frimesa 200g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Pepino Geriba Em Conserva 300g",
+    "name": "Coxa Com Sobrecoxa Congelada Kg",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Água Mineral Sferriê com Gás 510ml",
+    "price": 1.79
+  },
+  {
+    "store": "Festval",
+    "name": "Maionese Hellmann's leve 600g pague 500g",
     "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Extrato de Tomate Elefante Pote 300g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Canção Tipos 750ml",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Vigor 200g",
+    "name": "Queijo Mussarela Lactobom 150g",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 2kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mortadela Ouro Perdigão Fatiada 200G",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Sobremesa Chandelle Chocolate 540g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Café Caboclo Tradicional A Vácuo 500g",
-    "price": 22.9
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
-    "price": 3.69
-  },
-  {
-    "store": "Festval",
-    "name": "Milho de Pipoca Geriba 500g",
+    "name": "Açúcar Alto Alegre Refinado 1 Kg",
     "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Passata italiana Mamma Bia 690g",
-    "price": 9.99
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Bovino Do Chef Kg",
-    "price": 89.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Cielo Appassionante Tinto 750ml",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Italiano Mamma Bia Tagliatelle ou Pappardelle 500g",
-    "price": 9.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
+    "name": "Arroz Branco Sabor Sul 5kg",
     "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mistura de Tapioca Geriba 500g",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy 1,2L",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Salsicha Perdigão 500g",
+    "price": 9.98
   }
 ]
