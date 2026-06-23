@@ -51,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
+    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
     "price": 5.98
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
+    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
   {
@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
-    "price": 17.95
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 27.99
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 21.98
   },
@@ -101,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti 2l Limao",
     "price": 4.49
   },
@@ -118,6 +98,16 @@
     "store": "Irani",
     "name": "-31%",
     "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -171,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
@@ -192,16 +172,6 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -231,6 +201,26 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
     "price": 18.9
   },
@@ -238,16 +228,6 @@
     "store": "Irani",
     "name": "-27%",
     "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 6.79
   },
   {
     "store": "Irani",
@@ -292,6 +272,26 @@
   {
     "store": "Irani",
     "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 165g Copo Desnatado",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
     "price": 2.98
   },
   {
