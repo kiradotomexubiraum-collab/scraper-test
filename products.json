@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -91,16 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
     "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
     "price": 6.98
   },
@@ -111,7 +111,37 @@
   },
   {
     "store": "Irani",
+    "name": "Nhoque de batata Italiano Ciemme 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
     "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
     "price": 11.99
   },
   {
@@ -141,16 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros",
     "price": 4.99
   },
@@ -161,7 +181,27 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -201,26 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
     "price": 18.9
   },
@@ -228,16 +248,6 @@
     "store": "Irani",
     "name": "-27%",
     "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.98
   },
   {
     "store": "Irani",
@@ -278,16 +288,6 @@
     "store": "Irani",
     "name": "-25%",
     "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Desnatado",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
   },
   {
     "store": "Irani",
@@ -333,46 +333,6 @@
     "store": "Festval",
     "name": "Vinho Português Cigarra 750ml - Leve 3 Pague 2 Kit pronto",
     "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Premium Care Tamanhos",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cotonete Johnson Com 75 Unidades",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Toalhas Umedecidas Huggies Corpo e Rosto com 48 Unidades - Leve 4 Pague 3",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Composto Milnutri Danone 800g",
-    "price": 58.9
-  },
-  {
-    "store": "Festval",
-    "name": "Condicionador Johnson's Baby Regular 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
-    "price": 67.9
   },
   {
     "store": "Festval",
