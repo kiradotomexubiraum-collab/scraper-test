@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Baunilha Zero Lactose",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "-40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
@@ -81,13 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 9.9
+    "name": "Presunto Cozido Sadia 180g Fatiado",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "-38%",
-    "price": 15.9
+    "name": "-29%",
+    "price": 8.49
   },
   {
     "store": "Irani",
@@ -98,6 +88,16 @@
     "store": "Irani",
     "name": "-31%",
     "price": 31.98
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
   },
   {
     "store": "Irani",
@@ -118,16 +118,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
   },
   {
     "store": "Irani",
@@ -171,17 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti Cola 2 litros",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -201,7 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -211,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -231,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -248,6 +228,16 @@
     "store": "Irani",
     "name": "-27%",
     "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
+    "price": 13.98
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.98
   },
   {
     "store": "Irani",
@@ -281,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
     "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
     "price": 2.98
   },
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
     "price": 2.98
   },
   {
