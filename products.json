@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -31,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Caldo Maggi 57g Carne",
     "price": 1.98
   },
@@ -61,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "-31%",
-    "price": 31.98
+    "name": "-33%",
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -81,13 +81,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 21.98
   },
   {
     "store": "Irani",
     "name": "-31%",
-    "price": 6.49
+    "price": 31.98
   },
   {
     "store": "Irani",
@@ -101,6 +101,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
     "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
     "price": 6.98
   },
@@ -108,16 +118,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
   },
   {
     "store": "Irani",
@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
@@ -151,17 +141,27 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
+    "name": "-29%",
+    "price": 33.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -181,17 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -211,27 +201,37 @@
   },
   {
     "store": "Irani",
-    "name": "Creme para Assadura Hipoglos 30g Transparente",
-    "price": 25.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 34.99
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Garoto 80g Crunch",
-    "price": 5.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 7.99
+    "name": "-29%",
+    "price": 13.98
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Desnatado",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Coco",
     "price": 1.49
   },
   {
@@ -241,27 +241,17 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
-    "price": 2.98
+    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 3.98
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
     "price": 29.9
   },
   {
@@ -281,23 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Aveia/leite",
     "price": 2.98
   },
   {
     "store": "Irani",
     "name": "-25%",
     "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Frutas Vermelhas",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
   },
   {
     "store": "Festval",
