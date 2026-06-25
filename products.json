@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
@@ -81,13 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
   },
   {
     "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
+    "name": "-31%",
+    "price": 15.99
   },
   {
     "store": "Irani",
@@ -111,13 +101,23 @@
   },
   {
     "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
+    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
+    "name": "-30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
   },
   {
     "store": "Irani",
@@ -151,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
-    "price": 11.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -172,26 +172,6 @@
   {
     "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -221,53 +201,43 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
-    "price": 18.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-27%",
-    "price": 25.9
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Suco Uva Garibaldi 1.5l Vidro Tinto",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Original",
-    "price": 13.99
+    "name": "Creme para Assadura Hipoglos 30g Transparente",
+    "price": 25.99
   },
   {
     "store": "Irani",
     "name": "-26%",
-    "price": 18.99
+    "price": 34.99
   },
   {
     "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
+    "name": "Chocolate em Barra Garoto 80g Crunch",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
+    "name": "-25%",
+    "price": 7.99
   },
   {
     "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 13.99
+    "name": "Iogurte Frimesa 165g Copo Desnatado",
+    "price": 1.49
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
+    "name": "-25%",
+    "price": 1.99
   },
   {
     "store": "Irani",
@@ -298,6 +268,36 @@
     "store": "Irani",
     "name": "-25%",
     "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Frutas Vermelhas",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
   },
   {
     "store": "Festval",
