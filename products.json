@@ -41,6 +41,16 @@
   },
   {
     "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-50%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
@@ -48,6 +58,36 @@
     "store": "Irani",
     "name": "-40%",
     "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 28.99
+  },
+  {
+    "store": "Irani",
+    "name": "Presunto Cozido Sadia 180g Fatiado",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -61,7 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
     "price": 3.99
   },
   {
@@ -71,7 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -111,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
     "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
     "price": 6.98
   },
@@ -128,6 +158,16 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
   },
   {
     "store": "Irani",
@@ -141,7 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
   {
@@ -151,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
   {
@@ -171,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 9.98
   },
@@ -178,6 +228,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 13.98
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -191,93 +251,13 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 170g Coco",
-    "price": 1.49
+    "name": "Sal Marinho Vitao 1kg",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Capim-Limão",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -291,13 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Desnatado",
+    "name": "Iogurte Frimesa 170g Coco",
     "price": 1.49
   },
   {
     "store": "Irani",
     "name": "-25%",
     "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 2.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
   },
   {
     "store": "Festval",
@@ -371,61 +371,6 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Goiaba Vermelha Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Laranja Bahia Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mexerica Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Salsa Aroma e Sabor 400g",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Cogumelo Shimeji Preto do Vale 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mamão Papaya Unidade",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs Jumbo bandeja com 10un",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Brócolis Gourmet Morro Grande 250g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Rúcula Hidropônica Unidade",
-    "price": 2.99
-  },
-  {
-    "store": "Festval",
     "name": "Vinho Argentino Hereford Gran Reserva Malbec 750ml",
     "price": 59.0
   },
@@ -463,5 +408,50 @@
     "store": "Festval",
     "name": "Vinho Espanhol Marqués de Vitoria Crianza 750ml",
     "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 22.9
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 8.9
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Coopavel Resfriada Kg",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 4.89
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Frimesa TP 395g",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Lo'r Torras 250g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Doce Mel Unidade",
+    "price": 9.98
   }
 ]
