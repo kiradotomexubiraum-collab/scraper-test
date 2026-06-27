@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 5.99
   },
@@ -81,13 +71,23 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 3.99
   },
   {
     "store": "Irani",
     "name": "-33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -108,6 +108,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -141,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
     "name": "Nhoque de batata Italiano Ciemme 500g",
     "price": 6.99
   },
@@ -158,6 +158,16 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 6.49
   },
   {
     "store": "Irani",
@@ -211,13 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
+    "name": "-29%",
+    "price": 13.98
   },
   {
     "store": "Irani",
@@ -231,17 +241,27 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 9.98
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 24.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 13.98
+    "price": 34.98
   },
   {
     "store": "Irani",
-    "name": "Sal Marinho Vitao 1kg",
+    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
     "price": 4.99
   },
   {
@@ -251,53 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 170g Coco",
-    "price": 1.49
+    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
-    "price": 29.9
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Festval",
@@ -453,5 +453,45 @@
     "store": "Festval",
     "name": "Abacaxi Pérola Doce Mel Unidade",
     "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Coxa Com Sobrecoxa Congelada Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
+    "price": 33.9
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Copacol Congelado Com Osso Pacote Kg",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Toscana Frimesa Resfriada Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 35.9
   }
 ]
