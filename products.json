@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Morango",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "-61%",
-    "price": 1.79
-  },
-  {
-    "store": "Irani",
     "name": "Açúcar Confeiteiro Glaçúcar União 500g",
     "price": 1.99
   },
@@ -71,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 5.99
   },
@@ -81,17 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -111,23 +101,13 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 3.99
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 2.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -141,13 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Nhoque de batata Italiano Ciemme 500g",
-    "price": 6.99
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
   },
   {
     "store": "Irani",
-    "name": "-30%",
-    "price": 9.99
+    "name": "-31%",
+    "price": 15.99
   },
   {
     "store": "Irani",
@@ -168,6 +148,26 @@
     "store": "Irani",
     "name": "-31%",
     "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Nhoque de batata Italiano Ciemme 500g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
   },
   {
     "store": "Irani",
@@ -201,17 +201,27 @@
   },
   {
     "store": "Irani",
-    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
-    "price": 11.99
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 16.99
+    "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
   {
@@ -231,26 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
-  },
-  {
-    "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Sal Marinho Vitao 1kg",
     "price": 4.99
   },
@@ -258,16 +248,6 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Flor Hibisco",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 3.98
   },
   {
     "store": "Irani",
@@ -281,7 +261,27 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Esfoliante",
     "price": 2.98
   },
   {
