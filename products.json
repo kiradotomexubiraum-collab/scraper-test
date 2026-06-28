@@ -81,17 +81,17 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
+    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 14.98
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -111,13 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 3.99
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 5.99
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -138,26 +138,6 @@
     "store": "Irani",
     "name": "-31%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Uva Del Nono Tomasi 1.3l Pet Tinto",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Nhoque de batata Italiano Ciemme 500g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.99
   },
   {
     "store": "Irani",
@@ -221,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
     "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
@@ -241,13 +211,13 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
+    "name": "-29%",
+    "price": 13.98
   },
   {
     "store": "Irani",
@@ -258,6 +228,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.98
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -298,6 +278,26 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Sal Marinho Vitao 1kg",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 170g Coco",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
   },
   {
     "store": "Festval",
