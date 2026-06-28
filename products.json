@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
@@ -101,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 2.99
+    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 4.49
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -118,6 +108,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -151,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
     "name": "Protetor Diário Intimus C/40 S/abas Antibac",
     "price": 11.99
   },
@@ -191,13 +181,33 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
+    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
+    "price": 11.99
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 6.99
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.98
   },
   {
     "store": "Irani",
@@ -221,23 +231,43 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 24.98
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 34.98
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 13.89
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Sal Marinho Vitao 1kg",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -261,43 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Sal Marinho Vitao 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 170g Coco",
-    "price": 1.49
+    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 1.99
+    "price": 39.9
   },
   {
     "store": "Festval",
@@ -411,87 +411,42 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 22.9
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 8.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 4.89
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Frimesa TP 395g",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Lo'r Torras 250g",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Abacaxi Pérola Doce Mel Unidade",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa Com Sobrecoxa Congelada Kg",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Copacol Congelado Com Osso Pacote Kg",
+    "name": "Lasanha Seara Sabores 600g",
     "price": 12.99
   },
   {
     "store": "Festval",
-    "name": "Linguiça Toscana Frimesa Resfriada Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 35.9
+    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Campeira Stark Kg",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Pizza Oliva Forneria Sabores Unidade",
+    "price": 27.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Avelã Mamma Bia 400g",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Agnoline de Frango Bernardi 400g",
+    "price": 22.9
   }
 ]
