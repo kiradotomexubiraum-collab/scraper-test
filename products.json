@@ -71,13 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 5.99
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 8.99
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -92,16 +92,6 @@
   {
     "store": "Irani",
     "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -131,17 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
   {
@@ -151,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
   {
@@ -171,7 +151,77 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
   {
@@ -181,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
   {
@@ -201,37 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Sal Marinho Vitao 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
     "price": 4.99
   },
   {
@@ -251,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
     "price": 4.99
   },
@@ -261,113 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 170g Coco",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
+    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
     "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Café Itamaraty Tradicional 500g",
-    "price": 21.89
-  },
-  {
-    "store": "Festval",
-    "name": "Margarina Qualy Com ou Sem Sal 500G",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol Resfriado Kg",
-    "price": 25.9
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Frimesa 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa Com Sobrecoxa Congelada Kg",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Água Mineral Sferriê com Gás 510ml",
-    "price": 1.79
-  },
-  {
-    "store": "Festval",
-    "name": "Maionese Hellmann's leve 600g pague 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Alto Alegre Refinado 1 Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mistura de Tapioca Geriba 500g",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy 1,2L",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Salsicha Perdigão 500g",
-    "price": 9.98
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Festval",
@@ -411,42 +341,47 @@
   },
   {
     "store": "Festval",
-    "name": "Lasanha Seara Sabores 600g",
-    "price": 12.99
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 9.9
   },
   {
     "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
+    "name": "Pão De Queijo Chef Foods Tradicional Congelado 1KG",
+    "price": 18.99
   },
   {
     "store": "Festval",
-    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
-    "price": 12.99
+    "name": "Massa Mezzani Capeletti Ou Ravioli Sabores 400g",
+    "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Linguiça Campeira Stark Kg",
-    "price": 25.9
+    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
+    "price": 8.99
   },
   {
     "store": "Festval",
-    "name": "Pizza Oliva Forneria Sabores Unidade",
-    "price": 27.9
+    "name": "Iogurte Polpa Ninho 540g",
+    "price": 8.99
   },
   {
     "store": "Festval",
-    "name": "Filé Mignon Bovino Do Chef Kg",
-    "price": 89.9
+    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
+    "price": 5.99
   },
   {
     "store": "Festval",
-    "name": "Creme de Avelã Mamma Bia 400g",
-    "price": 19.9
+    "name": "Achocolatado em Pó 3 Corações lata 350g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Agnoline de Frango Bernardi 400g",
-    "price": 22.9
+    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1L",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 8.99
   }
 ]
