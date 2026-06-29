@@ -41,6 +41,26 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Lacta 80g Ao Leite Caramelo",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-44%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-44%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
     "name": "Nutren Protein 260ml Chocolate Zero Lactose",
     "price": 5.98
   },
@@ -51,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creme Avelã Turco Seyidoglu 400g Chocol Avelã",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 28.99
-  },
-  {
-    "store": "Irani",
     "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 5.99
   },
@@ -68,6 +78,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Gin Tônica",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -91,36 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 21.98
   },
@@ -128,16 +118,6 @@
     "store": "Irani",
     "name": "-31%",
     "price": 31.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 15.99
   },
   {
     "store": "Irani",
@@ -191,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
   {
@@ -201,17 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.98
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
   {
@@ -241,16 +211,6 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
     "name": "Sal Marinho Vitao 1kg",
     "price": 4.99
   },
@@ -261,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
     "price": 4.99
   },
   {
@@ -281,6 +241,16 @@
   },
   {
     "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
     "price": 4.99
   },
@@ -291,7 +261,37 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "name": "Iogurte Frimesa 170g Coco",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
     "price": 29.9
   },
   {
