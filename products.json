@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Lacta 80g Ao Leite Caramelo",
+    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
     "price": 4.99
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
+    "name": "Chocolate Lacta 80g Ao Leite Caramelo",
     "price": 4.99
   },
   {
@@ -71,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 250ml Vidro Gin Tônica",
     "price": 3.99
   },
@@ -92,6 +82,16 @@
   {
     "store": "Irani",
     "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -121,7 +121,17 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
   {
@@ -131,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
   {
@@ -151,23 +161,23 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 11.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 9.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 16.99
+    "price": 13.98
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -211,13 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -241,37 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
     "name": "Sal Marinho Vitao 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
     "price": 4.99
   },
   {
@@ -291,7 +271,27 @@
   },
   {
     "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
     "price": 4.99
   },
   {
