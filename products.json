@@ -21,16 +21,6 @@
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 57g Carne",
-    "price": 1.98
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica Pink",
     "price": 2.99
   },
@@ -38,6 +28,16 @@
     "store": "Irani",
     "name": "-50%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caldo Maggi 57g Carne",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "-50%",
+    "price": 3.98
   },
   {
     "store": "Irani",
@@ -71,6 +71,16 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.98
+  },
+  {
+    "store": "Irani",
     "name": "Schweppes 250ml Vidro Gin Tônica",
     "price": 3.99
   },
@@ -81,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 3.99
   },
   {
@@ -91,7 +101,17 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 3.99
   },
   {
@@ -161,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 9.98
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 13.98
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -181,13 +201,23 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
     "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -211,26 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
@@ -241,27 +251,17 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 13.89
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "Sal Marinho Vitao 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
     "price": 4.99
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
     "price": 4.99
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
     "price": 4.99
   },
   {
@@ -341,47 +341,92 @@
   },
   {
     "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 9.9
+    "name": "Batata Monalisa Kg",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Pão De Queijo Chef Foods Tradicional Congelado 1KG",
-    "price": 18.99
+    "name": "Óleo de Soja Soya Pet 900ml",
+    "price": 5.89
   },
   {
     "store": "Festval",
-    "name": "Massa Mezzani Capeletti Ou Ravioli Sabores 400g",
-    "price": 10.9
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g",
-    "price": 8.99
+    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
+    "price": 2.99
   },
   {
     "store": "Festval",
-    "name": "Iogurte Polpa Ninho 540g",
-    "price": 8.99
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 45.9
   },
   {
     "store": "Festval",
-    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
-    "price": 5.99
+    "name": "Açúcar Cristal Alto Alegre 5kg",
+    "price": 10.99
   },
   {
     "store": "Festval",
-    "name": "Achocolatado em Pó 3 Corações lata 350g",
-    "price": 7.99
+    "name": "Arroz Parboilizado Rampinelli 5Kg",
+    "price": 13.99
   },
   {
     "store": "Festval",
-    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1L",
-    "price": 15.98
+    "name": "Feijão Preto Pontarollo 1KG",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Suco de Laranja Festval 900ml",
-    "price": 8.99
+    "name": "Requeijão Tradicional Frimesa 200g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Lider Tipos TP 1L",
+    "price": 4.49
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Seara Com Molho Barbecue 1kg",
+    "price": 49.98
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Moscatel Aurora Branco ou Rosé 750ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
+    "price": 21.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Moscatel Garibaldi Tipos 750ml",
+    "price": 29.9
   }
 ]
