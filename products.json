@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Açúcar Confeiteiro Glaçúcar União 500g",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica Pink",
     "price": 2.99
   },
@@ -41,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Lacta 80g Ao Leite Caramelo",
     "price": 4.99
   },
@@ -61,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Nutren Protein 260ml Chocolate Zero Lactose",
-    "price": 5.98
+    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-40%",
-    "price": 9.98
+    "name": "-44%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -81,26 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
     "price": 9.98
   },
@@ -108,106 +68,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 31.98
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Nhoque Importado Italiano Ciemme 500g Sem Glúten",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -221,26 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
@@ -251,13 +91,33 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 49.9
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -281,16 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
     "price": 4.99
   },
@@ -298,6 +148,156 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Garoto 80g Crunch",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Sapo De Otro Pozo 750ml Blend Tinta",
+    "price": 99.0
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 129.0
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Sapo De Otro Pozo 750ml Malbec",
+    "price": 99.0
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 129.0
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Café",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Espanhol Marinada 750ml Branco",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "-22%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Repolho Verde Kg",
+    "price": 3.89
+  },
+  {
+    "store": "Irani",
+    "name": "-22%",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chia Sabores Do Campo 120g",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "-22%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Banana Caturra Kg",
+    "price": 3.89
+  },
+  {
+    "store": "Irani",
+    "name": "-22%",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Elseve Shampoo 375ml + Cond. 170ml - Glycolic Gloss",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "-21%",
+    "price": 37.98
+  },
+  {
+    "store": "Irani",
+    "name": "Ponkan Kg",
+    "price": 3.89
+  },
+  {
+    "store": "Irani",
+    "name": "-22%",
+    "price": 4.99
   },
   {
     "store": "Festval",
