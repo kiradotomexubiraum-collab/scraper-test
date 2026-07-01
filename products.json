@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refrigerante Fanta 350ml Guaraná",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-57%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica Pink",
     "price": 2.99
   },
@@ -51,13 +61,23 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
   {
     "store": "Irani",
     "name": "-36%",
-    "price": 13.98
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -71,13 +91,73 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
-    "price": 9.99
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
+    "name": "-33%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Queijo",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 104g Original",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Churrasco",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
   },
   {
     "store": "Irani",
@@ -91,33 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
-    "price": 4.99
+    "name": "Granola Tradicional Vitão 250g Cacau e Coco",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -151,6 +211,56 @@
   },
   {
     "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 165g Copo Morango",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 165g Copo Integral",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Garoto 80g Crunch",
     "price": 5.99
   },
@@ -158,26 +268,6 @@
     "store": "Irani",
     "name": "-25%",
     "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Sapo De Otro Pozo 750ml Blend Tinta",
-    "price": 99.0
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 129.0
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 12.98
   },
   {
     "store": "Irani",
@@ -191,13 +281,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Sapo De Otro Pozo 750ml Malbec",
-    "price": 99.0
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "price": 9.98
   },
   {
     "store": "Irani",
     "name": "-23%",
-    "price": 129.0
+    "price": 12.98
   },
   {
     "store": "Irani",
@@ -210,223 +300,68 @@
     "price": 12.98
   },
   {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Espanhol Marinada 750ml Branco",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "-22%",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "Repolho Verde Kg",
-    "price": 3.89
-  },
-  {
-    "store": "Irani",
-    "name": "-22%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chia Sabores Do Campo 120g",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "-22%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Banana Caturra Kg",
-    "price": 3.89
-  },
-  {
-    "store": "Irani",
-    "name": "-22%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Elseve Shampoo 375ml + Cond. 170ml - Glycolic Gloss",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "-21%",
-    "price": 37.98
-  },
-  {
-    "store": "Irani",
-    "name": "Ponkan Kg",
-    "price": 3.89
-  },
-  {
-    "store": "Irani",
-    "name": "-22%",
-    "price": 4.99
+    "store": "Festval",
+    "name": "Cebola Nacional Kg",
+    "price": 5.98
   },
   {
     "store": "Festval",
-    "name": "Vinho Argentino Hereford Gran Reserva Malbec 750ml",
-    "price": 59.0
+    "name": "Banana Prata Kg",
+    "price": 5.98
   },
   {
     "store": "Festval",
-    "name": "Vinho Chileno Valsierra Varietal Tipos 750ml",
-    "price": 19.9
+    "name": "Laranja Bahia Kg",
+    "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Vinho Argentino El Esteco Blend 750ml",
-    "price": 49.0
+    "name": "Mexerica Kg",
+    "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Guerrieri Guerriero Nero 750ml",
+    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
     "price": 99.0
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Cielo Appassionante Tinto 750ml",
-    "price": 69.0
+    "name": "Mirtilo Bandeja 125g",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Luna Argenta Puglia 750ml",
-    "price": 59.0
+    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "price": 7.98
   },
   {
     "store": "Festval",
-    "name": "Vinho Argentino Septima Gran Reserva Tinto 750ml",
-    "price": 119.0
+    "name": "Kiwi Sungold Bandeja 440g",
+    "price": 15.98
   },
   {
     "store": "Festval",
-    "name": "Vinho Espanhol Marqués de Vitoria Crianza 750ml",
-    "price": 89.0
+    "name": "Melão Rei Unidade",
+    "price": 15.98
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 4.99
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 14.98
   },
   {
     "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 5.89
+    "name": "Maçã Pink Lady Kg",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 4.99
+    "name": "Ovos Brancos Happy Eggs com 20 unidades",
+    "price": 14.98
   },
   {
     "store": "Festval",
-    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
-    "price": 2.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 13.99
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Frimesa 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Seara Com Molho Barbecue 1kg",
-    "price": 49.98
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Aurora Branco ou Rosé 750ml",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 21.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Garibaldi Tipos 750ml",
-    "price": 29.9
+    "name": "Abacaxi Pérola Doce Mel Unidade",
+    "price": 9.98
   }
 ]
