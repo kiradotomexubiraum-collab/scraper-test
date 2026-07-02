@@ -31,46 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Caldo Maggi 57g Carne",
-    "price": 1.98
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Lacta 80g Ao Leite Caramelo",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Lacta 80g Branco Caramelo Crocante",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -81,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
+    "name": "Maion Heinz 215g",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 14.98
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -111,6 +71,16 @@
   },
   {
     "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
     "name": "Batata Pringles 109g Queijo",
     "price": 8.6
   },
@@ -122,16 +92,6 @@
   {
     "store": "Irani",
     "name": "Batata Pringles 104g Original",
-    "price": 8.6
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 12.6
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
     "price": 8.6
   },
   {
@@ -161,6 +121,16 @@
   },
   {
     "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
     "name": "Granola Vitão 250g Tradicional Original",
     "price": 9.99
   },
@@ -181,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Sal Marinho Vitao 1kg",
+    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
     "price": 4.99
   },
   {
@@ -191,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
+    "name": "Sal Marinho Vitao 1kg",
     "price": 4.99
   },
   {
@@ -211,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -228,26 +198,6 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Morango",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
   },
   {
     "store": "Irani",
@@ -271,6 +221,16 @@
   },
   {
     "store": "Irani",
+    "name": "Iogurte Frimesa 165g Copo Morango",
+    "price": 1.49
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
     "price": 9.98
   },
@@ -281,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 9.98
   },
   {
@@ -291,7 +251,47 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Sapo De Otro Pozo 750ml Malbec",
+    "price": 99.0
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 129.0
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Sapo De Otro Pozo 750ml Blend Tinta",
+    "price": 99.0
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 129.0
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Café",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 9.98
   },
   {
