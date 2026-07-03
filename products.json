@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -81,13 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder 75g 6 unidades",
-    "price": 11.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 17.99
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -101,6 +91,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Tang 18g Goiaba",
     "price": 0.79
   },
@@ -108,6 +108,26 @@
     "store": "Irani",
     "name": "-34%",
     "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Churrasco",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
   },
   {
     "store": "Irani",
@@ -141,26 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 109g Churrasco",
-    "price": 8.6
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 12.6
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.6
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 12.6
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Fanta 200ml Pet Laranja",
     "price": 1.19
   },
@@ -181,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
+    "name": "Granola Vitão 250g Tradicional Original",
+    "price": 9.99
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
+    "name": "-28%",
+    "price": 13.89
   },
   {
     "store": "Irani",
@@ -201,47 +201,17 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Vitão 250g Tradicional Original",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 13.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Sal Marinho Vitao 1kg",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
     "price": 4.99
   },
   {
@@ -261,13 +231,33 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
+    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Sal Marinho Vitao 1kg",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -281,7 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 27.9
   },
   {
@@ -292,6 +282,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
