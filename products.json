@@ -61,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
     "price": 2.99
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 2.99
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 540g Morango / Coco",
+    "name": "Iogurte Frimesa 540g Morango",
     "price": 3.99
   },
   {
@@ -141,13 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Tang 18g Goiaba",
-    "price": 0.79
+    "name": "Iogurte Frimesa 540g Morango / Coco",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "-34%",
-    "price": 1.19
+    "name": "-33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -161,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 540g Morango",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -178,6 +168,36 @@
     "store": "Irani",
     "name": "-33%",
     "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Tang 18g Goiaba",
+    "price": 0.79
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Queijo",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.6
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 12.6
   },
   {
     "store": "Irani",
@@ -201,16 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 109g Queijo",
-    "price": 8.6
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 12.6
-  },
-  {
-    "store": "Irani",
     "name": "Batata Pringles 104g Original",
     "price": 8.6
   },
@@ -221,17 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.6
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 12.6
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
   {
@@ -261,16 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Granola Tradicional Vitão 250g Cacau e Coco",
     "price": 9.99
   },
@@ -278,6 +268,16 @@
     "store": "Irani",
     "name": "-28%",
     "price": 13.89
+  },
+  {
+    "store": "Irani",
+    "name": "Petit Batavinho 320g Morango",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -291,13 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
-    "price": 4.99
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
