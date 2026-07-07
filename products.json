@@ -71,6 +71,16 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -81,13 +91,23 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
+    "name": "Iogurte Frimesa 165g Zero Açúcar Copo Morango",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
   },
   {
     "store": "Irani",
@@ -101,23 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder 75g 6 unidades",
-    "price": 11.99
+    "name": "Iogurte Frimesa 165g ZeroAçúcar Mamão/Laranja",
+    "price": 1.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
+    "price": 2.99
   },
   {
     "store": "Irani",
@@ -141,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
     "name": "Refrigerante Fanta 200ml Pet Laranja",
     "price": 1.19
   },
@@ -161,23 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
+    "name": "Leite Condensado Frimesa 395g Tradicional",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -201,17 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -241,27 +241,37 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
     "price": 4.99
   },
   {
@@ -281,23 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 27.9
+    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Festval",
@@ -468,5 +468,50 @@
     "store": "Festval",
     "name": "Guacamole Sr. Guaca Resfriada 200g - 50% de Desconto na 2º Unidade",
     "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate em Barra Lacta Sabores 80g",
+    "price": 6.98
+  },
+  {
+    "store": "Festval",
+    "name": "Bombom Ferrero Rocher Com 12 Unidades 150g",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate em Barra Milka Sabores 100g",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate Lindt Sabores Classic Barra 100G",
+    "price": 32.9
+  },
+  {
+    "store": "Festval",
+    "name": "Nutella pote 350g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bombom Lindt 200g",
+    "price": 74.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bolo Nega Maluca Festval 450g",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bolo Prestígio Festval 700g",
+    "price": 44.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bolo de Chocolate Festval 750g",
+    "price": 44.9
   }
 ]
