@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Uva",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "-43%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti Cola 2 litros Zero",
     "price": 3.99
   },
@@ -71,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
+    "name": "Refrigerante Conti 2l Uva",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-43%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 48.69
+  },
+  {
+    "store": "Irani",
+    "name": "-38%",
+    "price": 78.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
+  },
+  {
+    "store": "Irani",
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -91,13 +101,33 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g Zero Açúcar Copo Morango",
-    "price": 1.99
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 2.99
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -108,6 +138,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -141,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 540g Morango / Coco",
-    "price": 3.99
+    "name": "Iogurte Frimesa 165g Zero Açúcar Copo Morango",
+    "price": 1.99
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 5.99
+    "price": 2.99
   },
   {
     "store": "Irani",
@@ -158,6 +198,26 @@
     "store": "Irani",
     "name": "-33%",
     "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 540g Morango / Coco",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Milho Verde 170g Bonare",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 3.29
   },
   {
     "store": "Irani",
@@ -191,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -211,13 +271,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -231,73 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Coco C/Chocolate",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Avela C/Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Aveia, Banana e Mel",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Cereal Nutry C/3 Bolo De Chocolate",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
+    "price": 49.9
   },
   {
     "store": "Festval",
@@ -333,46 +333,6 @@
     "store": "Festval",
     "name": "Vinho Espanhol El Rejoneo Gran Reserva 750ml",
     "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Nestlé Natural Sabores 170g",
-    "price": 2.69
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Concentrado Soft Plus Fragrâncias 1L - Leve 3 Pague 2 Monte seu Kit",
-    "price": 31.96
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Laranja Festval 900ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 29.98
-  },
-  {
-    "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 5.96
-  },
-  {
-    "store": "Festval",
-    "name": "Desodorante Rexona Aerosol Fragrâncias 250ml - Leve 3 Pague 2 - Monte Seu Kit",
-    "price": 59.8
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Poços de Caldas Tradicional 200g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 19.96
-  },
-  {
-    "store": "Festval",
-    "name": "Filezinho Sassami de Frango Copacol IQF 800g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 39.96
   },
   {
     "store": "Festval",
@@ -471,47 +431,57 @@
   },
   {
     "store": "Festval",
-    "name": "Chocolate em Barra Lacta Sabores 80g",
-    "price": 6.98
+    "name": "Maçã Fuji Kg",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Bombom Ferrero Rocher Com 12 Unidades 150g",
-    "price": 39.9
+    "name": "Abacaxi Havaí Unidade",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Chocolate em Barra Milka Sabores 100g",
-    "price": 13.99
+    "name": "Mexerica Kg",
+    "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Chocolate Lindt Sabores Classic Barra 100G",
-    "price": 32.9
+    "name": "Tomate Extra Kg",
+    "price": 4.49
   },
   {
     "store": "Festval",
-    "name": "Nutella pote 350g",
-    "price": 29.9
+    "name": "Figo Roxo Bandeja 300g",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Bombom Lindt 200g",
-    "price": 74.9
+    "name": "Peito de Frango Copacol Congelado com Pele e Osso kg",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Bolo Nega Maluca Festval 450g",
-    "price": 24.9
+    "name": "Cogumelo Paris Do Vale Bandeja 200g",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Bolo Prestígio Festval 700g",
-    "price": 44.9
+    "name": "Mini Alface Walker Higienizada 150g",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Bolo de Chocolate Festval 750g",
-    "price": 44.9
+    "name": "Uva Vitória Mimo Seleção Bandeja 400g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Salsa Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Kiwi da Serra Bandeja 600g",
+    "price": 9.98
   }
 ]
