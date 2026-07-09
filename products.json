@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -101,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder 75g 6 unidades",
-    "price": 11.99
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 17.99
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -118,6 +108,26 @@
     "store": "Irani",
     "name": "-33%",
     "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 17.99
   },
   {
     "store": "Irani",
@@ -132,16 +142,6 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
   {
@@ -181,16 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g ZeroAçúcar Mamão/Laranja",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
     "name": "Iogurte Frimesa 540g Morango / Coco",
     "price": 3.99
   },
@@ -198,6 +188,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Iogurte Frimesa 165g ZeroAçúcar Mamão/Laranja",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 2.99
   },
   {
     "store": "Irani",
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -261,6 +261,16 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -271,23 +281,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Creme Dental Oral-B 3d White 70g Leve 3 Pague 2",
+    "price": 18.9
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Nivea 400ml Milk",
+    "name": "-27%",
     "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 35.9
   },
   {
     "store": "Irani",
