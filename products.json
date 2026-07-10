@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
@@ -81,13 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -101,6 +91,26 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -108,16 +118,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 89.79
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
   },
   {
     "store": "Irani",
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
@@ -171,16 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g Zero Açúcar Copo Morango",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
     "name": "Iogurte Frimesa 540g Morango / Coco",
     "price": 3.99
   },
@@ -191,16 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Iogurte Frimesa 165g ZeroAçúcar Mamão/Laranja",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
     "name": "Milho Verde 170g Bonare",
     "price": 2.29
   },
@@ -208,66 +188,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 3.29
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Fanta 200ml Pet Laranja",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 1.69
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -291,13 +211,93 @@
   },
   {
     "store": "Irani",
-    "name": "Queijo Mussarela Tirol 300g",
+    "name": "Hidratante Nivea 400ml Milk",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Desinfetante Pinho Sol Original 1L",
     "price": 12.98
   },
   {
     "store": "Irani",
     "name": "-28%",
     "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
   },
   {
     "store": "Festval",
