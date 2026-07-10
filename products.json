@@ -61,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 48.69
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
   {
@@ -111,6 +111,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -128,16 +138,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
   },
   {
     "store": "Irani",
@@ -188,6 +188,26 @@
     "store": "Irani",
     "name": "-30%",
     "price": 3.29
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
   },
   {
     "store": "Irani",
@@ -251,27 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 27.9
   },
   {
@@ -428,60 +428,5 @@
     "store": "Festval",
     "name": "Guacamole Sr. Guaca Resfriada 200g - 50% de Desconto na 2º Unidade",
     "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Abacaxi Havaí Unidade",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mexerica Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Tomate Extra Kg",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Figo Roxo Bandeja 300g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Copacol Congelado com Pele e Osso kg",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Cogumelo Paris Do Vale Bandeja 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mini Alface Walker Higienizada 150g",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Vitória Mimo Seleção Bandeja 400g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Salsa Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Kiwi da Serra Bandeja 600g",
-    "price": 9.98
   }
 ]
