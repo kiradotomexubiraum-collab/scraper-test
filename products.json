@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -51,13 +51,73 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Uva",
-    "price": 3.99
+    "name": "Refresco Clight 8g Maracujá",
+    "price": 0.99
   },
   {
     "store": "Irani",
-    "name": "-43%",
-    "price": 6.99
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Tangerina",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Limonada",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Morango",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Uva",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Abacaxi",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
   },
   {
     "store": "Irani",
@@ -71,13 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 48.69
+    "name": "Refrigerante Conti 2l Uva",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
+    "name": "-43%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -91,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -111,23 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "name": "Maion Heinz 215g",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -151,6 +201,26 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder 75g 6 unidades",
     "price": 11.99
   },
@@ -158,6 +228,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -218,86 +298,6 @@
     "store": "Irani",
     "name": "-29%",
     "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Oral-B 3d White 70g Leve 3 Pague 2",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Nivea 400ml Milk",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Desinfetante Pinho Sol Original 1L",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 17.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
   },
   {
     "store": "Festval",
@@ -428,5 +428,45 @@
     "store": "Festval",
     "name": "Guacamole Sr. Guaca Resfriada 200g - 50% de Desconto na 2º Unidade",
     "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Coopavel Resfriada Kg",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
+    "price": 27.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Patagonia Tipos Lata 473ml",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Palmito Qualidoro Inteiro 300g - Leve 3 Pague 2 Kit Pronto",
+    "price": 59.96
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito McCain AirFryer 600g - Leve 3 Pague 2 - Monte seu kit",
+    "price": 39.96
+  },
+  {
+    "store": "Festval",
+    "name": "Café Baggio Sabores 250g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 75.96
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Perdigão Sabores Congelada 600g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 33.98
   }
 ]
