@@ -41,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti Cola 2 litros Zero",
-    "price": 3.99
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "-43%",
-    "price": 6.99
+    "name": "-50%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -61,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
+    "name": "Refrigerante Conti Cola 2 litros Zero",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
+    "name": "-43%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -81,13 +81,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -101,7 +101,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
@@ -111,7 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -131,6 +141,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder 75g 6 unidades",
     "price": 11.99
   },
@@ -141,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "name": "Refresco Tang 18g Goiaba",
+    "price": 0.79
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-34%",
+    "price": 1.19
   },
   {
     "store": "Irani",
@@ -158,16 +178,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Tang 18g Goiaba",
-    "price": 0.79
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 1.19
   },
   {
     "store": "Irani",
@@ -271,27 +281,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 27.9
   },
   {
