@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -151,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -171,43 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "name": "Maion Heinz 215g",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder 75g 6 unidades",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 17.99
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -228,6 +188,46 @@
     "store": "Irani",
     "name": "-33%",
     "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
