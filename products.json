@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
@@ -31,13 +21,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Fanta 350ml Guaraná",
-    "price": 1.49
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "-57%",
-    "price": 3.49
+    "name": "-67%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -48,6 +38,16 @@
     "store": "Irani",
     "name": "-50%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "-45%",
+    "price": 1.79
   },
   {
     "store": "Irani",
@@ -62,16 +62,6 @@
   {
     "store": "Irani",
     "name": "Refresco Clight 8g Tangerina",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "-45%",
-    "price": 1.79
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
     "price": 0.99
   },
   {
@@ -161,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -181,23 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -211,13 +181,23 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 2.99
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 4.49
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -231,13 +211,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
+    "name": "Creatina Dux 300g",
+    "price": 59.98
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 59.89
+    "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
