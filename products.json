@@ -151,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "name": "Maion Heinz 215g",
     "price": 8.99
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
   {
@@ -181,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Nestle Kit Kat 41,5g Latte Macchiato",
-    "price": 2.99
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 4.49
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -201,7 +201,27 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Fraldas Cremer Magic CareHiper C/40 XXG",
+    "price": 29.89
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Tang 18g Goiaba",
+    "price": 0.79
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -218,26 +238,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Tang 18g Goiaba",
-    "price": 0.79
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 1.19
   },
   {
     "store": "Irani",
@@ -261,6 +261,36 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Cremer Magic CareHiper C/60 G",
+    "price": 29.89
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Cremer Magic CareHiper C/52 XG",
+    "price": 29.89
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Cremer Magic CareHiper C/68 M",
+    "price": 29.89
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 44.99
+  },
+  {
+    "store": "Irani",
     "name": "Milho Verde 170g Bonare",
     "price": 2.29
   },
@@ -268,36 +298,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 3.29
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
   },
   {
     "store": "Festval",
