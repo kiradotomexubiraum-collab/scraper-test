@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 1.99
   },
   {
@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
@@ -151,13 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -171,6 +161,36 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -181,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -201,16 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/40 XXG",
-    "price": 29.89
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 44.99
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Tang 18g Goiaba",
     "price": 0.79
   },
@@ -218,26 +228,6 @@
     "store": "Irani",
     "name": "-34%",
     "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
   },
   {
     "store": "Irani",
@@ -261,36 +251,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/60 G",
-    "price": 29.89
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 44.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/52 XG",
-    "price": 29.89
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 44.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Cremer Magic CareHiper C/68 M",
-    "price": 29.89
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 44.99
-  },
-  {
-    "store": "Irani",
     "name": "Milho Verde 170g Bonare",
     "price": 2.29
   },
@@ -300,173 +260,183 @@
     "price": 3.29
   },
   {
-    "store": "Festval",
-    "name": "Vinho Espanhol Condesa de Leganza Tipos 750ml",
-    "price": 29.9
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Laranja",
+    "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Vinho Uruguaio Marta Mendez Tipos 750ml",
-    "price": 29.9
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
   },
   {
-    "store": "Festval",
-    "name": "Vinho Espanhol Faustino VII Tipos 750ml",
-    "price": 39.0
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Português Titular Dão Colheita Tipos 750ml",
-    "price": 49.0
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Português Cantanhede Tinto 750ml",
-    "price": 24.9
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino Pascual Toso Tipos 750ml",
-    "price": 29.9
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Espanhol El Rejoneo Gran Reserva 750ml",
-    "price": 59.0
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
-    "store": "Festval",
-    "name": "Manteiga Extra Frimesa Com ou Sem Sal 200g - 50% de Desconto na 2º Unidade",
-    "price": 13.29
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos de codorna Geriba 300g - 50% de Desconto na 2º Unidade",
-    "price": 22.9
-  },
-  {
-    "store": "Festval",
-    "name": "Milho para Pipoca Geriba 500g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 11.98
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Itasa 1kg - Leve 3 Pague 2 Monte Seu Kit",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Ceratti Defumado Fatiado 100g - 50% de Desconto na 2º Unidade",
-    "price": 11.98
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Refinado Alto Alegre 1Kg - Leve 3 Pague 2 Monte seu Kit",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Máxima Proteção M/G/XG/XXG",
-    "price": 67.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mix Festa Amendoim Lavivá 250g - 50% de Desconto na 2º Unidade",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Chopp de Vinho Bella Roma 473ml - Leve 6 Pague 4 - Monte seu Kit",
-    "price": 27.96
-  },
-  {
-    "store": "Festval",
-    "name": "Chá Flores e Frutas Dr. Oetker Sabores 30g",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Nestlé Zero Garafinha 170g - Leve 3 Pague 2 - Kit Pronto",
-    "price": 8.98
-  },
-  {
-    "store": "Festval",
-    "name": "Banha Frimesa 450g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 19.96
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito Amanteigado Marilan Sabores 280g - 50% de Desconto na 2º Unidade",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Massa para Lasanha Renata 500g - 50% de Desconto na 2º Unidade",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de Ricota Tirolez 200g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 20.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Sassami Coopavel Resfriado Kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Starck com Queijo 800g - 50% de Desconto na 2º Unidade",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Limpa Pisos UAU Tipos 750ml - 50% de Desconto na 2º Unidade",
-    "price": 17.98
-  },
-  {
-    "store": "Festval",
-    "name": "Guacamole Sr. Guaca Resfriada 200g - 50% de Desconto na 2º Unidade",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
-    "price": 27.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Patagonia Tipos Lata 473ml",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Qualidoro Inteiro 300g - Leve 3 Pague 2 Kit Pronto",
-    "price": 59.96
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "store": "Irani",
+    "name": "-28%",
     "price": 49.9
   },
   {
     "store": "Festval",
-    "name": "Batata Palito McCain AirFryer 600g - Leve 3 Pague 2 - Monte seu kit",
+    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela LactoBom 150g - Leve 3 Pague 2 - Monte Seu Kit",
+    "price": 19.96
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
+    "price": 7.9
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Brancos Happy Eggs com 10 unidades - 50% Off na 2º Unidade",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Leite Piracanjuba TP 200g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Prato Fino Branco 1 Kg - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa de Frango Temperada Copacol 1kg",
+    "price": 14.98
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Ola 1L - Leve 3 Pague 2 - Kit Pronto",
+    "price": 47.96
+  },
+  {
+    "store": "Festval",
+    "name": "Salame Italiano Sadia Fatiado 100g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 25.98
+  },
+  {
+    "store": "Festval",
+    "name": "Pizza Oliva Forneria Sabores - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 69.9
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 2kg - 50% na 2ª Unidade",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Leite Nestlé Lata 300g - Leve 3 Pague 2 Kit Pronto",
+    "price": 23.98
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate Garoto Talento 85g - Leve 3 Pague 2 Kit Pronto",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Cremaschi Furlotti Tipos 750ml - Leve 3 Pague 2 Kit Pronto",
+    "price": 79.0
+  },
+  {
+    "store": "Festval",
+    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
+    "price": 119.8
+  },
+  {
+    "store": "Festval",
+    "name": "Refrigerante Pepsi Cola Lata Original Sabores 350ml - Leve 12 Pague 8 - Monte seu Kit",
+    "price": 27.92
+  },
+  {
+    "store": "Festval",
+    "name": "Azeitona Mamma Bia Preta 198g - Leve 3 Pague 2 - Kit Pronto",
     "price": 39.96
   },
   {
     "store": "Festval",
-    "name": "Café Baggio Sabores 250g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 75.96
+    "name": "Salgadinho Doritos 75g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 17.98
   },
   {
     "store": "Festval",
-    "name": "Lasanha Perdigão Sabores Congelada 600g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 33.98
+    "name": "Batata Mccain Smiles Congelada 400g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 33.96
+  },
+  {
+    "store": "Festval",
+    "name": "Bolo de Leite Ninho Festval 800g",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Vitória Mimo Seleção 400g - 50% Off na 2º Unidade",
+    "price": 11.98
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon em Cubos Frimesa Resfriado 400g - 50% Off na 2º Unidade",
+    "price": 27.99
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Vigor Tradicional 200g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 19.96
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Parboilizado Rampinelli 2 Kg - 50% Off na 2º Unidade",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1 L - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 43.96
   }
 ]
