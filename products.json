@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 48.69
   },
@@ -151,13 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -171,7 +161,27 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -191,6 +201,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Kinder 75g 6 unidades",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -201,23 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
     "store": "Irani",
     "name": "-33%",
     "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder 75g 6 unidades",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 17.99
   },
   {
     "store": "Irani",
@@ -261,27 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Laranja",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "-28%",
     "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Laranja",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
