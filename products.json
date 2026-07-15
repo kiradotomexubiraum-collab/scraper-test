@@ -11,17 +11,17 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 0.99
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 23.98
   },
   {
     "store": "Irani",
     "name": "-45%",
-    "price": 1.79
+    "price": 43.98
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Maracujá",
+    "name": "Refresco Clight 8g Laranja",
     "price": 0.99
   },
   {
@@ -141,13 +141,23 @@
   },
   {
     "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 14.98
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -171,16 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
@@ -191,13 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 59.89
+    "price": 14.98
   },
   {
     "store": "Irani",
@@ -241,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -251,7 +251,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -271,16 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Conti 2l Laranja",
     "price": 4.99
   },
@@ -291,58 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
     "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 35.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela LactoBom 150g - Leve 3 Pague 2 - Monte Seu Kit",
-    "price": 19.96
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 15.98
-  },
-  {
-    "store": "Festval",
-    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
-    "price": 7.9
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Brancos Happy Eggs com 10 unidades - 50% Off na 2º Unidade",
-    "price": 7.98
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de Leite Piracanjuba TP 200g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 7.98
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Prato Fino Branco 1 Kg - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 15.98
   },
   {
     "store": "Festval",
@@ -438,5 +393,110 @@
     "store": "Festval",
     "name": "Amaciante Concentrado Girando Sol Fragrâncias 1 L - Leve 3 Pague 2 - Monte seu Kit",
     "price": 43.96
+  },
+  {
+    "store": "Festval",
+    "name": "Cebola Nacional Kg",
+    "price": 4.98
+  },
+  {
+    "store": "Festval",
+    "name": "Nectarina Importada Kg",
+    "price": 14.98
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Nanica Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja Bahia Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Tomate Extra Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mirtilo Bandeja 125g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Figo Roxo Bandeja 300g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Niágara Bandeja 500g",
+    "price": 4.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mini Alface Walker Higienizada 150g",
+    "price": 4.98
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Tâmara Jomara Jumbo com Caroço 200g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Doce Mel Unidade",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Victorianas Monterio Tipos 750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Santa Ema Select Terroir Tipos 750ml",
+    "price": 29.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Gran Mascota Tipos 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Verum Tipos 750ml",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Balduzzi Almaule Tinto 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Cremaschi Tipos 750ml",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino FDM Postales Roble Tipos 750ml",
+    "price": 39.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Les Bories Tipos 750ml",
+    "price": 49.0
   }
 ]
