@@ -21,16 +21,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Gin Tônica",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 2.99
   },
@@ -131,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
-  },
-  {
-    "store": "Irani",
-    "name": "-38%",
-    "price": 78.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 48.69
   },
@@ -151,13 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -171,7 +151,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
   {
@@ -201,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
@@ -211,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -271,16 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Nivea 400ml Milk",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Creme Dental Oral-B 3d White 70g Leve 3 Pague 2",
     "price": 18.9
   },
@@ -291,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Nivea 400ml Milk",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Desinfetante Pinho Sol Original 1L",
     "price": 12.98
   },
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "-28%",
     "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 18.99
   },
   {
     "store": "Festval",
