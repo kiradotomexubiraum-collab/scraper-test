@@ -141,16 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -161,7 +151,37 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Maion Heinz 215g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Tang 18g Goiaba",
+    "price": 0.79
+  },
+  {
+    "store": "Irani",
+    "name": "-34%",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -181,17 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Tang 18g Goiaba",
-    "price": 0.79
-  },
-  {
-    "store": "Irani",
-    "name": "-34%",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.89
   },
   {
@@ -201,13 +211,53 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
+    "name": "Batata Pringles 104g Original",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Churrasco",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Queijo",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
   },
   {
     "store": "Irani",
@@ -248,56 +298,6 @@
     "store": "Irani",
     "name": "-29%",
     "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Dental Oral-B 3d White 70g Leve 3 Pague 2",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "-27%",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Nivea 400ml Milk",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Desinfetante Pinho Sol Original 1L",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 17.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 18.99
   },
   {
     "store": "Festval",
