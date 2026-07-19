@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
     "price": 2.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 2.99
   },
   {
@@ -141,16 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -161,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -181,7 +171,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.89
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.89
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 104g Original",
+    "name": "Batata Pringles 109g Churrasco",
     "price": 8.99
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 109g Churrasco",
+    "name": "Batata Pringles 109g Creme e Cebola",
     "price": 8.99
   },
   {
@@ -251,16 +251,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
     "name": "Milho Verde 170g Bonare",
     "price": 2.29
   },
@@ -268,6 +258,16 @@
     "store": "Irani",
     "name": "-30%",
     "price": 3.29
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 104g Original",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
   },
   {
     "store": "Irani",
@@ -291,13 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Laranja",
-    "price": 4.99
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 6.99
+    "price": 34.9
   },
   {
     "store": "Festval",
