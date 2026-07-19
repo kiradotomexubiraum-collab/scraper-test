@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-50%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
     "price": 2.99
   },
@@ -12,16 +22,6 @@
   {
     "store": "Irani",
     "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 2.99
   },
   {
@@ -141,6 +141,16 @@
   },
   {
     "store": "Irani",
+    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -151,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
-    "price": 8.99
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
+    "name": "-33%",
+    "price": 59.89
   },
   {
     "store": "Irani",
@@ -201,37 +211,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
+    "name": "Milho Verde 170g Bonare",
+    "price": 2.29
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 59.89
+    "name": "-30%",
+    "price": 3.29
   },
   {
     "store": "Irani",
     "name": "Batata Pringles 109g Churrasco",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
     "price": 8.99
   },
   {
@@ -251,17 +241,27 @@
   },
   {
     "store": "Irani",
-    "name": "Milho Verde 170g Bonare",
-    "price": 2.29
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-30%",
-    "price": 3.29
+    "name": "-31%",
+    "price": 12.99
   },
   {
     "store": "Irani",
     "name": "Batata Pringles 104g Original",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
     "price": 8.99
   },
   {
@@ -436,46 +436,6 @@
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Chocolate em Barra Nestlé 80g - Leve 3 Pague 2 Kit Pronto",
-    "price": 21.98
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite de Oliva Rafael Salgado 500 ml",
-    "price": 28.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Garibaldi Floratta 750ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 59.8
-  },
-  {
-    "store": "Festval",
-    "name": "Mini Chicken Perdigão Tradicional 1 Kg - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 45.8
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Liquído OMO 3L Fragrâncias",
-    "price": 28.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Longa Vida Tipos 1L - A Partir de:",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
     "name": "Flor Alstroemeria Maço Unidade",
     "price": 15.98
   },
@@ -508,5 +468,35 @@
     "store": "Festval",
     "name": "Orquídea Phalaenopsis Ritmo Pote 24 Unidade",
     "price": 199.98
+  },
+  {
+    "store": "Festval",
+    "name": "Petit Gateau Chocolate Mr. Bey 240g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 39.8
+  },
+  {
+    "store": "Festval",
+    "name": "Pizza Oliva Forneria Sabores - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 69.8
+  },
+  {
+    "store": "Festval",
+    "name": "Camarão Cinza ie Pescados 36/52 Congelado 180g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 59.8
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Burrata Bom Destino 120g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 39.96
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça de Costela Friboi Maturatta 300g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 27.96
   }
 ]
