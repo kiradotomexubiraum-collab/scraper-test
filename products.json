@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Uva",
+    "name": "Refrigerante Conti Cola 2 litros Zero",
     "price": 3.99
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti Cola 2 litros Zero",
+    "name": "Refrigerante Conti 2l Uva",
     "price": 3.99
   },
   {
@@ -91,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chuchu Kg",
-    "price": 1.99
+    "name": "Fralda Huggies Supreme Mega C/48 Pequena",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "-33%",
-    "price": 2.99
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -121,13 +121,43 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Chuchu Kg",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
+    "name": "-33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 43g Dark",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -141,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -151,7 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -181,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -191,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -201,13 +231,13 @@
   },
   {
     "store": "Irani",
-    "name": "Palitinho Papapá S/Gluten 20g",
-    "price": 4.99
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -221,27 +251,27 @@
   },
   {
     "store": "Irani",
+    "name": "Palitinho Papapá S/Gluten 20g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 27.9
   },
   {
@@ -261,43 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
     "store": "Irani",
     "name": "-26%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.9
   },
   {
     "store": "Festval",
@@ -338,41 +338,6 @@
     "store": "Festval",
     "name": "Vinho Francês Les Bories Tipos 750ml",
     "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Gnocchi Italiano Mamma Bia 500g - Desconto de 50% na 2° Unidade",
-    "price": 12.98
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Laranja Festval Pet 900ml - Desconto de 50% na 2ª unidade",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Coopavel Congelado Kg",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Prato Fino Parboilizado ou Branco 5kg",
-    "price": 25.99
-  },
-  {
-    "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 5.96
   },
   {
     "store": "Festval",
@@ -468,5 +433,65 @@
     "store": "Festval",
     "name": "Vinagre de Maça Rosani 500ml - LEve 3 Pague 2 - Monte seu Kit",
     "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cebola Nacional Kg",
+    "price": 4.98
+  },
+  {
+    "store": "Festval",
+    "name": "Nectarina Importada Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Formosa Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Nanica Kg",
+    "price": 3.98
+  },
+  {
+    "store": "Festval",
+    "name": "Brócolis Unidade",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Tomate Extra Kg",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Couve Folha Maço Unidade",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Couve Flor Unidade",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mirtilo Bandeja 125g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja Pera Kg",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Salsa Kg",
+    "price": 4.98
   }
 ]
