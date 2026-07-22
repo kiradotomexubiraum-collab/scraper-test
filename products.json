@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maion Heinz 215g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -81,23 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Laranja Pera Rio Kg",
-    "price": 1.99
+    "name": "Maion Heinz 215g",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "Abacate Kg",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 2.99
+    "name": "-36%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -121,6 +101,66 @@
   },
   {
     "store": "Irani",
+    "name": "Laranja Pera Rio Kg",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Abacate Kg",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Conti 2l Laranja",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Serum Leave In Elseve 100ml Collagen Lifter",
     "price": 49.98
   },
@@ -128,6 +168,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 69.98
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -151,53 +201,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Laranja",
+    "name": "Palitinho Papapá S/Gluten 20g",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -211,17 +221,27 @@
   },
   {
     "store": "Irani",
-    "name": "Palitinho Papapá S/Gluten 20g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 27.9
   },
   {
@@ -251,26 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 27.9
   },
@@ -281,6 +281,16 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
     "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
     "price": 14.9
   },
@@ -288,16 +298,6 @@
     "store": "Irani",
     "name": "-25%",
     "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Iogurte Frimesa 165g Copo Morango",
-    "price": 1.49
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 1.99
   },
   {
     "store": "Festval",
