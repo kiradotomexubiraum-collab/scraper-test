@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "-50%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Tang 18g Goiaba",
     "price": 0.49
   },
@@ -41,6 +31,16 @@
   },
   {
     "store": "Irani",
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "-50%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 23.98
   },
@@ -48,6 +48,16 @@
     "store": "Irani",
     "name": "-45%",
     "price": 43.98
+  },
+  {
+    "store": "Irani",
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 27.98
   },
   {
     "store": "Irani",
@@ -71,13 +81,13 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Frimesa 500g Sem Sal",
-    "price": 17.98
+    "name": "Pão Caseirinho 350g Lanche Hambúrguer",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "-36%",
-    "price": 27.98
+    "name": "-33%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -91,16 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
-  },
-  {
-    "store": "Irani",
     "name": "Cola Liquida Branca Vmp 90g",
     "price": 3.99
   },
@@ -108,6 +108,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
   },
   {
     "store": "Irani",
@@ -151,6 +161,36 @@
   },
   {
     "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Ação Total",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Coco",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
@@ -158,6 +198,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 23.98
   },
   {
     "store": "Irani",
@@ -181,43 +231,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Ação Total",
-    "price": 16.98
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Coco",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
+    "price": 69.98
   },
   {
     "store": "Irani",
@@ -231,26 +251,6 @@
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 69.98
-  },
-  {
-    "store": "Irani",
-    "name": "Palitinho Papapá S/Gluten 20g",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
     "name": "Palitinhos de Vegetais Papapá Beterraba 20g",
     "price": 4.99
   },
@@ -261,13 +261,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
+    "name": "Palitinho Papapá S/Gluten 20g",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
+    "name": "-28%",
+    "price": 6.89
   },
   {
     "store": "Irani",
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 27.9
   },
   {
@@ -473,5 +473,45 @@
     "store": "Festval",
     "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades",
     "price": 16.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 47.9
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Coopavel Resfriada Kg",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Costelinha Suína Com Pele e Com Osso Coopavel Kg",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Paleta de Cordeiro CarneiroSul Resfriada Kg",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Campeira Starck Kg",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Ripa Bovina Padrão Beef Paça A Vácuo KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 39.9
   }
 ]
