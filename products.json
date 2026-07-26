@@ -231,16 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 69.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -248,6 +238,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 69.98
   },
   {
     "store": "Irani",
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -436,82 +436,42 @@
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "name": "Leite Condensado Frimesa TP 395g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 15.96
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 22.9
+  },
+  {
+    "store": "Festval",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Seara Com Molho Barbecue 1kg",
     "price": 49.9
   },
   {
     "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 5.99
+    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Costela Bovina Com Osso (Exceto: Minga, Ripa, Tira e Costelão) KG",
-    "price": 25.9
+    "name": "Filé Mignon Bovino Do Chef Kg",
+    "price": 89.9
   },
   {
     "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 4.99
+    "name": "Moscatel Garibaldi Floratta 750ml - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 59.8
   },
   {
     "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Achocolatado Nescau Lata 350g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Asio Otus 750ml - Leve 3 Pague 2 Kit Pronto",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades",
-    "price": 16.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 47.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Coopavel Resfriada Kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Costelinha Suína Com Pele e Com Osso Coopavel Kg",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta de Cordeiro CarneiroSul Resfriada Kg",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Campeira Starck Kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Ripa Bovina Padrão Beef Paça A Vácuo KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 39.9
+    "name": "Café do Ponto Tradicional a Vácuo 500g - Leve 3 Pague 2 - Monte seu Kit",
+    "price": 59.96
   }
 ]
