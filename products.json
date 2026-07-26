@@ -91,6 +91,16 @@
   },
   {
     "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
+  },
+  {
+    "store": "Irani",
     "name": "Fralda Huggies Supreme Mega C/48 Pequena",
     "price": 39.9
   },
@@ -111,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
   {
@@ -271,17 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 27.9
   },
   {
@@ -292,6 +282,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
