@@ -91,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
-  },
-  {
-    "store": "Irani",
     "name": "Fralda Huggies Supreme Mega C/48 Pequena",
     "price": 39.9
   },
@@ -108,6 +98,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
   },
   {
     "store": "Irani",
@@ -121,6 +121,106 @@
   },
   {
     "store": "Irani",
+    "name": "Sabonete Palmolive 150g Hidratação Saudável",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Nutrição Luminosa",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Suave Toque Radiante",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Nutrição Intensiva",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Purificante Carvão",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Suave Óleo Nutritivo",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Hidrata e Perfuma",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Tangerina e Alecrim",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Melancia e Lichia",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Esfoliação Delicada",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -131,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
   {
@@ -151,93 +251,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Ação Total",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Coco",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão Líquido Girando Sol 2L Hipoalergênico",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Aer NIVEA 200ml Black White Masc",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Aer NIVEA 200ml Black White Fem",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 23.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
   },
   {
     "store": "Irani",
@@ -248,6 +268,16 @@
     "store": "Irani",
     "name": "-29%",
     "price": 69.98
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -268,36 +298,6 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
   },
   {
     "store": "Festval",
