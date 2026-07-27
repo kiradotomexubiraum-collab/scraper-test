@@ -91,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fralda Huggies Supreme Mega C/48 Pequena",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -108,6 +98,16 @@
     "store": "Irani",
     "name": "-33%",
     "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Fralda Huggies Supreme Mega C/48 Pequena",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -122,6 +122,16 @@
   {
     "store": "Irani",
     "name": "Sabonete Palmolive 150g Hidratação Saudável",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Hidrata e Perfuma",
     "price": 3.38
   },
   {
@@ -151,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Palmolive 150g Nutrição Intensiva",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
     "name": "Sabonete Palmolive 150g Purificante Carvão",
     "price": 3.38
   },
@@ -181,17 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Palmolive 150g Hidrata e Perfuma",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Tangerina e Alecrim",
+    "name": "Sabonete Palmolive 150g Esfoliação Delicada",
     "price": 3.38
   },
   {
@@ -211,7 +201,17 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Palmolive 150g Esfoliação Delicada",
+    "name": "Sabonete Palmolive 150g Nutrição Intensiva",
+    "price": 3.38
+  },
+  {
+    "store": "Irani",
+    "name": "-32%",
+    "price": 4.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Palmolive 150g Tangerina e Alecrim",
     "price": 3.38
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
   {
@@ -261,43 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 69.98
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Palitinhos de Vegetais Papapá Beterraba 20g",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 6.89
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Palitinho Papapá S/Gluten 20g",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 6.89
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
   },
   {
     "store": "Festval",
@@ -436,42 +436,87 @@
   },
   {
     "store": "Festval",
-    "name": "Leite Condensado Frimesa TP 395g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 15.96
+    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 22.9
+    "name": "Detergente Girando Sol Fragrâncias 500ML",
+    "price": 1.98
   },
   {
     "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Líquido Uau 3L",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas em Pó Brilhante 2,2Kg Caixa",
+    "price": 17.9
+  },
+  {
+    "store": "Festval",
+    "name": "Limpador Multiuso UAU 500ml",
+    "price": 3.98
+  },
+  {
+    "store": "Festval",
+    "name": "Papel Higiênico Duetto com 18 Rolos 20m ou 30m",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Tira Manchas Vanish White Sachê 400g - Leve 3 Pague 2 - Kit Pronto",
+    "price": 46.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite em Pó Ninho Integral Lata 380g",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Poços de Caldas Tradicional 200g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Coxa Com Sobrecoxa Congelada Kg",
+    "price": 6.49
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Músculo Bovino Reserva Pedaço KG",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Costela Seara Com Molho Barbecue 1kg",
-    "price": 49.9
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
   },
   {
     "store": "Festval",
-    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
-    "price": 29.9
+    "name": "Queijo Mussarela Frimesa Fatiado 150g",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Filé Mignon Bovino Do Chef Kg",
-    "price": 89.9
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Garibaldi Floratta 750ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 59.8
-  },
-  {
-    "store": "Festval",
-    "name": "Café do Ponto Tradicional a Vácuo 500g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 59.96
+    "name": "Filé de Tilápia CVale IQF 800G",
+    "price": 32.9
   }
 ]
