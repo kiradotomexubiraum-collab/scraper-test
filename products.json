@@ -121,106 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Palmolive 150g Hidratação Saudável",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Hidrata e Perfuma",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Nutrição Luminosa",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Suave Toque Radiante",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Purificante Carvão",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Suave Óleo Nutritivo",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Esfoliação Delicada",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Melancia e Lichia",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Nutrição Intensiva",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Palmolive 150g Tangerina e Alecrim",
-    "price": 3.38
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 4.98
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -281,6 +181,36 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
@@ -291,13 +221,83 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 69.98
+  },
+  {
+    "store": "Irani",
+    "name": "Palitinhos de Vegetais Papapá Beterraba 20g",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "-28%",
-    "price": 49.9
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Palitinho Papapá S/Gluten 20g",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
   },
   {
     "store": "Festval",
