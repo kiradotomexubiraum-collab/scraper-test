@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Frimesa 500g Sem Sal",
-    "price": 17.98
-  },
-  {
-    "store": "Irani",
-    "name": "-36%",
-    "price": 27.98
-  },
-  {
-    "store": "Irani",
     "name": "Maion Heinz 215g",
     "price": 8.99
   },
@@ -71,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "-36%",
+    "price": 27.98
+  },
+  {
+    "store": "Irani",
     "name": "Maion Heinz 215g Squeeze Alho Tostado Com Ervas",
     "price": 8.99
   },
@@ -78,26 +78,6 @@
     "store": "Irani",
     "name": "-36%",
     "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 350g Lanche Hambúrguer",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
   },
   {
     "store": "Irani",
@@ -121,6 +101,26 @@
   },
   {
     "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 89.79
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 350g Lanche Hambúrguer",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 6.98
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
@@ -161,6 +161,26 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 69.98
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
@@ -171,17 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -201,17 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -221,13 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "-29%",
-    "price": 69.98
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -248,6 +248,16 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -282,16 +292,6 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
@@ -433,46 +433,6 @@
     "store": "Festval",
     "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
     "price": 29.5
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ML",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Líquido Uau 3L",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Brilhante 2,2Kg Caixa",
-    "price": 17.9
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Multiuso UAU 500ml",
-    "price": 3.98
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Duetto com 18 Rolos 20m ou 30m",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Tira Manchas Vanish White Sachê 400g - Leve 3 Pague 2 - Kit Pronto",
-    "price": 46.9
   },
   {
     "store": "Festval",
