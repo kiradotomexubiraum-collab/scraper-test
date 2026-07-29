@@ -101,26 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 89.79
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 350g Lanche Hambúrguer",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -141,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
@@ -161,7 +131,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Chocolate Kinder Bueno 43g Dark",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "-30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -181,7 +161,27 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "-28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -211,26 +211,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "-28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Palitinhos de Vegetais Papapá Beterraba 20g",
     "price": 4.99
   },
@@ -248,16 +228,6 @@
     "store": "Irani",
     "name": "-28%",
     "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
   },
   {
     "store": "Irani",
@@ -298,6 +268,36 @@
     "store": "Irani",
     "name": "-26%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
   },
   {
     "store": "Festval",
