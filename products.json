@@ -41,6 +41,26 @@
   },
   {
     "store": "Irani",
+    "name": "Fralda Huggies Supreme Mega C/48 Pequena",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
@@ -131,23 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
+    "name": "Kit Panos C/4 Proauto 35x35",
+    "price": 12.9
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fralda Huggies Supreme Mega C/48 Pequena",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 59.9
+    "name": "-32%",
+    "price": 18.9
   },
   {
     "store": "Irani",
@@ -158,56 +168,6 @@
     "store": "Irani",
     "name": "-32%",
     "price": 7.29
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Churrasco",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Queijo",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 104g Original",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
   },
   {
     "store": "Irani",
@@ -241,6 +201,56 @@
   },
   {
     "store": "Irani",
+    "name": "Batata Pringles 109g Churrasco",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Creme e Cebola",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 104g Original",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 109g Queijo",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -271,16 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 27.9
   },
@@ -298,101 +298,6 @@
     "store": "Irani",
     "name": "-26%",
     "price": 37.9
-  },
-  {
-    "store": "Festval",
-    "name": "Granola Jasmine tipos 250g - Desconto de 50% na 2° Unidade",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Petit Gateau Doce de Leite Havanna 160g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Presunto Cru Italiano ou Espanhol Ceratti Fatiado 100g",
-    "price": 27.9
-  },
-  {
-    "store": "Festval",
-    "name": "Massa Renata Espaguete Com Ovos 500g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 11.8
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Especial Sabor Sul 2Kg - 50% na 2ª Unidade",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite em Pó Batavo Sachê Tipos 400G",
-    "price": 14.98
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha Miss Laura Sabores 300g",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito Amanteigado Marilan Sabores 280g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 15.98
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1 L - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 43.96
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Burrata Bom Destino 120g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 39.96
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite de Oliva Espanhol Mamma Bia 0,3% Ânfora 500ml - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 109.8
-  },
-  {
-    "store": "Festval",
-    "name": "Biscoito de Arros Rampinelli 150g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 17.98
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Estrella Galicia 355ml - Leve 6 Pague 4 - Monte seu Kit",
-    "price": 26.36
-  },
-  {
-    "store": "Festval",
-    "name": "Creme Minas Frescal Tirolez Tradicional ou Light 150g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 20.98
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Jandel Rodelas 300g - Desconto de 50% na 2° Unidade",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Protetor Intimus Days c/15 Unidades - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 17.98
-  },
-  {
-    "store": "Festval",
-    "name": "Refresco Del Valle Limonada Sabores 290ml - Leve 6 Pague 4 - Monte seu Kit",
-    "price": 19.96
-  },
-  {
-    "store": "Festval",
-    "name": "Salsicha Copacol Hot Dog 420g - Leve 3 Pague 2 - Monte seu Kit",
-    "price": 21.98
-  },
-  {
-    "store": "Festval",
-    "name": "Vinagre de Maça Rosani 500ml - LEve 3 Pague 2 - Monte seu Kit",
-    "price": 15.98
   },
   {
     "store": "Festval",
@@ -436,62 +341,92 @@
   },
   {
     "store": "Festval",
-    "name": "Cebola Nacional Kg",
+    "name": "Óleo De Soja Liza Pet 900ml",
+    "price": 5.59
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
     "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Doce Roxa Kg",
+    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
     "price": 2.99
   },
   {
     "store": "Festval",
-    "name": "Cenoura Kg",
-    "price": 3.99
+    "name": "Açúcar Cristal Alto Alegre 5kg",
+    "price": 10.99
   },
   {
     "store": "Festval",
-    "name": "Melão Amarelo Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Brócolis Unidade",
+    "name": "Feijão Preto Itasa 1Kg",
     "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Laranja Bahia Kg",
-    "price": 3.99
+    "name": "Arroz Parboilizado Sabor Sul 5kg",
+    "price": 13.99
   },
   {
     "store": "Festval",
-    "name": "Mexerica Kg",
-    "price": 5.99
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Couve-Flor Unidade",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol Bandeja 1 Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Sem Semente Turma da Mônica 500g",
+    "name": "Morango Bandeja 250g",
     "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Lider Tipos TP 1L",
+    "price": 4.79
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Calabresa Frimesa kg",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Zamioculcas Pote 17",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Sabonete Dove Fragrâncias kit com 6 Unidades 90g",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Caboclo Tradicional A Vácuo 500g",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Bonina 5KG",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Suína com Pele e Osso Coopavel kg",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas OMO Líquido Ciclo Rápido 750ml",
+    "price": 8.99
   }
 ]
