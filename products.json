@@ -1,7 +1,97 @@
 [
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "name": "Chocolate Importado Lindt Lindor Caixa Presente 100g",
+    "price": 24.99
+  },
+  {
+    "store": "Irani",
+    "name": "-63%",
+    "price": 67.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindor Singles 100g Ao leite com Avelã",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "-62%",
+    "price": 46.9
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindor Singles 100g Ao Leite",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "-62%",
+    "price": 46.9
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 39.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 39.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindor Cornet 200g Pistache",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 99.9
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindt Classic 100g Dark",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 39.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindt Premium Gold 300g Ao Leite",
+    "price": 49.99
+  },
+  {
+    "store": "Irani",
+    "name": "-55%",
+    "price": 109.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
     "price": 15.99
   },
   {
@@ -11,7 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
   {
@@ -101,13 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
+    "name": "-32%",
+    "price": 7.29
   },
   {
     "store": "Irani",
@@ -121,17 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 7.29
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
@@ -141,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
   {
@@ -158,26 +238,6 @@
     "store": "Irani",
     "name": "-30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 104g Original",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
   },
   {
     "store": "Irani",
@@ -201,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "name": "Batata Pringles 109g Creme e Cebola",
     "price": 8.99
   },
   {
@@ -211,222 +271,147 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Batata Pringles 104g Original",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 34.9
+    "name": "-31%",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
+    "name": "Presunto Cozido Sadia 180g Fatiado",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "-29%",
-    "price": 69.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Malaspina Chianti Clássico 750ml",
-    "price": 79.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português R de Romaneira 750ml - Branco ou Tinto",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Marchesi Barbera D'Asti 750ml",
-    "price": 79.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Balduzzi Reserva Tipos 750ML",
-    "price": 24.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Paolo Scavino Tinto 750ml",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Renacer Punto Final Reserva Tipos 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Septima Emblema Tipos 750ml",
-    "price": 34.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
-    "price": 29.5
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo De Soja Liza Pet 900ml",
-    "price": 5.59
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
-    "price": 2.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Sabor Sul 5kg",
-    "price": 13.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Morango Bandeja 250g",
+    "name": "-30%",
     "price": 9.98
   },
   {
+    "store": "Irani",
+    "name": "Batata Pringles 105g Cheddar e Bacon",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "-31%",
+    "price": 12.99
+  },
+  {
     "store": "Festval",
-    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 9.99
+  },
+  {
+    "store": "Festval",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.79
+    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Linguiça Calabresa Frimesa kg",
-    "price": 21.9
+    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
+    "price": 11.9
   },
   {
     "store": "Festval",
-    "name": "Zamioculcas Pote 17",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete Dove Fragrâncias kit com 6 Unidades 90g",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Caboclo Tradicional A Vácuo 500g",
+    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
     "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
+    "name": "Filé de Tilápia CVale IQF 800G",
+    "price": 32.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Especial Moka Sabores 250g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "price": 17.99
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 11.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 10.9
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de leite Piracanjuba 200g",
+    "price": 2.98
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Cremoso Tradicional Président Copo 200g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Polpa Nestlé 510g Sabores",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 2kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon Frimesa Manta Kg",
+    "price": 43.9
+  },
+  {
+    "store": "Festval",
+    "name": "Sorvete Nestlé Sabores Tradicionais 1,5L",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
     "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Costela Suína com Pele e Osso Coopavel kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas OMO Líquido Ciclo Rápido 750ml",
-    "price": 8.99
+    "name": "Arroz Branco Prato Fino 2Kg",
+    "price": 11.99
   }
 ]
