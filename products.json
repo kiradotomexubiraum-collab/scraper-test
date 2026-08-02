@@ -41,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindor Cornet 200g Pistache",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 99.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Importado Lindt Classic 100g Dark",
     "price": 15.98
   },
@@ -58,6 +48,16 @@
     "store": "Irani",
     "name": "-60%",
     "price": 39.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Importado Lindor Cornet 200g Pistache",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 99.9
   },
   {
     "store": "Irani",
@@ -201,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 6.98
   },
   {
@@ -298,5 +298,120 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 9.99
+  },
+  {
+    "store": "Festval",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
+    "price": 11.9
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia CVale IQF 800G",
+    "price": 32.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Especial Moka Sabores 250g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "price": 17.99
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 11.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 10.9
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de leite Piracanjuba 200g",
+    "price": 2.98
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Cremoso Tradicional Président Copo 200g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Polpa Nestlé 510g Sabores",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 2kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon Frimesa Manta Kg",
+    "price": 43.9
+  },
+  {
+    "store": "Festval",
+    "name": "Sorvete Nestlé Sabores Tradicionais 1,5L",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Branco Prato Fino 2Kg",
+    "price": 11.99
   }
 ]
