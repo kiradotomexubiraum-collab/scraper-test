@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindor Singles 100g Ao Leite",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "-62%",
-    "price": 46.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Importado Lindor Singles 100g Ao leite com Avelã",
     "price": 17.9
   },
@@ -21,13 +11,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
-    "price": 15.98
+    "name": "Chocolate Importado Lindor Singles 100g Ao Leite",
+    "price": 17.9
   },
   {
     "store": "Irani",
-    "name": "-60%",
-    "price": 39.98
+    "name": "-62%",
+    "price": 46.9
   },
   {
     "store": "Irani",
@@ -51,6 +41,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "-60%",
+    "price": 39.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Importado Lindt Premium Gold 300g Ao Leite",
     "price": 49.99
   },
@@ -61,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
+    "name": "Steak Lar 100g",
+    "price": 1.19
   },
   {
     "store": "Irani",
-    "name": "-33%",
-    "price": 5.99
+    "name": "-37%",
+    "price": 1.89
   },
   {
     "store": "Irani",
@@ -78,6 +78,26 @@
     "store": "Irani",
     "name": "-33%",
     "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "-33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -121,47 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -181,33 +161,53 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
-    "price": 17.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
+    "name": "-26%",
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed Fini Dentaduras",
-    "price": 17.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
+    "name": "-26%",
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
-    "price": 29.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -221,7 +221,37 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Spray Bio Extratus Mega 100ml Queravit",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Detergente Líquido YPÊ 500ml Neutro",
+    "price": 2.09
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Melancia",
     "price": 17.99
   },
   {
@@ -231,43 +261,33 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
+    "name": "Hidratante Labial Carmed 10g Maça do AMor",
+    "price": 17.99
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 7.99
+    "price": 23.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 14.9
+    "name": "Hidratante Labial Carmed 10g Fini Bananas",
+    "price": 17.99
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 19.9
+    "price": 23.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 14.9
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 17.99
   },
   {
     "store": "Irani",
     "name": "-25%",
-    "price": 19.9
+    "price": 23.99
   },
   {
     "store": "Irani",
@@ -280,64 +300,49 @@
     "price": 19.98
   },
   {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
+    "store": "Festval",
+    "name": "Lasanha Seara Sabores 600g",
+    "price": 12.99
   },
   {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
+    "store": "Festval",
+    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
+    "price": 37.9
   },
   {
-    "store": "Irani",
-    "name": "Chocolate Barra Hersheys 82g Ao Leite",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
+    "store": "Festval",
+    "name": "Presunto Frimesa Cozido Fatiado 200g",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 49.9
+    "name": "Cápsulas 3 Corações Sabores com 10 Unidades",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Passata italiana Mamma Bia 690g",
-    "price": 9.99
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
+    "name": "Leite Batavo Pense Zero 1L",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Azeite de Oliva Grego Mamma Bia 500ml",
-    "price": 29.9
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
   },
   {
     "store": "Festval",
-    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
-    "price": 11.9
+    "name": "Queijo Mussarela Frimesa Fatiado 150g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800G",
-    "price": 32.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Especial Moka Sabores 250g",
-    "price": 29.9
+    "name": "Arroz Prato Fino Parboilizado ou Branco 5kg",
+    "price": 24.99
   },
   {
     "store": "Festval",
