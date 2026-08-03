@@ -51,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindor Cornet 200g Pistache",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 99.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Importado Lindt Premium Gold 300g Ao Leite",
     "price": 49.99
   },
@@ -81,26 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
     "name": "Manteiga Frimesa 500g Sem Sal",
     "price": 19.98
   },
@@ -108,76 +78,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 23.99
   },
   {
     "store": "Irani",
@@ -191,86 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Panos C/4 Proauto 35x35",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "-32%",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Churrasco",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Creme e Cebola",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 109g Queijo",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 104g Original",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
     "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 6.98
   },
@@ -281,16 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Pringles 105g Cheddar e Bacon",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "-31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -298,6 +108,196 @@
     "store": "Irani",
     "name": "-29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "-29%",
+    "price": 69.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vodka Smirnoff 998ml",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Cereja",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Minas Frescal Polenghi 400g",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 7.99
   },
   {
     "store": "Festval",
