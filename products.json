@@ -1,13 +1,33 @@
 [
   {
     "store": "Irani",
+    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 48%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Presunto Cozido Sadia 180g Fatiado",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-44%",
+    "name": "- 44%",
     "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Seven Boys 450g Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 43%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -16,7 +36,7 @@
   },
   {
     "store": "Irani",
-    "name": "-33%",
+    "name": "- 33%",
     "price": 29.98
   },
   {
@@ -26,8 +46,18 @@
   },
   {
     "store": "Irani",
-    "name": "-33%",
+    "name": "- 33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 57.9
   },
   {
     "store": "Irani",
@@ -36,18 +66,58 @@
   },
   {
     "store": "Irani",
-    "name": "-32%",
+    "name": "- 32%",
     "price": 7.29
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "-29%",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta Biocolor Homem Castanha Escuro",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -56,18 +126,28 @@
   },
   {
     "store": "Irani",
-    "name": "-29%",
+    "name": "- 29%",
     "price": 69.98
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Carga Gillette Mach 3 CarbonoC/4",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -76,17 +156,7 @@
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
+    "name": "- 26%",
     "price": 37.9
   },
   {
@@ -96,17 +166,7 @@
   },
   {
     "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
+    "name": "- 26%",
     "price": 37.9
   },
   {
@@ -116,18 +176,68 @@
   },
   {
     "store": "Irani",
-    "name": "-26%",
+    "name": "- 26%",
     "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 14.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 19.9
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bombom Nestlé 251g Especialidades",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Nero D`avola",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -136,7 +246,7 @@
   },
   {
     "store": "Irani",
-    "name": "-25%",
+    "name": "- 25%",
     "price": 23.99
   },
   {
@@ -146,158 +256,48 @@
   },
   {
     "store": "Irani",
-    "name": "-25%",
+    "name": "- 25%",
     "price": 23.99
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
+    "name": "Vinho Italiano Bellamico 750ml - Negroamaro Primitivo",
+    "price": 44.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 7.99
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Rose Suave",
+    "name": "Kit Lava Carros Men Central Sul",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Hidratante Nivea 75g Men Lata",
     "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
+    "name": "- 25%",
     "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Branco Suave",
-    "price": 29.9
+    "name": "Desodorante Rexona 200ml Aerosol Men V8",
+    "price": 17.9
   },
   {
     "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Spray Bio Extratus Mega 100ml Queravit",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Fini Bananas",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Barra Hersheys 82g Ao Leite",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Minas Frescal Polenghi 400g",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Tinto Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "-24%",
-    "price": 1.69
-  },
-  {
-    "store": "Irani",
-    "name": "Detergente em Pó CIF 2,4k Pacote Limpeza Pesada Profissional",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "-23%",
-    "price": 25.9
+    "name": "- 25%",
+    "price": 23.9
   },
   {
     "store": "Festval",
