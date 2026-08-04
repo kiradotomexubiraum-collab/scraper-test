@@ -1,73 +1,13 @@
 [
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindor Singles 100g Ao leite com Avelã",
-    "price": 17.9
+    "name": "Presunto Cozido Sadia 180g Fatiado",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "-62%",
-    "price": 46.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindor Singles 100g Ao Leite",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "-62%",
-    "price": 46.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
-    "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Dark",
-    "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
-    "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "-60%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Premium Gold 300g Ao Leite",
-    "price": 49.99
-  },
-  {
-    "store": "Irani",
-    "name": "-55%",
-    "price": 109.99
-  },
-  {
-    "store": "Irani",
-    "name": "Steak Lar 100g",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "-37%",
-    "price": 1.89
+    "name": "-44%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -78,16 +18,6 @@
     "store": "Irani",
     "name": "-33%",
     "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Mosteiro 1,5l Mix Uva, Maçã e Cenoura",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "-33%",
-    "price": 14.98
   },
   {
     "store": "Irani",
@@ -111,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "-30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -141,47 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "-26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
@@ -201,17 +81,87 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão Pó Brilhante Caixa 2,2 Kg Limpeza Total",
-    "price": 16.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
   },
   {
     "store": "Irani",
     "name": "-26%",
-    "price": 22.99
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "-26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed Fini Dentaduras",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Labial Carmed 10g Fini Beijos Rosa",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 23.99
+  },
+  {
+    "store": "Irani",
+    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Rose Suave",
     "price": 29.9
   },
   {
@@ -221,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vodka Smirnoff 998ml",
+    "name": "Vinho Português Olaria 750ml Branco Suave",
     "price": 29.9
   },
   {
@@ -238,16 +188,6 @@
     "store": "Irani",
     "name": "-25%",
     "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Detergente Líquido YPÊ 500ml Neutro",
-    "price": 2.09
-  },
-  {
-    "store": "Irani",
-    "name": "-25%",
-    "price": 2.79
   },
   {
     "store": "Irani",
@@ -291,6 +231,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Barra Hersheys 82g Ao Leite",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
     "name": "Queijo Minas Frescal Polenghi 400g",
     "price": 14.98
   },
@@ -298,6 +248,56 @@
     "store": "Irani",
     "name": "-25%",
     "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intimo Dermafeme 200ml C/2",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líq Intim Dermafeme 200ml C/2 Floral",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "-25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "-24%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
+    "name": "Detergente em Pó CIF 2,4k Pacote Limpeza Pesada Profissional",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "-23%",
+    "price": 25.9
   },
   {
     "store": "Festval",
