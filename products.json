@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Pão Seven Boys 450g Leite",
     "price": 3.99
   },
@@ -31,13 +21,23 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Frimesa 500g Sem Sal",
-    "price": 19.98
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 48.69
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
+    "name": "- 38%",
+    "price": 78.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 48.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 78.69
   },
   {
     "store": "Irani",
@@ -48,6 +48,46 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.89
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.89
+  },
+  {
+    "store": "Irani",
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.98
   },
   {
     "store": "Irani",
@@ -71,13 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 42.9
   },
   {
     "store": "Irani",
@@ -91,13 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
-    "price": 29.9
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 42.9
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -111,6 +151,86 @@
   },
   {
     "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Serum Leave In Elseve 100ml Collagen Lifter",
     "price": 49.98
   },
@@ -118,6 +238,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 69.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
+    "price": 17.79
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 24.79
   },
   {
     "store": "Irani",
@@ -141,37 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
@@ -198,151 +298,6 @@
     "store": "Irani",
     "name": "- 26%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Nestlé 251g Especialidades",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Melancia",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Rexona 200ml Aerosol Men V8",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Old Spice Aero 150ml Lenha",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Cereja",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.99
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Avelã Turco Tunas 700g Chocolate Avelã",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.99
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Rexona 200ml Aerossol Powder",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Labial Carmed 10g Maça do AMor",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Seara Sabores 600g",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 37.9
-  },
-  {
-    "store": "Festval",
-    "name": "Presunto Frimesa Cozido Fatiado 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Cápsulas 3 Corações Sabores com 10 Unidades",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Batavo Pense Zero 1L",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Prato Fino Parboilizado ou Branco 5kg",
-    "price": 24.99
   },
   {
     "store": "Festval",
@@ -418,5 +373,60 @@
     "store": "Festval",
     "name": "Arroz Branco Prato Fino 2Kg",
     "price": 11.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Monalisa Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Fuji Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Nanica Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Brócolis Unidade",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Couve-Flor Unidade",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja Pera Kg",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Alface Hidropônica Unidade",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Copacol Congelado Com Osso Pacote Kg",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Coco Verde Autenticoco UN",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Papaya Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Doce Uva Bandeja 500g",
+    "price": 9.98
   }
 ]
