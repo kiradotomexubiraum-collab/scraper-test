@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 43%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 48.69
   },
@@ -81,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Frimesa 500g Sem Sal",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -111,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
-    "price": 29.9
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 42.9
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -131,17 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Tinta Biocolor Homem Castanha Escuro",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 42.9
   },
   {
     "store": "Irani",
-    "name": "Tinta Biocolor Homem Castanha Escuro",
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
     "price": 29.9
   },
   {
@@ -291,7 +271,27 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
