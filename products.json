@@ -1,63 +1,53 @@
 [
   {
     "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 44%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 48.69
+    "price": 40.69
   },
   {
     "store": "Irani",
-    "name": "- 38%",
-    "price": 78.69
+    "name": "- 46%",
+    "price": 75.69
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 48.69
+    "price": 40.69
   },
   {
     "store": "Irani",
-    "name": "- 38%",
-    "price": 78.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.89
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.89
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.89
+    "name": "- 46%",
+    "price": 75.69
   },
   {
     "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.89
+    "price": 33.29
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.89
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
   },
   {
     "store": "Irani",
@@ -71,17 +61,17 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
+    "name": "Creatina Dux 300g",
+    "price": 59.98
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 7.29
+    "name": "- 33%",
+    "price": 89.79
   },
   {
     "store": "Irani",
-    "name": "Tinta Biocolor Homem Castanha Escuro",
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
     "price": 29.9
   },
   {
@@ -91,7 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
+    "name": "Tinta Biocolor Homem Castanha Escuro",
     "price": 29.9
   },
   {
@@ -121,73 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Carga Gillette Mach 3 CarbonoC/4",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Condensado Frimesa 395g Tradicional",
+    "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -201,23 +131,23 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 69.98
   },
   {
     "store": "Irani",
-    "name": "Batata Congelada Uai 2kg",
-    "price": 17.98
+    "name": "Carga Gillette Mach 3 CarbonoC/4",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 24.98
+    "name": "- 29%",
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -231,13 +161,53 @@
   },
   {
     "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 69.98
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -261,17 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
@@ -298,6 +258,46 @@
     "store": "Irani",
     "name": "- 26%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Desodorante Rexona 200ml Aerossol Invisible",
+    "price": 17.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Olaria 750ml Tinto Suave",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 15.9
   },
   {
     "store": "Festval",
