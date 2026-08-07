@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 33.29
   },
@@ -32,16 +42,6 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 33.29
   },
   {
@@ -67,7 +67,7 @@
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 89.79
+    "price": 89.89
   },
   {
     "store": "Irani",
@@ -81,6 +81,16 @@
   },
   {
     "store": "Irani",
+    "name": "Creme de Leite Piracanjuba 200g",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 3.29
+  },
+  {
+    "store": "Irani",
     "name": "Tinta Biocolor Homem Castanha Escuro",
     "price": 29.9
   },
@@ -88,6 +98,26 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 9.89
+  },
+  {
+    "store": "Irani",
+    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 9.89
   },
   {
     "store": "Irani",
@@ -111,17 +141,87 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
+    "name": "Granola Jasmine 250g Tradicional",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Jasmine 250g Maltados",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Jasmine 250g Banana/Canela",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Jasmine 250g Maçã/Canela",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Jasmine 250g Mel e Frutas",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
   },
   {
     "store": "Irani",
     "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Granola Jasmine 250g Castanha De Caju",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Carga Gillette Mach 3 CarbonoC/4",
     "price": 49.9
   },
   {
@@ -141,16 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Carga Gillette Mach 3 CarbonoC/4",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
     "price": 17.79
   },
@@ -161,13 +251,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
+    "name": "- 27%",
+    "price": 47.9
   },
   {
     "store": "Irani",
@@ -201,16 +291,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Bombom Nestlé 251g Especialidades",
     "price": 10.99
   },
@@ -218,86 +298,6 @@
     "store": "Irani",
     "name": "- 27%",
     "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Desodorante Rexona 200ml Aerossol Invisible",
-    "price": 17.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Olaria 750ml Tinto Suave",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 11.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 15.9
   },
   {
     "store": "Festval",
@@ -356,11 +356,6 @@
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
     "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
     "price": 3.99
   },
@@ -376,57 +371,82 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 3.99
+    "name": "Arroz Parboilizado Rampinelli 5Kg",
+    "price": 15.99
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
+    "name": "Costela Seara Com Molho Barbecue 1kg",
+    "price": 49.98
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate Nestlé Sabores Barra 80g",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Banana Nanica Kg",
-    "price": 3.99
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Brócolis Unidade",
-    "price": 4.99
+    "name": "Costela Ripa Bovina Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Couve-Flor Unidade",
-    "price": 4.99
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.9
   },
   {
     "store": "Festval",
-    "name": "Laranja Pera Kg",
-    "price": 1.99
+    "name": "Vinho Italiano Asio Otus 750ml - Leve 3 Pague 2 Kit Pronto",
+    "price": 129.0
   },
   {
     "store": "Festval",
-    "name": "Alface Hidropônica Unidade",
-    "price": 2.99
+    "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades",
+    "price": 16.9
   },
   {
     "store": "Festval",
-    "name": "Peito de Frango Copacol Congelado Com Osso Pacote Kg",
-    "price": 8.99
+    "name": "Vinho Espanhol Faustino VII Tipos 750ml",
+    "price": 49.0
   },
   {
     "store": "Festval",
-    "name": "Coco Verde Autenticoco UN",
-    "price": 6.99
+    "name": "Vinho Chileno Balduzzi Gran reserva Tipos 750ml",
+    "price": 49.0
   },
   {
     "store": "Festval",
-    "name": "Mamão Papaya Unidade",
-    "price": 3.99
+    "name": "Vinho Italiano Palazzo Chianti Docg Tinto 750ml",
+    "price": 89.0
   },
   {
     "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 9.98
+    "name": "Vinho Chileno Santa Ema Blocks Gran Reserva Tipos 750ml",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino El Esteco Blend 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Marqués de Vitoria Crianza 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Septima Obra Reserva 750ml",
+    "price": 69.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Marialva Colheita Tipos 750ml",
+    "price": 54.9
   }
 ]
