@@ -31,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 33.29
   },
@@ -51,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Wafer Hersheys Mais 102g Amendoim",
-    "price": 3.99
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 33.29
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
+    "name": "- 38%",
+    "price": 53.29
   },
   {
     "store": "Irani",
@@ -71,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
-    "price": 29.9
+    "name": "Wafer Hersheys Mais 102g Amendoim",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
+    "name": "- 33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -92,6 +82,16 @@
   {
     "store": "Irani",
     "name": "Tinta Biocolor Homem Castanha Escuro",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
     "price": 29.9
   },
   {
@@ -151,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Jasmine 250g Maltados",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Granola Jasmine 250g Banana/Canela",
     "price": 9.99
   },
@@ -181,6 +171,16 @@
   },
   {
     "store": "Irani",
+    "name": "Granola Jasmine 250g Maltados",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
     "name": "Granola Jasmine 250g Mel e Frutas",
     "price": 9.99
   },
@@ -191,6 +191,16 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
+    "price": 17.79
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 24.79
+  },
+  {
+    "store": "Irani",
     "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
     "price": 49.9
   },
@@ -198,6 +208,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
+    "price": 49.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.98
   },
   {
     "store": "Irani",
@@ -228,26 +248,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Serum Leave In Elseve 100ml Collagen Lifter",
-    "price": 49.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
-    "price": 17.79
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 24.79
   },
   {
     "store": "Irani",
