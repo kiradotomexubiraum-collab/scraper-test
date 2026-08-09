@@ -31,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 33.29
   },
@@ -52,6 +42,16 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 33.29
   },
   {
@@ -91,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Creme de Leite Piracanjuba 200g",
-    "price": 2.29
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 3.29
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -111,7 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
     "price": 34.9
   },
   {
@@ -131,13 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Creme de Leite Piracanjuba 200g",
+    "price": 2.29
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 3.29
   },
   {
     "store": "Irani",
@@ -231,6 +231,16 @@
   },
   {
     "store": "Irani",
+    "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -251,13 +261,13 @@
   },
   {
     "store": "Irani",
-    "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
-    "price": 49.9
+    "name": "Granola Jasmine 250g Castanha De Caju",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 69.9
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -268,16 +278,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Castanha De Caju",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
   },
   {
     "store": "Irani",
@@ -371,46 +371,6 @@
   },
   {
     "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Seara Com Molho Barbecue 1kg",
-    "price": 49.98
-  },
-  {
-    "store": "Festval",
-    "name": "Chocolate Nestlé Sabores Barra 80g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Ripa Bovina Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Asio Otus 750ml - Leve 3 Pague 2 Kit Pronto",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades",
-    "price": 16.9
-  },
-  {
-    "store": "Festval",
     "name": "Vinho Espanhol Faustino VII Tipos 750ml",
     "price": 49.0
   },
@@ -448,5 +408,55 @@
     "store": "Festval",
     "name": "Vinho Português Marialva Colheita Tipos 750ml",
     "price": 54.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Alcatra Baby Beef Bovino Reserva Peça A Vácuo KG - Item Acelerador",
+    "price": 69.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Patagonia Tipos Lata 473ml",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
+    "price": 6.9
+  },
+  {
+    "store": "Festval",
+    "name": "Palmito Tolete Jandel 300g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Coalho Criolo Resfriado 340g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Fondue de Queijo Tirolez Resfriado 400g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Kit Presenteável Giorno Umom Shampoo + Desodorante",
+    "price": 59.9
   }
 ]
