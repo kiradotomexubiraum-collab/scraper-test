@@ -41,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 33.29
   },
@@ -61,13 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 89.89
+    "name": "- 38%",
+    "price": 53.29
   },
   {
     "store": "Irani",
@@ -81,6 +71,16 @@
   },
   {
     "store": "Irani",
+    "name": "Creatina Dux 300g",
+    "price": 59.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 89.89
+  },
+  {
+    "store": "Irani",
     "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
     "price": 39.9
   },
@@ -88,6 +88,26 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 57.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme de Leite Piracanjuba 200g",
+    "price": 2.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 3.29
+  },
+  {
+    "store": "Irani",
+    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Irani",
@@ -118,26 +138,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Leite Piracanjuba 200g",
-    "price": 2.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 3.29
-  },
-  {
-    "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
   },
   {
     "store": "Irani",
@@ -231,13 +231,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
-    "price": 17.79
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 24.79
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -261,13 +261,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Carga Gillette Mach 3 CarbonoC/4",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -281,13 +281,13 @@
   },
   {
     "store": "Irani",
-    "name": "Carga Gillette Mach 3 CarbonoC/4",
-    "price": 49.9
+    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
+    "price": 17.79
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
+    "name": "- 28%",
+    "price": 24.79
   },
   {
     "store": "Irani",
