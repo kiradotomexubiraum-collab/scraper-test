@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 40.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
@@ -31,13 +21,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 33.29
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 40.69
   },
   {
     "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
+    "name": "- 46%",
+    "price": 75.69
   },
   {
     "store": "Irani",
@@ -61,6 +51,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -68,6 +68,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 89.89
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger Misto 56g",
+    "price": 1.19
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 1.79
   },
   {
     "store": "Irani",
@@ -91,16 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tinta Biocolor Homem Castanha Escuro",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
     "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
     "price": 34.9
   },
@@ -108,26 +108,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Leite Piracanjuba 200g",
-    "price": 2.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 3.29
-  },
-  {
-    "store": "Irani",
-    "name": "Aparelho de Barbear Gillette Mach 3 C/1 Carbono",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
   },
   {
     "store": "Irani",
@@ -171,53 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Granola Jasmine 250g Tradicional",
-    "price": 9.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Mel e Frutas",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Banana/Canela",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Maçã/Canela",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Maltados",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -231,13 +171,43 @@
   },
   {
     "store": "Irani",
-    "name": "Loção Após Barba Nivea 100ml Balsamo Hidratante",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
     "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -251,36 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Carga Gillette Mach 3 CarbonoC/4",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Granola Jasmine 250g Castanha De Caju",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Ovo 40g C/2 Patrulha",
-    "price": 17.79
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 24.79
-  },
-  {
-    "store": "Irani",
     "name": "Lava Louças Finish 250ml Secante Abrilhantador",
     "price": 34.9
   },
@@ -288,6 +228,26 @@
     "store": "Irani",
     "name": "- 27%",
     "price": 47.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
   },
   {
     "store": "Irani",
@@ -300,74 +260,44 @@
     "price": 35.98
   },
   {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 5.98
+    "store": "Irani",
+    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
+    "price": 13.98
   },
   {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
-    "price": 17.99
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 18.98
   },
   {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 11.9
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 27.9
   },
   {
-    "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 10.9
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
-    "store": "Festval",
-    "name": "Creme de leite Piracanjuba 200g",
-    "price": 2.98
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 27.9
   },
   {
-    "store": "Festval",
-    "name": "Requeijão Cremoso Tradicional Président Copo 200g",
-    "price": 8.99
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
-    "store": "Festval",
-    "name": "Iogurte Polpa Nestlé 510g Sabores",
-    "price": 6.99
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
   },
   {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 2kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Bacon Frimesa Manta Kg",
-    "price": 43.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sorvete Nestlé Sabores Tradicionais 1,5L",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Prato Fino 2Kg",
-    "price": 11.99
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
     "store": "Festval",
@@ -411,52 +341,142 @@
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 15.99
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 5.29
   },
   {
     "store": "Festval",
-    "name": "Alcatra Baby Beef Bovino Reserva Peça A Vácuo KG - Item Acelerador",
-    "price": 69.9
+    "name": "Massa Mezzani Capeletti Ou Ravioli Sabores 400g",
+    "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
+    "name": "Queijo Mussarela Polenghi Kg",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Cerveja Patagonia Tipos Lata 473ml",
-    "price": 5.99
+    "name": "Requeijão Président 200g",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
-    "price": 6.9
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Palmito Tolete Jandel 300g",
-    "price": 15.99
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Queijo Coalho Criolo Resfriado 340g",
-    "price": 19.98
+    "name": "Café Baggio Sabores 250g",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Fondue de Queijo Tirolez Resfriado 400g",
-    "price": 19.98
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Kit Presenteável Giorno Umom Shampoo + Desodorante",
-    "price": 59.9
+    "name": "Desodorante Aerosol Dove Fragrâncias 250ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Bonina 1kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pepino em Conserva Geriba 300g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Frimesa TP 395g",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
+    "price": 37.9
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Cremoso Tradicional Président Copo 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Ricota Tirolez tradicional 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Molho Fugini Tradicional Sachê 300G",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Água Mineral Sferriê com Gás 510ml",
+    "price": 1.59
+  },
+  {
+    "store": "Festval",
+    "name": "Salsichas Frimesa Suína Kg",
+    "price": 13.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bebida Láctea Wheyfit Parmalat Sabores 250ml",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon Manta Frimesa KG",
+    "price": 44.9
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Cottage Verde Campo 200g",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Presunto Frimesa Cozido Fatiado 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Peito Ceratti Frango Defumado Fatiado 100gr",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Salsicha Perdigão 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Esfiha Turca Videira Foods Sabores 250g",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Extrato de Tomate Fugini Sachê 300g",
+    "price": 3.59
   }
 ]
