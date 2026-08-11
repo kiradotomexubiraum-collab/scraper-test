@@ -11,56 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 40.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 40.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
     "name": "Creatina Dux 300g",
     "price": 59.98
   },
@@ -68,16 +18,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 89.89
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger Misto 56g",
-    "price": 1.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 34%",
-    "price": 1.79
   },
   {
     "store": "Irani",
@@ -91,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
     "price": 34.9
   },
   {
@@ -101,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
     "price": 34.9
   },
   {
@@ -151,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -171,37 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -221,6 +121,46 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Lava Louças Finish 250ml Secante Abrilhantador",
     "price": 34.9
   },
@@ -231,27 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "name": "Kit Queijos Esmeralda 250g",
     "price": 25.98
   },
   {
@@ -271,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -291,13 +211,93 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 27.9
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Nero D`avola",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Negroamaro Primitivo",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Spray Bio Extratus Mega 100ml Queravit",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Festval",
