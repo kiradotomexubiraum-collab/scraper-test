@@ -1,17 +1,37 @@
 [
   {
     "store": "Irani",
-    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
-    "price": 22.9
+    "name": "Açúcar Confeiteiro Glaçúcar União 500g",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "- 48%",
-    "price": 43.9
+    "name": "- 60%",
+    "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Tangerina",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 40.69
   },
   {
@@ -21,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
   {
@@ -61,47 +81,37 @@
   },
   {
     "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 59.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 89.89
-  },
-  {
-    "store": "Irani",
-    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 57.9
-  },
-  {
-    "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "price": 6.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Chocolate Kinder Bueno 39g/43g",
+    "price": 6.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
+    "name": "Chocolate Kinder Bueno 43g Dark",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
     "price": 6.99
   },
   {
@@ -111,7 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
+    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
     "price": 6.99
   },
   {
@@ -141,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
@@ -151,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -181,26 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
@@ -208,6 +208,26 @@
     "store": "Irani",
     "name": "- 28%",
     "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 47.9
   },
   {
     "store": "Irani",
@@ -221,13 +241,13 @@
   },
   {
     "store": "Irani",
-    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
-    "price": 34.9
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 25.98
   },
   {
     "store": "Irani",
-    "name": "- 27%",
-    "price": 47.9
+    "name": "- 28%",
+    "price": 35.98
   },
   {
     "store": "Irani",
@@ -251,16 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
     "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
     "price": 13.98
   },
@@ -271,27 +281,17 @@
   },
   {
     "store": "Irani",
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -338,51 +338,6 @@
     "store": "Festval",
     "name": "Vinho Português Marialva Colheita Tipos 750ml",
     "price": 54.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 5.29
-  },
-  {
-    "store": "Festval",
-    "name": "Massa Mezzani Capeletti Ou Ravioli Sabores 400g",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Polenghi Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Président 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Baggio Sabores 250g",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Desodorante Aerosol Dove Fragrâncias 250ml",
-    "price": 19.9
   },
   {
     "store": "Festval",
@@ -446,6 +401,11 @@
   },
   {
     "store": "Festval",
+    "name": "Queijo Mussarela Polenghi Kg",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
     "name": "Queijo Cottage Verde Campo 200g",
     "price": 15.9
   },
@@ -478,5 +438,75 @@
     "store": "Festval",
     "name": "Extrato de Tomate Fugini Sachê 300g",
     "price": 3.59
+  },
+  {
+    "store": "Festval",
+    "name": "Cebola Nacional Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Fuji Kg",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Melão Amarelo Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Brócolis Unidade",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mexerica Kg",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Couve-Flor Unidade",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Morango Bandeja 250g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja Pera Kg",
+    "price": 1.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Alface Hidropônica Unidade",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Acelga Nature Agro Unidade",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Papaya Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Doce Uva Bandeja 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito Coopavel Resfriado Kg",
+    "price": 14.99
   }
 ]
