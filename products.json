@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 40.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 46%",
+    "price": 75.69
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 40.69
   },
@@ -21,13 +31,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 40.69
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 33.29
   },
   {
     "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
+    "name": "- 38%",
+    "price": 53.29
   },
   {
     "store": "Irani",
@@ -42,16 +52,6 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 33.29
   },
   {
@@ -141,16 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
@@ -161,17 +151,27 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -201,23 +201,13 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 47.9
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -228,6 +218,16 @@
     "store": "Irani",
     "name": "- 28%",
     "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 47.9
   },
   {
     "store": "Irani",
@@ -271,7 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 27.9
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
