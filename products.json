@@ -31,6 +31,16 @@
   },
   {
     "store": "Irani",
+    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 48%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
@@ -48,16 +58,6 @@
     "store": "Irani",
     "name": "- 46%",
     "price": 75.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
   },
   {
     "store": "Irani",
@@ -81,6 +81,46 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
+    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 57.9
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 43g Dark",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
@@ -101,17 +141,17 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
-    "price": 6.98
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 9.98
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
     "price": 6.99
   },
   {
@@ -121,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
+    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
     "price": 6.99
   },
   {
@@ -151,16 +191,6 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
@@ -171,7 +201,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -211,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -241,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
     "price": 25.98
   },
   {
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "- 28%",
     "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
   },
   {
     "store": "Festval",
