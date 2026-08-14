@@ -61,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 33.29
   },
@@ -91,6 +81,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
     "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
     "price": 39.9
   },
@@ -101,13 +101,23 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 6.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
     "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -131,23 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
+    "name": "Chocolate Kinder Bueno 43g Dark",
     "price": 6.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -191,16 +191,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -211,36 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -248,16 +208,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -291,6 +241,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 25.98
   },
@@ -298,6 +258,46 @@
     "store": "Irani",
     "name": "- 28%",
     "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
+    "price": 13.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Creme de Avelã Nutella 140g C/Cacau",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
     "store": "Festval",
