@@ -31,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 48%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
@@ -58,16 +48,6 @@
     "store": "Irani",
     "name": "- 46%",
     "price": 75.69
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 33.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
   },
   {
     "store": "Irani",
@@ -91,43 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
-    "price": 39.9
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 33.29
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 57.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
+    "name": "- 38%",
+    "price": 53.29
   },
   {
     "store": "Irani",
@@ -141,7 +91,37 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 43g Dark",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 6.98
   },
   {
@@ -151,23 +131,73 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
-    "price": 6.99
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 9.89
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
-    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
-    "price": 6.99
+    "name": "Batata Palito Copacol 2kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 9.89
+    "name": "- 30%",
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -191,13 +221,23 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
+    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
+    "price": 6.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
+    "price": 9.89
+  },
+  {
+    "store": "Irani",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 9.89
   },
   {
     "store": "Irani",
@@ -208,6 +248,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -231,26 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 25.98
   },
@@ -261,43 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão em Barra Ypê Neutro C/5 Glicerina",
-    "price": 13.98
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 25.98
   },
   {
     "store": "Irani",
-    "name": "- 26%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Avelã Nutella 140g C/Cacau",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
+    "name": "- 28%",
+    "price": 35.98
   },
   {
     "store": "Festval",
@@ -366,11 +366,6 @@
   },
   {
     "store": "Festval",
-    "name": "Creme de Ricota Tirolez tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
     "name": "Molho Fugini Tradicional Sachê 300G",
     "price": 1.99
   },
@@ -388,11 +383,6 @@
     "store": "Festval",
     "name": "Bebida Láctea Wheyfit Parmalat Sabores 250ml",
     "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
   },
   {
     "store": "Festval",
@@ -441,72 +431,102 @@
   },
   {
     "store": "Festval",
-    "name": "Cebola Nacional Kg",
-    "price": 3.99
+    "name": "Arroz Branco Itasa 5Kg",
+    "price": 15.99
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 7.98
+    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
+    "price": 12.99
   },
   {
     "store": "Festval",
-    "name": "Melão Amarelo Kg",
-    "price": 3.99
+    "name": "Óleo de Soja Soya Pet 900ml",
+    "price": 5.79
   },
   {
     "store": "Festval",
-    "name": "Brócolis Unidade",
-    "price": 4.99
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
   },
   {
     "store": "Festval",
-    "name": "Mexerica Kg",
+    "name": "Açúcar Cristal Alto Alegre 5kg",
+    "price": 11.9
+  },
+  {
+    "store": "Festval",
+    "name": "Feijão Preto Itasa 1Kg",
+    "price": 4.79
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
+    "price": 119.9
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 33.9
+  },
+  {
+    "store": "Festval",
+    "name": "Extrato de Tomate Elefante Pote 300g",
     "price": 5.99
   },
   {
     "store": "Festval",
-    "name": "Couve-Flor Unidade",
-    "price": 4.99
+    "name": "Creme de Ricota Tirolez tradicional 200g",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Morango Bandeja 250g",
-    "price": 9.98
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Laranja Pera Kg",
-    "price": 1.98
+    "name": "Mortadela Ouro Perdigão Fatiada 200G",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "name": "Café 3 Corações Gourmet Tipos 250g",
+    "price": 18.9
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 12.98
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Achocolatado Nescau Lata 350g",
     "price": 7.98
   },
   {
     "store": "Festval",
-    "name": "Alface Hidropônica Unidade",
-    "price": 2.99
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 45.9
   },
   {
     "store": "Festval",
-    "name": "Acelga Nature Agro Unidade",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mamão Papaya Unidade",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito Coopavel Resfriado Kg",
-    "price": 14.99
+    "name": "Requeijão Tirolez Tradicional ou Light 200g",
+    "price": 6.99
   }
 ]
