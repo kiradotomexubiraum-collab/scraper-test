@@ -31,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 40.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 40.69
   },
@@ -51,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 33.29
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 40.69
   },
   {
     "store": "Irani",
-    "name": "- 38%",
-    "price": 53.29
+    "name": "- 46%",
+    "price": 75.69
   },
   {
     "store": "Irani",
@@ -81,6 +71,36 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 33.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 53.29
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
@@ -101,37 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
     "price": 15.99
   },
   {
@@ -151,27 +141,17 @@
   },
   {
     "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
     "price": 15.99
   },
   {
@@ -201,6 +181,26 @@
   },
   {
     "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
     "price": 6.99
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
+    "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
     "price": 6.99
   },
   {
