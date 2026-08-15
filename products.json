@@ -31,13 +31,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 40.69
+    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
+    "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
+    "name": "- 48%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -48,6 +48,26 @@
     "store": "Irani",
     "name": "- 46%",
     "price": 75.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 40.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 46%",
+    "price": 75.69
+  },
+  {
+    "store": "Irani",
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 21.99
   },
   {
     "store": "Irani",
@@ -81,7 +101,57 @@
   },
   {
     "store": "Irani",
+    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 57.9
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
     "price": 15.99
   },
   {
@@ -101,6 +171,16 @@
   },
   {
     "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g Branco",
     "price": 6.98
   },
@@ -108,26 +188,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
   },
   {
     "store": "Irani",
@@ -142,16 +202,6 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
     "price": 15.99
   },
   {
@@ -181,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
     "price": 15.99
   },
   {
@@ -191,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
   {
@@ -248,56 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Queijos Esmeralda 250g",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 47.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
   },
   {
     "store": "Festval",
@@ -431,102 +431,52 @@
   },
   {
     "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 5.79
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 11.9
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 4.79
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
-    "price": 119.9
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Extrato de Tomate Elefante Pote 300g",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
     "name": "Creme de Ricota Tirolez tradicional 200g",
-    "price": 6.99
+    "price": 7.99
   },
   {
     "store": "Festval",
     "name": "Queijo Mussarela Lactobom 150g",
-    "price": 6.99
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Mortadela Ouro Perdigão Fatiada 200G",
-    "price": 6.99
+    "name": "Pêssego em Calda Mamma Bia 660g",
+    "price": 24.9
   },
   {
     "store": "Festval",
-    "name": "Café 3 Corações Gourmet Tipos 250g",
-    "price": 18.9
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 49.9
   },
   {
     "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 12.98
+    "name": "Leite Condensado Moça Lata 395g",
+    "price": 9.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 15.99
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Achocolatado Nescau Lata 350g",
-    "price": 7.98
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 9.9
   },
   {
     "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 45.9
+    "name": "Azeite de Oliva Rafael Salgado 500 ml",
+    "price": 29.98
   },
   {
     "store": "Festval",
-    "name": "Requeijão Tirolez Tradicional ou Light 200g",
-    "price": 6.99
+    "name": "Cápsulas 3 Corações Sabores com 10 Unidades",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Italiano Mamma Bia Arbório ou Carnaroli 1Kg",
+    "price": 19.9
   }
 ]
