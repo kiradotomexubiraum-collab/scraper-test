@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 40.69
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
   {
@@ -111,7 +111,37 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
     "price": 15.99
   },
   {
@@ -131,13 +161,23 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Batata Palito Copacol 2kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -148,16 +188,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
   },
   {
     "store": "Irani",
@@ -172,36 +202,6 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
     "price": 15.99
   },
   {
