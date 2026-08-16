@@ -31,26 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 48%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 40.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 46%",
-    "price": 75.69
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 40.69
   },
@@ -101,37 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 57.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
     "price": 15.99
   },
   {
@@ -161,36 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 6.98
   },
@@ -201,7 +121,27 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 22.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
     "price": 15.99
   },
   {
@@ -271,16 +211,6 @@
   },
   {
     "store": "Irani",
-    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 9.89
-  },
-  {
-    "store": "Irani",
     "name": "Brownie Belive 40g Protein Zero Chocolate com Avelã",
     "price": 6.99
   },
@@ -291,6 +221,26 @@
   },
   {
     "store": "Irani",
+    "name": "Brownie Protein Belive Zero 40g Double Chocolate",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 9.89
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -298,6 +248,56 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lava Louças Finish 250ml Secante Abrilhantador",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 47.9
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Queijos Esmeralda 250g",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 25.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 35.98
   },
   {
     "store": "Festval",
