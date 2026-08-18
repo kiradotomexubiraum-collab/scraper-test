@@ -31,6 +31,16 @@
   },
   {
     "store": "Irani",
+    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 48%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Manteiga Frimesa 500g Sem Sal",
     "price": 11.99
   },
@@ -38,6 +48,36 @@
     "store": "Irani",
     "name": "- 45%",
     "price": 21.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 57.9
+  },
+  {
+    "store": "Irani",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -61,6 +101,56 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Marilan 350g Maizena",
     "price": 4.99
   },
@@ -81,56 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
     "name": "Lava Louças Finish 250ml Secante Abrilhantador",
     "price": 34.9
   },
@@ -138,6 +178,16 @@
     "store": "Irani",
     "name": "- 27%",
     "price": 47.9
+  },
+  {
+    "store": "Irani",
+    "name": "Laranja Pera Rio Kg",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 2.49
   },
   {
     "store": "Irani",
@@ -151,6 +201,16 @@
   },
   {
     "store": "Irani",
+    "name": "Sabão em Pó Tixan Ypê 2,2kg Caixa Primavera",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
     "name": "Sabão em Pó Tixan Ypê 2,2kg Caixa Maciez",
     "price": 18.9
   },
@@ -161,13 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão em Pó Tixan Ypê 2,2kg Caixa Primavera",
-    "price": 18.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
   },
   {
     "store": "Irani",
-    "name": "- 27%",
-    "price": 25.9
+    "name": "- 26%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -201,26 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 11.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 15.9
-  },
-  {
-    "store": "Irani",
     "name": "Spray Bio Extratus Mega 100ml Queravit",
     "price": 29.9
   },
@@ -231,73 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16 mini",
-    "price": 21.9
+    "name": "Vinho Italiano Bellamico 750ml - Nero D`avola",
+    "price": 44.9
   },
   {
     "store": "Irani",
-    "name": "- 24%",
-    "price": 28.9
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Azeitona Verde La Violetera 120g",
-    "price": 5.99
+    "name": "Vinho Italiano Bellamico 750ml - Montepulciano D`abruzzo",
+    "price": 44.9
   },
   {
     "store": "Irani",
-    "name": "- 24%",
-    "price": 7.89
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Azeitona Verde 120g La Violetera Fatiada Sch",
-    "price": 5.99
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 11.9
   },
   {
     "store": "Irani",
-    "name": "- 24%",
-    "price": 7.89
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16 Médio",
-    "price": 21.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 28.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16",
-    "price": 21.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 28.9
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 16.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chia Premium Sin Sachê 200g",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 12.99
+    "name": "- 25%",
+    "price": 15.9
   },
   {
     "store": "Festval",
@@ -426,52 +426,42 @@
   },
   {
     "store": "Festval",
-    "name": "Kit Elseve Shampoo 375ml + Condicionador 170ml Tipos",
-    "price": 29.9
+    "name": "Vinho Argentino Tinto Pascual Toso Reserva 750ml Tipos",
+    "price": 69.0
   },
   {
     "store": "Festval",
-    "name": "Kit Pantene Shampo 300ml + Condicionador 150ml Tipos",
-    "price": 29.9
+    "name": "Vinho Frânces Delor Bordeaux Reserve Tipos 750ml",
+    "price": 79.0
   },
   {
     "store": "Festval",
-    "name": "Hidratante Corporal Neutrogena Tipos 400ml",
-    "price": 59.9
+    "name": "Vinho Italiano Cielo Pinot Grigio Branco Ou Rosé 750ml",
+    "price": 49.0
   },
   {
     "store": "Festval",
-    "name": "Desodorante Stick Secret Fragrâncias 45g",
-    "price": 19.9
+    "name": "Vinho Chileno Valsierra Varietal Tipos 750ml",
+    "price": 24.9
   },
   {
     "store": "Festval",
-    "name": "Kit Dove Shampoo 350ml + Condicionador 175ml Tipos",
-    "price": 29.9
+    "name": "Vinho Francês Dufouluer Tipos 750ml",
+    "price": 49.0
   },
   {
     "store": "Festval",
-    "name": "Body Splash Lattafa Fragrâncias 250ml",
-    "price": 89.9
+    "name": "Vinho Chileno Balduzzi Reserva Tipos 750ML",
+    "price": 29.0
   },
   {
     "store": "Festval",
-    "name": "Colônia Granado Terrapeutics Fragrâncias 230ml",
-    "price": 79.9
+    "name": "Vinho Argentino Renacer Punto Final Reserva Tipos 750ml",
+    "price": 49.0
   },
   {
     "store": "Festval",
-    "name": "Kit Hidratante + Body Splash Giovanna Baby Fragrâncias",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete em Barra Phebo Fragrâncias 90g",
-    "price": 4.98
-  },
-  {
-    "store": "Festval",
-    "name": "Sérum de Limpeza Facial Garnier 100g",
-    "price": 39.9
+    "name": "Vinho Italiano Dario Coos Tipos 750ml",
+    "price": 119.0
   }
 ]
