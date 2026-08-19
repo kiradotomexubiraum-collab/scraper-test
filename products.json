@@ -61,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
     "price": 34.9
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
     "price": 34.9
   },
   {
@@ -101,7 +101,47 @@
   },
   {
     "store": "Irani",
+    "name": "Laranja Pera Rio Kg",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 2.49
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -131,36 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Marilan 350g Maizena",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
@@ -181,23 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Laranja Pera Rio Kg",
-    "price": 1.79
+    "name": "Sabão em Pó Tixan Ypê 2,2kg Caixa Maciez",
+    "price": 18.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 2.49
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Queijos Esmeralda 250g",
-    "price": 25.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 35.98
+    "name": "- 27%",
+    "price": 25.9
   },
   {
     "store": "Irani",
@@ -211,23 +211,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabão em Pó Tixan Ypê 2,2kg Caixa Maciez",
-    "price": 18.9
+    "name": "Kit Queijos Esmeralda 250g",
+    "price": 25.98
   },
   {
     "store": "Irani",
-    "name": "- 27%",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
+    "name": "- 28%",
+    "price": 35.98
   },
   {
     "store": "Irani",
@@ -241,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -261,13 +251,33 @@
   },
   {
     "store": "Irani",
-    "name": "Spray Bio Extratus Mega 100ml Queravit",
-    "price": 29.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Pinot Grigio",
+    "price": 44.9
   },
   {
     "store": "Irani",
     "name": "- 25%",
-    "price": 39.9
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Italiano Bellamico 750ml - Negroamaro Primitivo",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -281,23 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Italiano Bellamico 750ml - Montepulciano D`abruzzo",
-    "price": 44.9
+    "name": "Spray Bio Extratus Mega 100ml Queravit",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 25%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 11.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 15.9
+    "price": 39.9
   },
   {
     "store": "Festval",
