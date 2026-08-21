@@ -61,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Cereal Sucrilhos 200g Ovomaltine",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
     "name": "Pão Premium Caseirinho 450g 100% Integral",
     "price": 8.99
   },
@@ -71,7 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
   {
@@ -81,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
   {
@@ -98,6 +108,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 21.98
   },
   {
     "store": "Irani",
@@ -121,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 27.9
   },
   {
@@ -141,13 +161,23 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 27.9
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 11.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 15.9
   },
   {
     "store": "Irani",
@@ -161,13 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 11.9
+    "name": "Absorvente Interno Intimus C/16",
+    "price": 21.9
   },
   {
     "store": "Irani",
-    "name": "- 25%",
-    "price": 15.9
+    "name": "- 24%",
+    "price": 28.9
   },
   {
     "store": "Irani",
@@ -191,13 +221,43 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16",
-    "price": 21.9
+    "name": "Alim C/Amendoas Ades Seeds 1l Original",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Detergente em Pó CIF 2,4k Pacote Limpeza Pesada Profissional",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alim C/Amendoas Ades Seeds 1l Sem Açúcar",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 12.9
   },
   {
     "store": "Irani",
     "name": "- 24%",
-    "price": 28.9
+    "price": 16.9
   },
   {
     "store": "Irani",
@@ -221,83 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Detergente em Pó CIF 2,4k Pacote Limpeza Pesada Profissional",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 16.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
+    "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
     "price": 69.9
   },
   {
     "store": "Irani",
     "name": "- 22%",
-    "price": 89.79
+    "price": 89.9
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 350g Lanche Hambúrguer",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 22%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 400g Lanche Hot Dog",
-    "price": 7.29
+    "name": "Refrigerante Coca-Cola Sem Açúcar 350ml",
+    "price": 3.49
   },
   {
     "store": "Irani",
     "name": "- 22%",
-    "price": 9.29
-  },
-  {
-    "store": "Irani",
-    "name": "Bisnaguinha Caseirinho 350g Lanche Sandubinha",
-    "price": 7.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 22%",
-    "price": 9.29
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Pullman 420g Hambúrguer C/Gergelim",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 21%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Conc Downy 1,2L Sach Brisa De Verão",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 21%",
-    "price": 23.9
+    "price": 4.49
   },
   {
     "store": "Festval",
@@ -426,52 +426,42 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 1.99
+    "name": "Óleo de Soja Soya Pet 900ml",
+    "price": 5.59
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 7.99
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 4.98
   },
   {
     "store": "Festval",
-    "name": "Batata Doce Roxa Kg",
-    "price": 2.99
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 34.9
   },
   {
     "store": "Festval",
-    "name": "Mamão Formosa Kg",
-    "price": 9.98
+    "name": "Vinho Argentino Gran Mascota Tipos 750ml",
+    "price": 79.0
   },
   {
     "store": "Festval",
-    "name": "Mexerica Kg",
-    "price": 4.99
+    "name": "Farinha de Trigo Bonina 5KG",
+    "price": 15.99
   },
   {
     "store": "Festval",
-    "name": "Morango Bandeja 250g",
-    "price": 6.99
+    "name": "Arroz Italiano Mamma Bia Arbóreo 500g - Leve 3 Pague 2 Kit Pronto",
+    "price": 27.96
   },
   {
     "store": "Festval",
-    "name": "Laranja-Pera Kg",
-    "price": 1.99
+    "name": "Café Lo'r Torras 250g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Batata Salsa Aroma e Sabor 400g",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Aipim Aroma & Sabor Descascado 1Kg",
-    "price": 7.99
+    "name": "Filé de Tilápia CVale IQF 800G",
+    "price": 33.9
   }
 ]
