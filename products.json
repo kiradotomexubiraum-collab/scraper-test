@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Clight 8g Limonada",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Laranja",
     "price": 0.69
   },
@@ -22,16 +32,6 @@
   {
     "store": "Irani",
     "name": "Refresco Clight 8g Tangerina",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 27.9
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 27.9
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 27.9
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16",
+    "name": "Absorvente Interno Intimus C/16 Médio",
     "price": 21.9
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Interno Intimus C/16 Médio",
+    "name": "Absorvente Interno Intimus C/16",
     "price": 21.9
   },
   {
@@ -221,16 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Alim C/Amendoas Ades Seeds 1l Original",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
     "name": "Detergente em Pó CIF 2,4k Pacote Limpeza Pesada Profissional",
     "price": 19.9
   },
@@ -238,36 +228,6 @@
     "store": "Irani",
     "name": "- 23%",
     "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alim C/Amendoas Ades Seeds 1l Sem Açúcar",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 16.9
-  },
-  {
-    "store": "Irani",
-    "name": "Suco Del Valle Frut 1,5l Pet Limao",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 6.49
   },
   {
     "store": "Irani",
@@ -281,6 +241,46 @@
   },
   {
     "store": "Irani",
+    "name": "Alim C/Amendoas Ades Seeds 1l Original",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Alim C/Amendoas Ades Seeds 1l Sem Açúcar",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Suco Del Valle Frut 1,5l Pet Limao",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Diário Intimus C/40 S/abas Antibac",
+    "price": 12.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 24%",
+    "price": 16.9
+  },
+  {
+    "store": "Irani",
     "name": "Fralda Huggies Máxima Prot. Hiperzinha C/56 EG",
     "price": 69.9
   },
@@ -291,13 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Coca-Cola Sem Açúcar 350ml",
-    "price": 3.49
+    "name": "Fralda Huggies Maxima Prot. Hiperzinha C/58 G",
+    "price": 69.9
   },
   {
     "store": "Irani",
     "name": "- 22%",
-    "price": 4.49
+    "price": 89.9
   },
   {
     "store": "Festval",
@@ -376,7 +376,7 @@
   },
   {
     "store": "Festval",
-    "name": "Requeijão Tirolez Tradicional ou Light 200g",
+    "name": "Requeijão Tirolez Tradicional 200g",
     "price": 7.99
   },
   {
