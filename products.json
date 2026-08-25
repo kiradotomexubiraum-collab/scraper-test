@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -31,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
-  },
-  {
-    "store": "Irani",
     "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
     "price": 22.9
   },
@@ -51,13 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 400g Lanche Hot Dog",
-    "price": 5.99
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 11.99
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 8.99
+    "name": "- 45%",
+    "price": 21.99
   },
   {
     "store": "Irani",
@@ -71,13 +71,83 @@
   },
   {
     "store": "Irani",
-    "name": "Cereal Sucrilhos 200g Ovomaltine",
-    "price": 8.99
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 12.99
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
   },
   {
     "store": "Irani",
@@ -91,13 +161,23 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "price": 15.99
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 49.9
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -121,7 +201,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Refrigerante Conti 2l Limao",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -131,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -151,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -161,17 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
     "price": 35.9
   },
   {
@@ -191,86 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Café",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 27.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 9.98
   },
@@ -281,23 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "name": "Refresco Magro Zero 8g Morango",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 9.98
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
   },
   {
     "store": "Festval",
@@ -343,51 +343,6 @@
     "store": "Festval",
     "name": "Suco de Laranja Festval 900ml",
     "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite em pó Ninho Fases 1+ 800g",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cotonete Johnson Com 75 Unidades",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Composto Lácteo Milnutri em Pó Lata 800g",
-    "price": 58.9
-  },
-  {
-    "store": "Festval",
-    "name": "Toalhas Umedecidas Huggies Corpo e Rosto com 48 Unidades - Leve 4 Pague 3",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Condicionador Johnson's Baby Regular 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
-    "price": 67.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
-    "price": 89.9
   },
   {
     "store": "Festval",
@@ -463,5 +418,45 @@
     "store": "Festval",
     "name": "Requeijão Tirolez Tradicional 200g",
     "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
+    "price": 39.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Tinto Quinta do Espírito Santo Reserva 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português R de Romaneira 750ml - Branco ou Tinto",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Paolo Scavino Tinto 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Les Bories Tipos 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Septima Emblema Tipos 750ml",
+    "price": 39.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Fin Del Mundo Singles Tipos 750ml",
+    "price": 149.0
   }
 ]
