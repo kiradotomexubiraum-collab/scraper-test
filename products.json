@@ -1,6 +1,56 @@
 [
   {
     "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
     "name": "Açúcar Confeiteiro Glaçúcar União 500g",
     "price": 1.99
   },
@@ -8,16 +58,6 @@
     "store": "Irani",
     "name": "- 60%",
     "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Laranja",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
   },
   {
     "store": "Irani",
@@ -41,6 +81,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Clight 8g Laranja",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
     "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
     "price": 22.9
   },
@@ -51,13 +101,13 @@
   },
   {
     "store": "Irani",
-    "name": "Manteiga Frimesa 500g Sem Sal",
-    "price": 11.99
+    "name": "Pão Caseirinho 400g Lanche Hot Dog",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "- 45%",
-    "price": 21.99
+    "name": "- 33%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -72,36 +122,6 @@
   {
     "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
     "price": 15.99
   },
   {
@@ -141,17 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
     "price": 15.99
   },
   {
@@ -171,7 +181,47 @@
   },
   {
     "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
     "price": 15.99
   },
   {
@@ -201,17 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -231,27 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Conti 2l Limao",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -271,78 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
-    "price": 1.39
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Festval",
-    "name": "Coxão Mole Bovino Reserva Pedaço Kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
-    "price": 15.98
-  },
-  {
-    "store": "Festval",
-    "name": "Carré Suíno sem Pele com Osso Congelado Coopavel kg",
-    "price": 13.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mortadela Ouro Perdigão Fatiada 200G",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Mccain AirFryer 600g",
-    "price": 14.9
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 10 Unidades",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite em Pó Batavo Sachê Tipos 400G",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Laranja Festval 900ml",
-    "price": 9.9
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
@@ -458,5 +413,65 @@
     "store": "Festval",
     "name": "Vinho Argentino Fin Del Mundo Singles Tipos 750ml",
     "price": 149.0
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Fuji Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cenoura Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Formosa Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Nanica Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mexerica Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pimentão vermelho ou amarelo kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Niágara Bandeja 500g",
+    "price": 6.98
+  },
+  {
+    "store": "Festval",
+    "name": "Morango Bandeja 250g",
+    "price": 6.98
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja-Pera Kg",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Orgânicos Fazenda da Toca Caipira com 10 unidades",
+    "price": 9.98
   }
 ]
