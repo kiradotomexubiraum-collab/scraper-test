@@ -11,27 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
-    "price": 1.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 269ml Lata Gin Tônica",
-    "price": 1.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
     "price": 1.98
   },
   {
@@ -51,6 +31,26 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 1.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
     "name": "Açúcar Confeiteiro Glaçúcar União 500g",
     "price": 1.99
   },
@@ -58,16 +58,6 @@
     "store": "Irani",
     "name": "- 60%",
     "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Clight 8g Tangerina",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
   },
   {
     "store": "Irani",
@@ -91,33 +81,63 @@
   },
   {
     "store": "Irani",
-    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
-    "price": 22.9
+    "name": "Refresco Clight 8g Tangerina",
+    "price": 0.69
   },
   {
     "store": "Irani",
-    "name": "- 48%",
-    "price": 43.9
+    "name": "- 59%",
+    "price": 1.69
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 400g Lanche Hot Dog",
-    "price": 5.99
+    "name": "Manteiga Frimesa 500g Sem Sal",
+    "price": 11.99
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 8.99
+    "name": "- 45%",
+    "price": 21.99
   },
   {
     "store": "Irani",
-    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
-    "price": 39.9
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 57.9
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -141,53 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
     "price": 15.99
   },
   {
     "store": "Irani",
     "name": "- 30%",
     "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
   },
   {
     "store": "Irani",
@@ -211,23 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
+    "name": "- 29%",
+    "price": 33.9
   },
   {
     "store": "Irani",
@@ -241,17 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
     "price": 35.9
   },
   {
@@ -271,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
     "price": 35.9
   },
   {
@@ -281,7 +241,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
@@ -298,6 +268,36 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 27.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 37.9
   },
   {
     "store": "Festval",
