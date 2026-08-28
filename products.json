@@ -91,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 48%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Doce Leite Parmalat 350g Pote",
     "price": 7.98
   },
@@ -108,6 +98,16 @@
     "store": "Irani",
     "name": "- 39%",
     "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 400g Lanche Hot Dog",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -131,37 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 57.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
     "price": 15.99
   },
   {
@@ -171,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
+    "name": "Dolce Gusto C/10 60g Espresso Intenso",
     "price": 15.99
   },
   {
@@ -271,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Zero Açúcar Maça Verde",
+    "name": "Bebida Energética Baly 473ml Cereja",
     "price": 4.99
   },
   {
@@ -292,6 +262,36 @@
   {
     "store": "Irani",
     "name": "Bebida Energética Baly 473ml Frutas Tropicais",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Melancia",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Maça Verde",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
     "price": 4.99
   },
   {
