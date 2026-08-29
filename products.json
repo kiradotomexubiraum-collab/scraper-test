@@ -61,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Clight 8g Limonada",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 59%",
+    "price": 1.69
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Laranja",
     "price": 0.69
   },
@@ -81,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Limonada",
-    "price": 0.69
+    "name": "Óleo Bio Extratus 40ml Homem Cabelo e Barba",
+    "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
+    "name": "- 48%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -101,16 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 400g Lanche Hot Dog",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Pão Caseirinho 450g Tradicional",
     "price": 3.99
   },
@@ -121,6 +121,26 @@
   },
   {
     "store": "Irani",
+    "name": "Pão Caseirinho 400g Lanche Hot Dog",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pomada Bio Extratus 65g Homem Cabelo e Barba",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 57.9
+  },
+  {
+    "store": "Irani",
     "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
     "price": 8.89
   },
@@ -128,6 +148,36 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 12.89
+  },
+  {
+    "store": "Irani",
+    "name": "Gel Fixador Bio Extratus 150g Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 300ml Homem Cabelo e Barba",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 140G Pingado",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -242,56 +292,6 @@
   {
     "store": "Irani",
     "name": "Bebida Energética Baly 473ml Tradicional",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Melancia",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Maça Verde",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Pitaya",
     "price": 4.99
   },
   {
