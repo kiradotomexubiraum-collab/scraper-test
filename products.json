@@ -241,16 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Cereja",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Bebida Energética Baly 473ml Tradicional",
     "price": 4.99
   },
@@ -292,6 +282,16 @@
   {
     "store": "Irani",
     "name": "Bebida Energética Baly 473ml Manga Summer Loko",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Pitaya",
     "price": 4.99
   },
   {
