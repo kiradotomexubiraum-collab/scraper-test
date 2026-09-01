@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Açúcar Confeiteiro Glaçúcar União 500g",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 60%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -28,6 +18,36 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 12.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -51,37 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 26.9
   },
   {
@@ -101,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
@@ -121,13 +101,33 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Abacate Kg",
+    "price": 2.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 3.69
   },
   {
     "store": "Irani",
@@ -141,7 +141,27 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "name": "Batata Doce Roxa Kg",
+    "price": 2.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 3.69
+  },
+  {
+    "store": "Irani",
+    "name": "Abóbora Itália Kg",
+    "price": 2.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 3.69
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
     "price": 9.98
   },
   {
@@ -151,27 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Laranja",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Uva",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
     "price": 1.39
   },
   {
@@ -191,53 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
+    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
     "price": 1.39
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
   },
   {
     "store": "Irani",
@@ -251,13 +211,33 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
     "price": 9.98
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 13.49
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 13.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero 8g Morango",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
   },
   {
     "store": "Irani",
@@ -281,23 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Choc Barra Hersheys 85g Air Ao Leite Aerado",
-    "price": 5.99
+    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
+    "price": 1.39
   },
   {
     "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
+    "name": "- 26%",
+    "price": 1.89
   },
   {
     "store": "Irani",
-    "name": "Linguiça Fininha Perdigão 215g",
-    "price": 5.98
+    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
+    "price": 1.39
   },
   {
     "store": "Irani",
-    "name": "- 25%",
-    "price": 7.98
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
   },
   {
     "store": "Festval",
@@ -371,152 +371,87 @@
   },
   {
     "store": "Festval",
-    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Tinto Quinta do Espírito Santo Reserva 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português R de Romaneira 750ml - Branco ou Tinto",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Paolo Scavino Tinto 750ml",
-    "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Les Bories Tipos 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Septima Emblema Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Fin Del Mundo Singles Tipos 750ml",
-    "price": 149.0
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo De Soja Liza Pet 900ml",
-    "price": 5.79
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Banana Prata Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
-    "price": 2.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 11.9
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 4.98
-  },
-  {
-    "store": "Festval",
-    "name": "Café Pilão Tradicional 500g a Vácuo",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Pão de Queijo Festval Congelado 1Kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete Dove Fragrâncias kit com 6 Unidades 90g",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
     "price": 15.99
   },
   {
     "store": "Festval",
-    "name": "Papel Higiênico Duetto com 18 Rolos 20m ou 30m",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Café Damasco Tradicional 500g",
+    "name": "Linguiça Calabresa Frimesa kg",
     "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800G",
-    "price": 32.9
+    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
+    "price": 37.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 12.99
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.99
   },
   {
     "store": "Festval",
-    "name": "Abacaxi Pérola Doce Mel Unidade",
-    "price": 9.98
+    "name": "Suco de Uva Integral Tinto Aurora TP 1,5L",
+    "price": 16.99
   },
   {
     "store": "Festval",
-    "name": "Requeijão Tirolez Tradicional 200g",
-    "price": 6.99
+    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
+    "price": 13.9
   },
   {
     "store": "Festval",
-    "name": "Moscatel Garibaldi Floratta 750ml",
-    "price": 25.9
+    "name": "Arroz Italiano Mamma Bia Arbóreo ou Carnaroli 1Kg",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Zero Lactose Sabores 1,2Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Especial Moka Sabores 250g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Tinto Il Palazzo Chianti 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Espumante Italiana Asti Costa Bricco 750ML",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Santa Ema Blocks Gran Reserva Tipos 750ml",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Marqués de Vitoria Crianza 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Sino da Romaneira Tinto 750ml",
+    "price": 99.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Marquês de Marialva Reserva Tipos 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Gerald Vilain Chablis Branco 750ml",
+    "price": 199.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol San Roman Prima 750ml",
+    "price": 139.0
   }
 ]
