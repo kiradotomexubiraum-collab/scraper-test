@@ -1,6 +1,36 @@
 [
   {
     "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Limonada",
     "price": 0.69
   },
@@ -8,6 +38,66 @@
     "store": "Irani",
     "name": "- 59%",
     "price": 1.69
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Rose",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Salsicha Sadia 500g Hot Dog",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Batata palito Copacol 1,1kg Congelada",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 24.98
   },
   {
     "store": "Irani",
@@ -21,87 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "name": "- 30%",
+    "price": 32.98
   },
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -121,6 +141,86 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
@@ -128,6 +228,26 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Copacol 2kg",
+    "price": 24.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.98
+  },
+  {
+    "store": "Irani",
+    "name": "Abacate Kg",
+    "price": 2.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 3.69
   },
   {
     "store": "Irani",
@@ -151,126 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Abacate Kg",
-    "price": 2.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 3.69
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Abacaxi",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Café",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Pêssego",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Laranja",
     "price": 1.39
   },
@@ -281,17 +281,17 @@
   },
   {
     "store": "Irani",
+    "name": "Chicken Burguer Copacol 100g Frango",
+    "price": 2.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 3.39
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Uva",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Limão",
     "price": 1.39
   },
   {
@@ -376,46 +376,6 @@
   },
   {
     "store": "Festval",
-    "name": "Linguiça Calabresa Frimesa kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 37.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Uva Integral Tinto Aurora TP 1,5L",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
-    "price": 13.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbóreo ou Carnaroli 1Kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Zero Lactose Sabores 1,2Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Café Especial Moka Sabores 250g",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
     "name": "Vinho Italiano Tinto Il Palazzo Chianti 750ml",
     "price": 89.0
   },
@@ -453,5 +413,60 @@
     "store": "Festval",
     "name": "Vinho Espanhol San Roman Prima 750ml",
     "price": 139.0
+  },
+  {
+    "store": "Festval",
+    "name": "Batata-doce Roxa Kg",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cenoura Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Prata Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Formosa Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Gala Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja-bahia Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Rosas Maço/ Cores Diversas",
+    "price": 29.98
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Unidade",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Doce Uva Bandeja 500g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mini Chicken Perdigão Tradicional 1 Kg",
+    "price": 16.99
   }
 ]
