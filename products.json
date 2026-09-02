@@ -21,7 +21,47 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 26.9
   },
   {
@@ -51,27 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -91,26 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
@@ -118,16 +118,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Abacate Kg",
-    "price": 2.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 27%",
-    "price": 3.69
   },
   {
     "store": "Irani",
@@ -161,33 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
-    "price": 9.98
+    "name": "Abacate Kg",
+    "price": 2.69
   },
   {
     "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Limão",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
+    "name": "- 27%",
+    "price": 3.69
   },
   {
     "store": "Irani",
@@ -198,6 +168,46 @@
     "store": "Irani",
     "name": "- 26%",
     "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 13.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero 8g Morango",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Café",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 13.49
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Cranberry",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 13.49
   },
   {
     "store": "Irani",
@@ -231,36 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Café",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Maracujá",
     "price": 1.39
   },
@@ -281,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
     "price": 1.39
   },
   {
@@ -292,6 +272,26 @@
   {
     "store": "Irani",
     "name": "Refresco Magro Zero Açúcar 8g Laranja",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Uva",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Limão",
     "price": 1.39
   },
   {
