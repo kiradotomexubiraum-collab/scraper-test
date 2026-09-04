@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 1.99
   },
@@ -21,37 +11,37 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
-    "price": 1.99
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Salsicha Sadia 500g Hot Dog",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
   {
@@ -71,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Salsicha Sadia 500g Hot Dog",
-    "price": 7.99
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 11.99
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -121,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 26.9
   },
   {
@@ -181,7 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
   {
@@ -191,7 +201,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
   {
@@ -211,16 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 26.9
   },
@@ -228,6 +228,36 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -241,36 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hersheys Dark 85g Aerado",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refresco Magro Zero 8g Morango",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hersheys 80g Dark 47% Original",
     "price": 9.98
   },
@@ -281,23 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Magro Zero Açúcar 8g Maracujá",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 26%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Tradicional",
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 9.98
   },
   {
     "store": "Irani",
     "name": "- 26%",
     "price": 13.49
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet Poder O2",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 26.9
   },
   {
     "store": "Festval",
