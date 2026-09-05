@@ -11,6 +11,26 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Wickbold 450g Grão Sab. Castanha e Quinoa",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
     "name": "Salsicha Sadia 500g Hot Dog",
     "price": 7.99
   },
@@ -101,6 +121,26 @@
   },
   {
     "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
     "price": 8.89
   },
@@ -108,16 +148,6 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 12.89
-  },
-  {
-    "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
   },
   {
     "store": "Irani",
@@ -131,33 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "price": 32.98
   },
   {
     "store": "Irani",
@@ -171,7 +181,27 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
   {
@@ -211,16 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
@@ -231,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -241,63 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 69.9
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Redragon",
-    "price": 4.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Tradicional",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
-    "price": 4.99
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 33.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Melancia",
-    "price": 4.99
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 33.9
   },
   {
     "store": "Festval",
