@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 250ml Vidro Spritz",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Pão Wickbold 450g Grão Sab. Castanha e Quinoa",
     "price": 9.99
   },
@@ -41,37 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.9
   },
   {
@@ -121,6 +81,16 @@
   },
   {
     "store": "Irani",
+    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
+    "price": 8.89
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 12.89
+  },
+  {
+    "store": "Irani",
     "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -141,13 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
-    "price": 8.89
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 12.89
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Irani",
@@ -161,17 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -182,6 +142,66 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
   {
@@ -211,26 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
@@ -241,43 +241,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
     "store": "Irani",
@@ -291,13 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
+    "name": "Bebida Energética Baly 473ml Coco e Açaí",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 33.9
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Melancia",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
@@ -416,42 +416,42 @@
   },
   {
     "store": "Festval",
-    "name": "Leite Condensado Moça TP 395g",
-    "price": 6.99
+    "name": "Alcatra Baby Beef Bovino Reserva Peça A Vácuo KG - Item Acelerador",
+    "price": 65.9
   },
   {
     "store": "Festval",
-    "name": "Arroz Agulhinha Zaeli 5Kg",
-    "price": 17.99
+    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
+    "price": 119.0
   },
   {
     "store": "Festval",
-    "name": "Linguiça Toscana Frimesa Resfriada Kg",
-    "price": 14.99
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 56.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800G",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Tipos 750ml",
+    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
     "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
-    "price": 67.9
+    "name": "Costela de Cordeiro CarneiroSul Peça a Vácuo Kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Pizza Oliva Forneria Sabores Unidade",
+    "price": 27.9
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Avelã Mamma Bia 400g",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Giovanni Rana Sabores Resfriada 350g",
+    "price": 19.9
   }
 ]
