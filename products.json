@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
     "price": 8.89
   },
@@ -98,6 +88,16 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 12.89
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -131,6 +131,26 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -152,26 +172,6 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -261,16 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Cereja",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Bebida Energética Baly 473ml Tradicional",
     "price": 4.99
   },
@@ -300,79 +290,14 @@
     "price": 6.99
   },
   {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Sabor Sul 5kg",
-    "price": 17.99
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Maça Verde",
+    "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tradicional Frimesa 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Água Mineral Sferriê com Gás 510ml",
-    "price": 1.69
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Refinado Alto Alegre 1kg",
-    "price": 3.59
-  },
-  {
-    "store": "Festval",
-    "name": "Café 3 Corações Gourmet Tipos 250g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Presunto Frimesa Cozido Fatiado 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 1kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Batavo Pense Zero 1L",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Salsicha Perdigão 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Bebida Láctea Verde Campo 100% Whey 15g Proteína 250ml Sabores",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de Leite Lactobom 300g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 15.99
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
@@ -416,42 +341,132 @@
   },
   {
     "store": "Festval",
-    "name": "Alcatra Baby Beef Bovino Reserva Peça A Vácuo KG - Item Acelerador",
-    "price": 65.9
+    "name": "Filezinho Sassami de Frango Copacol IQF 800g",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
-    "price": 119.0
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 54.9
   },
   {
     "store": "Festval",
-    "name": "Passata italiana Mamma Bia 690g",
-    "price": 10.9
+    "name": "Detergente Girando Sol Fragrâncias 500ML",
+    "price": 1.98
   },
   {
     "store": "Festval",
-    "name": "Azeite De Oliva Espanhol Mamma Bia Anfora 0,3% Ac. 500ml",
-    "price": 39.9
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Costela de Cordeiro CarneiroSul Peça a Vácuo Kg",
-    "price": 49.9
+    "name": "Linguiça Calabresa Frimesa kg",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Pizza Oliva Forneria Sabores Unidade",
-    "price": 27.9
+    "name": "Carré Suíno sem Pele com Osso Congelado Coopavel kg",
+    "price": 13.99
   },
   {
     "store": "Festval",
-    "name": "Creme de Avelã Mamma Bia 400g",
-    "price": 23.9
+    "name": "Requeijão Poços de Caldas Pote 400g",
+    "price": 16.99
   },
   {
     "store": "Festval",
-    "name": "Lasanha Giovanni Rana Sabores Resfriada 350g",
+    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1L",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Feijão Preto Pontarollo 1KG",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Alto Alegre 2Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 35.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Polpa Ninho 540g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de leite Piracanjuba 200g",
+    "price": 3.49
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
     "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Molho Fugini Tradicional Sachê 300G",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Patinho Bovino Padrão Beef Pedaço Kg",
+    "price": 47.9
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Branco Sabor Sul 5kg",
+    "price": 17.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Mccain AirFryer 600g",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Palmito Tolete Jandel 300g",
+    "price": 18.99
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Tirolez Tradicional 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Copacol Sem Osso e Sem Pele Kg",
+    "price": 25.9
   }
 ]
