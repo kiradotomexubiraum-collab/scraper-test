@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
-    "price": 8.89
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 12.89
-  },
-  {
-    "store": "Irani",
     "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -98,6 +88,16 @@
     "store": "Irani",
     "name": "- 32%",
     "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
+    "price": 8.89
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 12.89
   },
   {
     "store": "Irani",
@@ -111,6 +111,16 @@
   },
   {
     "store": "Irani",
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -121,13 +131,23 @@
   },
   {
     "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 32.98
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -152,26 +172,6 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Coco e Açaí",
+    "name": "Bebida Energética Baly 473ml Cereja",
     "price": 4.99
   },
   {
