@@ -81,13 +81,13 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
-    "price": 8.89
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 12.89
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -101,23 +101,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
+    "price": 8.89
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
+    "name": "- 31%",
+    "price": 12.89
   },
   {
     "store": "Irani",
@@ -131,7 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -141,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -161,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
   {
@@ -171,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -261,43 +251,53 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Tradicional",
-    "price": 4.99
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 51.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Melancia",
-    "price": 4.99
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Maça Verde",
-    "price": 4.99
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
