@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 1.99
   },
@@ -18,16 +28,6 @@
     "store": "Irani",
     "name": "- 38%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Salsicha Sadia 500g Hot Dog",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 11.99
   },
   {
     "store": "Irani",
@@ -71,33 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Batata palito Copacol 1,1kg Congelada",
-    "price": 16.98
+    "name": "Salsicha Sadia 500g Hot Dog",
+    "price": 7.99
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 33%",
+    "price": 11.99
   },
   {
     "store": "Irani",
@@ -111,6 +91,26 @@
   },
   {
     "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -121,26 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -148,26 +128,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Irani",
@@ -231,6 +191,46 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -251,6 +251,26 @@
   },
   {
     "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
     "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
@@ -261,43 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Festval",
