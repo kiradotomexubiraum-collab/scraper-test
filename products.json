@@ -31,6 +31,16 @@
   },
   {
     "store": "Irani",
+    "name": "Salsicha Sadia 500g Hot Dog",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
@@ -71,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Salsicha Sadia 500g Hot Dog",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
     "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
     "price": 8.89
   },
@@ -91,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -291,13 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
