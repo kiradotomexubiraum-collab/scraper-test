@@ -21,6 +21,46 @@
   },
   {
     "store": "Irani",
+    "name": "Refresco Clight 8g Tangerina",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 61%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Refresco Clight 8g Uva",
+    "price": 0.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 61%",
+    "price": 1.79
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hemmer 200g Sachê",
+    "price": 4.19
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 37%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Pão Wickbold 450g Grão Sab. Castanha e Quinoa",
     "price": 9.99
   },
@@ -41,37 +81,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "price": 14.99
   },
   {
     "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Rose",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
   {
@@ -91,23 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Barra Dux Protein Bar 60g Chocolate Branco e Frutas Vermelhas",
-    "price": 8.89
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 12.89
-  },
-  {
-    "store": "Irani",
-    "name": "Barra Dux Protein Bar 60g Chocolate e Amendoim",
-    "price": 8.89
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 12.89
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -131,97 +141,27 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.9
+    "name": "Maionese Hemmer 290g Squeeze",
+    "price": 6.79
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 32%",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 24.9
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 24.9
   },
   {
@@ -241,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 42.9
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -271,217 +211,92 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Tinto Il Palazzo Chianti 750ml",
-    "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Espumante Italiana Asti Costa Bricco 750ML",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Santa Ema Blocks Gran Reserva Tipos 750ml",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Espanhol Marqués de Vitoria Crianza 750ml",
-    "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Sino da Romaneira Tinto 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Marquês de Marialva Reserva Tipos 750ml",
-    "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Gerald Vilain Chablis Branco 750ml",
-    "price": 199.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Espanhol San Roman Prima 750ml",
-    "price": 139.0
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Alto Alegre 2Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 35.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Polpa Ninho 540g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de leite Piracanjuba 200g",
-    "price": 3.49
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Molho Fugini Tradicional Sachê 300G",
-    "price": 1.99
-  },
-  {
-    "store": "Festval",
-    "name": "Patinho Bovino Padrão Beef Pedaço Kg",
-    "price": 47.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Mccain AirFryer 600g",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Tolete Jandel 300g",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tirolez Tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Copacol Sem Osso e Sem Pele Kg",
-    "price": 25.9
-  },
-  {
-    "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Banana Prata Kg",
+    "name": "Pulverizador 500ml Mil Milhas C/Gatilho",
     "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Melão Dino Kg",
+    "store": "Irani",
+    "name": "- 29%",
     "price": 6.99
   },
   {
-    "store": "Festval",
-    "name": "Manga Tommy Kg",
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Batata Palito Congelada Lar 1,5kg",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hemmer 500g Caseira",
     "price": 7.99
   },
   {
-    "store": "Festval",
-    "name": "Laranja-Pera Kg",
-    "price": 1.99
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 10.99
   },
   {
-    "store": "Festval",
-    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
-    "price": 7.99
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Tangerina",
+    "price": 1.39
   },
   {
-    "store": "Festval",
-    "name": "Alface Hidropônica Unidade",
-    "price": 2.98
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
   },
   {
-    "store": "Festval",
-    "name": "Mamão Papaya Unidade",
-    "price": 3.99
+    "store": "Irani",
+    "name": "Refresco Magro Zero Açúcar 8g Limão",
+    "price": 1.39
   },
   {
-    "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Kiwi Importado KSBIG Bandeja 500g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Melancia Cortada Kg",
-    "price": 2.98
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 1.89
   }
 ]
