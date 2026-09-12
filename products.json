@@ -1,17 +1,7 @@
 [
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "name": "Schweppes 269ml Lata Gin Tônica",
     "price": 1.99
   },
   {
@@ -31,7 +21,17 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 67%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Schweppes 269ml Lata Gin Tônica Pink",
     "price": 1.99
   },
   {
@@ -91,7 +91,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
+    "name": "Aparador de Barba Bic Flex C/2 Carga",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.9
   },
   {
@@ -111,7 +121,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Rose",
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
   {
@@ -121,13 +141,33 @@
   },
   {
     "store": "Irani",
-    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
-    "price": 9.99
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 14.99
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Rose",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -151,16 +191,6 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -171,13 +201,13 @@
   },
   {
     "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -191,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 24.9
   },
   {
@@ -201,103 +231,73 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Pulverizador 500ml Mil Milhas C/Gatilho",
-    "price": 4.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Batata Palito Congelada Lar 1,5kg",
-    "price": 15.98
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 27%",
-    "price": 21.98
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
-    "name": "Maionese Hemmer 500g Caseira",
-    "price": 7.99
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
-    "name": "- 27%",
-    "price": 10.99
+    "name": "- 30%",
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Festval",
@@ -426,92 +426,47 @@
   },
   {
     "store": "Festval",
-    "name": "Banana Nanica Kg",
-    "price": 2.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 4.98
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Líquido Uau 3L",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Suavit Pet 900ml",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
     "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
-  },
-  {
-    "store": "Festval",
-    "name": "Extrato de Tomate Elefante Pote 300g",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Ninho Composto Fases 1+ ou 3+ C/Prebio 800g",
     "price": 35.9
   },
   {
     "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 12.98
+    "name": "Azeite de Oliva Rafael Salgado 500 ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
-    "price": 16.9
+    "name": "Cápsulas 3 Corações Sabores com 10 Unidades",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
+    "name": "Filé Mignon Bovino Reserva Peça a Vácuo Kg",
+    "price": 99.9
   },
   {
     "store": "Festval",
-    "name": "Costela Suína com Pele e Osso Coopavel kg",
-    "price": 18.9
+    "name": "Conchiglione Crostini Sabores 500g",
+    "price": 35.9
   },
   {
     "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
+    "name": "Café Rituais 3 Corações 250g Tipos",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Desodorante Aerosol Dove 150ml",
-    "price": 14.9
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 56.9
   },
   {
     "store": "Festval",
-    "name": "Queijo Mussarela Polenghi Fatiado ou Pedaço Kg",
-    "price": 39.9
+    "name": "Vinho Italiano Asio Otus 750ml - Leve 3 Pague 2 Kit Pronto",
+    "price": 119.0
   },
   {
     "store": "Festval",
-    "name": "Leite Longa Vida Tipos 1L - A Partir de:",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Renata Com Ovos Tipos 500g",
-    "price": 3.99
+    "name": "Lombo de Bacalhau Riberalves Congelado 800g",
+    "price": 179.9
   }
 ]
