@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
+    "name": "Schweppes 269ml Lata Vodka Cítrus",
     "price": 1.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
+    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
     "price": 1.99
   },
   {
@@ -101,7 +101,27 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -131,7 +151,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
+    "name": "Vinho Português Porta 6 750ml Rose",
     "price": 39.9
   },
   {
@@ -142,26 +162,6 @@
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Rose",
     "price": 39.9
   },
   {
@@ -191,6 +191,16 @@
   },
   {
     "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -201,13 +211,23 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 30%",
+    "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
@@ -221,16 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 24.9
   },
@@ -241,17 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 24.9
   },
   {
@@ -271,17 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 24.9
   },
   {
@@ -292,6 +282,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 24.9
   },
   {
