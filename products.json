@@ -1,46 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Bebida Alcóolica Schweppes 269ml Lata Spritz",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Gin Tônica Pink",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 269ml Lata Vodka Cítrus",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Clight 8g Tangerina",
     "price": 0.69
   },
@@ -91,6 +51,26 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Rose",
     "price": 39.9
   },
@@ -111,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -128,26 +108,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
   },
   {
     "store": "Irani",
@@ -201,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 24.9
   },
   {
@@ -211,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 24.9
   },
   {
@@ -228,6 +188,56 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 32.98
   },
   {
     "store": "Irani",
@@ -251,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 24.9
   },
   {
@@ -261,7 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.9
   },
   {
@@ -271,33 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 24.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 29%",
+    "price": 33.9
   },
   {
     "store": "Festval",
