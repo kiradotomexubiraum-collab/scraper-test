@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Uva",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 61%",
-    "price": 1.79
-  },
-  {
-    "store": "Irani",
     "name": "Maionese Hemmer 200g Sachê",
     "price": 4.19
   },
@@ -51,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Brigadeiro",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Nata",
     "price": 3.99
   },
@@ -71,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Leite",
+    "name": "Biscoito Rosca Parati 250g Brigadeiro",
     "price": 3.99
   },
   {
@@ -81,13 +61,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Biscoito Rosca Parati 250g Chocolate",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Coco",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -111,13 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
-    "price": 9.99
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 14.99
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -131,33 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Coco",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Chocolate",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Maionese Hemmer 290g Squeeze",
+    "price": 6.79
   },
   {
     "store": "Irani",
     "name": "- 32%",
-    "price": 43.9
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -171,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Maionese Hemmer 290g Squeeze",
-    "price": 6.79
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 32%",
-    "price": 9.98
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -191,7 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.9
   },
   {
@@ -211,13 +201,13 @@
   },
   {
     "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
@@ -241,6 +231,16 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 24.9
   },
@@ -251,13 +251,23 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 31%",
     "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Irani",
@@ -271,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 24.9
   },
   {
@@ -282,16 +292,6 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 24.9
   },
   {
