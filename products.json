@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Maionese Hemmer 200g Sachê",
-    "price": 4.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 40%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Pão Wickbold 450g Grão Sab. Castanha e Quinoa",
     "price": 9.99
   },
@@ -51,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
+    "name": "Vinho Português Porta 6 750ml Rose",
     "price": 39.9
   },
   {
@@ -61,33 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Chocolate",
-    "price": 3.99
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Brigadeiro",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -101,17 +71,27 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Rose",
-    "price": 39.9
+    "name": "Biscoito Rosca Parati 250g Chocolate",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 5.99
   },
   {
     "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Nata",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Brigadeiro",
     "price": 3.99
   },
   {
@@ -128,6 +108,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
   },
   {
     "store": "Irani",
@@ -148,6 +138,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Leite Condensado Moça Semidesnatado 395g",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.99
   },
   {
     "store": "Irani",
@@ -201,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
     "name": "Milho Verde Copacol 1,1kg",
     "price": 22.98
   },
@@ -218,6 +208,16 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 32.98
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 12.99
   },
   {
     "store": "Irani",
@@ -271,33 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
+    "name": "Pulverizador 500ml Mil Milhas C/Gatilho",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
