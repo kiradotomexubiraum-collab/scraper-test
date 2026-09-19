@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Coco",
+    "name": "Biscoito Rosca Parati 250g Nata",
     "price": 3.99
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Nata",
+    "name": "Biscoito Rosca Parati 250g Brigadeiro",
     "price": 3.99
   },
   {
@@ -68,6 +68,36 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Coco",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -101,36 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Leite",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Brigadeiro",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
@@ -161,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -181,13 +171,83 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 31%",
     "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
   },
   {
     "store": "Irani",
@@ -201,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.9
   },
   {
@@ -231,73 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 170g Mochaccino Avelã",
-    "price": 15.99
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
+    "price": 32.98
   },
   {
     "store": "Festval",
