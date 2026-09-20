@@ -41,7 +41,17 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Nata",
+    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Leite",
     "price": 3.99
   },
   {
@@ -51,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Rose",
-    "price": 39.9
+    "name": "Biscoito Rosca Parati 250g Chocolate",
+    "price": 3.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -71,17 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Areia P/Gato Kets 4Kg Tradicinal Gtrs 250g",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Chocolate",
+    "name": "Biscoito Rosca Parati 250g Nata",
     "price": 3.99
   },
   {
@@ -111,17 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Coco",
-    "price": 3.99
+    "name": "Vinho Português Porta 6 750ml Rose",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 5.99
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Leite",
+    "name": "Biscoito Rosca Parati 250g Coco",
     "price": 3.99
   },
   {
@@ -138,16 +138,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Leite Condensado Moça Semidesnatado 395g",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.99
   },
   {
     "store": "Irani",
@@ -181,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
+    "name": "Cápsula Dolce Gusto Cx C/10 170g Mochaccino Avelã",
     "price": 15.99
   },
   {
@@ -201,7 +191,17 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 140G Pingado",
+    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
     "price": 15.99
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
     "price": 15.99
   },
   {
@@ -241,6 +241,26 @@
   },
   {
     "store": "Irani",
+    "name": "Dolce Gusto C/10 60g Latte Macchiato",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
     "price": 15.99
   },
@@ -251,13 +271,13 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 24.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
+    "name": "- 31%",
+    "price": 35.9
   },
   {
     "store": "Irani",
@@ -271,33 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 31%",
     "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
   },
   {
     "store": "Festval",
