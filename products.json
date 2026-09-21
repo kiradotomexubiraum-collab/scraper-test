@@ -31,16 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Rose",
     "price": 39.9
   },
@@ -58,6 +48,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -81,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -101,83 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.9
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -201,13 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 24.9
+    "name": "Milho Verde Copacol 1,1kg",
+    "price": 22.98
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 30%",
+    "price": 32.98
   },
   {
     "store": "Irani",
@@ -218,16 +138,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Milho Verde Copacol 1,1kg",
-    "price": 22.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 32.98
   },
   {
     "store": "Irani",
@@ -271,6 +181,26 @@
   },
   {
     "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Blond",
     "price": 36.9
   },
@@ -291,13 +221,83 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pulverizador 500ml Mil Milhas C/Gatilho",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Maionese Hemmer 500g Caseira",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 27%",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet Poder O2",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tira Mancha Pó Vanish 400g Sachet White",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Amendoa Almond Breeze 1l Choc Zero Lac",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Amêndoa Almond Breeze 1l Baunilha",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 26%",
+    "price": 18.99
   },
   {
     "store": "Festval",
@@ -338,81 +338,6 @@
     "store": "Festval",
     "name": "Espumante Francês Dufouleur Cremant 750ml",
     "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Baby Beef Bovino Reserva Peça A Vácuo KG - Item Acelerador",
-    "price": 64.9
-  },
-  {
-    "store": "Festval",
-    "name": "Carré Suíno Coopavel S/Pele C/Osso Congelado Kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Sabor Sul 5kg",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Gran Mestri Com ou Sem Sal Pote 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Achocolatado Chocolatto 3 Corações Sachê Refil 700gr",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Alto Alegre Refinado 1 Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Polenghi Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mortadela Ouro Perdigão Fatiada 200G - Item Acelerador",
-    "price": 6.49
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa Com Sobrecoxas Coopavel Congelada kg",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Batavo Pense Zero 1L",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Bandeja Frimesa Sabores 540g",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de Leite Lactobom 300g",
-    "price": 10.99
   },
   {
     "store": "Festval",
@@ -461,42 +386,182 @@
   },
   {
     "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
+    "name": "Cotonete Johnson Com 75 Unidades",
+    "price": 5.99
   },
   {
     "store": "Festval",
-    "name": "Nutella pote 350g",
-    "price": 29.9
+    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
-    "price": 12.99
+    "name": "Sabonete Líquido Johnson's Baby Fragrâncias Refil 180ml",
+    "price": 9.99
   },
   {
     "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
+    "name": "Toalhas Umedecidas Meu Bebê Caixa com 500 Unidades",
+    "price": 49.9
   },
   {
     "store": "Festval",
-    "name": "Vinho Francês Dufouleur Tipos 750ml",
-    "price": 39.9
+    "name": "Condicionador Johnson's Baby Regular 400ml",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Biscoito Dinamarquês Jacobsens 150g Sabores",
-    "price": 15.9
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
   },
   {
     "store": "Festval",
-    "name": "Creme de Leite Lactobom 300g",
+    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
+    "price": 67.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Toalhas Umedecidas Huggies Rosto e Corpo com 48 unidades",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café do Ponto a Vácuo Tipos 500g",
+    "price": 26.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Bonina 1kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 22.9
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Tradicional Frimesa 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Alto Alegre 2Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Creme De Leite Frimesa TP 200g",
+    "price": 2.98
+  },
+  {
+    "store": "Festval",
+    "name": "Carré suíno Frimesa sem pele c/osso congelado kg",
+    "price": 16.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mistura de Tapioca Geriba 500g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
+    "price": 5.9
+  },
+  {
+    "store": "Festval",
+    "name": "Presunto Frimesa Cozido Fatiado 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Copacol Bandeja 1 Kg",
+    "price": 18.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Sabor Sul Branco Especial 2 Kg",
     "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Chocolate em Barra Nestlé Sabores 80g - Item Acelerador",
-    "price": 6.98
+    "name": "Salame Seara Fatiado Tipos 100g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Água Mineral Fontana Oro Sem Gás 510ml",
+    "price": 1.19
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Frimesa Fatiado 150g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 16.99
+  },
+  {
+    "store": "Festval",
+    "name": "Salsicha Perdigão 500g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Pilão a Vácuo Tipos 500g",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
+    "price": 37.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Girando Sol Concentrado Fragrâncias 1L",
+    "price": 14.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Acém Bovino Moído Reserva Bandeja 400G - Item Acelerador",
+    "price": 21.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Damasco A Vácuo Tipos 500g",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas OMO Líquido Ciclo Rápido 750ml",
+    "price": 10.98
   }
 ]
