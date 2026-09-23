@@ -31,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Dark",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
     "price": 12.9
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
+    "name": "Chocolate Importado Lindt Classic 100g Dark",
     "price": 12.9
   },
   {
@@ -81,17 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Rose",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -111,7 +101,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Português Porta 6 750ml Rose",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
   {
@@ -161,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -181,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 24.9
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -201,37 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 24.9
   },
   {
@@ -251,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 24.9
   },
   {
@@ -261,7 +221,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 24.9
   },
   {
@@ -281,7 +241,47 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 24.9
   },
   {
@@ -338,51 +338,6 @@
     "store": "Festval",
     "name": "Espumante Francês Dufouleur Cremant 750ml",
     "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Alstroemeria Maço Unidade",
-    "price": 16.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Orquídea Vanda Unidade",
-    "price": 79.98
-  },
-  {
-    "store": "Festval",
-    "name": "Violeta Pote 11",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Samambaia Americana Cuia 25",
-    "price": 29.98
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Multiflora com1 Haste Unidade",
-    "price": 49.98
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Cymbidium 2 Hastes Pote 18",
-    "price": 69.98
-  },
-  {
-    "store": "Festval",
-    "name": "Orquídea Phaleanopsis Kit Arvore",
-    "price": 79.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor girassol Pote 15 unidade",
-    "price": 16.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Kalanchoe Cuia 21 unidade",
-    "price": 19.98
   },
   {
     "store": "Festval",
@@ -476,47 +431,62 @@
   },
   {
     "store": "Festval",
-    "name": "Café Pilão a Vácuo Tipos 500g",
-    "price": 21.9
+    "name": "Repolho Verde Kg",
+    "price": 1.98
   },
   {
     "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 8.99
+    "name": "Melão Gália Unidade",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Queijo Argentino Muçarela Melincué Pedaço ou Fatiado Kg",
-    "price": 37.9
+    "name": "Mamão Formosa Kg",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
+    "name": "Mirtilo Bandeja 125g",
+    "price": 12.98
   },
   {
     "store": "Festval",
-    "name": "Amaciante Girando Sol Concentrado Fragrâncias 1L",
-    "price": 14.9
+    "name": "Banana Maçã kg",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 15.99
+    "name": "Manga Tommy Kg",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Acém Bovino Moído Reserva Bandeja 400G - Item Acelerador",
-    "price": 21.99
+    "name": "Laranja-Pera Kg",
+    "price": 1.98
   },
   {
     "store": "Festval",
-    "name": "Café Damasco A Vácuo Tipos 500g",
-    "price": 21.9
+    "name": "Abacaxi Pérola Unidade",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Lava Roupas OMO Líquido Ciclo Rápido 750ml",
-    "price": 10.98
+    "name": "Linguiça Calabresa Frimesa kg",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Defumado Ceratti Fatiado kg",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Pink Lady Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Doce Uva Bandeja 500g",
+    "price": 7.99
   }
 ]
