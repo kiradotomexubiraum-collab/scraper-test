@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
     "price": 12.9
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
+    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
     "price": 12.9
   },
   {
@@ -61,23 +61,23 @@
   },
   {
     "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 37%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Aparador de Barba Bic Flex C/2 Carga",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Camembert President 125g Petit",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.98
   },
   {
     "store": "Irani",
@@ -131,37 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Maionese Hemmer 290g Squeeze",
-    "price": 6.79
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -171,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -191,27 +161,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 24.9
   },
   {
@@ -231,17 +191,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.9
   },
   {
@@ -252,26 +202,6 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 24.9
   },
   {
@@ -298,6 +228,76 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Leite",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
