@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 125g Sanduíche de Queijo",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 38%",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
@@ -71,6 +81,26 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -98,6 +128,66 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -141,26 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -191,87 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Leite",
+    "name": "Bebida Energética Baly 473ml Tradicional",
     "price": 4.99
   },
   {
@@ -281,7 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
+    "name": "Bebida Energética Baly 473ml Maça Verde",
     "price": 4.99
   },
   {
@@ -291,13 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
-    "price": 24.9
+    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Coco e Açaí",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
@@ -391,66 +391,6 @@
   },
   {
     "store": "Festval",
-    "name": "Repolho Verde Kg",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Melão Gália Unidade",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mamão Formosa Kg",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Mirtilo Bandeja 125g",
-    "price": 12.98
-  },
-  {
-    "store": "Festval",
-    "name": "Banana Maçã kg",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Manga Tommy Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Laranja-Pera Kg",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Abacaxi Pérola Unidade",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Linguiça Calabresa Frimesa kg",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Peito de Frango Defumado Ceratti Fatiado kg",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Maçã Pink Lady Kg",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
     "name": "Vinho Italiano Cielo Passaia Toscana Tinto 750ml",
     "price": 49.5
   },
@@ -483,5 +423,85 @@
     "store": "Festval",
     "name": "Vinho Português Quinta da Pacheca Gran Reserva 750ml",
     "price": 199.0
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
+    "price": 17.9
+  },
+  {
+    "store": "Festval",
+    "name": "Detergente Girando Sol Fragrâncias 500ML",
+    "price": 1.98
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Líquido Uau 3L",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Limpador Multiuso UAU 500ml",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Limpador Magic Brilho Alumínio e Inox Tipos 500ML",
+    "price": 4.98
+  },
+  {
+    "store": "Festval",
+    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Aromatizador Bom ar Aerossol Fragrâncias 360ml",
+    "price": 17.9
+  },
+  {
+    "store": "Festval",
+    "name": "Salmão Fresco com Pele Kg",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cápsula 3 Corações Sabores C/10 Unidades - Item Acelerador",
+    "price": 14.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Moscatel Aurora Branco ou Rosé 750ml",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 57.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Especial Moka Sabores 250g",
+    "price": 29.9
   }
 ]
