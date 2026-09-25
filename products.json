@@ -1,46 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Chocolate Importado Lindor Singles 100g Ao leite com Avelã",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Dark",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 63%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 63%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Importado Lindt Classic 100g Ao Leite com Avelã",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 63%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Refresco Clight 8g Tangerina",
     "price": 0.69
   },
@@ -141,56 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Sadia 180g Fatiado",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 13%",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
@@ -231,7 +141,107 @@
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
     "price": 36.9
   },
   {
@@ -241,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
+    "name": "Finalizador Bio Extratus 200g Blond",
     "price": 36.9
   },
   {
@@ -281,23 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "price": 34.9
   },
   {
     "store": "Festval",
