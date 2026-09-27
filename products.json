@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Wafer Nestle Kit Kat 41,5g Branco",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Importado Espanhol Krit 125g Sanduíche de Queijo",
     "price": 9.99
   },
@@ -28,6 +38,26 @@
     "store": "Irani",
     "name": "- 38%",
     "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Camembert President 125g Petit",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -52,46 +82,6 @@
   {
     "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.9
   },
   {
@@ -131,76 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
@@ -231,17 +151,17 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -261,7 +181,87 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Tradicional",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Leite",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Seven Boys 450g Leite",
     "price": 4.99
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
+    "name": "Bebida Energética Baly Abacaxi C/ Hortelã",
     "price": 4.99
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Coco e Açaí",
+    "name": "Pão Caseirinho 450g Tradicional",
     "price": 4.99
   },
   {
@@ -426,46 +426,6 @@
   },
   {
     "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1L",
-    "price": 17.9
-  },
-  {
-    "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ML",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Omo Lavagem Perfeita 2,2 Kg",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Líquido Uau 3L",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Multiuso UAU 500ml",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Limpador Magic Brilho Alumínio e Inox Tipos 500ML",
-    "price": 4.98
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Aromatizador Bom ar Aerossol Fragrâncias 360ml",
-    "price": 17.9
-  },
-  {
-    "store": "Festval",
     "name": "Salmão Fresco com Pele Kg",
     "price": 89.9
   },
@@ -503,5 +463,45 @@
     "store": "Festval",
     "name": "Café Especial Moka Sabores 250g",
     "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Bovina Reserva Com Osso (Exceto Minga, Ripa, Tiras e Costelão) KG",
+    "price": 27.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 56.9
+  },
+  {
+    "store": "Festval",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Reserva Peça a Vácuo Kg",
+    "price": 99.9
+  },
+  {
+    "store": "Festval",
+    "name": "Meio da Asa de Frango Copacol IQF 800g",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Toscana Frimesa Resfriada Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Peito Coopavel Resfriado Kg",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Suíno Coopavel Kg",
+    "price": 19.9
   }
 ]
