@@ -91,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -121,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
@@ -141,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -162,6 +152,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -261,16 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Bebida Energética Baly 473ml Maça Verde",
     "price": 4.99
   },
@@ -291,13 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
+    "name": "Pão Seven Boys 450g Leite",
     "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
@@ -426,82 +426,37 @@
   },
   {
     "store": "Festval",
-    "name": "Salmão Fresco com Pele Kg",
-    "price": 89.9
+    "name": "Pêssego em Calda Mamma Bia 660g",
+    "price": 24.9
   },
   {
     "store": "Festval",
-    "name": "Cápsula 3 Corações Sabores C/10 Unidades - Item Acelerador",
-    "price": 14.9
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
-    "price": 6.99
+    "name": "Chocolate Toblerone Sabores 100g",
+    "price": 15.9
   },
   {
     "store": "Festval",
-    "name": "Moscatel Aurora Branco ou Rosé 750ml",
-    "price": 25.9
+    "name": "Lasanha Copacol Sabores 600g",
+    "price": 9.9
   },
   {
     "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 15.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 57.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Especial Moka Sabores 250g",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Costela Bovina Reserva Com Osso (Exceto Minga, Ripa, Tiras e Costelão) KG",
-    "price": 27.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 56.9
-  },
-  {
-    "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Bovino Reserva Peça a Vácuo Kg",
+    "name": "Picanha Bovina Reserva Peça A Vácuo KG",
     "price": 99.9
   },
   {
     "store": "Festval",
-    "name": "Meio da Asa de Frango Copacol IQF 800g",
-    "price": 25.9
+    "name": "Cerveja Heineken Lata 269ml - Leve 8 pague 6 - Monte seu Kit",
+    "price": 29.94
   },
   {
     "store": "Festval",
-    "name": "Linguiça Toscana Frimesa Resfriada Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito Coopavel Resfriado Kg",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Suíno Coopavel Kg",
-    "price": 19.9
+    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
+    "price": 12.9
   }
 ]
