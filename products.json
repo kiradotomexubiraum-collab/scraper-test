@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Biscoito Importado Espanhol Krit 125g Sanduíche de Queijo",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 81%",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
     "name": "Refresco Clight 8g Tangerina",
     "price": 0.69
   },
@@ -28,36 +38,6 @@
     "store": "Irani",
     "name": "- 40%",
     "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 125g Sanduíche de Queijo",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
   },
   {
     "store": "Irani",
@@ -91,6 +71,26 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Camembert President 125g Petit",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
     "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -121,26 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -148,26 +128,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Irani",
@@ -181,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
   {
@@ -221,7 +181,47 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
     "price": 24.9
   },
   {
@@ -271,26 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Blond",
     "price": 36.9
   },
@@ -300,44 +280,94 @@
     "price": 51.9
   },
   {
-    "store": "Festval",
-    "name": "Café do Ponto a Vácuo Tipos 500g",
-    "price": 26.9
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Bonina 1kg",
-    "price": 3.99
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.98
   },
   {
     "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 22.9
+    "name": "Azeite de Oliva Rafael Salgado 500 ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Requeijão Tradicional Frimesa 200g",
+    "name": "Carré Suíno sem Pele com Osso Congelado Coopavel kg",
+    "price": 12.99
+  },
+  {
+    "store": "Festval",
+    "name": "Coxão Mole Bovino Padrão Beef Pedaço Kg",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon Manta Frimesa KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Achocolatado Nescau Lata 350g",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 10.9
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cápsula 3 Corações Sabores C/10 Unidades - Item Acelerador",
+    "price": 16.9
+  },
+  {
+    "store": "Festval",
+    "name": "Energético Red Horse 2L",
+    "price": 9.99
+  },
+  {
+    "store": "Festval",
+    "name": "Água Mineral Fontana Oro c/gás 510ml",
+    "price": 1.39
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Açúcar Alto Alegre 2Kg",
-    "price": 6.99
+    "name": "Açúcar Alto Alegre Refinado 1 Kg",
+    "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme De Leite Frimesa TP 200g",
-    "price": 2.98
-  },
-  {
-    "store": "Festval",
-    "name": "Carré suíno Frimesa sem pele c/osso congelado kg",
-    "price": 16.99
+    "name": "Amaciante Girando Sol Concentrado Fragrâncias 1L",
+    "price": 14.9
   },
   {
     "store": "Festval",
@@ -346,18 +376,23 @@
   },
   {
     "store": "Festval",
-    "name": "Leite Parmalat Zero Lactose Zymil TP 1L",
-    "price": 5.9
+    "name": "Manteiga Batavo Com ou Sem Sal Tablete 200g - 25% de Desconto na 2° Unidade",
+    "price": 10.99
   },
   {
     "store": "Festval",
-    "name": "Presunto Frimesa Cozido Fatiado 200g",
-    "price": 7.99
+    "name": "Mortadela Ouro Perdigão Fatiada 200G - Item Acelerador",
+    "price": 6.59
   },
   {
     "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol Bandeja 1 Kg",
-    "price": 18.99
+    "name": "Café 3 Corações Tradicional ou Extra Forte Vácuo 500g",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Girando Sol Floral Paris 4 Kg",
+    "price": 29.9
   },
   {
     "store": "Festval",
@@ -366,97 +401,22 @@
   },
   {
     "store": "Festval",
-    "name": "Salame Seara Fatiado Tipos 100g",
-    "price": 10.99
+    "name": "Músculo Bovino Reserva Pedaço KG",
+    "price": 45.9
   },
   {
     "store": "Festval",
-    "name": "Água Mineral Fontana Oro Sem Gás 510ml",
-    "price": 1.19
+    "name": "Leite Batavo Pense Zero 1L",
+    "price": 5.9
   },
   {
     "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
+    "name": "Farinha de Trigo Anaconda Premium 1Kg",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Salsicha Perdigão 500g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Cielo Passaia Toscana Tinto 750ml",
-    "price": 49.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Guerrieri Guerriero Nero 750ml",
-    "price": 79.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Septima Emblema Tipos 750ml",
-    "price": 34.5
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Americano Artesa Cabernet Sauvignon 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Chablis I Cru 750ml",
-    "price": 249.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Petit-Figeac Bordeaux 750ml",
-    "price": 549.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Quinta da Pacheca Gran Reserva 750ml",
-    "price": 199.0
-  },
-  {
-    "store": "Festval",
-    "name": "Pêssego em Calda Mamma Bia 660g",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Chocolate Toblerone Sabores 100g",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Picanha Bovina Reserva Peça A Vácuo KG",
-    "price": 99.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Heineken Lata 269ml - Leve 8 pague 6 - Monte seu Kit",
-    "price": 29.94
-  },
-  {
-    "store": "Festval",
-    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
-    "price": 12.9
+    "name": "Isotônico Powerade Sabores Garrafa 500ml",
+    "price": 3.99
   }
 ]
