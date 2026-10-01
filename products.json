@@ -1,27 +1,27 @@
 [
   {
     "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 125g Sanduíche de Queijo",
+    "name": "Biscoito Importado Espanhol Krit 100g Original",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "- 81%",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
+    "name": "- 67%",
+    "price": 8.99
   },
   {
     "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
   {
@@ -41,13 +41,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Queijo Camembert President 125g Petit",
+    "price": 19.98
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Brinquedo Uno Original",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Brinquedo Supershot Space Gun",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Brinquedo Frigideira Divertida Home Play Sortida",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 36.9
   },
   {
     "store": "Irani",
@@ -81,47 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -141,6 +131,16 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
@@ -151,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -181,7 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 26.9
   },
   {
@@ -201,7 +201,77 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Doce Leite Ilolay 400g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
     "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
     "price": 36.9
   },
   {
@@ -221,83 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
+    "name": "Biscoito Marilan 350g Maizena",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 14.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Lenço Algodão Johnson C/100 Recém Nascido",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
-    "price": 58.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 78.9
+    "price": 6.99
   },
   {
     "store": "Festval",
