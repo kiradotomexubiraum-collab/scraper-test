@@ -11,26 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refresco Clight 8g Tangerina",
-    "price": 0.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 59%",
-    "price": 1.69
-  },
-  {
-    "store": "Irani",
-    "name": "Cebola, Alho e Salsa Quero 40g",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 40%",
-    "price": 7.49
-  },
-  {
-    "store": "Irani",
     "name": "Queijo Camembert President 125g Petit",
     "price": 19.98
   },
@@ -51,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
+    "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
   {
@@ -61,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
+    "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
   {
@@ -91,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 170g Mochaccino Avelã",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -111,136 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 140G Pingado",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Au Lait",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Espresso Intenso",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Cappuccino",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto Cx C/10 60g Mochaccino Canela",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Matinal",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Café Caseiro",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Cápsula Dolce Gusto Cx C/10 60g Lungo",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Au Lait Baunilha",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Dolce Gusto C/10 60g Latte Macchiato",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 22.99
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 26.9
   },
@@ -248,6 +88,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -271,6 +121,46 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
     "price": 26.9
   },
@@ -281,23 +171,133 @@
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 33.9
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 14.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Lenço Algodão Johnson C/100 Recém Nascido",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
+    "price": 58.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 78.9
   },
   {
     "store": "Festval",
@@ -386,97 +386,52 @@
   },
   {
     "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Seara Sabores 600g - Item Acelerador",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Suavit Pet 900ml",
-    "price": 6.69
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete Dove Fragrâncias kit com 6 Unidades 90g",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Caboclo Tradicional A Vácuo 500g",
-    "price": 20.9
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Uva Integral Tinto Aurora TP 1,5L",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 10 Unidades - Item Acelerador",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
+    "name": "Maçã Fuji Kg",
     "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800G",
-    "price": 33.9
+    "name": "Maracujá Azedo Kg",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 12.99
+    "name": "Laranja-bahia Kg",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Desodorante Aerosol Dove Fragrâncias 250ml - Item Acelerador",
-    "price": 23.9
+    "name": "Mirtilo Bandeja 125g",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Moscatel Garibaldi Floratta 750ml",
-    "price": 24.9
+    "name": "Manga Tommy Kg",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Unidade",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Salsa Aroma e Sabor 400g",
+    "price": 3.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Papaya Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Doce Uva Bandeja 500g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Rúcula Hidropônica Unidade",
+    "price": 2.99
   }
 ]
