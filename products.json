@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Biscoito Importado Espanhol Krit 100g Original",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 67%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
@@ -51,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Uno Original",
+    "name": "Brinquedo Supershot Space Gun",
     "price": 19.9
   },
   {
@@ -61,7 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Supershot Space Gun",
+    "name": "Brinquedo Uno Original",
     "price": 19.9
   },
   {
@@ -108,46 +98,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Irani",
@@ -231,27 +181,47 @@
   },
   {
     "store": "Irani",
-    "name": "Doce Leite Ilolay 400g",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
     "price": 36.9
   },
   {
@@ -261,7 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
+    "name": "Finalizador Bio Extratus 200g Blond",
     "price": 36.9
   },
   {
@@ -278,6 +248,26 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Irani",
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
@@ -386,52 +386,47 @@
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 7.99
+    "name": "Pizza Disco Festval sabores Unidade",
+    "price": 23.9
   },
   {
     "store": "Festval",
-    "name": "Maracujá Azedo Kg",
-    "price": 9.98
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Laranja-bahia Kg",
-    "price": 4.99
+    "name": "Cerveja Heineken Lata 269ml - Leve 8 Pague 6 Monte seu Kit",
+    "price": 29.94
   },
   {
     "store": "Festval",
-    "name": "Mirtilo Bandeja 125g",
-    "price": 9.98
+    "name": "Azeite de Oliva Grego Midas Chania Kritis 500ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Manga Tommy Kg",
-    "price": 5.99
+    "name": "Lava Roupas Liquído OMO 3L Fragrâncias",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Abacaxi Pérola Unidade",
-    "price": 6.99
+    "name": "Café Lor Torras Tipos 250 G",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Batata Salsa Aroma e Sabor 400g",
-    "price": 3.98
+    "name": "Queijo Tipo Burrata de Bufala Bom Destino 120G",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Mamão Papaya Unidade",
-    "price": 3.99
+    "name": "Bombom Lindt Lindor Sabores 200G",
+    "price": 62.9
   },
   {
     "store": "Festval",
-    "name": "Uva Verde Doce Uva Bandeja 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Rúcula Hidropônica Unidade",
-    "price": 2.99
+    "name": "Alcatra Bovina Reserva Pedaço Resfriada KG",
+    "price": 59.9
   }
 ]
