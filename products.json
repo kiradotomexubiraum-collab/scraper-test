@@ -81,7 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Uno Original",
+    "name": "Brinquedo Supershot Space Gun",
     "price": 19.9
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Supershot Space Gun",
+    "name": "Brinquedo Uno Original",
     "price": 19.9
   },
   {
@@ -151,7 +151,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
   {
@@ -171,23 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
   },
   {
     "store": "Irani",
@@ -231,16 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
@@ -252,6 +242,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 26.9
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 49.9
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.9
   },
   {
