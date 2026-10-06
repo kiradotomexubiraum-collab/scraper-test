@@ -11,6 +11,26 @@
   },
   {
     "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g Branco",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
@@ -28,6 +48,36 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Camembert President 125g Petit",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -61,56 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
     "name": "Brinquedo Supershot Space Gun",
     "price": 19.9
   },
@@ -131,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -161,7 +161,107 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
   {
@@ -191,107 +291,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
