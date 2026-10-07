@@ -301,46 +301,6 @@
   },
   {
     "store": "Festval",
-    "name": "Detergente Girando Sol Fragrâncias 500ML",
-    "price": 1.98
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Patinho Bovino Padrão Beef Pedaço Kg",
-    "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol IQF 800g",
-    "price": 14.9
-  },
-  {
-    "store": "Festval",
-    "name": "Músculo Moído Bovino Reserva Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades - Item Acelerador",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Tirolez Tradicional ou Light 200g - Item Acelerador",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Pense Zero Garrafa Sabores 1.150 KG",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
     "name": "Café Caboclo Tradicional A Vácuo 500g",
     "price": 20.9
   },
@@ -478,5 +438,55 @@
     "store": "Festval",
     "name": "Vinho Chileno Secreto Gran Reserva Tipos 750ML",
     "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Cebola Nacional Kg",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cenoura Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Nanica Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Morgote Kg",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mini Alface Higienizada Walker 150g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Alface Crocante Walker Higienizado 170g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Bandeja 500g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Doce Mel Unidade",
+    "price": 9.98
   }
 ]
