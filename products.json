@@ -51,6 +51,16 @@
   },
   {
     "store": "Irani",
+    "name": "Brinquedo Uno Original",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Queijo Camembert President 125g Petit",
     "price": 19.98
   },
@@ -61,27 +71,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chardonnay",
     "price": 19.9
   },
   {
@@ -101,7 +91,7 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Uno Original",
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
     "price": 19.9
   },
   {
@@ -161,26 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
@@ -201,26 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -231,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
     "store": "Irani",
@@ -281,6 +231,16 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
@@ -300,6 +260,46 @@
     "price": 37.9
   },
   {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
     "store": "Festval",
     "name": "Café Caboclo Tradicional A Vácuo 500g",
     "price": 20.9
@@ -313,11 +313,6 @@
     "store": "Festval",
     "name": "Sorvete Apiacere Sabores 2L",
     "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confort Sec - Tamanhos",
-    "price": 79.9
   },
   {
     "store": "Festval",
@@ -373,6 +368,11 @@
     "store": "Festval",
     "name": "Água Mineral Fontana Oro Sem Gás 510ml",
     "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
   },
   {
     "store": "Festval",
@@ -466,11 +466,6 @@
   },
   {
     "store": "Festval",
-    "name": "Mini Alface Higienizada Walker 150g",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
     "name": "Alface Crocante Walker Higienizado 170g",
     "price": 5.99
   },
@@ -488,5 +483,10 @@
     "store": "Festval",
     "name": "Abacaxi Pérola Doce Mel Unidade",
     "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mini Alface Higienizada Walker 150g",
+    "price": 5.99
   }
 ]
