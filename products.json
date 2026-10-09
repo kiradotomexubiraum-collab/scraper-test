@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Leite Longa Vida Tirol Bio Ciclos 1l Semidesnatado Zero Lactose",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 42%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate Kinder Bueno 39g/43g",
     "price": 5.98
   },
@@ -41,26 +31,6 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Supershot Space Gun",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Brinquedo Uno Original",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
@@ -71,23 +41,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
-    "price": 19.9
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -111,23 +81,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Cabernet Sauvignon",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Brinquedo Uno Original",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Brinquedo Supershot Space Gun",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -171,7 +161,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
   {
@@ -181,17 +181,27 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
   {
@@ -208,6 +218,26 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
   },
   {
     "store": "Irani",
@@ -261,43 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Festval",
@@ -441,52 +441,42 @@
   },
   {
     "store": "Festval",
-    "name": "Cebola Nacional Kg",
-    "price": 5.98
+    "name": "Filé de Tilápia CVale IQF 800g",
+    "price": 33.9
   },
   {
     "store": "Festval",
-    "name": "Cenoura Kg",
-    "price": 4.99
+    "name": "Arroz Agulhinha Zaeli 5Kg",
+    "price": 18.99
   },
   {
     "store": "Festval",
-    "name": "Banana Nanica Kg",
-    "price": 3.99
+    "name": "Lava Roupas em Pó Brilhante 2,2Kg Caixa",
+    "price": 18.9
   },
   {
     "store": "Festval",
-    "name": "Morgote Kg",
-    "price": 7.98
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Cogumelo Shimeji Urakami Bandeja 200g",
-    "price": 7.98
+    "name": "Leite Lider Tipos TP 1L",
+    "price": 4.49
   },
   {
     "store": "Festval",
-    "name": "Alface Crocante Walker Higienizado 170g",
-    "price": 5.99
+    "name": "Queijo Mussarela Argentino Melincué Pedaço ou Fatiado Kg",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 13.98
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Uva Verde Bandeja 500g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Abacaxi Pérola Doce Mel Unidade",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Mini Alface Higienizada Walker 150g",
-    "price": 5.99
+    "name": "Café Especial Moka Sabores 250g",
+    "price": 29.9
   }
 ]
