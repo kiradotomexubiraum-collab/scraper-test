@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Steak Seara 100g Frango",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -8,6 +18,16 @@
     "store": "Irani",
     "name": "- 50%",
     "price": 39.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate Kinder Bueno 39g/43g",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -21,13 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
-    "price": 5.98
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
   },
   {
     "store": "Irani",
-    "name": "- 40%",
-    "price": 9.98
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -48,26 +68,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Brinquedo Uno Original",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
   },
   {
     "store": "Irani",
@@ -111,6 +111,16 @@
   },
   {
     "store": "Irani",
+    "name": "Brinquedo Uno Original",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Brinquedo Supershot Space Gun",
     "price": 19.9
   },
@@ -131,7 +141,17 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Pão Caseirinho 450g Leite",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -141,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -158,6 +178,66 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -181,97 +261,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Mussarela Piracanjuba 300g Fatiada",
-    "price": 11.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
     "price": 26.9
   },
   {
@@ -291,192 +291,12 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Caboclo Tradicional A Vácuo 500g",
-    "price": 20.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Condensado Piracanjuba TP 395G",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Sorvete Apiacere Sabores 2L",
-    "price": 15.9
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Catupiry Tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Milho Suavit Pet 900ml",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pepino Geriba Em Conserva 300g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Natural Frimesa Tradicional 165g",
-    "price": 2.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Em Bifes Copacol IQF 800g",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Mccain AirFryer 600g",
-    "price": 16.9
-  },
-  {
-    "store": "Festval",
-    "name": "Água Mineral Fontana Oro Sem Gás 510ml",
-    "price": 1.99
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Creme Cottage Verde Campo Tradicional ou Lacftee 200g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Batavo Com ou Sem Sal Tablete 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos de codorna Geriba 300g",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Jandel Rodelas 300g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Balduzzi Classic Tipos 750ml",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Quinta do Espírito Santo Tinto 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Renascer Reserva Tipos 750ml",
-    "price": 39.0
-  },
-  {
-    "store": "Festval",
-    "name": "Espumante Francês Dufouleur Cremant 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Espumante Italiano Asio Otus Branco ou Rosé 750ML",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Pacheca Ruby / Towny / White 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Secreto Gran Reserva Tipos 750ML",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800g",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Agulhinha Zaeli 5Kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Brilhante 2,2Kg Caixa",
-    "price": 18.9
-  },
-  {
-    "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Argentino Melincué Pedaço ou Fatiado Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Especial Moka Sabores 250g",
-    "price": 29.9
+    "price": 37.9
   }
 ]
