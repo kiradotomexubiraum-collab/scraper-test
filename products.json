@@ -21,27 +21,37 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g Branco",
-    "price": 5.98
+    "name": "Farinha Panko Karui 200g",
+    "price": 7.99
   },
   {
     "store": "Irani",
-    "name": "- 40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Chocolate Kinder Bueno 39g/43g",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 40%",
-    "price": 9.98
+    "name": "- 33%",
+    "price": 11.99
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -58,76 +68,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Farinha Panko Karui 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "Brinquedo Uno Original",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Leite",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 5.99
   },
   {
     "store": "Irani",
@@ -151,37 +91,27 @@
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Supershot Space Gun",
-    "price": 19.9
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Brinquedo Frigideira Divertida Home Play Sortida",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Lacta Sonho de Valsa Ouro Branco 220g",
-    "price": 9.99
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 14.99
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -191,7 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -208,6 +138,76 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -231,37 +231,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 26.9
   },
   {
@@ -291,53 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Chileno Balduzzi Classic Tipos 750ml",
-    "price": 24.9
+    "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Português Quinta do Espírito Santo Tinto 750ml",
-    "price": 49.0
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
-    "price": 39.0
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Amora com Hortelã",
+    "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino Renascer Reserva Tipos 750ml",
-    "price": 39.0
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
-    "store": "Festval",
-    "name": "Espumante Francês Dufouleur Cremant 750ml",
-    "price": 99.0
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Maça Verde",
+    "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Espumante Italiano Asio Otus Branco ou Rosé 750ML",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Português Pacheca Ruby / Towny / White 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Secreto Gran Reserva Tipos 750ML",
-    "price": 59.0
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
@@ -433,6 +393,46 @@
     "store": "Festval",
     "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
     "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Herdade Grande Tipos 750ml",
+    "price": 129.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Cremaschi Single Tipos 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Verum Tipos 750ml",
+    "price": 89.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Lirica Primitivo Manduria Tinto 750ml",
+    "price": 79.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Balduzzi Almaule Tinto 750ml",
+    "price": 59.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol San Roman Prima 750ml",
+    "price": 139.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Verum Reserva 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Campillo Crianza 750ml",
+    "price": 99.0
   },
   {
     "store": "Festval",
