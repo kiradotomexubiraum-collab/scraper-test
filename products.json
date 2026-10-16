@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Steak Seara 100g Frango",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -21,37 +11,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Steak Seara 100g Frango",
+    "price": 0.99
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
+    "name": "- 50%",
+    "price": 1.99
   },
   {
     "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -71,13 +41,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -88,6 +68,26 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -111,7 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -141,37 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
   {
@@ -191,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
     "price": 26.9
   },
@@ -211,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
   {
@@ -231,6 +191,46 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 26.9
   },
@@ -241,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -281,23 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 51.9
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
-    "price": 4.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 69.9
   },
   {
     "store": "Festval",
