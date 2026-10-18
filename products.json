@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Refrigerante Schweppes Tônica 1,5L",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 72%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -51,36 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Farinha Panko Karui 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
@@ -91,7 +51,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Farinha Panko Karui 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
     "price": 19.9
   },
   {
@@ -118,6 +88,26 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -181,16 +171,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
     "price": 26.9
   },
@@ -201,37 +181,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -251,7 +201,47 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
   {
@@ -271,7 +261,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -281,7 +271,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
   {
