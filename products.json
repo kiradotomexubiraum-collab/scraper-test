@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 39.98
+  },
+  {
+    "store": "Irani",
     "name": "Steak Seara 100g Frango",
     "price": 0.99
   },
@@ -21,13 +31,13 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 19.98
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 50%",
-    "price": 39.98
+    "price": 19.98
   },
   {
     "store": "Irani",
@@ -51,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -81,26 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
     "price": 9.99
   },
@@ -111,23 +121,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -151,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Farinha Panko Karui 200g",
-    "price": 7.99
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 11.99
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -171,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Queijo Prato President 150g Gran Reserva",
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 30%",
+    "price": 9.99
   },
   {
     "store": "Irani",
@@ -191,16 +191,6 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
@@ -208,6 +198,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -231,37 +231,17 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Maça Verde",
-    "price": 4.99
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 51.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Uva Verde",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Cereja",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -271,33 +251,53 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
-    "price": 4.99
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Bebida Energética Baly 473ml Melancia",
-    "price": 4.99
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 6.99
+    "price": 51.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Bummis Premium HiperC/54 XXG",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Festval",
