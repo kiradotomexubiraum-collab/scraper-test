@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Steak Seara 100g Frango",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -21,13 +31,13 @@
   },
   {
     "store": "Irani",
-    "name": "Steak Seara 100g Frango",
-    "price": 0.99
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 50%",
-    "price": 1.99
+    "price": 19.98
   },
   {
     "store": "Irani",
@@ -42,16 +52,6 @@
   {
     "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -111,16 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.9
   },
@@ -161,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Queijo Camembert President 125g Petit",
-    "price": 19.98
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.98
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -198,16 +188,6 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 28.98
-  },
-  {
-    "store": "Irani",
-    "name": "Queijo Prato President 150g Gran Reserva",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 9.99
   },
   {
     "store": "Irani",
@@ -281,6 +261,16 @@
   },
   {
     "store": "Irani",
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 33.9
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 26.9
   },
@@ -292,6 +282,16 @@
   {
     "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
     "price": 26.9
   },
   {
