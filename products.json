@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Chá Pronto Matte Leão 1,5l Pet Pêssego",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 63%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
     "name": "Açúcar Confeiteiro Glaçúcar União 500g",
     "price": 1.99
   },
@@ -8,16 +18,6 @@
     "store": "Irani",
     "name": "- 60%",
     "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Steak Seara 100g Frango",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 1.99
   },
   {
     "store": "Irani",
@@ -31,7 +31,17 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Steak Seara 100g Frango",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -51,7 +61,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -71,26 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Molho Salada Liza 234ml Vinagrete",
     "price": 8.99
   },
@@ -101,6 +91,16 @@
   },
   {
     "store": "Irani",
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
     "price": 9.99
   },
@@ -108,6 +108,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -151,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
   {
@@ -161,13 +171,23 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger Misto 56g",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 1.49
   },
   {
     "store": "Irani",
@@ -191,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -198,16 +228,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Irani",
@@ -231,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -251,6 +271,26 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
-    "price": 23.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Festval",
@@ -396,57 +396,92 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 4.99
+    "name": "Kit Pantene Shampo 300ml + Condicionador 150ml Tipos",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Melão Amarelo Kg",
-    "price": 3.99
+    "name": "Hidratante Corporal Neutrogena Tipos 400ml",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Brócolis Unidade",
-    "price": 6.9
+    "name": "Desodorante Stick Secret Fragrâncias 45g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Laranja-bahia Kg",
-    "price": 4.99
+    "name": "Kit Dove Shampoo 350ml + Condicionador 175ml Tipos",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Couve-Flor Unidade",
-    "price": 6.9
+    "name": "Kit Eudora Siàge Shampoo 250ml + Condicionador 125ml Tipos",
+    "price": 69.9
   },
   {
     "store": "Festval",
-    "name": "Mirtilo Bandeja 125g",
-    "price": 9.98
+    "name": "Desodorante Aerosol Dove Fragrâncias 250ml - Item Acelerador",
+    "price": 23.9
   },
   {
     "store": "Festval",
-    "name": "Banana Maçã kg",
-    "price": 7.99
+    "name": "Body Splash Lattafa Fragrâncias 250ml",
+    "price": 99.9
   },
   {
     "store": "Festval",
-    "name": "Manga Tommy Kg",
-    "price": 4.99
+    "name": "Sérum de Limpeza Facial Garnier 100g",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Abacaxi Pérola Doce Mel Unidade",
-    "price": 8.99
+    "name": "Óleo Extraordinário Elseve 100ml",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Cogumelo Shimeji Preto Urakami Bandeja 200g",
-    "price": 7.99
+    "name": "Pêssego Nacional Kg",
+    "price": 12.98
   },
   {
     "store": "Festval",
-    "name": "Uva KSBIG Autumn Crisp 500g",
-    "price": 9.98
+    "name": "Cápsulas Dolce Gusto Sabores com 10 Unidades - Item Acelerador",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 33.9
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Frimesa TP 395g",
+    "price": 5.98
+  },
+  {
+    "store": "Festval",
+    "name": "Panceta Suína Temperada Coopavel Peça A Vácuo KG",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Argentina Quilmes Clássica Long Neck 340ml",
+    "price": 6.49
+  },
+  {
+    "store": "Festval",
+    "name": "Bombom Nestlé Especialidades 220g",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Batata McCain Airfryer Congelada 600g",
+    "price": 15.9
   }
 ]
