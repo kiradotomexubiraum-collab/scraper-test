@@ -41,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
@@ -61,13 +51,23 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "price": 9.99
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 46%",
+    "price": 12.99
   },
   {
     "store": "Irani",
@@ -81,27 +81,17 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 14.99
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
     "price": 39.9
   },
   {
@@ -121,13 +111,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
+    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 14.99
   },
   {
     "store": "Irani",
@@ -141,13 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -171,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -191,13 +181,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 19.98
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 31%",
+    "price": 28.98
   },
   {
     "store": "Irani",
@@ -221,7 +211,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
     "price": 26.9
   },
   {
@@ -231,73 +221,83 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
+    "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
+    "price": 23.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 33.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
+    "name": "Pão Seven Boys 450g Leite",
+    "price": 4.99
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 6.99
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
+    "name": "Batata Palito Copacol 2kg",
+    "price": 24.98
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 34.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Frutas Tropicais",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Melancia",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
