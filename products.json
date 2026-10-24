@@ -31,17 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Steak Seara 100g Frango",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -61,33 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 50%",
     "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Amor Carioca 200g Duo",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 40%",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "Molho Salada Liza 234ml Vinagrete",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 13.49
   },
   {
     "store": "Irani",
@@ -98,6 +68,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Molho Salada Liza 234ml Vinagrete",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 13.49
   },
   {
     "store": "Irani",
@@ -128,6 +108,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger Misto 56g",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 1.49
   },
   {
     "store": "Irani",
@@ -181,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Hambúrguer Texas Burger Misto 56g",
-    "price": 0.99
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 19.98
   },
   {
     "store": "Irani",
-    "name": "- 34%",
-    "price": 1.49
+    "name": "- 31%",
+    "price": 28.98
   },
   {
     "store": "Irani",
@@ -198,16 +188,6 @@
     "store": "Irani",
     "name": "- 32%",
     "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
   },
   {
     "store": "Irani",
@@ -231,7 +211,17 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
   {
@@ -251,7 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
   {
@@ -261,17 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
@@ -291,13 +271,33 @@
   },
   {
     "store": "Irani",
-    "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
-    "price": 23.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 33.9
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Festval",
