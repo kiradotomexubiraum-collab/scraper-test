@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Chá Pronto Matte Leão 1,5l Pet Pêssego",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 63%",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
     "name": "Açúcar Confeiteiro Glaçúcar União 500g",
     "price": 1.99
   },
@@ -31,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -41,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -71,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Molho Salada Liza 234ml Vinagrete",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
     "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
     "price": 19.9
   },
@@ -91,23 +71,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
+    "name": "Molho Salada Liza 234ml Vinagrete",
+    "price": 8.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hambúrguer Texas Burger Misto 56g",
-    "price": 0.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 34%",
-    "price": 1.49
+    "price": 13.49
   },
   {
     "store": "Irani",
@@ -118,6 +88,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 14.99
+  },
+  {
+    "store": "Irani",
+    "name": "Hambúrguer Texas Burger Misto 56g",
+    "price": 0.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 1.49
   },
   {
     "store": "Irani",
@@ -141,6 +121,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
@@ -158,6 +148,16 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 28.98
   },
   {
     "store": "Irani",
@@ -181,16 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
-  },
-  {
-    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -211,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Suave",
     "price": 23.9
   },
@@ -231,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
     "name": "Absorvente Intimus Noturno C/Abas C/30 Seca",
     "price": 23.9
   },
@@ -238,26 +228,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 33.9
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Palito Copacol 2kg",
-    "price": 24.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.98
   },
   {
     "store": "Irani",
@@ -292,6 +262,36 @@
   {
     "store": "Irani",
     "name": "Bebida Energética Baly 473ml Melancia",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Maça Verde",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Manga Summer Loko",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida Energética Baly 473ml Coco e Açaí",
     "price": 4.99
   },
   {
