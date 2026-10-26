@@ -21,16 +21,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
@@ -51,6 +41,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 6.99
   },
@@ -61,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
+    "name": "Bombom Amor Carioca 200g Duo",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -91,13 +111,23 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 14.99
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -121,23 +151,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 14.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -181,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Água Sanitária Ypê 2L",
+    "price": 6.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -201,57 +241,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bisnaguinha Seven Boys 300g S/Lactose",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
     "price": 24.9
   },
   {
@@ -268,6 +258,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Irani",
@@ -291,93 +291,68 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Seven Boys 450g Forma",
-    "price": 4.99
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 6.89
+    "name": "- 29%",
+    "price": 69.9
   },
   {
     "store": "Festval",
-    "name": "Vinho Português Herdade Grande Tipos 750ml",
-    "price": 129.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Cremaschi Single Tipos 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Espanhol Verum Tipos 750ml",
-    "price": 89.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Italiano Lirica Primitivo Manduria Tinto 750ml",
-    "price": 79.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Balduzzi Almaule Tinto 750ml",
-    "price": 59.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Espanhol San Roman Prima 750ml",
-    "price": 139.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Argentino Verum Varietal Tinto 750ml",
-    "price": 49.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Espanhol Campillo Crianza 750ml",
-    "price": 99.0
-  },
-  {
-    "store": "Festval",
-    "name": "Sorvete Apiacere Sabores 2L",
-    "price": 16.98
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Agulhinha Zaeli 5Kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
+    "name": "Óleo de Soja Suavit Pet 900ml",
     "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Amaciante Concentrado Downy Básicos 1L",
-    "price": 17.98
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 4.99
   },
   {
     "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 9.98
+    "name": "Queijo Mussarela Argentino Melincué Pedaço ou Fatiado Kg",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Vinagre Koller Tinto 750ml",
-    "price": 6.9
+    "name": "Café Gourmet 3 Corações Tipos 250g - Item Acelerador",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Água Mineral Fontana Oro c/gás 510ml",
-    "price": 1.39
+    "name": "Suco de Laranja Festval 900ml",
+    "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol IQF 800g",
-    "price": 16.99
+    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Downy Concentrado Fragrâncias 1,5L",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cotonetes Johnson & Johnson 150 unidades",
+    "price": 10.9
+  },
+  {
+    "store": "Festval",
+    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Condicionador Johnson Baby Regular 200ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Sabonete em Barra Huggies Fragrâncias 75G",
+    "price": 3.9
   },
   {
     "store": "Festval",
@@ -386,102 +361,117 @@
   },
   {
     "store": "Festval",
-    "name": "Café Damasco A Vácuo Tipos 500g",
-    "price": 20.9
+    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
+    "price": 67.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 16.99
+    "name": "Toalha Umedecida Huggies Rosto e Corpo com 48 Unidades",
+    "price": 7.9
   },
   {
     "store": "Festval",
-    "name": "Kit Pantene Shampo 300ml + Condicionador 150ml Tipos",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Hidratante Corporal Neutrogena Tipos 400ml",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Desodorante Stick Secret Fragrâncias 45g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Kit Dove Shampoo 350ml + Condicionador 175ml Tipos",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Kit Eudora Siàge Shampoo 250ml + Condicionador 125ml Tipos",
-    "price": 69.9
-  },
-  {
-    "store": "Festval",
-    "name": "Desodorante Aerosol Dove Fragrâncias 250ml - Item Acelerador",
-    "price": 23.9
-  },
-  {
-    "store": "Festval",
-    "name": "Body Splash Lattafa Fragrâncias 250ml",
-    "price": 99.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sérum de Limpeza Facial Garnier 100g",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo Extraordinário Elseve 100ml",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Pêssego em Calda Mamma Bia 660g",
+    "name": "Sabonete Liquido Granado Glicerina Fragrancias 250ml",
     "price": 24.9
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 59.9
+    "name": "Loção Hidratante Pampers Infantil 400ml",
+    "price": 26.9
   },
   {
     "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 56.9
+    "name": "Feijão Carioca Itasa Tipo 1 - Pacote 1Kg",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Costela Seara Com Molho Barbecue 1kg - Item Acelerador",
-    "price": 69.9
+    "name": "Margarina Qualy Com ou Sem Sal 500G",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Cerveja Heineken Lata 269ml - Leve 8 Pague 6 Monte seu Kit",
-    "price": 29.94
+    "name": "Peito de Frango Coopavel Congelado kg",
+    "price": 12.99
   },
   {
     "store": "Festval",
-    "name": "Geléia Polonesa Mamma Bia Sabores 410g",
-    "price": 13.9
+    "name": "Leite Fermentado Yakult 6 unidades",
+    "price": 9.98
   },
   {
     "store": "Festval",
-    "name": "Tortéi de Abóbora Sabor de Mãe 400g",
-    "price": 12.9
+    "name": "Água Mineral Sferriê Sem Gás 510ml",
+    "price": 1.19
   },
   {
     "store": "Festval",
-    "name": "Orquídea Denphalaen Pote 12",
-    "price": 19.98
+    "name": "Empanitos Lar 700g",
+    "price": 12.99
   },
   {
     "store": "Festval",
-    "name": "Camarão Cinza IE Pescados 25/45 ou 40/60 300g",
+    "name": "Molho de Tomate Pomarola Tradicional Sachê 300g",
+    "price": 3.59
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Branco Sabor Sul 5kg",
+    "price": 18.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 2kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Girando Sol Concentrado Fragrâncias 1L",
+    "price": 15.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mortadela Ouro Perdigão Fatiada 200G - Item Acelerador",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Copacol IQF 800g",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 1kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão Renata Superiore Tipos 500g",
+    "price": 7.98
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Batavo Pense Zero 1,15Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Manteiga Batavo Com ou Sem Sal Tablete 200g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Piracanjuba Zero Lactose 1L",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Toalha Umedecidas Meu Bebê com 500un",
     "price": 49.9
   }
 ]
