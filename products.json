@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
@@ -41,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 6.99
   },
@@ -58,6 +58,76 @@
     "store": "Irani",
     "name": "- 46%",
     "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Lillo Magia 207ml Lilás 624531",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 53.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 8.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 44%",
+    "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Sbp 100ml Baby Loção",
+    "price": 29.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 40%",
+    "price": 49.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Extra Suave",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 5.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete em Barra Huggies 75g Chá De Camomila",
+    "price": 3.5
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 5.9
   },
   {
     "store": "Irani",
@@ -71,233 +141,163 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Shampoo Huggies 200ml Baby Chá Camomila",
+    "price": 13.9
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "name": "- 39%",
+    "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
+    "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
+    "price": 3.19
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Molho Salada Liza 234ml Vinagrete",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 13.49
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Esp Pata Negra Oro 750ml Tempranillo",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Cerveja Cerpa Export 350ml Long Neck Und",
+    "name": "- 36%",
     "price": 4.99
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
+    "name": "Condicionador Palmolive Kids 350ml",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
+    "name": "- 35%",
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 10.99
   },
   {
     "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
+    "name": "- 35%",
+    "price": 16.99
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
+    "name": "- 35%",
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.95
   },
   {
     "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.9
+    "name": "- 35%",
+    "price": 19.95
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
+    "name": "Toalha Unidecida Huggies C/48 Max Clean",
+    "price": 8.9
   },
   {
     "store": "Irani",
-    "name": "Pão Seven Boys 450g Leite",
-    "price": 4.99
+    "name": "- 36%",
+    "price": 13.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
+    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 12.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 29.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 45.95
+  },
+  {
+    "store": "Irani",
+    "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hastes Cottonbaby C/75 Unidades",
+    "price": 2.28
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 3.48
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
   },
   {
     "store": "Festval",
@@ -333,51 +333,6 @@
     "store": "Festval",
     "name": "Amaciante Downy Concentrado Fragrâncias 1,5L",
     "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cotonetes Johnson & Johnson 150 unidades",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Condicionador Johnson Baby Regular 200ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete em Barra Huggies Fragrâncias 75G",
-    "price": 3.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
-    "price": 67.9
-  },
-  {
-    "store": "Festval",
-    "name": "Toalha Umedecida Huggies Rosto e Corpo com 48 Unidades",
-    "price": 7.9
-  },
-  {
-    "store": "Festval",
-    "name": "Sabonete Liquido Granado Glicerina Fragrancias 250ml",
-    "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Loção Hidratante Pampers Infantil 400ml",
-    "price": 26.9
   },
   {
     "store": "Festval",
