@@ -21,16 +21,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
@@ -42,6 +32,16 @@
   {
     "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -211,16 +211,6 @@
   },
   {
     "store": "Irani",
-    "name": "Água Sanitária Ypê 2L",
-    "price": 6.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Be Use Bio Extratus 250g Antiencolhimento",
     "price": 39.9
   },
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Seven Boys 450g Leite",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
