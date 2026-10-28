@@ -61,13 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Caneca Lillo Magia 207ml Lilás 624531",
-    "price": 29.9
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 45%",
-    "price": 53.9
+    "price": 44.9
   },
   {
     "store": "Irani",
@@ -91,13 +91,13 @@
   },
   {
     "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
+    "name": "Caneca Lillo Magia 207ml Lilás 624531",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 45%",
-    "price": 44.9
+    "price": 53.9
   },
   {
     "store": "Irani",
@@ -161,16 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
     "name": "Escova Dental Colgate Tandy C/2",
     "price": 10.99
   },
@@ -181,7 +171,37 @@
   },
   {
     "store": "Irani",
+    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
     "price": 12.99
   },
   {
@@ -208,26 +228,6 @@
     "store": "Irani",
     "name": "- 36%",
     "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Trolls",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
   },
   {
     "store": "Irani",
