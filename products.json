@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
@@ -41,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Chocolate em Barra Hershey s Dark 85g Menta",
     "price": 6.99
   },
@@ -58,26 +58,6 @@
     "store": "Irani",
     "name": "- 46%",
     "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 45%",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 45%",
-    "price": 44.9
   },
   {
     "store": "Irani",
@@ -98,6 +78,26 @@
     "store": "Irani",
     "name": "- 45%",
     "price": 53.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
   },
   {
     "store": "Irani",
@@ -131,6 +131,16 @@
   },
   {
     "store": "Irani",
+    "name": "Shampoo Huggies 200ml Baby Chá Camomila",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 39%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
     "name": "Bombom Amor Carioca 200g Duo",
     "price": 5.99
   },
@@ -141,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 200ml Baby Chá Camomila",
-    "price": 13.9
+    "name": "Biscoito Nestle 130g Surpresa",
+    "price": 3.79
   },
   {
     "store": "Irani",
-    "name": "- 39%",
-    "price": 22.9
+    "name": "- 37%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -161,43 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
-    "price": 10.99
+    "name": "Toalha Unidecida Huggies C/48 Max Clean",
+    "price": 8.9
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
+    "name": "- 36%",
+    "price": 13.9
   },
   {
     "store": "Irani",
@@ -211,6 +191,16 @@
   },
   {
     "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
     "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
     "price": 12.95
   },
@@ -221,27 +211,47 @@
   },
   {
     "store": "Irani",
-    "name": "Toalha Unidecida Huggies C/48 Max Clean",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 12.9
+    "name": "Condicionador Palmolive Kids 350ml",
+    "price": 12.99
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 19.9
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Cabeça aos Pés",
     "price": 29.95
   },
   {
@@ -261,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 29.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 45.95
+  },
+  {
+    "store": "Irani",
     "name": "Hastes Cottonbaby C/75 Unidades",
     "price": 2.28
   },
@@ -271,68 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
-    "price": 14.9
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 12.9
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Festval",
-    "name": "Óleo de Soja Suavit Pet 900ml",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Argentino Melincué Pedaço ou Fatiado Kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Gourmet 3 Corações Tipos 250g - Item Acelerador",
     "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Laranja Festval 900ml",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Downy Concentrado Fragrâncias 1,5L",
-    "price": 24.9
   },
   {
     "store": "Festval",
@@ -428,5 +393,100 @@
     "store": "Festval",
     "name": "Toalha Umedecidas Meu Bebê com 500un",
     "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Congelado Copacol Kg",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Cenoura Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Prata Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Melão Amarelo Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pêssego Nacional Kg",
+    "price": 12.98
+  },
+  {
+    "store": "Festval",
+    "name": "Roseira Mini Pote 15",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Manga Tommy Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Vitória Mimo Seleção Bandeja 400g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Papaya Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Kiwi Importado KSBIG Bandeja 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Ameixa Importada KSBIG Bandeja 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino La Mascota Tipos 750ml",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Espumante Italiano Asio Otus Branco ou Rosé 750ml",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Dufouleur Tipos 750ml",
+    "price": 49.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Renacer Punto Final Tipos 750ML",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Luna Argenta Puglia 750ml",
+    "price": 79.0
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Dufouleur Chablis I Cru 750ml",
+    "price": 289.0
   }
 ]
