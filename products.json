@@ -21,8 +21,8 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
-    "price": 9.99
+    "name": "Creme de Leite Fresco Quatá 500g Garrafa",
+    "price": 9.98
   },
   {
     "store": "Irani",
@@ -32,6 +32,16 @@
   {
     "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -81,16 +91,6 @@
   },
   {
     "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 44%",
-    "price": 15.9
-  },
-  {
-    "store": "Irani",
     "name": "Caneca Aprendizado Fiona 180ml Azul",
     "price": 24.9
   },
@@ -98,6 +98,16 @@
     "store": "Irani",
     "name": "- 45%",
     "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 8.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 44%",
+    "price": 15.9
   },
   {
     "store": "Irani",
@@ -141,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
-    "price": 3.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Nestle 130g Surpresa",
     "price": 3.79
   },
@@ -161,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
-    "price": 10.99
+    "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
+    "price": 3.19
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 16.99
+    "name": "- 36%",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -181,6 +181,26 @@
   },
   {
     "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Toalha Unidecida Huggies C/48 Max Clean",
+    "price": 8.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 36%",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
     "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
     "price": 12.95
   },
@@ -188,6 +208,16 @@
     "store": "Irani",
     "name": "- 35%",
     "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
   },
   {
     "store": "Irani",
@@ -211,26 +241,6 @@
   },
   {
     "store": "Irani",
-    "name": "Toalha Unidecida Huggies C/48 Max Clean",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
     "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
     "price": 12.9
   },
@@ -238,36 +248,6 @@
     "store": "Irani",
     "name": "- 35%",
     "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme P/Pentear Huggies 360ml Kids Rapunzel Nutrição e Força",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hastes Cottonbaby C/75 Unidades",
-    "price": 2.28
-  },
-  {
-    "store": "Irani",
-    "name": "- 34%",
-    "price": 3.48
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
   },
   {
     "store": "Irani",
@@ -298,6 +278,26 @@
     "store": "Irani",
     "name": "- 35%",
     "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 29.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 45.95
+  },
+  {
+    "store": "Irani",
+    "name": "Hastes Cottonbaby C/75 Unidades",
+    "price": 2.28
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 3.48
   },
   {
     "store": "Festval",
