@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
     "name": "Creme de Leite Fresco Quatá 500g Garrafa",
     "price": 9.98
   },
@@ -31,13 +21,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
+    "name": "Kit Gel Dental Carmed c/3",
+    "price": 19.98
   },
   {
     "store": "Irani",
     "name": "- 50%",
-    "price": 19.98
+    "price": 39.98
   },
   {
     "store": "Irani",
@@ -52,6 +42,16 @@
   {
     "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -171,57 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Poços De Calda 200g",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 10.98
-  },
-  {
-    "store": "Irani",
-    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
-    "price": 12.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Toalha Unidecida Huggies C/48 Max Clean",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
     "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
     "price": 12.95
   },
   {
@@ -261,23 +211,63 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Líquido Johnson Baby 400ml Cabeça aos Pés",
-    "price": 29.95
+    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 45.95
+    "price": 19.99
   },
   {
     "store": "Irani",
-    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
-    "price": 14.9
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.95
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 22.9
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Toalha Unidecida Huggies C/48 Max Clean",
+    "price": 8.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 36%",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Poços De Calda 200g",
+    "price": 6.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 36%",
+    "price": 10.98
+  },
+  {
+    "store": "Irani",
+    "name": "Repelente Xô Inseto 200ml Spray 10h Proteção",
+    "price": 12.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hastes Cottonbaby C/75 Unidades",
+    "price": 2.28
+  },
+  {
+    "store": "Irani",
+    "name": "- 34%",
+    "price": 3.48
   },
   {
     "store": "Irani",
@@ -291,13 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
+    "name": "Shampoo Huggies 360ml Kids Hulk Nutri e Forç",
     "price": 14.9
   },
   {
     "store": "Irani",
     "name": "- 35%",
     "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Cabeça aos Pés",
+    "price": 29.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 45.95
   },
   {
     "store": "Festval",
