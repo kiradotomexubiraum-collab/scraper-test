@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Creme de Leite Fresco Quatá 500g Garrafa",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -61,13 +51,23 @@
   },
   {
     "store": "Irani",
-    "name": "Chocolate em Barra Hershey s Dark 85g Menta",
-    "price": 6.99
+    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
+    "price": 8.9
   },
   {
     "store": "Irani",
-    "name": "- 46%",
-    "price": 12.99
+    "name": "- 44%",
+    "price": 15.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
   },
   {
     "store": "Irani",
@@ -88,26 +88,6 @@
     "store": "Irani",
     "name": "- 45%",
     "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 45%",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 44%",
-    "price": 15.9
   },
   {
     "store": "Irani",
@@ -151,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Nestle 130g Surpresa",
-    "price": 3.79
-  },
-  {
-    "store": "Irani",
-    "name": "- 37%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
     "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
     "price": 3.19
   },
@@ -171,73 +141,13 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
-    "price": 12.95
+    "name": "Biscoito Nestle 130g Surpresa",
+    "price": 3.79
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Trolls",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
-    "name": "Toalha Unidecida Huggies C/48 Max Clean",
-    "price": 8.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 13.9
+    "name": "- 37%",
+    "price": 5.99
   },
   {
     "store": "Irani",
@@ -261,27 +171,77 @@
   },
   {
     "store": "Irani",
-    "name": "Hastes Cottonbaby C/75 Unidades",
-    "price": 2.28
+    "name": "Toalha Unidecida Huggies C/48 Max Clean",
+    "price": 8.9
   },
   {
     "store": "Irani",
-    "name": "- 34%",
-    "price": 3.48
+    "name": "- 36%",
+    "price": 13.9
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
-    "price": 14.9
+    "name": "Sabonete Liquido Johnson 180ml Refil Hora do Sono",
+    "price": 12.95
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 22.9
+    "price": 19.95
   },
   {
     "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Hulk Nutri e Forç",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Para Pentear Huggies 360ml Kids Ariel Brilho Mágico",
     "price": 14.9
   },
   {
@@ -298,6 +258,46 @@
     "store": "Irani",
     "name": "- 35%",
     "price": 45.95
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 29.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 45.95
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
   },
   {
     "store": "Festval",
@@ -436,92 +436,42 @@
   },
   {
     "store": "Festval",
-    "name": "Óleo de Soja Soya Pet 900ml",
-    "price": 6.89
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Café Itamaraty Tradicional 500g",
+    "name": "Linguiça Toscana Frimesa Kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Panceta Suína Temperada Coopavel Peça A Vácuo KG",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Ripa Bovina Padrão Beef Peça A Vácuo KG",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Suína com Pele e Osso Coopavel kg",
     "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Açúcar Cristal Alto Alegre 5kg",
-    "price": 14.99
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Feijão Preto Itasa 1Kg",
-    "price": 5.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800g",
-    "price": 33.9
-  },
-  {
-    "store": "Festval",
-    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão Todeschini c/ovos Tipos 500gr",
-    "price": 3.49
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
-    "price": 22.9
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Flor Crisântemo Pote 15",
-    "price": 24.98
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 12.98
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 5kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó Girando Sol 4Kg",
-    "price": 24.99
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Garibaldi Tipos 750ml",
-    "price": 25.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mini Chicken Perdigão Tradicional 1 Kg",
-    "price": 18.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Heineken Lata 269ml",
-    "price": 3.49
+    "name": "Filé Mignon Suíno Coopavel Kg",
+    "price": 19.9
   }
 ]
