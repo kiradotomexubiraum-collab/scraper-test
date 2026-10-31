@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -51,6 +51,26 @@
   },
   {
     "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "Caneca Aprendizado Fiona 180ml Azul",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 45%",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
     "name": "Lenços Umedecidos Huggies C/88 Tripla Proteção",
     "price": 8.9
   },
@@ -61,16 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 45%",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
     "name": "Caneca Lillo Magia 207ml Lilás 624531",
     "price": 29.9
   },
@@ -78,16 +88,6 @@
     "store": "Irani",
     "name": "- 45%",
     "price": 53.9
-  },
-  {
-    "store": "Irani",
-    "name": "Caneca Aprendizado Fiona 180ml Azul",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 45%",
-    "price": 44.9
   },
   {
     "store": "Irani",
@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
-    "price": 3.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Biscoito Nestle 130g Surpresa",
     "price": 3.79
   },
@@ -148,6 +138,16 @@
     "store": "Irani",
     "name": "- 37%",
     "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Barra Protex 85g Baby Proteção Delicada",
+    "price": 3.19
+  },
+  {
+    "store": "Irani",
+    "name": "- 36%",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -171,6 +171,46 @@
   },
   {
     "store": "Irani",
+    "name": "Escova Dental Colgate Tandy C/2",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
+    "price": 12.95
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.95
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Palmolive Kids 350ml Trolls",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 19.99
+  },
+  {
+    "store": "Irani",
     "name": "Toalha Unidecida Huggies C/48 Max Clean",
     "price": 8.9
   },
@@ -191,26 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Trolls",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.99
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Liquido Johnson 180ml Refil Cabeça aos Pés",
-    "price": 12.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 19.95
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Palmolive Kids 350ml",
     "price": 12.99
   },
@@ -221,23 +241,43 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Palmolive Kids 350ml Cabelo Cacheado",
-    "price": 12.99
+    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
+    "price": 14.9
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 19.99
+    "price": 22.9
   },
   {
     "store": "Irani",
-    "name": "Escova Dental Colgate Tandy C/2",
-    "price": 10.99
+    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
+    "price": 29.95
   },
   {
     "store": "Irani",
     "name": "- 35%",
-    "price": 16.99
+    "price": 45.95
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 22.9
   },
   {
     "store": "Irani",
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "- 35%",
     "price": 45.95
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Líquido Johnson Baby 400ml Camomila",
-    "price": 29.95
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 45.95
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Enrolados Cachos",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Nutrição e Força",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Huggies 360ml Kids Ariel Brilho Mágico",
-    "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 22.9
   },
   {
     "store": "Festval",
