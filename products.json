@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -41,33 +41,53 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Poços De Calda 200g",
-    "price": 6.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 36%",
-    "price": 10.98
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Nestle 130g Surpresa",
-    "price": 3.79
-  },
-  {
-    "store": "Irani",
-    "name": "- 37%",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 14.99
   },
   {
     "store": "Irani",
@@ -91,6 +111,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 19.9
   },
@@ -101,53 +131,43 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
+    "name": "- 32%",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
+    "name": "Amaciante Roupas Concentrado Girando Sol 1L Paixão Secreta Vermelho",
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
+    "name": "- 32%",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Amaciante Concentrado Girando Sol 1L Coco e Baunilha",
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "name": "- 32%",
+    "price": 18.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
+    "name": "Amaciante Conc Girando Sol 1L Hipoalergênico",
+    "price": 12.98
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "name": "- 32%",
+    "price": 18.98
   },
   {
     "store": "Irani",
@@ -171,6 +191,16 @@
   },
   {
     "store": "Irani",
+    "name": "Amaciante Conc Girando Sol 1L Doces Sonhos",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
     "name": "Whisky Ballantines 1l Finest 8 Anos",
     "price": 69.9
   },
@@ -178,6 +208,26 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 99.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -191,113 +241,63 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 69.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio 70",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
-    "price": 26.9
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
-    "price": 26.9
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 34.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Claro 50",
-    "price": 26.9
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 69.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
-    "price": 26.9
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 51.9
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 37.9
+    "price": 51.9
   },
   {
     "store": "Festval",
@@ -371,11 +371,6 @@
   },
   {
     "store": "Festval",
-    "name": "Requeijão Poços de Caldas Tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
     "name": "Lasanha Copacol Sabores 600g",
     "price": 15.99
   },
@@ -401,11 +396,6 @@
   },
   {
     "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
     "name": "Farinha de Trigo Sol 1kg",
     "price": 4.59
   },
@@ -427,7 +417,7 @@
   {
     "store": "Festval",
     "name": "Mandioca Amarela Santa Mandioquinha Kg",
-    "price": 10.0
+    "price": 10.9
   },
   {
     "store": "Festval",
@@ -451,18 +441,8 @@
   },
   {
     "store": "Festval",
-    "name": "Requeijão Poços de Caldas Tradicional 200g",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
     "name": "Lava Roupas Líquido Uau 3L",
     "price": 24.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 6.99
   },
   {
     "store": "Festval",
