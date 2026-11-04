@@ -41,7 +41,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.9
   },
   {
@@ -61,33 +61,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Tra La La Kids 480ml Meninas 2 Em 1",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 14.99
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -101,7 +81,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
   {
@@ -121,17 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "name": "Amaciante Roupas Concentrado Girando Sol 1L Paixão Secreta Vermelho",
     "price": 12.98
   },
   {
@@ -141,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Amaciante Roupas Concentrado Girando Sol 1L Paixão Secreta Vermelho",
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
     "price": 12.98
   },
   {
@@ -161,16 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Amaciante Conc Girando Sol 1L Hipoalergênico",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
     "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -181,13 +161,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Amaciante Conc Girando Sol 1L Hipoalergênico",
+    "price": 12.98
   },
   {
     "store": "Irani",
     "name": "- 32%",
-    "price": 43.9
+    "price": 18.98
   },
   {
     "store": "Irani",
@@ -201,6 +181,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
     "name": "Whisky Ballantines 1l Finest 8 Anos",
     "price": 69.9
   },
@@ -208,6 +198,16 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 99.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Irani",
@@ -231,53 +231,13 @@
   },
   {
     "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
     "price": 24.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
   },
   {
     "store": "Irani",
@@ -300,44 +260,44 @@
     "price": 51.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino Opi Mascota Tipos 750ml",
-    "price": 39.9
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino La Mascota Tipos 750ml",
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
     "price": 49.9
   },
   {
-    "store": "Festval",
-    "name": "Espumante Italiano Asio Otus Branco ou Rosé 750ml",
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
     "price": 49.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Tipos 750ml",
-    "price": 49.0
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Argentino Renacer Punto Final Tipos 750ML",
-    "price": 45.9
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
   },
   {
-    "store": "Festval",
-    "name": "Vinho Italiano Luna Argenta Puglia 750ml",
-    "price": 79.0
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Chileno Viu Manent Reserva Tipos 750ml",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Chablis I Cru 750ml",
-    "price": 289.0
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
@@ -441,27 +401,97 @@
   },
   {
     "store": "Festval",
-    "name": "Lava Roupas Líquido Uau 3L",
-    "price": 24.9
+    "name": "Maçã Fuji Kg",
+    "price": 7.99
   },
   {
     "store": "Festval",
-    "name": "Peito de Frango Coopavel Congelado Kg",
-    "price": 10.99
+    "name": "Abacaxi Unidade",
+    "price": 6.99
   },
   {
     "store": "Festval",
-    "name": "Músculo Bovino Reserva Pedaço KG",
-    "price": 39.9
+    "name": "Banana Nanica Kg",
+    "price": 3.99
   },
   {
     "store": "Festval",
-    "name": "Suco de Laranja Festval 900ml",
+    "name": "Pêssego Nacional Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Brócolis Unidade",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Couve-Flor Unidade",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Lider Tipos TP 1L",
+    "price": 4.39
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Copacol IQF 800g",
     "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Kit Eudora Siàge Shampoo 250ml + Condicionador 125ml Tipos",
-    "price": 69.9
+    "name": "Mamão Papaya Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Aipim Aroma & Sabor Descascado 1Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Nectarina Nacional KG",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Balduzzi Classic Tipos 750ml",
+    "price": 26.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Victorianas Monterio Tipos 750ml",
+    "price": 26.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Espanhol Faustino VII Tipos 750ml",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Corte Federico Tipos 750ml",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Português Adp. Chafariz D. Maria Tipos 750ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Chileno Valsierra Varietal Tipos 750ml",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Argentino Caballero Tipos 750ml",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Portugues Sogrape Gazela Tipos 750ml",
+    "price": 45.9
   }
 ]
