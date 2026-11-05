@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -51,6 +51,16 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
@@ -58,6 +68,26 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -71,17 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -91,7 +111,7 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -111,23 +131,13 @@
   },
   {
     "store": "Irani",
-    "name": "Amaciante Roupas Concentrado Girando Sol 1L Paixão Secreta Vermelho",
-    "price": 12.98
+    "name": "Whisky Ballantines 1l Finest 8 Anos",
+    "price": 69.9
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
+    "name": "- 30%",
+    "price": 99.9
   },
   {
     "store": "Irani",
@@ -141,43 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Whisky Ballantines 1l Finest 8 Anos",
-    "price": 69.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 99.9
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Conc Girando Sol 1L Doces Sonhos",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Concentrado Girando Sol 1L Coco e Baunilha",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Conc Girando Sol 1L Hipoalergênico",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -191,47 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
+    "name": "Hidratante Corporal Bio Extratus 200g Lavanda",
     "price": 24.9
   },
   {
@@ -251,13 +191,33 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
     "price": 35.9
   },
   {
     "store": "Irani",
     "name": "- 28%",
     "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Irani",
@@ -271,7 +231,17 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
     "price": 35.9
   },
   {
@@ -291,13 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Rosa Mosqueta",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Ácido Hialurônico",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
   },
   {
     "store": "Festval",
@@ -398,6 +398,16 @@
     "store": "Festval",
     "name": "Filé de Peito de Frango Moído Copacol 400g",
     "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Poços de Caldas Tradicional 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Lactobom 150g",
+    "price": 7.99
   },
   {
     "store": "Festval",
