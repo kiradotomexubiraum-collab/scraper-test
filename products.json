@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -51,26 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
     "price": 19.9
   },
@@ -81,13 +61,33 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -101,13 +101,33 @@
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Requeijão Cremoso Poços De Calda 200g",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
+    "name": "- 33%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
   },
   {
     "store": "Irani",
@@ -131,13 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Whisky Ballantines 1l Finest 8 Anos",
-    "price": 69.9
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 99.9
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -151,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
+    "name": "Whisky Ballantines 1l Finest 8 Anos",
+    "price": 69.9
   },
   {
     "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
+    "name": "- 30%",
+    "price": 99.9
   },
   {
     "store": "Irani",
@@ -171,93 +191,23 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Lavanda",
-    "price": 24.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 37.9
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
+    "name": "Fraldas Bummis Premium HiperC/54 XXG",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
+    "price": 69.9
   },
   {
     "store": "Irani",
@@ -271,7 +221,27 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Rosa Mosqueta",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
     "price": 24.9
   },
   {
@@ -281,7 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
     "price": 24.9
   },
   {
@@ -291,13 +261,43 @@
   },
   {
     "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Ácido Hialurônico",
-    "price": 24.9
+    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
+    "price": 49.9
   },
   {
     "store": "Irani",
     "name": "- 29%",
-    "price": 34.9
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Solar Sundown 200ml Fps 50 + Prot Solar 100ml",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
   },
   {
     "store": "Festval",
@@ -492,7 +492,7 @@
   {
     "store": "Festval",
     "name": "Vinho Chileno Valsierra Varietal Tipos 750ml",
-    "price": 25.9
+    "price": 19.9
   },
   {
     "store": "Festval",
