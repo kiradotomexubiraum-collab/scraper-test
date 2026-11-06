@@ -1,305 +1,5 @@
 [
   {
-    "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Presunto Cozido Perdigão 200g Fatiado",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 9.49
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky Ballantines 1l Finest 8 Anos",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 99.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/26 XXG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Lavanda",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/28 XG",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Alma Mora 750ml. Malbec",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Alma Mora 750ml. Cab Sauv",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Avelã e Coco",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
     "store": "Festval",
     "name": "Arroz Branco Itasa 5Kg",
     "price": 19.98
@@ -448,5 +148,35 @@
     "store": "Festval",
     "name": "Vinho Portugues Sogrape Gazela Tipos 750ml",
     "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Alcatra Bovina Reserva Pedaço Kg",
+    "price": 59.9
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Bonina 5KG",
+    "price": 17.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Gourmet 3 Corações Tipos 250g - Item Acelerador",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Italiano Mamma Bia Arbóreo ou Carnaroli 1Kg",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Francês Dufouleur Tipos 750ml",
+    "price": 49.0
   }
 ]
