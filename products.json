@@ -41,7 +41,47 @@
   },
   {
     "store": "Irani",
+    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Conjunto C/3 Tigelas Galax 300ml",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Xícaras Vitta C/3 190ml",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
     "name": "Kit Copos Viva Lar C/3 300ml",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Xícaras C/3 165ml Vemax",
     "price": 9.99
   },
   {
@@ -71,37 +111,17 @@
   },
   {
     "store": "Irani",
-    "name": "Conjunto C/3 Tigelas Galax 300ml",
-    "price": 9.99
+    "name": "Requeijão Cremoso Poços De Calda 200g",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
+    "name": "- 36%",
+    "price": 10.98
   },
   {
     "store": "Irani",
-    "name": "Kit Xícaras Vitta C/3 190ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Xícaras C/3 165ml Vemax",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
     "price": 25.9
   },
   {
@@ -111,7 +131,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 25.9
   },
   {
@@ -131,7 +151,27 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.9
   },
   {
@@ -171,17 +211,37 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 59.9
   },
   {
     "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Sprite 200ml Zero Açúcar",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -201,26 +261,6 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Zero Açúcar",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Sprite 200ml Original",
     "price": 1.29
   },
@@ -231,17 +271,7 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Light",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -268,36 +298,6 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 99.9
-  },
-  {
-    "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
   },
   {
     "store": "Festval",
