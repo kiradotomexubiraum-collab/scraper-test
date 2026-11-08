@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
@@ -41,17 +51,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Conjunto C/3 Tigelas Galax 300ml",
+    "name": "Kit Copos Bossa Nova C/3 300ml Vemax",
     "price": 9.99
   },
   {
@@ -81,17 +81,7 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Xícaras C/3 165ml Vemax",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Copos Bossa Nova C/3 300ml Vemax",
+    "name": "Conjunto C/3 Tigelas Galax 300ml",
     "price": 9.99
   },
   {
@@ -102,6 +92,16 @@
   {
     "store": "Irani",
     "name": "Kit Copos Bom Gosto C/3 290ml Vemax",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 41%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Kit Xícaras C/3 165ml Vemax",
     "price": 9.99
   },
   {
@@ -151,46 +151,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.9
   },
@@ -201,7 +161,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
     "price": 39.9
   },
   {
@@ -221,6 +191,46 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Elegê 400g Tradicional",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
     "name": "Espuma Mágica Proauto 400ml",
     "price": 19.98
   },
@@ -228,6 +238,16 @@
     "store": "Irani",
     "name": "- 31%",
     "price": 28.98
+  },
+  {
+    "store": "Irani",
+    "name": "Shampoo Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
@@ -242,36 +262,6 @@
   {
     "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Original",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
     "price": 29.9
   },
   {
@@ -298,6 +288,16 @@
     "store": "Irani",
     "name": "- 30%",
     "price": 99.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
   },
   {
     "store": "Festval",
