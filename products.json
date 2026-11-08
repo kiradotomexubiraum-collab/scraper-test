@@ -11,7 +11,17 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -31,23 +41,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 50%",
     "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 3.99
   },
   {
     "store": "Irani",
@@ -141,56 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Sauv Blanc",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
     "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
     "price": 19.9
   },
@@ -211,6 +161,46 @@
   },
   {
     "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Verde",
     "price": 39.9
   },
@@ -221,13 +211,23 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 59.9
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 28.98
   },
   {
     "store": "Irani",
@@ -251,16 +251,6 @@
   },
   {
     "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
-  },
-  {
-    "store": "Irani",
     "name": "Refrigerante Sprite 200ml Original",
     "price": 1.29
   },
@@ -268,6 +258,16 @@
     "store": "Irani",
     "name": "- 32%",
     "price": 1.89
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Elegê 400g Tradicional",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 18.98
   },
   {
     "store": "Irani",
@@ -451,32 +451,37 @@
   },
   {
     "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Kg",
-    "price": 59.9
+    "name": "Pêssego em Calda Mamma Bia 660g",
+    "price": 26.9
   },
   {
     "store": "Festval",
-    "name": "Farinha de Trigo Bonina 5KG",
+    "name": "Creme de Avelã Nutella 350g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Tomate Italiano Mamma Bia Sem Pele Lata 400G",
+    "price": 7.9
+  },
+  {
+    "store": "Festval",
+    "name": "Chocolate Toblerone Sabores 100g",
     "price": 17.99
   },
   {
     "store": "Festval",
-    "name": "Filé Sete Bovino Padrão Beef KG",
-    "price": 45.9
+    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
+    "price": 6.9
   },
   {
     "store": "Festval",
-    "name": "Café Gourmet 3 Corações Tipos 250g - Item Acelerador",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 59.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Suíno Coopavel Kg",
     "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Italiano Mamma Bia Arbóreo ou Carnaroli 1Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Francês Dufouleur Tipos 750ml",
-    "price": 49.0
   }
 ]
