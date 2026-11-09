@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Kit Gel Dental Carmed c/3",
     "price": 19.98
   },
@@ -11,13 +21,13 @@
   },
   {
     "store": "Irani",
-    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
-    "price": 1.99
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "price": 9.99
   },
   {
     "store": "Irani",
     "name": "- 50%",
-    "price": 3.99
+    "price": 19.98
   },
   {
     "store": "Irani",
@@ -38,26 +48,6 @@
     "store": "Irani",
     "name": "- 50%",
     "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Creatina Dux 300g",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 38%",
-    "price": 79.89
   },
   {
     "store": "Irani",
@@ -91,26 +81,6 @@
   },
   {
     "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Castanho Claro 50",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Preto Azulado 28",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Português Porta 6 750ml Branco",
     "price": 39.9
   },
@@ -131,117 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Castanho Médio 40",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Borgonha 46",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Marrom Dourado 77",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Louro Cinza Claro 81",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Castanho Sedução 537",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Preto 20",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Castanho Escuro 30",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Louro Cinza Médio 71",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Louro Claro 80",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta Cabelo Koleston Louro Cinza Escuro 61",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alicate para Cutículas Mundial 522 Classic",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Chocolate 67",
+    "name": "Tinta de Cabelo Koleston Preto Azulado 28",
     "price": 19.9
   },
   {
@@ -271,7 +131,17 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.9
   },
   {
@@ -298,6 +168,136 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Elegê 400g Tradicional",
+    "price": 12.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 18.98
+  },
+  {
+    "store": "Irani",
+    "name": "Espuma Mágica Proauto 400ml",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 28.98
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "Presunto Cozido Perdigão 200g Fatiado",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Chocolate 67",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Festval",
@@ -386,18 +386,18 @@
   },
   {
     "store": "Festval",
+    "name": "Peito de Frango Congelado Kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
     "name": "Sorvete Apiacere Sabores 2L",
     "price": 16.9
   },
   {
     "store": "Festval",
-    "name": "Peito de Frango Coopavel Congelado kg",
-    "price": 13.99
-  },
-  {
-    "store": "Festval",
     "name": "Nata Santa Clara 300g",
-    "price": 10.99
+    "price": 9.98
   },
   {
     "store": "Festval",
