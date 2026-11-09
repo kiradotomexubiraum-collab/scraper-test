@@ -21,6 +21,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
@@ -41,73 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
+    "name": "Creatina Dux 300g",
+    "price": 49.9
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Copos Bossa Nova C/3 300ml Vemax",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Xícaras Vitta C/3 190ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Copos Viva Lar C/3 300ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Conjunto C/3 Tigelas Galax 300ml",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Copos Bom Gosto C/3 290ml Vemax",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "Kit Xícaras C/3 165ml Vemax",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 41%",
-    "price": 16.99
+    "name": "- 38%",
+    "price": 79.89
   },
   {
     "store": "Irani",
@@ -121,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 25.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 25.9
   },
@@ -141,7 +81,187 @@
   },
   {
     "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "price": 25.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Castanho Claro 50",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Preto Azulado 28",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Castanho Médio 40",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Borgonha 46",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Marrom Dourado 77",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Louro Cinza Claro 81",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Castanho Sedução 537",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Preto 20",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Castanho Escuro 30",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Louro Cinza Médio 71",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Louro Claro 80",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta Cabelo Koleston Louro Cinza Escuro 61",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alicate para Cutículas Mundial 522 Classic",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Chocolate 67",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Louro Escuro 60",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tinta de Cabelo Koleston Louro Medio 70",
     "price": 19.9
   },
   {
@@ -161,7 +281,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
     "price": 19.9
   },
   {
@@ -178,236 +298,6 @@
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
-  },
-  {
-    "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
-  },
-  {
-    "store": "Irani",
-    "name": "Shampoo Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Zero Açúcar",
-    "price": 1.29
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Presunto Cozido Perdigão 200g Fatiado",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 9.49
-  },
-  {
-    "store": "Irani",
-    "name": "Whisky Ballantines 1l Finest 8 Anos",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 99.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Branco Itasa 5Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Margarina Qualy Com ou Sem Sal 500G",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Suco de Uva Aurora Natural Integral 1,5L",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Café 3 Corações Tradicional 500g",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Feijão Preto Pontarollo 1KG",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pepino Geriba Em Conserva 300g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Paleta Bovina Padrão Beef Simples Resfriada kg",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Água Mineral Fontana Oro c/gás 510ml",
-    "price": 1.39
-  },
-  {
-    "store": "Festval",
-    "name": "Farinha de Trigo Sol 1kg",
-    "price": 4.59
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
-    "price": 4.69
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Batavo Pense Zero 1,15Kg",
-    "price": 15.99
-  },
-  {
-    "store": "Festval",
-    "name": "Mandioca Amarela Santa Mandioquinha Kg",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Coxa e Sobrecoxa IQF Copacol 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Batavo Com ou Sem Sal Tablete 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Bacon Seara Fatiado 250g",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Moído Copacol 400g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Requeijão Poços de Caldas Tradicional 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
   },
   {
     "store": "Festval",
@@ -451,37 +341,132 @@
   },
   {
     "store": "Festval",
-    "name": "Pêssego em Calda Mamma Bia 660g",
-    "price": 26.9
+    "name": "Café Pilão a Vácuo Tipos 500g",
+    "price": 21.9
   },
   {
     "store": "Festval",
-    "name": "Creme de Avelã Nutella 350g",
-    "price": 29.9
+    "name": "Coxão Mole Bovino Padrão Beef Pedaço Kg",
+    "price": 46.9
   },
   {
     "store": "Festval",
-    "name": "Tomate Italiano Mamma Bia Sem Pele Lata 400G",
-    "price": 7.9
+    "name": "Bacon Manta Frimesa KG",
+    "price": 39.9
   },
   {
     "store": "Festval",
-    "name": "Chocolate Toblerone Sabores 100g",
-    "price": 17.99
+    "name": "Filé de Peito de Frango Copacol IQF 800g",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Massa Italiana Mamma Bia Al Bronzo, Penne/Fusili/Farfale ou Rigatone 500g",
-    "price": 6.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Suíno Coopavel Kg",
+    "name": "Meio da Asa Copacol IQF 800g",
     "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Frimesa Fatiado 150g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Café Damasco A Vácuo Tipos 500g",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Mini Chicken Perdigão Tradicional 1 Kg",
+    "price": 18.9
+  },
+  {
+    "store": "Festval",
+    "name": "Sorvete Apiacere Sabores 2L",
+    "price": 16.9
+  },
+  {
+    "store": "Festval",
+    "name": "Peito de Frango Coopavel Congelado kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Nata Santa Clara 300g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Óleo de Milho Suavit Pet 900ml",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 34.9
+  },
+  {
+    "store": "Festval",
+    "name": "Granola Jasmine 850g/1kg",
+    "price": 29.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Mortadela Ouro Perdigão Fatiada 200G - Item Acelerador",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Bebida Láctea 3 Corações Power Whey 15g de Proteínas Sabores TP 250ml",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 1kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Parboilizado Prato Fino 5kg",
+    "price": 29.98
+  },
+  {
+    "store": "Festval",
+    "name": "Energético Baly Sabores Lata 473ml",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Salsicha Perdigão 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Toalha Umedecidas Meu Bebê com 500un",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bacon Seara Fatiado 250g",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão Renata Com Ovos Espaguete 500g",
+    "price": 3.99
   }
 ]
