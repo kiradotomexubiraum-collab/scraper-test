@@ -51,13 +51,13 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Poços De Calda 200g",
-    "price": 6.98
+    "name": "Requeijão Cremoso Elegê 400g Tradicional",
+    "price": 10.99
   },
   {
     "store": "Irani",
-    "name": "- 36%",
-    "price": 10.98
+    "name": "- 35%",
+    "price": 16.99
   },
   {
     "store": "Irani",
@@ -101,47 +101,7 @@
   },
   {
     "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Preto Azulado 28",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Louro Escuro 60",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tinta de Cabelo Koleston Louro Medio 70",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
     "price": 39.9
   },
   {
@@ -152,6 +112,16 @@
   {
     "store": "Irani",
     "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 19.9
   },
   {
@@ -181,23 +151,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
     "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 33%",
     "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 12.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 18.98
   },
   {
     "store": "Irani",
@@ -221,6 +181,16 @@
   },
   {
     "store": "Irani",
+    "name": "Presunto Cozido Perdigão 200g Fatiado",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -241,13 +211,33 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Perdigão 200g Fatiado",
-    "price": 6.49
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Escuro 30",
+    "price": 26.9
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 9.49
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro Acinzentado 61",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Irani",
@@ -261,17 +251,7 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Claro 80",
     "price": 26.9
   },
   {
@@ -291,7 +271,27 @@
   },
   {
     "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto Azulado 111",
     "price": 26.9
   },
   {
