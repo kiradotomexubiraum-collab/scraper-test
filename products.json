@@ -11,16 +11,6 @@
   },
   {
     "store": "Irani",
-    "name": "Kit Gel Dental Carmed c/3",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 39.98
-  },
-  {
-    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
@@ -61,16 +51,6 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 35%",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
     "name": "Requeijão Cremoso Poços De Calda 200g",
     "price": 6.98
   },
@@ -101,7 +81,117 @@
   },
   {
     "store": "Irani",
+    "name": "Requeijão Cremoso Elegê 400g Tradicional",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 35%",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Com Soja Ades 1L Maça",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Pinotage",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Com Soja Ades 1L Laranja",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento C/Soja Ades 1L Morango",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
     "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 5.98
   },
   {
@@ -131,123 +221,13 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Com Soja Ades 1L Laranja",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Com Soja Ades 1L Maça",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento C/Soja Ades 1L Morango",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Zero Açúcar",
-    "price": 1.29
+    "name": "Presunto Cozido Perdigão 200g Fatiado",
+    "price": 6.49
   },
   {
     "store": "Irani",
     "name": "- 32%",
-    "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Espuma Mágica Proauto 400ml",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 31%",
-    "price": 28.98
+    "price": 9.49
   },
   {
     "store": "Irani",
@@ -261,23 +241,33 @@
   },
   {
     "store": "Irani",
-    "name": "Presunto Cozido Perdigão 200g Fatiado",
-    "price": 6.49
+    "name": "Refrigerante Sprite 200ml Zero Açúcar",
+    "price": 1.29
   },
   {
     "store": "Irani",
     "name": "- 32%",
-    "price": 9.49
+    "price": 1.89
   },
   {
     "store": "Irani",
-    "name": "Pepino Japones Kg",
-    "price": 3.49
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 4.99
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "price": 13.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 19.9
   },
   {
     "store": "Irani",
@@ -291,13 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
-    "price": 13.9
+    "name": "Pepino Japones Kg",
+    "price": 3.49
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 19.9
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 56.9
   },
   {
     "store": "Festval",
@@ -338,51 +338,6 @@
     "store": "Festval",
     "name": "Vinho Portugues Sogrape Gazela Tipos 750ml",
     "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Pilão a Vácuo Tipos 500g",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Coxão Mole Bovino Padrão Beef Pedaço Kg",
-    "price": 46.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bacon Manta Frimesa KG",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Meio da Asa Copacol IQF 800g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Café Damasco A Vácuo Tipos 500g",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
-    "price": 89.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mini Chicken Perdigão Tradicional 1 Kg",
-    "price": 18.9
   },
   {
     "store": "Festval",
@@ -468,5 +423,55 @@
     "store": "Festval",
     "name": "Macarrão Renata Com Ovos Espaguete 500g",
     "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Monalisa Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Prata Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pêssego Nacional Kg",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Laranja Importada Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Frimesa TP Tipos 1L",
+    "price": 4.79
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Copacol IQF 800g",
+    "price": 10.9
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Bandeja 500g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Brancos Happy Eggs com 20 unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Preto Urakami Bandeja 200g",
+    "price": 6.99
   }
 ]
