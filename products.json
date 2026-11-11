@@ -11,7 +11,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
     "price": 9.99
   },
   {
@@ -38,6 +38,16 @@
     "store": "Irani",
     "name": "- 50%",
     "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Mariag Pão de Mel",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
   },
   {
     "store": "Irani",
@@ -91,6 +101,46 @@
   },
   {
     "store": "Irani",
+    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento C/Soja Ades 1L Morango",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "Alimento Com Soja Ades 1L Laranja",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
     "name": "Alimento Com Soja Ades 1L Maça",
     "price": 5.98
   },
@@ -111,87 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Alimento Com Soja Ades 1L Laranja",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento C/Soja Ades 1L Morango",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
     "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
     "price": 5.98
   },
   {
@@ -221,6 +191,16 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 5.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
     "name": "Presunto Cozido Perdigão 200g Fatiado",
     "price": 6.49
   },
@@ -231,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Refrigerante Sprite 200ml Original",
+    "price": 1.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 32%",
+    "price": 1.89
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Bio Extratus 250ml Tutano",
     "price": 29.9
   },
@@ -238,6 +228,16 @@
     "store": "Irani",
     "name": "- 32%",
     "price": 43.9
+  },
+  {
+    "store": "Irani",
+    "name": "Queijo Prato Frimesa 300g Fatiado",
+    "price": 13.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 19.98
   },
   {
     "store": "Irani",
@@ -271,16 +271,6 @@
   },
   {
     "store": "Irani",
-    "name": "Batata Monalisa Kg",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
     "name": "Pepino Japones Kg",
     "price": 3.49
   },
@@ -291,13 +281,23 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
+    "name": "Batata Monalisa Kg",
+    "price": 3.49
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 56.9
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
   },
   {
     "store": "Festval",
@@ -366,6 +366,11 @@
   },
   {
     "store": "Festval",
+    "name": "Carré Suíno sem Pele com Osso Congelado Coopavel kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
     "name": "Granola Jasmine 850g/1kg",
     "price": 29.98
   },
@@ -408,6 +413,11 @@
     "store": "Festval",
     "name": "Salsicha Perdigão 500g",
     "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
+    "price": 89.9
   },
   {
     "store": "Festval",
