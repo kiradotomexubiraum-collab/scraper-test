@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
     "price": 9.99
   },
@@ -22,16 +32,6 @@
   {
     "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
   {
@@ -91,13 +91,23 @@
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Elegê 400g Tradicional",
-    "price": 10.99
+    "name": "Vinho Português Porta 6 750ml Branco",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 16.99
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Português Porta 6 750ml Verde",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -121,36 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Alimento C/Soja Ades 1L Morango",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Com Soja Ades 1L Laranja",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Alimento Com Soja Ades 1L Maça",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Africano Six Hats 750ml Pinotage",
     "price": 19.9
   },
@@ -161,57 +141,7 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 5.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 8.98
-  },
-  {
-    "store": "Irani",
-    "name": "Presunto Cozido Perdigão 200g Fatiado",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 9.49
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Original",
+    "name": "Refrigerante Sprite 200ml Zero Açúcar",
     "price": 1.29
   },
   {
@@ -241,13 +171,13 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Zero Açúcar",
-    "price": 1.29
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "price": 13.9
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 1.89
+    "name": "- 30%",
+    "price": 19.9
   },
   {
     "store": "Irani",
@@ -261,33 +191,13 @@
   },
   {
     "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
-    "price": 13.9
+    "name": "Be Use Bio Extratus 250g Antiencolhimento",
+    "price": 39.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "Pepino Japones Kg",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Monalisa Kg",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 4.99
+    "price": 56.9
   },
   {
     "store": "Irani",
@@ -298,6 +208,96 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Lavanda",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Ácido Hialurônico",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Finalizador Bio Extratus 200g Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
+    "price": 35.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "Boleira Plasutil Baica Glamour Cristal",
+    "price": 49.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 69.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
