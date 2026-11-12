@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 50%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
     "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
     "price": 9.99
   },
@@ -31,17 +41,97 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
+    "name": "Água Mineral Floresta Sem Gás 1,5L",
+    "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
+    "name": "- 43%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 42g Creme de Avelã",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 35g Baunílha",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 35g Gotas de Chocolate",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 35g Cenoura C/Chocolate",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 42g Napolitano",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 35g Duplo Chocolate",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 35g Chocolate",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
   },
   {
     "store": "Irani",
     "name": "Bolinho Ana Mariag Pão de Mel",
+    "price": 1.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 42%",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "Bolinho Ana Maria 42g Cobertura de Chocolate",
     "price": 1.39
   },
   {
@@ -71,7 +161,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
+    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
     "price": 25.9
   },
   {
@@ -81,7 +171,7 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
+    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
     "price": 25.9
   },
   {
@@ -121,13 +211,13 @@
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
+    "name": "Biscoito Santa Edwiges 100g Natalino",
+    "price": 1.99
   },
   {
     "store": "Irani",
     "name": "- 33%",
-    "price": 29.9
+    "price": 2.99
   },
   {
     "store": "Irani",
@@ -141,13 +231,43 @@
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Sprite 200ml Zero Açúcar",
-    "price": 1.29
+    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
+    "price": 39.9
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 1.89
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 59.9
   },
   {
     "store": "Irani",
@@ -161,26 +281,6 @@
   },
   {
     "store": "Irani",
-    "name": "Queijo Prato Frimesa 300g Fatiado",
-    "price": 13.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
-    "price": 13.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
     "name": "Banho de Creme Bio Extratus 250g Tutano",
     "price": 29.9
   },
@@ -191,113 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Be Use Bio Extratus 250g Antiencolhimento",
-    "price": 39.9
+    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "price": 13.9
   },
   {
     "store": "Irani",
     "name": "- 30%",
-    "price": 56.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Médio Chocolate 71",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Lavanda",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus Corporal 200g Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Ácido Hialurônico",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Finalizador Bio Extratus 200g Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/30 G",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/36 M",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Huggies Rápida Abs. Meguinha C/38 P",
-    "price": 35.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 28%",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "Boleira Plasutil Baica Glamour Cristal",
-    "price": 49.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 69.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
+    "price": 19.9
   },
   {
     "store": "Festval",
