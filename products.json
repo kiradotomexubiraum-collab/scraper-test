@@ -61,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Biscoito Club Social 144g Original",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
     "name": "Bombom Ferrero Rocher c/8",
     "price": 29.98
   },
@@ -121,6 +131,16 @@
   },
   {
     "store": "Irani",
+    "name": "Goma Mentos Pure Fresh C/28 56g Fresh Mint",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 15%",
+    "price": 18.89
+  },
+  {
+    "store": "Irani",
     "name": "Chia Sabores Do Campo 120g",
     "price": 7.99
   },
@@ -128,6 +148,36 @@
     "store": "Irani",
     "name": "- 10%",
     "price": 8.89
+  },
+  {
+    "store": "Irani",
+    "name": "Goma Mentos Pure Fresh C/2856g Up2u",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 15%",
+    "price": 18.89
+  },
+  {
+    "store": "Irani",
+    "name": "Goma Mentos Pure Fresh C/28 56g Morango",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 15%",
+    "price": 18.89
+  },
+  {
+    "store": "Irani",
+    "name": "Goma Mentos Pure Fresh C/28 56g Wintergreen",
+    "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 15%",
+    "price": 18.89
   },
   {
     "store": "Irani",
@@ -148,6 +198,16 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "Leite Condensado Frimesa 395g Tradicional",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 6.99
   },
   {
     "store": "Irani",
@@ -221,6 +281,16 @@
   },
   {
     "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 3.48
+  },
+  {
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
     "name": "Pão Caseirinho 450g Tradicional",
     "price": 4.99
   },
@@ -228,76 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão C/Ovos Renata 500g Fidelinho 10",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão C/Ovos Renata 500g Concha",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão C/Ovos Renata 500g Parafuso 2",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão C/Ovos Renata 500g Padre Nosso",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Requeijão Cremoso Pocos De Calda 400g Light",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 5%",
-    "price": 18.99
-  },
-  {
-    "store": "Irani",
-    "name": "Macarrão C/Ovos Renata 500g Ave Maria",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Mac C/Ovos Renata 500g Alfabeto Descolado",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
   },
   {
     "store": "Festval",
@@ -358,11 +358,6 @@
     "store": "Festval",
     "name": "Óleo de Milho Suavit Pet 900ml",
     "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Tilápia Copacol IQF 800g",
-    "price": 34.9
   },
   {
     "store": "Festval",
@@ -433,5 +428,95 @@
     "store": "Festval",
     "name": "Macarrão Renata Com Ovos Espaguete 500g",
     "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Condensado Piracanjuba TP 395G",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Cristal Alto Alegre 5kg",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Parboilizado Rampinelli 5Kg",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Linguiça Toscana Frimesa Kg",
+    "price": 13.99
+  },
+  {
+    "store": "Festval",
+    "name": "Feijão Preto Pontarollo 1KG",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Poços de Caldas Tradicional 200g",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Manga Tommy Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Líquido Uau 3L",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Coxinha da Asa Coopavel Resfriada Kg",
+    "price": 11.99
+  },
+  {
+    "store": "Festval",
+    "name": "Óleo de Soja Suavit Pet 900ml",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia Copacol IQF 800g",
+    "price": 33.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 14.99
+  },
+  {
+    "store": "Festval",
+    "name": "Farinha de Trigo Sol 5kg",
+    "price": 15.99
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Moscatel Garibaldi Tipos 750ml",
+    "price": 25.9
+  },
+  {
+    "store": "Festval",
+    "name": "Desodorante Aerosol Dove Fragrâncias 250ml - Item Acelerador",
+    "price": 23.9
+  },
+  {
+    "store": "Festval",
+    "name": "Flor Orquídea Phalaenopsis Cascata Pote Nº15 Unidade",
+    "price": 49.98
   }
 ]
