@@ -1,303 +1,303 @@
 [
   {
     "store": "Irani",
-    "name": "Cookies Garoto 60g Crocante Gotas de Chocolate",
+    "name": "Refrigerante Coca-Cola Sem Açúcar 2L",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 8%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Extrato de Tomate Elefante 300g So Tomate",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 7%",
+    "price": 7.49
+  },
+  {
+    "store": "Irani",
+    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
     "price": 1.99
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 3.99
+    "name": "- 20%",
+    "price": 2.49
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Nutrikids",
-    "price": 9.99
+    "name": "Salame Ceratti 100g Italiano",
+    "price": 13.99
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
+    "name": "- 7%",
+    "price": 14.99
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Eu amo Cachos",
-    "price": 9.99
+    "name": "Mini Hot Dog Coreano Seara 245g",
+    "price": 14.99
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
+    "name": "- 6%",
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "Condicionador Tra Lá Lá Kids 480ml Hidrakids",
-    "price": 9.99
+    "name": "Wafer Bis Lacta C/16 100,8g Ao Leite",
+    "price": 5.99
   },
   {
     "store": "Irani",
-    "name": "- 50%",
-    "price": 19.98
+    "name": "- 13%",
+    "price": 6.89
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Floresta Sem Gás 1,5L",
-    "price": 1.99
+    "name": "Bombom Ferrero Rocher c/8",
+    "price": 29.98
   },
   {
     "store": "Irani",
-    "name": "- 43%",
-    "price": 3.49
+    "name": "- 17%",
+    "price": 35.98
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 42g Creme de Avelã",
-    "price": 1.39
+    "name": "Vinho Italia Freixenet 750ml Italian Rose Doc",
+    "price": 79.9
   },
   {
     "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
+    "name": "- 11%",
+    "price": 89.9
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 35g Baunílha",
-    "price": 1.39
+    "name": "Vinho Espanhol Freixenet 750ml Rioja Doc",
+    "price": 79.9
   },
   {
     "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
+    "name": "- 11%",
+    "price": 89.9
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 35g Gotas de Chocolate",
-    "price": 1.39
+    "name": "Vinho Italiano Freixenet 750ml Chianti Doc",
+    "price": 89.9
   },
   {
     "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
+    "name": "- 18%",
+    "price": 109.9
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 35g Cenoura C/Chocolate",
-    "price": 1.39
+    "name": "Kit VIDA MACIA Amaciante + Lava Roupas 1L",
+    "price": 29.99
   },
   {
     "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
+    "name": "- 14%",
+    "price": 34.99
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 42g Napolitano",
-    "price": 1.39
+    "name": "Filezinho Sassami Lar 700g",
+    "price": 15.99
   },
   {
     "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
+    "name": "- 6%",
+    "price": 16.99
   },
   {
     "store": "Irani",
-    "name": "Bolinho Ana Maria 35g Duplo Chocolate",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
-  },
-  {
-    "store": "Irani",
-    "name": "Bolinho Ana Maria 35g Chocolate",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
-  },
-  {
-    "store": "Irani",
-    "name": "Bolinho Ana Mariag Pão de Mel",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
-  },
-  {
-    "store": "Irani",
-    "name": "Bolinho Ana Maria 42g Cobertura de Chocolate",
-    "price": 1.39
-  },
-  {
-    "store": "Irani",
-    "name": "- 42%",
-    "price": 2.39
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Pringles 100g Copa Espanha",
+    "name": "Chia Sabores Do Campo 120g",
     "price": 7.99
   },
   {
     "store": "Irani",
-    "name": "- 38%",
-    "price": 12.99
+    "name": "- 10%",
+    "price": 8.89
   },
   {
     "store": "Irani",
-    "name": "Requeijão Cremoso Poços De Calda 200g",
-    "price": 6.98
+    "name": "Linguiça Calabresa Frimesa Caracol 600g",
+    "price": 8.99
   },
   {
     "store": "Irani",
-    "name": "- 36%",
-    "price": 10.98
+    "name": "- 10%",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medalhas 750ml Merlot",
-    "price": 25.9
+    "name": "Petisco Frango Copacol Temp Congelado 1kg",
+    "price": 16.99
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 39.9
+    "name": "- 6%",
+    "price": 17.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Chi Santa Rita 3 Medal 750ml Cab Sauv",
-    "price": 25.9
+    "name": "Sobrecoxa Frango Lar IQF 700g",
+    "price": 10.99
   },
   {
     "store": "Irani",
-    "name": "- 35%",
-    "price": 39.9
+    "name": "- 8%",
+    "price": 11.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Branco",
-    "price": 39.9
+    "name": "Frango a Passarinho Lar IQF 700g",
+    "price": 8.98
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
+    "name": "- 10%",
+    "price": 9.98
   },
   {
     "store": "Irani",
-    "name": "Vinho Português Porta 6 750ml Verde",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Protetor Solar Cenoura&Bronze Fps 6 110ml Efeito Dourado",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Biscoito Santa Edwiges 100g Natalino",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
+    "name": "Água Mineral Crystal Sem Gás 1.5L",
     "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Pinotage",
-    "price": 19.9
+    "name": "- 25%",
+    "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
+    "name": "Refrigerante Schweppes 350ml Água Tônica Zero",
+    "price": 2.99
   },
   {
     "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Cab Sauv",
-    "price": 39.9
+    "name": "- 14%",
+    "price": 3.49
   },
   {
     "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Argentino Finca Las Moras 750ml. Malbec",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Africano Six Hats 750ml Chenin Blanc",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "Vinho Arg Finca Moras 750ml. Sauv Blanc",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 33%",
-    "price": 59.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Odorizador Ambiente GLADE 360ml Lavanda",
+    "name": "Farinha de Milho Pan 1kg Branca",
     "price": 13.9
   },
   {
     "store": "Irani",
-    "name": "- 30%",
-    "price": 19.9
+    "name": "- 7%",
+    "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Schweppes 350ml Água Tônica",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
+    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 17%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Fidelinho 10",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Concha",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Parafuso 2",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Padre Nosso",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Requeijão Cremoso Pocos De Calda 400g Light",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 5%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Ave Maria",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Mac C/Ovos Renata 500g Alfabeto Descolado",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
   },
   {
     "store": "Festval",
@@ -433,55 +433,5 @@
     "store": "Festval",
     "name": "Macarrão Renata Com Ovos Espaguete 500g",
     "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Banana Prata Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Pêssego Nacional Kg",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Laranja Importada Kg",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Frimesa TP Tipos 1L",
-    "price": 4.79
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Copacol IQF 800g",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Bandeja 500g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Brancos Happy Eggs com 20 unidades",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Cogumelo Shimeji Preto Urakami Bandeja 200g",
-    "price": 6.99
   }
 ]
