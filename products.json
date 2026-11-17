@@ -71,16 +71,6 @@
   },
   {
     "store": "Irani",
-    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 21.98
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Italia Freixenet 750ml Italian Rose Doc",
     "price": 79.9
   },
@@ -191,26 +181,6 @@
   },
   {
     "store": "Irani",
-    "name": "Detergente Líquido YPÊ 500ml Neutro",
-    "price": 2.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 22%",
-    "price": 2.79
-  },
-  {
-    "store": "Irani",
-    "name": "Farinha de Trigo Andre 5kg",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 6%",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -231,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Frango a Passarinho Lar IQF 700g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 8.99
-  },
-  {
-    "store": "Irani",
     "name": "Água Mineral Crystal Sem Gás 1.5L",
     "price": 2.99
   },
@@ -248,16 +208,6 @@
     "store": "Irani",
     "name": "- 25%",
     "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Pampers Confortsec Fort Bag C/70 M",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 12%",
-    "price": 89.9
   },
   {
     "store": "Irani",
@@ -271,26 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Fralda Pampers Confortsec Bag C/44 XXXG",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 12%",
-    "price": 89.9
-  },
-  {
-    "store": "Irani",
-    "name": "Fraldas Pampers Confortsec Fort Bag C/58 XG",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 12%",
-    "price": 89.9
-  },
-  {
-    "store": "Irani",
     "name": "Farinha de Milho Pan 1kg Branca",
     "price": 13.9
   },
@@ -298,6 +228,76 @@
     "store": "Irani",
     "name": "- 7%",
     "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Schweppes 350ml Água Tônica",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
+    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 17%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 3.48
+  },
+  {
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Fidelinho 10",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Concha",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Macarrão C/Ovos Renata 500g Parafuso 2",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
   },
   {
     "store": "Festval",
