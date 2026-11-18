@@ -121,6 +121,16 @@
   },
   {
     "store": "Irani",
+    "name": "Fio Dental Kess C/30 1998",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 16%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
     "name": "Cerveja Estrella Galicia Lata 350ml Unidade",
     "price": 2.98
   },
@@ -201,6 +211,16 @@
   },
   {
     "store": "Irani",
+    "name": "Fio Dental Kess 100m 2001",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 16%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
     "name": "Farinha de Trigo Andre 5kg",
     "price": 16.99
   },
@@ -231,6 +251,26 @@
   },
   {
     "store": "Irani",
+    "name": "Sobrecoxa Frango Lar IQF 700g",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 8%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "Frango a Passarinho Lar IQF 700g",
+    "price": 8.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 10%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Água Mineral Crystal Sem Gás 1.5L",
     "price": 2.99
   },
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "- 7%",
     "price": 14.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Schweppes 350ml Água Tônica",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 14%",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
-    "price": 18.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 17%",
-    "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
-    "price": 3.48
-  },
-  {
-    "store": "Irani",
-    "name": "- 13%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
   },
   {
     "store": "Festval",
