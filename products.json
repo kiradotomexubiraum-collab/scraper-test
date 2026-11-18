@@ -61,26 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Banana Caturra Kg",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 3.49
-  },
-  {
-    "store": "Irani",
-    "name": "Bombom Ferrero Rocher c/8",
-    "price": 29.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 17%",
-    "price": 35.98
-  },
-  {
-    "store": "Irani",
     "name": "Vinho Italia Freixenet 750ml Italian Rose Doc",
     "price": 79.9
   },
@@ -251,16 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Sobrecoxa Frango Lar IQF 700g",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 8%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
     "name": "Água Mineral Crystal Sem Gás 1.5L",
     "price": 2.99
   },
@@ -300,44 +270,34 @@
     "price": 3.49
   },
   {
-    "store": "Festval",
-    "name": "Pêssego em Calda Mamma Bia 660g",
-    "price": 19.9
+    "store": "Irani",
+    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
+    "price": 18.9
   },
   {
-    "store": "Festval",
-    "name": "Carré Suíno Coopavel S/Pele C/Osso Congelado Kg",
-    "price": 12.99
+    "store": "Irani",
+    "name": "- 17%",
+    "price": 22.9
   },
   {
-    "store": "Festval",
-    "name": "Panetone Zaeli Frutas ou Frutas 500g",
-    "price": 19.98
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 3.48
   },
   {
-    "store": "Festval",
-    "name": "Leite Ninho Levinho/Integral/Molico TP 1L",
-    "price": 5.98
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 3.98
   },
   {
-    "store": "Festval",
-    "name": "Arroz Branco Sabor Sul 5kg",
-    "price": 18.99
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
   },
   {
-    "store": "Festval",
-    "name": "Suco de Uva Aurora - Integral / tipos / 1,5L",
-    "price": 17.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Peito de Frango Copacol IQF 800g",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Frimesa Fatiado 150g",
-    "price": 7.99
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
@@ -433,5 +393,55 @@
     "store": "Festval",
     "name": "Palmito Jandel Tolete em Conversa 300g",
     "price": 18.98
+  },
+  {
+    "store": "Festval",
+    "name": "Maçã Fuji Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Mamão Formosa Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Pêssego Nacional Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Tomate Saladete Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Morango Bandeja 250g",
+    "price": 12.98
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Bandeja 500g",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cereja KSBIG 250g",
+    "price": 14.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cogumelo Shimeji Preto Urakami Bandeja 200g",
+    "price": 6.98
+  },
+  {
+    "store": "Festval",
+    "name": "Orquídea Phalaenopsis Pote 12 - 2 Hastes",
+    "price": 29.98
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Festval 150g",
+    "price": 7.9
   }
 ]
