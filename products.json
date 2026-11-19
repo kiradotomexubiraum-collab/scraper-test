@@ -131,16 +131,6 @@
   },
   {
     "store": "Irani",
-    "name": "Cerveja Estrella Galicia Lata 350ml Unidade",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
     "name": "Goma Mentos Pure Fresh C/28 56g Fresh Mint",
     "price": 15.99
   },
@@ -168,16 +158,6 @@
     "store": "Irani",
     "name": "- 17%",
     "price": 8.39
-  },
-  {
-    "store": "Irani",
-    "name": "Batata Doce Roxa Kg",
-    "price": 2.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 3.49
   },
   {
     "store": "Irani",
@@ -221,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Farinha de Trigo Andre 5kg",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 6%",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -238,16 +208,6 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 17.99
-  },
-  {
-    "store": "Irani",
-    "name": "Ovo Vermelho C/30 Carminatti",
-    "price": 12.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 7%",
-    "price": 13.99
   },
   {
     "store": "Irani",
@@ -298,6 +258,46 @@
     "store": "Irani",
     "name": "- 7%",
     "price": 14.9
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Schweppes 350ml Água Tônica",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
+    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
+    "price": 18.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 17%",
+    "price": 22.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 3.48
+  },
+  {
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
   },
   {
     "store": "Festval",
