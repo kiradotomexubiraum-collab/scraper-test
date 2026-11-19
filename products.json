@@ -61,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Creme de Leite Frimesa 200g Tp - Tradicional",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 3.49
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Italia Freixenet 750ml Italian Rose Doc",
     "price": 79.9
   },
@@ -78,16 +88,6 @@
     "store": "Irani",
     "name": "- 11%",
     "price": 89.9
-  },
-  {
-    "store": "Irani",
-    "name": "Cenoura Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
   },
   {
     "store": "Irani",
@@ -201,6 +201,26 @@
   },
   {
     "store": "Irani",
+    "name": "Leite UHT Lider 1L Integral",
+    "price": 4.19
+  },
+  {
+    "store": "Irani",
+    "name": "- 7%",
+    "price": 4.49
+  },
+  {
+    "store": "Irani",
+    "name": "Farinha de Trigo Andre 5kg",
+    "price": 16.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 6%",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -278,26 +298,6 @@
     "store": "Irani",
     "name": "- 17%",
     "price": 22.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
-    "price": 3.48
-  },
-  {
-    "store": "Irani",
-    "name": "- 13%",
-    "price": 3.98
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
   },
   {
     "store": "Festval",
