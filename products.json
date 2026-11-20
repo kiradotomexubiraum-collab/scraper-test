@@ -1,6 +1,26 @@
 [
   {
     "store": "Irani",
+    "name": "Morango Bandeja 200g",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 9%",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Coca-Cola Sem Açúcar 2L",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 8%",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
     "name": "Mini Hot Dog Coreano Seara 245g",
     "price": 14.99
   },
@@ -68,6 +88,16 @@
     "store": "Irani",
     "name": "- 15%",
     "price": 18.89
+  },
+  {
+    "store": "Irani",
+    "name": "Chia Sabores Do Campo 120g",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 9%",
+    "price": 8.79
   },
   {
     "store": "Irani",
@@ -171,6 +201,16 @@
   },
   {
     "store": "Irani",
+    "name": "Café Caboclo 500g Vácuo Extra Forte",
+    "price": 19.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 5%",
+    "price": 20.9
+  },
+  {
+    "store": "Irani",
     "name": "Refrigerante Fanta Guaraná 2L Guaraná",
     "price": 7.49
   },
@@ -258,46 +298,6 @@
     "store": "Irani",
     "name": "- 11%",
     "price": 1.89
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Nectar Del Valle 290ml Lata Pêssego",
-    "price": 3.69
-  },
-  {
-    "store": "Irani",
-    "name": "- 8%",
-    "price": 3.99
   },
   {
     "store": "Festval",
