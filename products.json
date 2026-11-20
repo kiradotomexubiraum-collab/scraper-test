@@ -1,46 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Refrigerante Coca-Cola Sem Açúcar 2L",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 8%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "Extrato de Tomate Elefante 300g So Tomate",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 7%",
-    "price": 7.49
-  },
-  {
-    "store": "Irani",
-    "name": "Cappuccino Lor 20,3g Sachet Baunilha",
-    "price": 1.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 2.49
-  },
-  {
-    "store": "Irani",
-    "name": "Salame Ceratti 100g Italiano",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 7%",
-    "price": 14.99
-  },
-  {
-    "store": "Irani",
     "name": "Mini Hot Dog Coreano Seara 245g",
     "price": 14.99
   },
@@ -48,26 +8,6 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Bis Lacta C/16 100,8g Ao Leite",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 13%",
-    "price": 6.89
-  },
-  {
-    "store": "Irani",
-    "name": "Creme de Leite Frimesa 200g Tp - Tradicional",
-    "price": 2.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 14%",
-    "price": 3.49
   },
   {
     "store": "Irani",
@@ -101,16 +41,6 @@
   },
   {
     "store": "Irani",
-    "name": "Kit VIDA MACIA Amaciante + Lava Roupas 1L",
-    "price": 29.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 14%",
-    "price": 34.99
-  },
-  {
-    "store": "Irani",
     "name": "Filezinho Sassami Lar 700g",
     "price": 15.99
   },
@@ -138,26 +68,6 @@
     "store": "Irani",
     "name": "- 15%",
     "price": 18.89
-  },
-  {
-    "store": "Irani",
-    "name": "Chia Sabores Do Campo 120g",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 10%",
-    "price": 8.89
-  },
-  {
-    "store": "Irani",
-    "name": "Amaciante Soft Plus 2L Rosa Lavanda",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 17%",
-    "price": 8.39
   },
   {
     "store": "Irani",
@@ -201,26 +111,6 @@
   },
   {
     "store": "Irani",
-    "name": "Leite UHT Lider 1L Integral",
-    "price": 4.19
-  },
-  {
-    "store": "Irani",
-    "name": "- 7%",
-    "price": 4.49
-  },
-  {
-    "store": "Irani",
-    "name": "Farinha de Trigo Andre 5kg",
-    "price": 16.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 6%",
-    "price": 17.99
-  },
-  {
-    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -251,53 +141,163 @@
   },
   {
     "store": "Irani",
-    "name": "Água Mineral Crystal Sem Gás 1.5L",
-    "price": 2.99
+    "name": "Sabonete Hidratante Biocrema 90g Hidratante",
+    "price": 3.48
+  },
+  {
+    "store": "Irani",
+    "name": "- 13%",
+    "price": 3.98
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "Saponáceo Cremoso Cif 450ml Original",
+    "price": 17.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 10%",
+    "price": 19.98
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
+    "price": 7.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 12%",
+    "price": 8.49
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 5.99
   },
   {
     "store": "Irani",
     "name": "- 25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Salgadinho Cheetos 160g Super Cheddar",
+    "price": 11.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Forma Integral",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 10%",
+    "price": 8.89
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Chocolate",
     "price": 3.99
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Schweppes 350ml Água Tônica Zero",
-    "price": 2.99
+    "name": "- 11%",
+    "price": 4.49
   },
   {
     "store": "Irani",
-    "name": "- 14%",
-    "price": 3.49
+    "name": "Refrigerante Fanta 200ml Pet Guaraná",
+    "price": 1.69
   },
   {
     "store": "Irani",
-    "name": "Farinha de Milho Pan 1kg Branca",
-    "price": 13.9
+    "name": "- 11%",
+    "price": 1.89
   },
   {
     "store": "Irani",
-    "name": "- 7%",
-    "price": 14.9
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Schweppes 350ml Água Tônica",
-    "price": 2.99
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
-    "name": "- 14%",
-    "price": 3.49
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 5.49
   },
   {
     "store": "Irani",
-    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
-    "price": 18.9
+    "name": "- 15%",
+    "price": 6.49
   },
   {
     "store": "Irani",
-    "name": "- 17%",
-    "price": 22.9
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Nectar Del Valle 290ml Lata Pêssego",
+    "price": 3.69
+  },
+  {
+    "store": "Irani",
+    "name": "- 8%",
+    "price": 3.99
   },
   {
     "store": "Festval",
@@ -396,52 +396,87 @@
   },
   {
     "store": "Festval",
-    "name": "Maçã Fuji Kg",
-    "price": 9.98
+    "name": "Arroz Parboilizado Rampinelli 5Kg",
+    "price": 19.98
   },
   {
     "store": "Festval",
-    "name": "Mamão Formosa Kg",
-    "price": 9.98
+    "name": "Leite Lider Tipos TP 1L",
+    "price": 4.39
   },
   {
     "store": "Festval",
-    "name": "Pêssego Nacional Kg",
-    "price": 9.98
+    "name": "Azeite de Oliva Rafael Salgado 500 ml",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Tomate Saladete Kg",
-    "price": 9.98
+    "name": "Bombom Lacta Variedades 250g",
+    "price": 13.98
   },
   {
     "store": "Festval",
-    "name": "Morango Bandeja 250g",
-    "price": 12.98
+    "name": "Café 3 Corações Tradicional A Vácuo 500g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Uva Verde Bandeja 500g",
-    "price": 9.98
+    "name": "Moscatel Aurora Branco ou Rosé 750ml",
+    "price": 26.9
   },
   {
     "store": "Festval",
-    "name": "Cereja KSBIG 250g",
-    "price": 14.98
+    "name": "Meio da Asa de Frango Copacol IQF 800g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Cogumelo Shimeji Preto Urakami Bandeja 200g",
-    "price": 6.98
+    "name": "Alcatra Bovina Reserva Pedaço Resfriada KG",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Orquídea Phalaenopsis Pote 12 - 2 Hastes",
-    "price": 29.98
+    "name": "Cotonetes Johnson & Johnson 150 unidades",
+    "price": 10.9
   },
   {
     "store": "Festval",
-    "name": "Queijo Mussarela Festval 150g",
+    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Ninho Composto Fases 1+ ou 3+ C/Prebio 800g",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Toalhas Umedecidas Meu Bebê Caixa com 500 Unidades",
+    "price": 49.9
+  },
+  {
+    "store": "Festval",
+    "name": "Condicionador Johnson's Baby Regular 400ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
+    "price": 79.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
+    "price": 59.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
+    "price": 89.9
+  },
+  {
+    "store": "Festval",
+    "name": "Toalhas Umedecidas Huggies Rosto e Corpo com 48 unidades",
     "price": 7.9
   }
 ]
