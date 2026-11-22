@@ -396,46 +396,6 @@
   },
   {
     "store": "Festval",
-    "name": "Arroz Parboilizado Rampinelli 5Kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Lider Tipos TP 1L",
-    "price": 4.39
-  },
-  {
-    "store": "Festval",
-    "name": "Azeite de Oliva Rafael Salgado 500 ml",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bombom Lacta Variedades 250g",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Café 3 Corações Tradicional A Vácuo 500g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Aurora Branco ou Rosé 750ml",
-    "price": 26.9
-  },
-  {
-    "store": "Festval",
-    "name": "Meio da Asa de Frango Copacol IQF 800g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Alcatra Bovina Reserva Pedaço Resfriada KG",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
     "name": "Cotonetes Johnson & Johnson 150 unidades",
     "price": 10.9
   },
@@ -478,5 +438,45 @@
     "store": "Festval",
     "name": "Toalhas Umedecidas Huggies Rosto e Corpo com 48 unidades",
     "price": 7.9
+  },
+  {
+    "store": "Festval",
+    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
+    "price": 10.99
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Aurora Colheita Tardia Tipos 500ml",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Reserva Peça a Vácuo Kg",
+    "price": 119.9
+  },
+  {
+    "store": "Festval",
+    "name": "Geléia Polonesa Mamma Bia Sabores 410g",
+    "price": 17.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Argentina Quilmes Clássica Long Neck 340ml",
+    "price": 6.29
+  },
+  {
+    "store": "Festval",
+    "name": "Café Baggio Sabores 250g",
+    "price": 29.9
+  },
+  {
+    "store": "Festval",
+    "name": "Chá Alemão Krüger Sabores 400g",
+    "price": 15.9
+  },
+  {
+    "store": "Festval",
+    "name": "Palmito Tolete Jandel 300g",
+    "price": 16.99
   }
 ]
