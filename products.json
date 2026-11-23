@@ -11,6 +11,16 @@
   },
   {
     "store": "Irani",
+    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 23%",
+    "price": 21.98
+  },
+  {
+    "store": "Irani",
     "name": "Vinho Italia Freixenet 750ml Italian Rose Doc",
     "price": 79.9
   },
@@ -81,6 +91,16 @@
   },
   {
     "store": "Irani",
+    "name": "Detergente Líquido YPÊ 500ml Neutro",
+    "price": 2.19
+  },
+  {
+    "store": "Irani",
+    "name": "- 22%",
+    "price": 2.79
+  },
+  {
+    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -121,6 +141,26 @@
   },
   {
     "store": "Irani",
+    "name": "Pão Caseirinho 450g Tradicional",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 28%",
+    "price": 6.89
+  },
+  {
+    "store": "Irani",
+    "name": "Farinha de Trigo Bonina 5kg",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 5%",
+    "price": 18.99
+  },
+  {
+    "store": "Irani",
     "name": "Saponáceo Cremoso Cif 450ml Original",
     "price": 17.98
   },
@@ -148,6 +188,16 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Pão Caseirinho 450g Forma Integral",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 9%",
+    "price": 8.79
   },
   {
     "store": "Irani",
@@ -250,56 +300,6 @@
     "price": 51.9
   },
   {
-    "store": "Irani",
-    "name": "Creme Silicone Bio Extratus 250ml Tutano",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 55.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
-    "price": 58.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Ração P/Roedores e Coelhos Tiny 300g",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 350ml Força C/Pimenta",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 58.9
-  },
-  {
     "store": "Festval",
     "name": "Peito de Frango Coopavel Congelado kg",
     "price": 11.99
@@ -338,5 +338,60 @@
     "store": "Festval",
     "name": "Lombo / Panceta / Sobrepaleta Coopavel Temperado Congelado KG",
     "price": 26.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Itamaraty Tradicional 500g",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Requeijão Poços de Caldas Tradicional 200g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Açúcar Alto Alegre 2Kg",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Agulha Bovino Padrão Beef KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Arroz Sabor Sul Branco Especial 2 Kg",
+    "price": 9.98
+  },
+  {
+    "store": "Festval",
+    "name": "Leite Frimesa Zero Lactose TP 1L",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Nestlé Zero 1,15kg",
+    "price": 16.98
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão Renata Com Ovos Espaguete 500g",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Queijo Mussarela Festval 150g",
+    "price": 7.9
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Elege Patrulha Canina Morango / Vitamina Bandeja 510g",
+    "price": 6.99
   }
 ]
