@@ -1,26 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Morango Bandeja 200g",
-    "price": 9.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 9%",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Coca-Cola Sem Açúcar 2L",
-    "price": 10.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 8%",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
     "name": "Mini Hot Dog Coreano Seara 245g",
     "price": 14.99
   },
@@ -81,16 +61,6 @@
   },
   {
     "store": "Irani",
-    "name": "Goma Mentos Pure Fresh C/28 56g Fresh Mint",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 18.89
-  },
-  {
-    "store": "Irani",
     "name": "Chia Sabores Do Campo 120g",
     "price": 7.99
   },
@@ -98,36 +68,6 @@
     "store": "Irani",
     "name": "- 9%",
     "price": 8.79
-  },
-  {
-    "store": "Irani",
-    "name": "Goma Mentos Pure Fresh C/2856g Up2u",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 18.89
-  },
-  {
-    "store": "Irani",
-    "name": "Goma Mentos Pure Fresh C/28 56g Morango",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 18.89
-  },
-  {
-    "store": "Irani",
-    "name": "Goma Mentos Pure Fresh C/28 56g Wintergreen",
-    "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 18.89
   },
   {
     "store": "Irani",
@@ -181,16 +121,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 6.99
-  },
-  {
-    "store": "Irani",
     "name": "Saponáceo Cremoso Cif 450ml Original",
     "price": 17.98
   },
@@ -198,26 +128,6 @@
     "store": "Irani",
     "name": "- 10%",
     "price": 19.98
-  },
-  {
-    "store": "Irani",
-    "name": "Café Caboclo 500g Vácuo Extra Forte",
-    "price": 19.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 5%",
-    "price": 20.9
-  },
-  {
-    "store": "Irani",
-    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
-    "price": 7.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 12%",
-    "price": 8.49
   },
   {
     "store": "Irani",
@@ -231,16 +141,6 @@
   },
   {
     "store": "Irani",
-    "name": "Salgadinho Cheetos 160g Super Cheddar",
-    "price": 11.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 14%",
-    "price": 13.99
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
@@ -248,16 +148,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Pão Caseirinho 450g Forma Integral",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 10%",
-    "price": 8.89
   },
   {
     "store": "Irani",
@@ -281,202 +171,172 @@
   },
   {
     "store": "Irani",
-    "name": "Biscoito Rosca Parati 250g Chocolate",
-    "price": 3.99
+    "name": "Condicionador Bio Extratus 250ml Tutano",
+    "price": 29.9
   },
   {
     "store": "Irani",
-    "name": "- 11%",
-    "price": 4.49
+    "name": "- 32%",
+    "price": 43.9
   },
   {
     "store": "Irani",
-    "name": "Refrigerante Fanta 200ml Pet Guaraná",
-    "price": 1.69
+    "name": "Schweppes 250ml Vidro Vodka Cítrus",
+    "price": 5.49
   },
   {
     "store": "Irani",
-    "name": "- 11%",
-    "price": 1.89
+    "name": "- 15%",
+    "price": 6.49
+  },
+  {
+    "store": "Irani",
+    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
+    "price": 26.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sh Bio Extratus 250ml+Mais Protecao",
+    "price": 38.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 48.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Bio Extratus 200g Corporal+Pitaya",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Sh Bio Extratus 250ml+Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Silicone Bio Extratus 250ml Tutano",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 55.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
+    "price": 58.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 78.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Ração P/Roedores e Coelhos Tiny 300g",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 350ml Força C/Pimenta",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 24%",
+    "price": 58.9
   },
   {
     "store": "Festval",
-    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
-    "price": 59.9
+    "name": "Peito de Frango Coopavel Congelado kg",
+    "price": 11.99
   },
   {
     "store": "Festval",
-    "name": "Açúcar Refinado Alto Alegre 5kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Arroz Parboilizado Sabor Sul 5kg",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Pepino em Conserva Geriba 300g",
-    "price": 9.98
-  },
-  {
-    "store": "Festval",
-    "name": "Nata Santa Clara 300g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lasanha Copacol Sabores 600g",
-    "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Café Caboclo Tipos a Vácuo 500g",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Manteiga Gran Mestri Com ou Sem Sal Pote 200g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Coxa Com Sobrecoxa Congelada Kg",
+    "name": "Maionese Hellmanns 500g Pote",
     "price": 8.99
   },
   {
     "store": "Festval",
-    "name": "Lava Roupas Girando Sol Líquido Fragrâncias 2l",
-    "price": 19.98
-  },
-  {
-    "store": "Festval",
-    "name": "Queijo Mussarela Lactobom 150g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Presunto Frimesa Cozido Fatiado 200g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 16.98
-  },
-  {
-    "store": "Festval",
-    "name": "Coxinha da Asa Copacol IQF 800g",
-    "price": 12.99
-  },
-  {
-    "store": "Festval",
-    "name": "Macarrão de Sêmola Galo, Pena, Parafuso ou Espaguete 500g",
-    "price": 4.49
-  },
-  {
-    "store": "Festval",
-    "name": "Leite Frimesa Zero Lactose TP 1L",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Batata McCain Airfryer Congelada 600g",
-    "price": 16.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bebida Láctea YoPRO Proteína 15g Sabores Danone 250ml",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Palmito Jandel Tolete em Conversa 300g",
-    "price": 18.98
-  },
-  {
-    "store": "Festval",
-    "name": "Cotonetes Johnson & Johnson 150 unidades",
-    "price": 10.9
-  },
-  {
-    "store": "Festval",
-    "name": "Shampoo Johnson's Baby Fragrâncias 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Ninho Composto Fases 1+ ou 3+ C/Prebio 800g",
-    "price": 39.9
-  },
-  {
-    "store": "Festval",
-    "name": "Toalhas Umedecidas Meu Bebê Caixa com 500 Unidades",
-    "price": 49.9
-  },
-  {
-    "store": "Festval",
-    "name": "Condicionador Johnson's Baby Regular 400ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Pampers Confortsec Fort Bag Tamanhos",
-    "price": 79.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Supreme Care Hiperzinha Tamanhos",
-    "price": 59.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda MamyPoko Cuidado Total Tamanhos",
-    "price": 89.9
-  },
-  {
-    "store": "Festval",
-    "name": "Toalhas Umedecidas Huggies Rosto e Corpo com 48 unidades",
-    "price": 7.9
-  },
-  {
-    "store": "Festval",
-    "name": "Salame Ceratti Italiano ou Hamburguês Fatiado 100g",
-    "price": 10.99
-  },
-  {
-    "store": "Festval",
-    "name": "Vinho Aurora Colheita Tardia Tipos 500ml",
-    "price": 19.9
-  },
-  {
-    "store": "Festval",
-    "name": "Filé Mignon Bovino Reserva Peça a Vácuo Kg",
-    "price": 119.9
-  },
-  {
-    "store": "Festval",
-    "name": "Geléia Polonesa Mamma Bia Sabores 410g",
-    "price": 17.9
-  },
-  {
-    "store": "Festval",
-    "name": "Cerveja Argentina Quilmes Clássica Long Neck 340ml",
-    "price": 6.29
-  },
-  {
-    "store": "Festval",
-    "name": "Café Baggio Sabores 250g",
+    "name": "Granola Jasmine Tipos 850g ou 1kg",
     "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Chá Alemão Krüger Sabores 400g",
-    "price": 15.9
+    "name": "Iogurte Danone Sabores 1.250 Kg",
+    "price": 14.99
   },
   {
     "store": "Festval",
-    "name": "Palmito Tolete Jandel 300g",
-    "price": 16.99
+    "name": "Posta Tilápia Copacol 800g",
+    "price": 18.9
+  },
+  {
+    "store": "Festval",
+    "name": "Mandioca Amarela Santa Mandioquinha Kg",
+    "price": 9.9
+  },
+  {
+    "store": "Festval",
+    "name": "Lava Roupas em Pó OMO Tipos 2kg",
+    "price": 18.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lombo / Panceta / Sobrepaleta Coopavel Temperado Congelado KG",
+    "price": 26.9
   }
 ]
