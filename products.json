@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Morango Bandeja 200g",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 10%",
+    "price": 9.98
+  },
+  {
+    "store": "Irani",
     "name": "Mini Hot Dog Coreano Seara 245g",
     "price": 14.99
   },
@@ -8,16 +18,6 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Papel Higiênico Mimmo 30m C/16 Folha Dupla",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 23%",
-    "price": 21.98
   },
   {
     "store": "Irani",
@@ -81,6 +81,16 @@
   },
   {
     "store": "Irani",
+    "name": "Batata Doce Roxa Kg",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Fio Dental Kess 100m 2001",
     "price": 7.99
   },
@@ -91,13 +101,13 @@
   },
   {
     "store": "Irani",
-    "name": "Detergente Líquido YPÊ 500ml Neutro",
-    "price": 2.19
+    "name": "Leite UHT Lider 1L Integral",
+    "price": 4.29
   },
   {
     "store": "Irani",
-    "name": "- 22%",
-    "price": 2.79
+    "name": "- 4%",
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -108,6 +118,16 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "Ovo Vermelho C/30 Carminatti",
+    "price": 12.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 7%",
+    "price": 13.99
   },
   {
     "store": "Irani",
@@ -141,23 +161,23 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 450g Tradicional",
-    "price": 4.99
+    "name": "Maçã Fuji Kg",
+    "price": 5.98
   },
   {
     "store": "Irani",
-    "name": "- 28%",
-    "price": 6.89
+    "name": "- 14%",
+    "price": 6.98
   },
   {
     "store": "Irani",
-    "name": "Farinha de Trigo Bonina 5kg",
-    "price": 17.99
+    "name": "Uva Crimson Ks Big 500g",
+    "price": 5.98
   },
   {
     "store": "Irani",
-    "name": "- 5%",
-    "price": 18.99
+    "name": "- 14%",
+    "price": 6.98
   },
   {
     "store": "Irani",
@@ -171,13 +191,33 @@
   },
   {
     "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.99
+    "name": "Alho Poró Unidade",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 33%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Chuchu Kg",
+    "price": 2.99
   },
   {
     "store": "Irani",
     "name": "- 25%",
-    "price": 7.99
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "Pepino Japones Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 4.99
   },
   {
     "store": "Irani",
@@ -208,16 +248,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
   },
   {
     "store": "Irani",
@@ -268,36 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sh Bio Extratus 250ml+Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
   },
   {
     "store": "Festval",
