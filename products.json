@@ -231,16 +231,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pão Caseirinho 450g Forma Integral",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 9%",
-    "price": 8.79
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Castanho Médio 40",
     "price": 26.9
   },
@@ -300,44 +290,14 @@
     "price": 34.9
   },
   {
-    "store": "Festval",
-    "name": "Peito de Frango Coopavel Congelado kg",
-    "price": 11.99
+    "store": "Irani",
+    "name": "Sh Bio Extratus 250ml+Blond",
+    "price": 36.9
   },
   {
-    "store": "Festval",
-    "name": "Maionese Hellmanns 500g Pote",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Granola Jasmine Tipos 850g ou 1kg",
-    "price": 29.9
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Danone Sabores 1.250 Kg",
-    "price": 14.99
-  },
-  {
-    "store": "Festval",
-    "name": "Posta Tilápia Copacol 800g",
-    "price": 18.9
-  },
-  {
-    "store": "Festval",
-    "name": "Mandioca Amarela Santa Mandioquinha Kg",
-    "price": 9.9
-  },
-  {
-    "store": "Festval",
-    "name": "Lava Roupas em Pó OMO Tipos 2kg",
-    "price": 18.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lombo / Panceta / Sobrepaleta Coopavel Temperado Congelado KG",
-    "price": 26.9
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
   },
   {
     "store": "Festval",
@@ -393,5 +353,55 @@
     "store": "Festval",
     "name": "Iogurte Elege Patrulha Canina Morango / Vitamina Bandeja 510g",
     "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Monalisa Kg",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Banana Prata Kg",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Melão Pingo de Mel Kg",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Morango Bandeja 250g",
+    "price": 8.99
+  },
+  {
+    "store": "Festval",
+    "name": "Abacaxi Pérola Unidade",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Lombo de Bacalhau Riberalves com Flor de Sal Congelado 1kg",
+    "price": 239.9
+  },
+  {
+    "store": "Festval",
+    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
+    "price": 13.98
+  },
+  {
+    "store": "Festval",
+    "name": "Coco Verde Autenticoco UN",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Rúcula Hidropônica Unidade",
+    "price": 3.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Sassami Coopavel Resfriado Kg",
+    "price": 16.99
   }
 ]
