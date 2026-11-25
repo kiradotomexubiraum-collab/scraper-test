@@ -61,6 +61,16 @@
   },
   {
     "store": "Irani",
+    "name": "Suco Tampico Plus 2l Frutas Citricas",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 18%",
+    "price": 10.99
+  },
+  {
+    "store": "Irani",
     "name": "Fio Dental Kess C/30 1998",
     "price": 7.99
   },
@@ -288,16 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sh Bio Extratus 250ml+Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
   },
   {
     "store": "Festval",
