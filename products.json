@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Salame Ceratti 100g Italiano",
+    "price": 13.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 7%",
+    "price": 14.99
+  },
+  {
+    "store": "Irani",
     "name": "Mini Hot Dog Coreano Seara 245g",
     "price": 14.99
   },
@@ -91,6 +101,16 @@
   },
   {
     "store": "Irani",
+    "name": "Farinha de Trigo Andre 5kg",
+    "price": 15.98
+  },
+  {
+    "store": "Irani",
+    "name": "- 6%",
+    "price": 16.98
+  },
+  {
+    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -131,6 +151,16 @@
   },
   {
     "store": "Irani",
+    "name": "Queijo Ralado Gran Mestri 40g Parmesão Zero",
+    "price": 4.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 17%",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
     "name": "Saponáceo Cremoso Cif 450ml Original",
     "price": 17.98
   },
@@ -151,6 +181,16 @@
   },
   {
     "store": "Irani",
+    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
@@ -168,6 +208,26 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
+  },
+  {
+    "store": "Irani",
+    "name": "Bebida à Base De Soja Ades 1l Uva",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 7.99
+  },
+  {
+    "store": "Irani",
+    "name": "Biscoito Rosca Parati 250g Chocolate",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 4.49
   },
   {
     "store": "Irani",
@@ -211,6 +271,16 @@
   },
   {
     "store": "Irani",
+    "name": "Achocolatado Nescau 350g Cilindro",
+    "price": 8.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 11%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
     "name": "Hidratante Bio Extratus 200g Corporal+Pitaya",
     "price": 24.9
   },
@@ -228,76 +298,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Silicone Bio Extratus 250ml Tutano",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 55.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
-    "price": 58.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Ração P/Roedores e Coelhos Tiny 300g",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 350ml Força C/Pimenta",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 24%",
-    "price": 58.9
   },
   {
     "store": "Festval",
