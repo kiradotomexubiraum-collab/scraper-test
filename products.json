@@ -101,16 +101,6 @@
   },
   {
     "store": "Irani",
-    "name": "Farinha de Trigo Andre 5kg",
-    "price": 15.98
-  },
-  {
-    "store": "Irani",
-    "name": "- 6%",
-    "price": 16.98
-  },
-  {
-    "store": "Irani",
     "name": "Petisco Frango Copacol Temp Congelado 1kg",
     "price": 16.99
   },
@@ -171,26 +161,6 @@
   },
   {
     "store": "Irani",
-    "name": "Pepino Japones Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 4.99
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades frutados 1l Abacaxi",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
@@ -208,16 +178,6 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Bebida à Base De Soja Ades 1l Uva",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 7.99
   },
   {
     "store": "Irani",
@@ -241,16 +201,6 @@
   },
   {
     "store": "Irani",
-    "name": "Schweppes 250ml Vidro Vodka Cítrus",
-    "price": 5.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 15%",
-    "price": 6.49
-  },
-  {
-    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
     "price": 26.9
   },
@@ -271,16 +221,6 @@
   },
   {
     "store": "Irani",
-    "name": "Achocolatado Nescau 350g Cilindro",
-    "price": 8.49
-  },
-  {
-    "store": "Irani",
-    "name": "- 11%",
-    "price": 9.49
-  },
-  {
-    "store": "Irani",
     "name": "Hidratante Bio Extratus 200g Corporal+Pitaya",
     "price": 24.9
   },
@@ -298,6 +238,66 @@
     "store": "Irani",
     "name": "- 29%",
     "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
+    "price": 24.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 34.9
+  },
+  {
+    "store": "Irani",
+    "name": "Condicionador Bio Extratus 250ml Blond",
+    "price": 36.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 29%",
+    "price": 51.9
+  },
+  {
+    "store": "Irani",
+    "name": "Creme Silicone Bio Extratus 250ml Tutano",
+    "price": 44.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 55.9
+  },
+  {
+    "store": "Irani",
+    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
+    "price": 58.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 78.9
+  },
+  {
+    "store": "Irani",
+    "name": "Banho de Creme Bio Extratus 250g Tutano",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 30%",
+    "price": 42.9
+  },
+  {
+    "store": "Irani",
+    "name": "Ração P/Roedores e Coelhos Tiny 300g",
+    "price": 29.9
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 39.9
   },
   {
     "store": "Festval",
@@ -356,56 +356,6 @@
   },
   {
     "store": "Festval",
-    "name": "Batata Monalisa Kg",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Banana Prata Kg",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Melão Pingo de Mel Kg",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Morango Bandeja 250g",
-    "price": 8.99
-  },
-  {
-    "store": "Festval",
-    "name": "Abacaxi Pérola Unidade",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Lombo de Bacalhau Riberalves com Flor de Sal Congelado 1kg",
-    "price": 239.9
-  },
-  {
-    "store": "Festval",
-    "name": "Ovos Vermelhos Happy Eggs com 20 Unidades",
-    "price": 13.98
-  },
-  {
-    "store": "Festval",
-    "name": "Coco Verde Autenticoco UN",
-    "price": 6.99
-  },
-  {
-    "store": "Festval",
-    "name": "Rúcula Hidropônica Unidade",
-    "price": 3.99
-  },
-  {
-    "store": "Festval",
-    "name": "Filé de Sassami Coopavel Resfriado Kg",
-    "price": 16.99
-  },
-  {
-    "store": "Festval",
     "name": "Asti Italiana Costa Bricco 750ml",
     "price": 49.0
   },
@@ -443,5 +393,100 @@
     "store": "Festval",
     "name": "Vinho Italiano Marchesi Di Barolo Tradizione 750ml",
     "price": 399.0
+  },
+  {
+    "store": "Festval",
+    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
+    "price": 2.99
+  },
+  {
+    "store": "Festval",
+    "name": "Pêssego Nacional Kg",
+    "price": 6.99
+  },
+  {
+    "store": "Festval",
+    "name": "Filé de Tilápia CVale IQF 800g",
+    "price": 31.9
+  },
+  {
+    "store": "Festval",
+    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
+    "price": 99.0
+  },
+  {
+    "store": "Festval",
+    "name": "Batata Palito Copacol Congelada 2kg",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Pão de Queijo Festval Congelado 1Kg",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Cápsulas 3 Corações 10 unidades",
+    "price": 12.49
+  },
+  {
+    "store": "Festval",
+    "name": "Creme de Ricota Tirolez Tradicional ou Light 200g",
+    "price": 5.99
+  },
+  {
+    "store": "Festval",
+    "name": "Iogurte Frimesa Copo Sabores 165g",
+    "price": 1.99
+  },
+  {
+    "store": "Festval",
+    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
+    "price": 18.9
+  },
+  {
+    "store": "Festval",
+    "name": "Bebida Láctea 3 Corações Power Whey 15g de Proteínas Sabores TP 250ml",
+    "price": 4.99
+  },
+  {
+    "store": "Festval",
+    "name": "Uva Verde Bandeja 500g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Moscatel Garibaldi Tipos 750ml",
+    "price": 21.9
+  },
+  {
+    "store": "Festval",
+    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1L",
+    "price": 12.9
+  },
+  {
+    "store": "Festval",
+    "name": "Fralda Huggies Máxima Proteção Hiperzinha Tamanhos",
+    "price": 59.9
+  },
+  {
+    "store": "Festval",
+    "name": "Cerveja Original Lata 269ML",
+    "price": 2.29
+  },
+  {
+    "store": "Festval",
+    "name": "Cereja KSBIG 250g",
+    "price": 7.99
+  },
+  {
+    "store": "Festval",
+    "name": "Esfiha Turca Videira Foods Sabores 250g",
+    "price": 11.9
   }
 ]
