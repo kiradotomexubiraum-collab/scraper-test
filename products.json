@@ -1,6 +1,16 @@
 [
   {
     "store": "Irani",
+    "name": "Morango Bandeja 200g",
+    "price": 8.59
+  },
+  {
+    "store": "Irani",
+    "name": "- 14%",
+    "price": 9.99
+  },
+  {
+    "store": "Irani",
     "name": "Salame Ceratti 100g Italiano",
     "price": 13.99
   },
@@ -18,6 +28,16 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 15.99
+  },
+  {
+    "store": "Irani",
+    "name": "Wafer Bis Lacta C/16 100,8g Ao Leite",
+    "price": 5.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 12%",
+    "price": 6.79
   },
   {
     "store": "Irani",
@@ -81,6 +101,16 @@
   },
   {
     "store": "Irani",
+    "name": "Cerveja Estrella Galicia Lata 350ml Unidade",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Chia Sabores Do Campo 120g",
     "price": 7.99
   },
@@ -131,6 +161,36 @@
   },
   {
     "store": "Irani",
+    "name": "Refrigerante Schweppes 350ml Água Tônica Zero",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Schweppes 350ml Água Tônica",
+    "price": 2.39
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "Papel Higiênico Mili 20m C/12 Tripla Soft Air",
+    "price": 17.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 22%",
+    "price": 22.99
+  },
+  {
+    "store": "Irani",
     "name": "Sabonete Hidratante Biocrema 90g Hidratante",
     "price": 3.48
   },
@@ -161,6 +221,26 @@
   },
   {
     "store": "Irani",
+    "name": "Refrigerante Fanta Guaraná 2L Guaraná",
+    "price": 6.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 22%",
+    "price": 8.99
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 350ml Guaraná",
+    "price": 2.26
+  },
+  {
+    "store": "Irani",
+    "name": "- 31%",
+    "price": 3.26
+  },
+  {
+    "store": "Irani",
     "name": "Tintura Bio Extratus s/Amônia 135g Preto 10",
     "price": 26.9
   },
@@ -181,6 +261,26 @@
   },
   {
     "store": "Irani",
+    "name": "Suco Kapo 200ml Laranja",
+    "price": 1.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 20%",
+    "price": 2.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Coca-Cola Sem Açúcar 350ml",
+    "price": 3.29
+  },
+  {
+    "store": "Irani",
+    "name": "- 18%",
+    "price": 3.99
+  },
+  {
+    "store": "Irani",
     "name": "Biscoito Rosca Parati 250g Chocolate",
     "price": 3.99
   },
@@ -191,113 +291,13 @@
   },
   {
     "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Tutano",
-    "price": 29.9
+    "name": "Refrigerante Fanta 200ml Pet Guaraná",
+    "price": 1.49
   },
   {
     "store": "Irani",
-    "name": "- 32%",
-    "price": 43.9
-  },
-  {
-    "store": "Irani",
-    "name": "Tintura Bio Extratus s/Amônia 135g Louro Escuro 60",
-    "price": 26.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 37.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sh Bio Extratus 250ml+Mais Protecao",
-    "price": 38.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 48.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Bio Extratus 200g Corporal+Pitaya",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Sh Bio Extratus 250ml+Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Hidratante Corporal Bio Extratus 200g Corporal Camelina",
-    "price": 24.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 34.9
-  },
-  {
-    "store": "Irani",
-    "name": "Condicionador Bio Extratus 250ml Blond",
-    "price": 36.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 29%",
-    "price": 51.9
-  },
-  {
-    "store": "Irani",
-    "name": "Creme Silicone Bio Extratus 250ml Tutano",
-    "price": 44.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 20%",
-    "price": 55.9
-  },
-  {
-    "store": "Irani",
-    "name": "Be Use Bio Extratus 210ml Spray Reconstrutor",
-    "price": 58.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 78.9
-  },
-  {
-    "store": "Irani",
-    "name": "Banho de Creme Bio Extratus 250g Tutano",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 30%",
-    "price": 42.9
-  },
-  {
-    "store": "Irani",
-    "name": "Ração P/Roedores e Coelhos Tiny 300g",
-    "price": 29.9
-  },
-  {
-    "store": "Irani",
-    "name": "- 25%",
-    "price": 39.9
+    "name": "- 12%",
+    "price": 1.69
   },
   {
     "store": "Festval",
