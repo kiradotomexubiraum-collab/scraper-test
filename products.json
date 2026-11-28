@@ -1,16 +1,6 @@
 [
   {
     "store": "Irani",
-    "name": "Morango Bandeja 200g",
-    "price": 8.59
-  },
-  {
-    "store": "Irani",
-    "name": "- 14%",
-    "price": 9.99
-  },
-  {
-    "store": "Irani",
     "name": "Salame Ceratti 100g Italiano",
     "price": 13.99
   },
@@ -28,16 +18,6 @@
     "store": "Irani",
     "name": "- 6%",
     "price": 15.99
-  },
-  {
-    "store": "Irani",
-    "name": "Wafer Bis Lacta C/16 100,8g Ao Leite",
-    "price": 5.99
-  },
-  {
-    "store": "Irani",
-    "name": "- 12%",
-    "price": 6.79
   },
   {
     "store": "Irani",
@@ -300,6 +280,26 @@
     "price": 1.69
   },
   {
+    "store": "Irani",
+    "name": "Refrigerante Fanta 2l Laranja",
+    "price": 7.49
+  },
+  {
+    "store": "Irani",
+    "name": "- 21%",
+    "price": 9.49
+  },
+  {
+    "store": "Irani",
+    "name": "Refrigerante Sprite 350ml Sem Açúcar",
+    "price": 2.99
+  },
+  {
+    "store": "Irani",
+    "name": "- 25%",
+    "price": 3.99
+  },
+  {
     "store": "Festval",
     "name": "Café Itamaraty Tradicional 500g",
     "price": 19.9
@@ -396,97 +396,82 @@
   },
   {
     "store": "Festval",
-    "name": "Macarrão Com Ovos Todeschini (Pena/Parafuso/Spaghettini) 500g",
-    "price": 2.99
+    "name": "Linguiça Toscana Frimesa Kg",
+    "price": 12.09
   },
   {
     "store": "Festval",
-    "name": "Pêssego Nacional Kg",
-    "price": 6.99
+    "name": "Passata italiana Mamma Bia 690g",
+    "price": 8.9
   },
   {
     "store": "Festval",
-    "name": "Filé de Tilápia CVale IQF 800g",
-    "price": 31.9
+    "name": "Carpaccio Cavgut Fatiado Congelado 220g",
+    "price": 29.9
   },
   {
     "store": "Festval",
-    "name": "Vinho Italiano Asio Otus Tipos 750ml - Leve 3 Pague 2 - Kit Pronto",
-    "price": 99.0
+    "name": "Cerveja Heineken Lata 269ml - Leve 8 Pague 6 Monte seu Kit",
+    "price": 29.94
   },
   {
     "store": "Festval",
-    "name": "Batata Palito Copacol Congelada 2kg",
+    "name": "Pizza Oliva Forneria Sabores Unidade",
+    "price": 24.9
+  },
+  {
+    "store": "Festval",
+    "name": "Café Gourmet L'or (Último / Delicado/ Equilíbrio / Intenso) 250g",
     "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Pão de Queijo Festval Congelado 1Kg",
-    "price": 19.98
+    "name": "Lasanha Giovanni Rana Sabores Resfriada 350g",
+    "price": 19.9
   },
   {
     "store": "Festval",
-    "name": "Cápsulas 3 Corações 10 unidades",
-    "price": 12.49
-  },
-  {
-    "store": "Festval",
-    "name": "Creme de Ricota Tirolez Tradicional ou Light 200g",
-    "price": 5.99
-  },
-  {
-    "store": "Festval",
-    "name": "Iogurte Frimesa Copo Sabores 165g",
-    "price": 1.99
-  },
-  {
-    "store": "Festval",
-    "name": "Papel Higiênico Mili Com 18 Rolos 20m Ou 30m",
-    "price": 18.9
-  },
-  {
-    "store": "Festval",
-    "name": "Bebida Láctea 3 Corações Power Whey 15g de Proteínas Sabores TP 250ml",
-    "price": 4.99
-  },
-  {
-    "store": "Festval",
-    "name": "Uva Verde Bandeja 500g",
-    "price": 7.99
-  },
-  {
-    "store": "Festval",
-    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
-    "price": 45.9
-  },
-  {
-    "store": "Festval",
-    "name": "Moscatel Garibaldi Tipos 750ml",
-    "price": 21.9
-  },
-  {
-    "store": "Festval",
-    "name": "Amaciante Concentrado Girando Sol Fragrâncias 1L",
-    "price": 12.9
-  },
-  {
-    "store": "Festval",
-    "name": "Fralda Huggies Máxima Proteção Hiperzinha Tamanhos",
+    "name": "Alcatra Bovina Reserva Pedaço Resfriada KG",
     "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Cerveja Original Lata 269ML",
-    "price": 2.29
+    "name": "Fraldinha Bovina Reserva Peça a Vácuo KG",
+    "price": 59.9
   },
   {
     "store": "Festval",
-    "name": "Cereja KSBIG 250g",
-    "price": 7.99
+    "name": "Peito de Frango Coopavel Congelado kg",
+    "price": 11.99
   },
   {
     "store": "Festval",
-    "name": "Esfiha Turca Videira Foods Sabores 250g",
-    "price": 11.9
+    "name": "Corte Americano Bovino Padrão Beef Peça A Vácuo KG",
+    "price": 45.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Mignon Bovino Reserva Peça Vácuo Kg",
+    "price": 99.9
+  },
+  {
+    "store": "Festval",
+    "name": "Meio da Asa de Frango Copacol IQF 800g",
+    "price": 19.9
+  },
+  {
+    "store": "Festval",
+    "name": "Filé Sete Bovino Padrão Beef KG",
+    "price": 39.9
+  },
+  {
+    "store": "Festval",
+    "name": "Costela Suína com Pele e Osso Coopavel kg",
+    "price": 19.98
+  },
+  {
+    "store": "Festval",
+    "name": "Bife Ancho Bovino Maturatta Peça A Vácuo Kg",
+    "price": 49.9
   }
 ]
